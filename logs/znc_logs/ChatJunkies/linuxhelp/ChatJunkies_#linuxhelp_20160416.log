@@ -1,0 +1,90 @@
+[00:00:11] <LionsMane> That is good to hear.  Let's chat Monday, OK?
+[00:01:23] <grape> sure
+[00:01:26] <grape> have a nice weekend!
+[00:01:36] <grape> and sorry I was not really chatty today
+[00:02:40] <LionsMane> No worries.  I understand there are chatty days and not so chatty days.  Its good
+[00:02:41] <LionsMane> Later
+[00:02:43] *** Quits: LionsMane (~don@CJ-ifj.kbt.9.173.IP) (Quit: Leaving.)
+[00:09:18] <lowkey> US Anti-Encryption Law Is So 'Braindead' It Will Outlaw File Compression 
+[00:09:41] <lowkey> "The person who wrote this either has no idea how technology works or just doesn't care." Schneier says cryptographic code will be affected by this legislation, as well as "lossy compression algorithms" that are used to reduce the size of images for sending through email, which won't work in reverse and add back the data removed. Files that can't be decrypted on demand to their original state, and files 
+[00:09:47] <lowkey> that can't be decompressed back to their exact originals, all look the same to this draft now. He said even deleted data could be covered in this legislation.
+[00:13:18] <grape> wb lowkey 
+[00:14:17] <grape> lossy compression algorithms?? I always thought that is a bit of a joke?
+[00:14:56] <lowkey> nope
+[00:15:10] <lowkey> commonly used for things like emailing photos
+[00:15:30] <lowkey> who cares if you lose a little detail as long as the file is smaller
+[00:16:00] <lowkey> lots of music is also lossy compressed.
+[00:16:08] <lowkey> compare MP3 size to FlAC
+[00:16:56] <grape> ok
+[00:17:02] <lowkey> http://coppertino.com/vox/resources/flac_vs_mp3
+[00:17:29] <lowkey> all those things would become illegal
+[00:17:44] <grape> and quite rightly so!
+[00:17:48] <lowkey> well not all
+[00:17:52] <lowkey> flac would be legal
+[00:17:54] <grape> you must not delete files!
+[00:17:58] <lowkey> mp3 would be illegal
+[00:18:11] <grape> you must keep any version you ever generated!
+[00:18:13] <grape> :D
+[00:18:27] <lowkey> well you could delete the file as long as a copy was saved somewhere that could be restored
+[00:18:29] <grape> mp3 is from the Frauenhofer Institute... if I am not mistaken
+[00:19:07] <lowkey> I dunno.  could be
+[00:19:21] <grape> yeah.. like this joke where the boss tells the secretary to get rid off these 10 year old lever folderd.. but please make a copy of the content before you discard it
+[00:19:36] <lowkey> exactly
+[00:20:36] <lowkey> within 24hrs of this bill being posted, there were 43,000 signatures on a petition to have it removed
+[00:21:09] <lowkey> https://yro.slashdot.org/story/16/04/15/2029213/us-anti-encryption-law-is-so-braindead-it-will-outlaw-file-compression
+[00:22:11] <grape> is tiff not compressed as well? 
+[00:22:48] <lowkey> I dont know for sure but I believe it is
+[00:23:11] <grape> I think there is an option you can set
+[00:23:40] <lowkey> one point I saw is that hashes (like used to store passwords) would become illegal because it is impossible to reverse a hash into the input string
+[00:24:01] <lowkey> basically all one-way functions would become illegal.
+[00:24:12] <grape> yes.. get rid of passwords
+[00:24:18] <grape> make everything public
+[00:24:28] <lowkey> and maybe much of math
+[00:24:31] <grape> ban any clothing! you might hide something!
+[00:24:52] <lowkey> because 5+3=8 but its impossible to take 8 and for sure show that it was 5+3
+[00:24:54] <grape> walk naked! only the naked body shows you got nothing to hide
+[00:25:10] <grape> wrong... it is 4+4
+[00:25:25] <lowkey> in prisons, men hide things in their cavities!
+[00:25:33] <lowkey> cavity searchs for all!
+[00:26:29] <grape> ok... I think I stop being sarcastic here... before somebody thinks: hey, that is a good idea!
+[00:27:33] <lowkey> I think the police should give everyone a prostate exam every 100 meters.  after all you can never be too safe.
+[00:28:16] <grape> but not in north carolina!
+[00:28:43] <lowkey> nope.  might be considered gay there and that would violate other laws
+[00:29:54] <grape> anyhow... 
+[00:30:06] <grape> did you manage to get your windows problem sorted?
+[00:30:26] <lowkey> it appears to be sorted.  at least it didn't come back today
+[00:31:36] <lowkey> every day I more convince that the politicians elected in this country are having a contest to see who can be the stupidest
+[00:31:55] <grape> I am not disputing this
+[00:32:52] <lowkey> and its not like the 5 that are currently running for president would be an improvement
+[00:33:35] <grape> what is wrong with trump?
+[00:33:49] <grape> he seems to be a nice chap
+[00:33:51] <grape> :D
+[00:34:01] <lowkey> well I believe he has a sub-room-temp IQ
+[00:34:22] <lowkey> and he's going to start at least one trade war
+[00:35:10] <grape> well... he is a millionar or so... so there is at least something he does quite well
+[00:35:51] <lowkey> if he invested what he was first given as a young man in typical funds, he would be worth almost 2x what he is now
+[00:36:11] <lowkey> so he's really not that smart a businessman
+[00:36:37] <lowkey> and thats the leading candidate for one party
+[00:37:05] <lowkey> for the other party, the leading candidate has a few ethical and legal issues.
+[00:37:31] <grape> so trump came from a rich background?
+[00:38:34] <lowkey> yep.  depending on which story you believe he was given between $1M and $200M from his father when he started out.
+[00:40:07] <grape> ok
+[00:47:37] <lowkey> it just amazes me that in a country of 330million that these are the best candidates they can find
+[00:48:20] <lowkey> now it shouldn't be that surprising, because as an anarchist I believe that any person elected will probably do more harm than good
+[00:48:37] <lowkey> but some how it always is shocking 
+[00:49:05] <grape> you are not alone here...
+[00:49:12] <grape> anyhow... I am off... tired..
+[00:49:17] <grape> it was late for me last night
+[00:49:22] <grape> sheep well :D
+[00:49:23] <grape> ttfn
+[00:49:27] <lowkey> it is late there.  better get some rest for tomorrow
+[00:49:33] <lowkey> sleep well!
+[00:49:40] <lowkey> g'nite grape
+[00:50:19] <grape> ttfn
+[00:50:20] *** Quits: grape (~grape@CJ-tf3.bbc.216.2.IP) (Quit: Verlassend)
+[00:50:33] <lowkey> g'nite all
+[00:50:36] *** Quits: lowkey (~lowkey@CJ-o4a.mct.61.213.IP) (Quit: leaving)
+[19:15:44] *** Quits: banshee (~ban@CJ-d4n.9vj.15.70.IP) (Ping timeout: 121 seconds)
+[21:02:55] *** Joins: lowkey (~lowkey@CJ-gen.mj1.100.185.IP)
+[21:03:07] <lowkey> boing
+[23:21:09] *** Joins: banshee (~ban@CJ-d4n.9vj.15.70.IP)

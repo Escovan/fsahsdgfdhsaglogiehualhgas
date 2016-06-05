@@ -1,0 +1,177 @@
+[00:00:02] <AcidJell0> oook
+[00:00:04] <AcidJell0> f*ers
+[00:00:11] <AcidJell0> i guess its maintenance time at 6pm
+[00:00:22] <AcidJell0> cuz my vpn keeps getting disconnected
+[00:01:08] <lowkey> 6PM?  its probably the surge of people getting home from work and connecting to p0rn
+[00:01:17] <grape> LOL
+[00:01:30] <grape> lowkey: more apples I guess... to answer your question
+[00:01:50] <lowkey> grape: yes. more apples.
+[00:01:58] <AcidJell0> lol
+[00:02:23] <AcidJell0> man i didnt know there is a raspberry pi 0
+[00:02:27] <AcidJell0> that is sooo cool
+[00:02:37] <AcidJell0> i need toget more pies in my diet
+[00:03:14] <grape> AcidJell0: you really did not know about the Pi???
+[00:03:25] <AcidJell0> the pi 0
+[00:04:01] <AcidJell0> smaller form factor
+[00:04:04] <AcidJell0> doesnt stick out
+[00:04:06] <AcidJell0> its flat
+[00:04:15] <grape> lowkey: I had a nice experience last night... I was chatting to Steven... when my HoD walked over... and I asked my HoD: by the way, do you know Steven? to which he replied: no... so I introduced my Head of Department to the former head of Council :-)
+[00:04:33] <lowkey> lol
+[00:05:12] <AcidJell0> hes not gonna like you :)
+[00:05:21] <grape> who?
+[00:05:41] <AcidJell0> the hod dude
+[00:06:34] <AcidJell0> im assuming the HoC dude is above his head
+[00:06:36] <frzone> have you guys tried to make mesh networks with rasberrys?
+[00:06:41] <AcidJell0> altho i guess i missed the former part
+[00:07:01] <AcidJell0> no, but i tried smoothies once :)
+[00:07:03] <frzone> i mean rapsberrys
+[00:07:15] <AcidJell0> ... ok dont judge, its friday 
+[00:07:16] <frzone> raspberrys
+[00:07:23] <frzone> lol
+[00:07:26] <AcidJell0> im excited about which type of beer to buy :)
+[00:07:45] <lowkey> I haven't played with mesh networking but it seems cool
+[00:08:27] <AcidJell0> ok im out
+[00:08:29] <AcidJell0> beeroclock
+[00:09:04] <frzone> lol have a good daynight
+[00:10:03] <frzone> me neither
+[00:10:22] <grape> AcidJell0: HoC is right at the top... ;-)
+[00:10:56] <grape> AcidJell0: raspberrie beer of course!
+[00:11:13] <grape> what are mesh networks?
+[00:11:52] <lowkey> dynamic networks
+[00:11:56] <frzone> a kind of network topology where every device is a relay
+[00:12:01] <lowkey> https://en.wikipedia.org/wiki/Mesh_networking
+[00:12:32] <lowkey> so if anyone in the network can gateway to the outside then all can
+[00:16:20] <lowkey> 'git blame' maybe my favorite command ever!
+[00:18:34] <grape> need to read that first
+[00:20:08] <frzone> why is your favorite?
+[00:21:00] <lowkey> is there anything better than figuring out which fool made a change before you rant about it?   (it could be you and it would best to shut up)
+[00:24:40] <frzone> lol
+[00:33:03] <lowkey> and for the record, on the git installs I commonly use the fool to blame is far too commonly me
+[00:42:35] <frzone> maybe we should buy pizza
+[00:43:21] <grape> frzone: you pay?
+[00:45:06] <frzone> no we divide the costs
+[00:45:09] <frzone> lol
+[00:45:31] <lowkey> nope.   he who has the idea pays
+[00:45:35] <frzone> & beer
+[00:45:44] <frzone> lol
+[00:46:00] <frzone> i could
+[00:46:02] <frzone> but
+[00:47:06] <frzone> i need to save
+[00:47:16] <lowkey> too late.
+[00:47:27] <frzone> oh nopes
+[00:47:31] <frzone> i will have to sell something
+[00:47:36] <frzone> or steal
+[00:47:41] <frzone> and then sell
+[00:47:44] <lowkey> steal a bunch.
+[00:48:02] <lowkey> I live in colorado, so its pizza, beer and legal weed
+[00:48:08] <frzone> or maybe directly steal the pizza from the guy
+[00:48:19] <frzone> legal weed so you can grow?
+[00:48:24] <frzone> pizzas and weed?
+[00:48:39] <frzone> damn
+[00:48:45] <lowkey> I'm too lazy to grow when its just so easy to buy these days
+[00:48:54] <frzone> haha im understand
+[00:49:00] <frzone> but i could save you money
+[00:49:15] <frzone> i*, it*
+[00:49:27] <lowkey> i dont smoke enough to save money by growing.
+[00:49:37] <frzone> okay
+[00:49:58] <lowkey> the funny thing is back when it was illegal, I smoked all the time
+[00:50:10] <lowkey> but now that its legal...is boring.
+[00:50:26] <frzone> well i think it depends on the time you have smoking since the 1st
+[00:50:56] <frzone> but idn
+[00:51:00] <frzone> idk
+[00:51:20] <frzone> can you grow and sell?
+[00:51:50] <frzone> or maybe do butter
+[00:51:58] <lowkey> yes but it takes some licensing to do so
+[00:52:06] <frzone> okay
+[00:52:12] <lowkey> and it seems like they want more and more testing with time
+[00:52:23] <frzone> what you mena by testing?
+[00:52:27] <frzone> mean*
+[00:52:32] <lowkey> which is good for the consumer, so they know its a quality product
+[00:52:38] <frzone> ok
+[00:52:46] <frzone> what they test?
+[00:52:46] <lowkey> test for what fertilizers used, chemicals, etc.
+[00:53:22] <frzone> good
+[00:53:27] <lowkey> its kind of like many other products.
+[00:53:37] <lowkey> they test for basic consumer safety issues
+[00:53:37] <frzone> it seems like
+[00:54:58] <frzone> that is why i want to grow, to consume a chemical free thing, but i cant grow at the moment
+[00:55:47] <lowkey> with time more states should go the route of decriminalization for recreational use
+[00:56:19] <lowkey> its lots of tax money for the state and it takes a big chunk out of the war on drugs required spending
+[00:56:43] <frzone> it would be cool to study the plant and the chemicals
+[00:57:16] <lowkey> I just saw an interesting show about the use of marijuana concentrates to fight certain cancers
+[00:57:34] <lowkey> the small studies they've done seem to have positive results
+[00:59:19] <lowkey> and there are 24 states now that allow for medicinal marijuana, so that only has a few left to go before it should have national support for changing those laws
+[00:59:39] <frzone> i have read and seen these kind of properties
+[00:59:58] <frzone> it would be good for the economy
+[01:00:09] <frzone> and health
+[01:00:16] <frzone> and mental health
+[01:00:26] <lowkey> it takes all that money out of the black markets and makes it taxable.
+[01:00:56] <lowkey> so it reduces crime and brings in money.  its win-win for the state.
+[01:01:26] <lowkey> the problem is some people let their fear of what they dont know be the focus of their voting priorities
+[01:01:36] <frzone> NO we should stop it the black market needs more moneys
+[01:02:28] <lowkey> black markets are just a natural response to state laws that try to prevent the people from getting what they want
+[01:03:25] <frzone> yeah
+[01:03:34] <frzone> a new perspective
+[01:03:56] <frzone> lsd is also a worth sustance of research
+[01:04:02] <frzone> dmt mdma
+[01:04:07] <frzone> ibogaine
+[01:04:12] <frzone> peyote
+[01:04:20] <grape> I am off
+[01:04:25] <grape> ttfn
+[01:04:37] <frzone> good luck
+[01:04:49] <lowkey> plus black markets can be dangerous.  look at the heroin overdoses currently.  many of them aren't due to the heroin itself but rather due to the fetanyl (sp?) that the heroin is laced with to give a better high
+[01:04:50] <LionsMane> nite, grape
+[01:04:58] <lowkey> laters grape
+[01:05:02] <lowkey> sleep well!
+[01:05:17] <frzone> juicy grape
+[01:05:44] <lowkey> if heroin were decriminalized then people could be informed of the purity of what they were buying and it would be somewhat safer
+[01:06:34] <frzone> yeah like in sweden or idk where people can get clean tools for the shot
+[01:06:46] <frzone> and a safe place to do it
+[01:06:48] <frzone> also reduces crime
+[01:06:54] * LionsMane agrees
+[01:06:56] <lowkey> or Portugal that has decriminalized almost everything
+[01:07:20] <lowkey> the war on drugs is a failure.  we should admit that and move on
+[01:08:38] <frzone> well i think its obviously a failure but maybe the actors of all of that are profiting in some way
+[01:09:23] <lowkey> of course.  both sides profit.   the drugs are worth more when illegal so that's good for the dealers
+[01:09:47] <LionsMane> That's the thing, it might not be a legal business, but it is a profitable business, or it couldn't exist.
+[01:09:48] <lowkey> and those who want to prevent their use, get to take a big chunk of the tax proceeds to fight the war\
+[01:10:10] <LionsMane> There is no "government sponsored bailouts" of the drug cartels.
+[01:10:10] <lowkey> LionsMane: very true.
+[01:11:51] <grape> night LionsMane 
+[01:11:54] <grape> night lowkey 
+[01:11:59] <grape> night frzone 
+[01:12:01] *** Quits: grape (~grape@CJ-3k1.8q0.194.90.IP) (Quit: Verlassend)
+[01:14:07] <lowkey> its like alcohol.  it works as either a legal or illegal market.  one of which is violent.  choose the one you want.
+[01:17:10] <frzone> i wonder what would alcapone say
+[01:17:28] <lowkey> keep it illegal.
+[01:18:20] <frzone> he would come with a keep calm and keep it illegal tshirt
+[01:18:39] <frzone> or he would kill me aftr reading the previous msg
+[01:19:33] <lowkey> or both
+[01:19:53] <frzone> dindt see that coming x)
+[01:23:32] <lowkey> ok, almost time for dinner. 
+[01:23:46] <lowkey> I better be going.....have a good night all
+[01:23:57] <lowkey> nite frzone 
+[01:24:02] <lowkey> nite LionsMane 
+[01:24:06] <lowkey> nite AcidJell0 
+[01:24:24] *** Quits: lowkey (~lowkey@CJ-k4d.8o2.130.158.IP) (Quit: leaving)
+[01:25:34] <frzone> Have a good night and dinner lowkey :)
+[01:43:17] <LionsMane> G'night all.  I am heading off, too.
+[01:44:51] <frzone> im going too, good night LionsMane good night everyone have all a pleasing night
+[01:44:54] *** Quits: frzone (~frzone@CJ-seg.3bs.248.85.IP) (Client exited)
+[01:45:47] *** Quits: LionsMane (~don@CJ-ifj.kbt.9.173.IP) (Quit: Leaving.)
+[07:05:06] *** Quits: Emmanuel_Chanel (~emmanuel@CJ-dq9.p1k.10.222.IP) (Connection closed)
+[08:41:45] *** Joins: Emmanuel_Chanel (~emmanuel@CJ-dq9.p1k.10.222.IP)
+[09:43:47] *** Quits: Emmanuel_Chanel (~emmanuel@CJ-dq9.p1k.10.222.IP) (Connection closed)
+[11:25:09] *** Joins: Shammah (~Shammah@CJ-ah4.piv.47.151.IP)
+[11:25:57] <Shammah> hello
+[11:34:36] *** Quits: Shammah (~Shammah@CJ-ah4.piv.47.151.IP) (Quit: Sto andando via)
+[12:08:47] *** Joins: Emmanuel_Chanel (~emmanuel@CJ-dq9.p1k.10.222.IP)
+[13:40:00] *** Quits: Emmanuel_Chanel (~emmanuel@CJ-dq9.p1k.10.222.IP) (Ping timeout: 121 seconds)
+[13:53:47] *** Joins: Emmanuel_Chanel (~emmanuel@CJ-v2i.dup.10.222.IP)
+[13:55:09] *** Joins: Emmanuel_Chanel_ (~emmanuel@CJ-tfc.j83.10.222.IP)
+[13:58:06] *** Quits: Emmanuel_Chanel (~emmanuel@CJ-v2i.dup.10.222.IP) (Ping timeout: 121 seconds)
+[14:03:56] *** Emmanuel_Chanel_ is now known as Emmanuel_Chanel
+[20:13:13] *** Joins: lowkey (~lowkey@CJ-1tf.qhd.142.94.IP)
+[20:13:36] <lowkey> hi all
+[20:30:09] *** Quits: lowkey (~lowkey@CJ-1tf.qhd.142.94.IP) (Quit: leaving)
+[22:38:31] *** Quits: Emmanuel_Chanel (~emmanuel@CJ-tfc.j83.10.222.IP) (Ping timeout: 121 seconds)

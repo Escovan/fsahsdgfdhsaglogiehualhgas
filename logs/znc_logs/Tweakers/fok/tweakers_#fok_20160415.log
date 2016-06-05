@@ -1,0 +1,812 @@
+[00:09:28] *** Quits: Fiebel (PrincessCo@d77048.upc-d.chello.nl) (Exit)
+[00:29:41] *** Quits: SCHAPiE (dorian@dhcp-077-249-247-124.chello.nl) (Exit)
+[00:34:25] *** Quits: BD (ok@ftth-083-247-022-153.solcon.nl) (Exit)
+[00:36:38] *** Quits: Andros (Andros@248.151-244-81.adsl-dyn.isp.belgacom.be) (Ping timeout: 60 seconds)
+[00:51:31] *** Quits: Vipertje (tweak@54182E79.cm-5-1a.dynamic.ziggo.nl) (Connection reset by peer)
+[01:09:00] *** Quits: coreblink (coreblink@145.132.131.160) (Exit)
+[01:17:08] <milkshake> oh was fiebel er maar
+[01:18:53] *** Quits: mrwazoo (mrwazoo@h102136.upc-h.chello.nl) (Exit)
+[01:40:28] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 66 seconds)
+[01:58:01] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[01:58:05] *** Quits: Guyver2 (Guyver2@guyver2.xs4all.nl) (Exit)
+[02:23:39] *** Joins: Wasbak (Mibbit@a36213.upc-a.chello.nl)
+[02:24:04] <Wasbak> Ey
+[02:25:38] *** Quits: Wasbak (Mibbit@a36213.upc-a.chello.nl) (Exit)
+[02:25:59] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 66 seconds)
+[02:28:53] *** Quits: Beer`__ (beer@31.161.171.163) (Ping timeout: 60 seconds)
+[02:30:34] *** Joins: Beer`__ (beer@188.207.118.183)
+[02:33:00] *** Quits: Beer`__ (beer@188.207.118.183) (Ping timeout: 67 seconds)
+[02:33:16] *** Joins: Beer`__ (beer@188.207.118.183)
+[02:38:29] *** Quits: rhod (rhod@86.85.193.196) (Connection reset by peer)
+[02:42:36] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[02:43:15] *** Joins: rhod (rhod@86.85.193.196)
+[03:11:20] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[03:28:48] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[04:10:58] *** Quits: Beer`__ (beer@188.207.118.183) (Ping timeout: 60 seconds)
+[04:12:02] *** Joins: Beer`__ (beer@92.69.209.96)
+[05:41:30] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[05:55:59] *** Quits: Beer`__ (beer@92.69.209.96) (Exit)
+[05:59:02] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[06:16:48] <nomadz> slaapkoppen
+[06:47:44] *** Joins: Beer`__ (beer@5ED0808C.cm-7-1c.dynamic.ziggo.nl)
+[06:57:18] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 61 seconds)
+[07:07:53] <welly> sup
+[07:11:54] <rawplayer> o/
+[07:13:52] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[07:15:54] <Beer`__> zow nu eerst een biertje :) 
+[07:16:00] <Beer`__> goeie morgen voor de wakkerworders
+[07:16:25] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[07:16:43] <wirky> houzee fokkens
+[07:16:49] <rawplayer> o/
+[07:17:07] <wirky> raapie
+[07:17:11] <rawplayer> hoi
+[07:34:48] <Escovan> hoi
+[07:35:02] <Redhead> morrie
+[07:57:28] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 61 seconds)
+[08:19:06] <Escovan> gut gut 7000 kilo coke onderschept ... #wnl
+[08:19:08] <Escovan> Dat wordt voor sommige mensen een duur weekendje stappen.
+[08:20:30] <Redhead> die 70 000 kilo die niet onderschept worden lees je verder niks over ;p
+[08:20:53] <Escovan> sssst!
+[08:20:55] *** Joins: Fokker_7302 (Mibbit@52492574.cm-4-2a.dynamic.ziggo.nl)
+[08:21:45] *** Quits: Fokker_7302 (Mibbit@52492574.cm-4-2a.dynamic.ziggo.nl) (Exit)
+[08:24:27] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[08:28:15] *** Quits: Beer`__ (beer@5ED0808C.cm-7-1c.dynamic.ziggo.nl) (Exit)
+[08:28:22] *** Joins: Fiebel (PrincessCo@d77048.upc-d.chello.nl)
+[08:30:08] <Redhead> morrie fiebselie
+[08:30:11] <Redhead> :**
+[08:30:17] <Fiebel> ha reddie!
+[08:30:19] <Fiebel> :***
+[08:30:21] <Fiebel> kbener!
+[08:30:35] <Redhead> \o/
+[08:30:42] <Redhead> ik ben alweer foetsie 
+[08:30:50] <Fiebel> :W
+[08:31:20] <Redhead> bijna dan ;)
+[08:31:36] <Fiebel> nog even diiiiiit
+[08:31:38] <Fiebel> nog even daaaat
+[08:31:57] <Redhead> jaja
+[08:32:13] * rawplayer kroelt fiebs
+[08:32:25] <Fiebel> ghgiihgihghi
+[08:36:51] *** Joins: WvdL (WvdL@52492574.cm-4-2a.dynamic.ziggo.nl)
+[08:42:54] <Fiebel> pep smekt even op een brokje grint
+[08:43:01] <Fiebel> smeksmeksmekmsmek
+[08:43:02] <Fiebel> vies zeg
+[08:43:06] <Fiebel> smeksmeksmek
+[08:43:10] <Fiebel> hallo WvdL
+[08:48:40] <WvdL> hoi Fiebel
+[08:50:49] *** Quits: WvdL (WvdL@52492574.cm-4-2a.dynamic.ziggo.nl) (Exit)
+[08:51:22] *** Joins: WvdL (WvdL@52492574.cm-4-2a.dynamic.ziggo.nl)
+[08:56:02] *** Quits: WvdL (WvdL@52492574.cm-4-2a.dynamic.ziggo.nl) (Connection reset by peer)
+[09:03:27] <Fiebel> ochjongestoch
+[09:09:30] *** Quits: Stuiterbal (Stuit@2001:980:5281:1:b9f1:4178:8e7d:fb0f) (Connection reset by peer)
+[09:15:38] <Spacecowboy> jezus
+[09:16:51] <pvdz> ja?
+[09:17:43] *** Joins: Fem_LittleLady (Mibbit@a82-161-112-138.adsl.xs4all.nl)
+[09:17:49] <pvdz> Fem!
+[09:18:06] <Fem_LittleLady> Goedemorgen!
+[09:18:59] <pvdz> mogguh!
+[09:19:04] <Spacecowboy> katerrrrrrr
+[09:19:29] <pvdz> vies beest
+[09:20:50] *** Quits: Fiebel (PrincessCo@d77048.upc-d.chello.nl) (Exit)
+[09:31:20] <Fem_LittleLady> jammer dat we weer regen hebben
+[09:31:45] <Spacecowboy> even douchen, aankleden en etene
+[09:31:51] <Spacecowboy> misschien gaat het dan wat beter
+[09:31:52] <Spacecowboy> :+
+[09:32:05] *** Joins: coreblink (coreblink@145.132.131.160)
+[09:32:12] <Fem_LittleLady> Heb ik al gedaan, heb zelfs al bedje verschoond en was opgevouwen
+[09:34:51] *** Joins: Jeroen (Jeroen@ip82-139-124-155.lijbrandt.net)
+[09:48:04] *** Joins: Fokker_7200 (Mibbit@93.92.27.38)
+[09:49:12] *** Quits: Fokker_7200 (Mibbit@93.92.27.38) (Exit)
+[09:56:38] <SJ> mogge
+[09:56:53] <Fem_LittleLady> Goedemorgen
+[10:09:23] *** Joins: Guyver2 (Guyver2@guyver2.xs4all.nl)
+[10:27:08] <wirky> zup 
+[10:27:16] <rawplayer> lekker wirken
+[10:27:18] <rawplayer> zovty: ik ben er
+[10:28:48] <wirky> joh weet je wat ik ging doen daarstraks
+[10:28:57] <wirky> een boek lezen
+[10:29:47] <Fem_LittleLady> whoei
+[10:29:52] <Fem_LittleLady> :D
+[10:29:56] <wirky> het verloren paradijs v james hilton uit 1933 t lag in de boekenbak
+[10:39:46] <Escovan> Ah, dit is fantastisch, zelfs scientology wordt in de zeik genomen in de nieuwe Unbreakable Kimmy Schmidt
+[10:43:17] <Escovan> Apple moet het ook ontgelden ... geweldig dit.
+[10:43:32] <rawplayer> sup femmie
+[10:45:28] <Fem_LittleLady> Ja wel goed
+[10:45:42] <Fem_LittleLady> ben mijn favo serie aan het kijken
+[10:45:49] <Fem_LittleLady> moest rustiger aan gaan doen
+[10:47:29] <rawplayer> O+
+[10:47:34] <rawplayer> bassie en adriaan?
+[10:47:44] <Fem_LittleLady> Nee Rookie Blue
+[10:58:07] *** Joins: Fiebel (PrincessCo@d77048.upc-d.chello.nl)
+[10:58:16] <Fiebel> WAAAAAAAAAAAAAAAAAAAAAAAR IS MIJN WHEY!??!?!
+[10:58:22] <Fiebel> WAAAAAAAAAAAAAAAAAAAAAAAAAAAAAR IS MIJN PROTEINE?!!!!!!!!?!??!1
+[11:00:00] <Boots> dawheytikniet
+[11:00:07] <Fiebel> gihghigihgihg
+[11:00:28] <rawplayer> fiebs :9
+[11:00:45] <Fiebel> OOOOOOOOOOOOOOO+
+[11:01:30] *** Joins: WvdL (uid21241@id-21241.ealing.irccloud.com)
+[11:02:29] <Fem_LittleLady> Hoi Fiebel
+[11:02:33] <Fiebel> ha fem!
+[11:02:39] <Fem_LittleLady> Hoi WvdL
+[11:02:54] <WvdL> hoi Fem_LittleLady 
+[11:04:01] <Fem_LittleLady> Weer bijna weekend
+[11:04:15] <Fiebel> ohhhh dat doet me niks
+[11:04:21] <Fiebel> ik leef namelijk buiten het concept van de tijd
+[11:05:03] * WvdL heeft al weekend \o/
+[11:05:10] <WvdL> vrijdags is een hobbie dag
+[11:05:10] <WvdL> jeej
+[11:06:31] *** Joins: girl (Mibbit@ip-213-49-113-109.dsl.scarlet.be)
+[11:08:25] *** Quits: girl (Mibbit@ip-213-49-113-109.dsl.scarlet.be) (Exit)
+[11:10:30] <Fiebel> ghigihhgiihg
+[11:10:34] <Fiebel> ik had pep even gemorzeld
+[11:10:34] <Fiebel> gihghihigigih
+[11:12:47] <Boots> http://youtu.be/2si5U6kcnYA
+[11:12:49] <Boots> Zoiets?
+[11:12:49] <digibot> Title: FAMILY GUY SEASON 11 BIG BANG THEORY CLIP. On DVD NOW. - YouTube (at youtu.be)
+[11:13:19] <Escovan> Big Pharma wordt treffend in de zeik gezet in Kimmy Schmidt ... 
+[11:13:21] <Escovan> Goud dit
+[11:13:52] <Boots> meh staat niet zoveel van op YT
+[11:14:13] <Escovan> Gewoon gratis maand netflix nemen, heb je seizoen 1 & 2 in zijn geheel.
+[11:14:50] <Boots> Ja ik heb het ook op Netflix gekeken
+[11:14:59] <Boots> Maar dat is niet zo handig te delen
+[11:15:08] <Boots> Ik probeerde in te haken op Fiebel
+[11:15:12] <Escovan> ow sorru
+[11:15:15] <Escovan> *y
+[11:15:15] <bReChThOu> Fietsbel
+[11:19:30] <Boots> Lekker fietsweer
+[11:19:31] <Boots> Vies weer?
+[11:19:35] <Boots> Nee fietsweer!
+[11:24:16] <wirky> in t Abolute Nix weer
+[11:24:23] <bReChThOu> sup willy
+[11:24:32] <wirky> cleanen
+[11:25:17] <wirky> n smoedies drinken
+[11:37:08] <wirky> t wolkendek trekt langgggzaamm maarr ckr open
+[11:37:32] <wirky> moet de badkamer nog ff doen
+[11:38:06] *** rawplayer is now known as moppersmurf
+[11:38:51] <milkshake> highgihgi
+[11:38:57] <moppersmurf> :|
+[11:39:00] <moppersmurf> milk <3
+[11:39:05] <Fiebel> NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOH
+[11:39:15] <Fiebel> dankenjetochniblijvemoppere!!!!
+[11:39:21] <milkshake> highigh kan toch niet 
+[11:39:23] <Fiebel> hotje hejje greys al gezien?
+[11:39:24] <milkshake> even snel veranderen
+[11:39:24] <Fiebel> ighigihhighighighighigih
+[11:39:27] <milkshake> noooooh nee 
+[11:39:29] <milkshake> even kijken 
+[11:39:31] <milkshake> kusjes hoor
+[11:39:38] <Fiebel> kisskiss
+[11:45:15] *** Joins: Fraubitch (Mibbit@145.77.106.6)
+[11:45:37] *** Quits: Fraubitch (Mibbit@145.77.106.6) (Exit)
+[11:45:38] *** Quits: Fem_LittleLady (Mibbit@a82-161-112-138.adsl.xs4all.nl) (Exit)
+[11:59:03] * Escovan zet een schaal bitterballen in #fok
+[12:00:01] <Escovan> *lunchtime*
+[12:05:56] <wirky> je zus is de zoon v god
+[12:07:25] *** Joins: Fatima (Mibbit@86.85.71.13)
+[12:07:40] <Fatima> Morgen!
+[12:07:47] <moppersmurf> hoi
+[12:07:53] <Fatima> Hi
+[12:08:20] *** Quits: Remie (Remie@5ED5F214.cm-7-6d.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[12:09:35] <wirky> Fatima zou jij ons willen toespreken
+[12:10:17] * Fatima gaat op haar toespreekstoel zitten 
+[12:10:27] <Fatima> Zijn jullie aan het werk?
+[12:10:34] <moppersmurf> soms
+[12:10:56] <Fatima> Soms is goed.
+[12:11:57] *** Quits: Fatima (Mibbit@86.85.71.13) (Exit)
+[12:12:54] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 61 seconds)
+[12:15:22] <Fiebel> ochochochoch
+[12:29:34] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[12:31:16] *** Quits: Jeroen (Jeroen@ip82-139-124-155.lijbrandt.net) (Exit)
+[12:31:57] *** Joins: Remie (Remie@5ED5F214.cm-7-6d.dynamic.ziggo.nl)
+[13:03:06] *** Quits: rhod (rhod@86.85.193.196) (Exit)
+[13:10:49] *** Joins: Wade3 (uid4207@id-4207.charlton.irccloud.com)
+[13:10:57] <Wade3> Hoi
+[13:11:12] <Wade3> Ik ben een GuntherDW
+[13:14:43] <moppersmurf> hoi GuntherDW 
+[13:29:29] <Fiebel> och jonges
+[13:29:30] <Fiebel> goed drinke
+[13:29:35] <Fiebel> goeeeeeeeeeeeeeeeeeeeeeeeeeed drinke!!
+[13:43:49] <Wade3> Fiebel: wablief?
+[13:43:56] <Fiebel> goeeeed drinke
+[13:44:00] <Fiebel> sbelangrijk
+[13:44:29] <Wade3> Fiebel voor mensen?
+[13:44:34] <Fiebel> oook
+[13:44:36] <Fiebel> ooooook
+[13:46:49] <Wade3> Mensen drinken uit elkaar als ze  verliefd zijn
+[13:47:07] <Wade3> Goed drinken dus als je iemand leuk vindt
+[13:47:54] *** Joins: rhod (rhod@86.85.193.196)
+[13:49:47] <moppersmurf> :/
+[13:49:52] <moppersmurf> :|
+[13:49:53] <moppersmurf> :\
+[13:49:57] <moppersmurf> aardig doen
+[13:49:58] <moppersmurf> tegen Fiebel 
+[13:56:08] <Wade3> Ik ben ook aardig
+[13:58:00] <Wade3> Fiebel sorry als ik vreemd overkom ik heb autisme en zie de dingen anders
+[13:58:20] <Fiebel> och kind
+[13:58:24] <Fiebel> zijn we allemaal niet een beetje vreemd
+[13:58:28] <Fiebel> als je maar goed drinkt
+[13:58:32] <Fiebel> dan vind ik het allemaal gezeged
+[13:58:33] <Wade3> ;)
+[13:58:35] <Fiebel> gezegend
+[13:58:52] <Wade3> Ik ben vreemder dan gemiddeld
+[13:59:26] <Wade3> De deviatie maakt het verschil in negatief opzicht
+[13:59:32] <Fiebel> s ook
+[13:59:34] <Fiebel> is ook zo
+[13:59:35] <Fiebel> is ook gewoon zo
+[14:00:12] <Wade3> Ik heb wel dorst gekregen zomaar ineens
+[14:00:31] <Fiebel> je moet goed drinke he
+[14:00:36] <Fiebel> is belangrijk
+[14:01:07] <moppersmurf> ja
+[14:01:09] <moppersmurf> en plasse
+[14:01:10] <moppersmurf> goed plasse
+[14:01:11] <moppersmurf> goed drinken
+[14:01:13] <moppersmurf> goed poepe
+[14:01:16] <moppersmurf> goed eten
+[14:01:29] <Fiebel> goeeed zorge
+[14:01:30] <Fiebel> voor de tempel
+[14:01:40] <moppersmurf> zeker zeker
+[14:03:07] <Escovan> ik haaaaaat moppersmurf 
+[14:03:30] *** Quits: rhod (rhod@86.85.193.196) (Ping timeout: 61 seconds)
+[14:04:53] <Wade3> Escovan: is aardig
+[14:05:11] <Escovan> owk
+[14:06:01] <Wade3> Maatschappelijk betrokken enzo
+[14:06:19] <Escovan> Ik zie op facebook iets waar ik van moet huilen
+[14:06:30] <Escovan> Een groep ¨Mensen met een beperking¨
+[14:06:44] <Escovan> TOON MIJ! Zij die zonder beperking zijn!
+[14:08:19] <Fiebel> ik neem nog een bakje
+[14:08:21] <Wade3> Nogmaals deviatie is leidinggevend
+[14:08:21] <Fiebel> en ik neem nog een glasje
+[14:08:45] <Escovan> wodka+vruchtensap ...
+[14:08:59] <Escovan> je denkt toch niet dat ik zo´n fles in 1 avond op krijg
+[14:09:15] <Wade3> Escovan: mens zijn is al een beperking tov andere diersoorten op bepaalde eigenschappen en andersom idem dito
+[14:09:26] <Escovan> lol
+[14:16:25] <Fiebel> http://www.robotstofzuigerstore.nl/product-reviews/661735/dirt-devil-fusion-m611.html
+[14:16:26] <digibot> Title: Reviews over de Dirt Devil Fusion M611 - Pagina 1 - Gesorteerd op meest populaire - Robotstofzuigerstore.nl (at www.robotstofzuigerstore.nl)
+[14:17:23] <Fiebel> Zuigt als een malle
+[14:17:23] <Fiebel> Maakt minder herrie dan mn vrouw
+[14:18:36] *** Joins: rhod (rhod@86.85.193.196)
+[14:33:34] *** Joins: Fem_LittleLady (Mibbit@a82-161-112-138.adsl.xs4all.nl)
+[14:33:42] <Fem_LittleLady> Middag allemaal
+[14:33:46] <Escovan> lol Fiebel 
+[14:33:48] <Fiebel> he fem
+[14:33:51] <Escovan> hoi femmie
+[14:33:57] <Fiebel> ik wil hem hebben :D
+[14:34:07] <Fiebel> niet zo gek duur
+[14:34:11] <Fiebel> allemaal goede reviews
+[14:34:18] <Fem_LittleLady> wat wil je hebben Fiebel
+[14:34:22] <Fiebel> http://www.robotstofzuigerstore.nl/product-reviews/661735/dirt-devil-fusion-m611.html 
+[14:34:24] <digibot> Title: Reviews over de Dirt Devil Fusion M611 - Pagina 1 - Gesorteerd op meest populaire - Robotstofzuigerstore.nl (at www.robotstofzuigerstore.nl)
+[14:34:38] <Fem_LittleLady> Jaaaa die zijn gaaf
+[14:35:17] <Fem_LittleLady> kan de kat ook mooi op rondkarren
+[14:35:21] <Fem_LittleLady> https://www.youtube.com/watch?v=tLt5rBfNucc
+[14:35:22] <digibot> Title: Cat Wearing A Shark Costume Cleans The Kitchen On A Roomba. Shark Week. #SharkCat cleaning Kitchen! - YouTube (at www.youtube.com)
+[14:35:57] <Fiebel> gigihggih ja dat is waarom ik hem wil hebben
+[14:35:59] <Fiebel> niet voor het stof
+[14:36:00] <Fiebel> gihghighig
+[14:36:08] <Fem_LittleLady> hahahaha
+[14:36:13] <Escovan> :P
+[14:37:24] <Fem_LittleLady> Hij is zo fout dat het grappig is, heb ook wel een de robot grasmaaier gezien
+[14:37:24] *** Quits: rhod (rhod@86.85.193.196) (Exit)
+[14:37:42] <Fem_LittleLady> kart er zo'n ding over het gazon heen
+[14:37:53] <Wade3> Fem_LittleLady: 
+[14:38:30] <Wade3> cats
+[14:38:48] <Wade3> cat > kat
+[14:38:57] <Wade3> er zijn meer cats dan katten
+[14:39:33] <Fem_LittleLady> Ohw past maar 1 tegelijk op
+[14:40:31] <Fem_LittleLady> hier zijn ze voor de weinige keren allemaal binnen
+[14:40:36] <Fem_LittleLady> dat gebeurd niet vaak
+[14:43:22] <Wade3> ik heb alleen maar tuinkatten van de buren
+[14:45:42] *** Joins: rhod (rhod@86.85.193.196)
+[14:50:18] *** Quits: Fem_LittleLady (Mibbit@a82-161-112-138.adsl.xs4all.nl) (Exit)
+[14:50:28] <pvdz> gvd, is het nu nog geen weekend!?!?
+[14:53:36] *** Quits: rhod (rhod@86.85.193.196) (Exit)
+[14:58:00] <Fiebel> joh
+[14:58:05] <Fiebel> besluit gewoon dat het weekend is
+[14:58:08] <Fiebel> klaar dr mee
+[14:58:49] <Fiebel> och jonges
+[14:58:53] <Fiebel> ik zou kaartjes moeten verkopen
+[14:59:01] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 67 seconds)
+[14:59:04] <Fiebel> dat iedereen in zn eigen tijdvakje even een half uurtje naar pep mag komen kijken
+[14:59:05] <Fiebel> O+
+[15:16:49] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[15:25:34] <Fiebel> och jonges
+[15:25:38] *** Joins: Jeroen (Jeroen@54188FF8.cm-5-1c.dynamic.ziggo.nl)
+[15:25:39] <Fiebel> me goed voelen was toch goed genoeg voor mij
+[15:25:51] <Fiebel> goed genoeg voor mij en bobby en mcghij
+[15:26:24] <wirky> but your heart kept on burning
+[15:26:46] <Fiebel> brandend zand
+[15:26:48] <Fiebel> en een verloren land
+[15:27:02] <wirky> ochch zingen is toch zo fijn
+[15:27:22] <Fiebel> weet je wat ook fijn is?
+[15:27:25] <Fiebel> goed drinken
+[15:27:27] <Fiebel> goeeed drinke
+[15:27:30] <Fiebel> en an lekker plasse
+[15:27:33] <Fiebel> lekker doorlopen die leidingen
+[15:29:08] <wirky> heb je ook gelijk in hoor
+[15:29:18] <moppersmurf> och jonges
+[15:29:19] <moppersmurf> ik ben er
+[15:29:20] <Pandora> gezellig, moppersmurf is er!
+[15:29:24] <moppersmurf> lol
+[15:29:58] <wirky> fijn dat jij er bent, moppersmurf
+[15:30:13] <moppersmurf> dank je
+[15:30:44] <wirky> ik ga je ruike dan
+[15:30:51] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Exit)
+[15:31:33] <Escovan> een psychiater met een alcoholische multiple personality disorder!!!!111 
+[15:31:35] <Escovan> ik kom niet meer bij. #unbreakablekimmyschmidt!
+[15:31:42] <Escovan> #netflix
+[15:44:25] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[16:01:54] *** Joins: Lott (Lott@242-207-158-163.dynamic.caiway.nl)
+[16:02:32] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[16:17:08] *** Joins: Fokker_9538 (Mibbit@541FA101.cm-5-8c.dynamic.ziggo.nl)
+[16:22:53] *** Quits: Fokker_9538 (Mibbit@541FA101.cm-5-8c.dynamic.ziggo.nl) (Exit)
+[16:27:57] *** Joins: Fem_LittleLady (Mibbit@a82-161-112-138.adsl.xs4all.nl)
+[16:28:55] <Fem_LittleLady> hoi
+[16:33:20] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[16:34:29] <Escovan> hoi femmie
+[16:34:36] <Escovan> hoi willem
+[16:34:57] <wirky> hoi ik heet geen willem trwns
+[16:35:05] <Escovan> vertel
+[16:35:25] <wirky> wat
+[16:35:46] <wirky> zeg ik toch ik heet geen willem
+[16:36:30] <Escovan> hoe heet je dan wel?
+[16:37:26] <wirky> vertel ik j wel n keer
+[16:37:35] <Fiebel> och jonges
+[16:37:38] <Fiebel> wirky is er
+[16:37:38] <Fiebel> gezellig
+[16:37:41] <wirky> wat doet t er eigenlijk toe
+[16:37:50] * Escovan heet Jelle
+[16:38:32] <wirky> ik heet Hette
+[16:38:57] <wirky> Vakantie man tot Binnenpret
+[16:41:05] <Fem_LittleLady> :D
+[16:45:16] <GuntherDW> [13:15:11] <<moppersmurf>> hoi GuntherDW 
+[16:45:18] <GuntherDW> hoi moppersmurf 
+[16:45:22] <GuntherDW> (A)
+[16:45:50] <GuntherDW> ik heb het trouwens net nagekeken, en ik geloof dat ik nog altijd geen mind control heb richting the USA
+[16:46:06] <GuntherDW> misschien richting nederland, maar niet the USA (A)
+[16:48:33] *** Joins: woodywood (Mibbit@81.30.42.189)
+[16:48:52] <woodywood> wow Hoi ! nog veel mensen hier 
+[16:48:58] <SJ> goed he :)
+[16:49:36] <SJ> woodywood: welkom :)
+[16:49:46] <woodywood> dank je :) eerste keer hier 
+[16:49:53] <SJ> Ah :)
+[16:50:07] <SJ> eerste keer op irc ook? 
+[16:50:25] <woodywood> nee irc ken ik al langer =) 
+[16:50:29] <SJ> ;-)
+[16:50:53] <woodywood> van "vroeger" zeg maar :) 
+[16:51:21] <SJ> hahaha, mja, het is nog steeds in gebruik :)
+[16:51:36] <Lott> hay tjikies
+[16:51:37] <woodywood> ja zie het zitten ook nog best vebel mensen in het kanaal 
+[16:53:13] <Lott> niet:(
+[16:53:49] <SJ> uhuh
+[16:53:55] <SJ> hee, een Lott :)
+[16:53:59] <SJ> hoest met je huis?
+[16:54:47] <Lott> chill<3
+[16:54:52] <Lott> mijn crib <3
+[16:54:59] <Lott> wat een rust
+[16:55:01] <Lott> heerlijk
+[16:56:37] <woodywood> maar leuk hier even geweest te zijn maar de werkweek zit er al weer op voor mij ik ga lekker naar huis toe ! en daar storingsdienst draaie :x 
+[16:56:38] <SJ> :) 
+[16:56:43] <SJ> cool!
+[16:56:49] <SJ> woodywood: oef, sterkte 
+[16:56:54] <Lott> werken? dat doe ik mar 4 dagen in de week
+[16:56:56] <SJ> tot later!
+[16:57:00] <Lott> vrijdag is weekend
+[16:57:07] <woodywood> thnx ! komt goed :) tot maandag ? 
+[16:57:09] <woodywood> :w
+[16:57:10] *** Quits: woodywood (Mibbit@81.30.42.189) (Exit)
+[16:57:48] <Lott> was gister en eergister in soesterberg:o
+[16:58:02] <SJ> soesterberg
+[16:58:09] <Lott> uhu
+[16:58:11] <SJ> wat moet je daar nou weer? :)
+[16:58:27] <Lott> training omgaan met dwingend en agressief gedrag
+[16:58:41] <Lott> met hotelovernachting en eten etc op kosten van de baas
+[16:58:44] <Lott> (a
+[16:58:46] <Lott> )
+[16:59:01] <Lott> was vet leuk
+[16:59:04] <SJ> cool :) 
+[16:59:17] <Lott> allemaal mannen in onderkoffer outfit
+[16:59:53] <SJ> hahaha
+[17:00:29] <Lott> armyboys
+[17:00:37] <Lott> god wat een narigheid
+[17:00:51] <SJ> hahahhaha
+[17:00:54] <Lott> vond ik leuker dan t eten
+[17:01:04] <Lott> al was dat ook nie verkeerd
+[17:01:36] <Lott> jij nog wilde dingen gdaan?
+[17:03:16] <SJ> Heul wild 
+[17:03:18] <SJ> ofzo 
+[17:03:19] <SJ> :>
+[17:03:49] <Lott> o verel
+[17:04:09] <Fem_LittleLady> Jeeuujjj volgende week weer zon
+[17:05:19] <SJ> Lott: 2 examens gehaald, gisteren een conferentie, mogelijk voor een paar weken naar Singapore 
+[17:06:36] <Lott> singapore?
+[17:06:48] <Lott> vakantie of werken? klinkt wel tof
+[17:06:57] <Lott> en examens weer op school?!
+[17:07:55] <SJ> Lott: werken 
+[17:08:03] <SJ> nee, certificeringen 
+[17:09:12] <SJ> week cursus enzo 
+[17:09:23] <Lott> ah ni ce
+[17:09:24] <Lott> nice
+[17:09:31] <SJ> Ja, wel cool :)
+[17:09:47] <Lott> ik ga zo ff koken
+[17:09:54] <SJ> groot gelijk :)
+[17:10:32] <Lott> ben je dr vanavond nnog?
+[17:10:39] <Lott> of ga je party hardy doen
+[17:11:36] <Jeroen> SJ gaat keihard chickies hosselen in de jimmy woo
+[17:12:07] <SJ> Lott: vanavond niet denk ik 
+[17:12:13] <SJ> huisman uithangen 
+[17:12:16] <SJ> :)
+[17:12:34] <Lott> o ok
+[17:12:43] <SJ> Jeroen: inderdaad, m'n vriendin komt ook nog langs 
+[17:12:43] <Lott> nou dan tot over n half jaar ofzo:')
+[17:12:51] <Jeroen> :+
+[17:12:56] <SJ> Lott: ik ben er prolly maandagavond wel 
+[17:13:06] <Lott> dan ben ik eer  nie;)
+[17:13:18] <SJ> doordeweeks regelmatig
+[17:13:31] <SJ> in het weekend nagenoeg nooit
+[17:13:41] <Lott> mja tegenovergestelde van mij:P
+[17:13:51] <SJ> :P
+[17:14:53] <Lott> chill ze
+[17:14:58] <Lott> en tot over n hlf aar
+[17:15:00] <Lott> ;
+[17:15:02] <Lott> ;
+[17:15:04] <Lott> grr
+[17:15:06] <Lott> :)
+[17:15:15] <Lott> ag nvm je snapt t wel:P
+[17:15:33] <SJ> hahahhaa
+[17:15:37] <SJ> kookze ;-)
+[17:17:57] *** Quits: Lott (Lott@242-207-158-163.dynamic.caiway.nl) (Ping timeout: 66 seconds)
+[17:18:36] <Fem_LittleLady> Hoop dat we dit jaarw el een goede zomer krijgen
+[17:19:24] <Jeroen> ok
+[17:24:39] <wirky> Elke werkdag tussen 9-16h haal ik oud brood bij ons winkeltje en voer dat aan de vogels hier waarvan de variatie behoorlijk is, van zwanen, ganzen, eenden, meerkoeten, ijsvogel, meeuwen, kauwen, kraaien, groene parkieten, lijsters, groene specht , kleine specht, fazant, al het kleinste grut merel musjes vinkjes nachtegaal, mezen, maar anyway ik ga met wat brood naar de waterkant en komt er een 
+[17:24:39] <wirky> huge zwaan aan in zijn 1tje denk een mannetje gok ik, flinke zwarte knobbel, dus hij komt ook naar de rand en ik strek mijn hand uit met een witte boterham en die eetie zo uit de hand tot 3 x toe, maar dat was nog niet zo gek of er speelde zich t volgende tafereel af:
+[17:24:39] <wirky> [2016:04:15:17:05:46] <wirky> dus er was een gans aan gekomen en die zwaan was na t eten van t brood weer terug op t water verderop, en die twee een in t water en 1 in op de kant waren iets aan t doen
+[17:25:38] <wirky> die gans stond met zijn kop richting de zwaan
+[17:25:39] <wirky> [2016:04:15:17:06:27] <wirky> en die zwaan ging steeds rondjes draaien om zijn as
+[17:25:39] <wirky> [2016:04:15:17:06:56] <wirky> en die gans ging met zijn kop in de lucht en kwetterde dan met zijn bek maar dan zonder geluid
+[17:26:05] <wirky> die zwaan roteerde verticaal dus
+[17:26:13] <wirky> is toch maf
+[17:28:34] <Fem_LittleLady> Ach de een vroeg aan de ander hoe het met zijn vrouw ging en toen deden ze het even na
+[17:33:02] <wirky> ik heb geen idee
+[17:38:54] <Fem_LittleLady> Hahaha
+[17:39:40] <Fem_LittleLady> Misschien hebben ze ergens een nest en zijn ze elkaar aan het aftroeven
+[17:42:30] *** Quits: sofie (saartj@obs.wzff.de) (Exit)
+[17:42:30] *** Joins: sofie_ (saartj@obs.wzff.de)
+[17:43:54] <Fiebel> ooooooooooooooooooooooch jonges
+[17:44:05] <Fiebel> wirkyyyyyyyyyyy
+[17:44:11] <Fiebel> het is niet goed om brood te geven
+[17:47:22] <wirky> och och och fiebeltje toch
+[17:47:51] <wirky> breek daar je mooie kupke maar niet over
+[17:48:45] <wirky> ken je dat verhaal uit hongarije niet
+[17:49:24] <wirky> daar werd een boerin veroordeeld tot een boete meen ik omdat ze haar koe wietplanten had gegeven als voer
+[17:49:44] <wirky> en de melkopbrengst was nog nooit zo goed geweest
+[17:50:12] <wirky> nou ja ze had die planten staan in de wei waar ook de koe stond
+[17:50:21] <wirky> dus van echt geven was geen sprake
+[17:50:36] <Fiebel> gihgihgihg
+[17:50:47] <Fem_LittleLady> Ach had die koe ook een relaxte dag
+[17:52:42] <wirky> bij de dierenarts is t ook op recept verkrijgbaar als medicijn
+[17:55:51] <wirky> eens in de zoveel maanden neemt een van mijn liefies ook wel eens een hapje van t blad, en had t ook van anderen welles gehoord dat dieren in dit geval katten t eten
+[18:06:39] *** Quits: Wade3 (uid4207@id-4207.charlton.irccloud.com) (Exit)
+[18:11:33] *** Quits: WvdL (uid21241@id-21241.ealing.irccloud.com) (Exit)
+[18:11:36] *** Quits: pvdz (pvdz@55-201-ftth.onsbrabantnet.nl) (Exit)
+[18:14:38] *** Joins: Lott (Lott@242-207-158-163.dynamic.caiway.nl)
+[18:14:46] <Lott> woeii
+[18:18:54] <Ou-Tannu> Lottje!
+[18:20:28] <Punnik> hoihoi Lott !!
+[18:21:38] <Lott> hay<4
+[18:21:40] <Lott> <3 dus
+[18:25:03] *** Joins: Crip (Mibbit@541C880F.cm-5-5c.dynamic.ziggo.nl)
+[18:25:26] <Crip> Hoi zovty xo
+[18:25:38] <Fiebel> crippie
+[18:25:41] <Fiebel> mogelijk is er slecht nieuws
+[18:25:47] <Crip> Vertel het eens.
+[18:25:50] <Fiebel> mogelijk is zovty overleden
+[18:25:55] <Crip> Oh jee.
+[18:25:59] <Fiebel> of vertrokken naar een eiland met alleen maar naakte tjikkiebombaas
+[18:26:03] <Fiebel> of van z'n fiets gevallen
+[18:26:11] * Ou-Tannu aait Lott
+[18:26:19] <Fem_LittleLady> hahahaha Fiebel
+[18:26:25] <Fiebel> ja hij heeft zich niet afgemeld
+[18:26:29] <Fiebel> dus eigenaardig is het wel
+[18:26:32] <Fiebel> ik ga zo zijn moeder even bellen
+[18:26:49] <Bertone> hoi Lott
+[18:26:54] <Crip> Zijn paleo dieet heeft hem de kop gekost.
+[18:27:01] <Fiebel> het kan
+[18:27:03] <Fiebel> het kan
+[18:27:05] <Fiebel> dat is het kind niet gewend
+[18:27:09] <Fiebel> frikandelledetox
+[18:27:12] <Lott> hey Bertone
+[18:30:25] <Fem_LittleLady> Pffff heb nu alle sites wel gezien voor dagjes weg
+[18:30:32] <Lott> nu al?
+[18:30:54] <Fem_LittleLady> Ja denk dat NewCastle mini cruise wel het leukst is
+[18:32:32] <Fiebel> dat is niet zo gek leuk
+[18:33:17] <Fem_LittleLady> Ja denk dat mijn vriend dat ook leuk vind
+[18:33:51] <Fem_LittleLady> Naar een pretpark zie ik niet zo zitten, naar dierentuin ook niet zo
+[18:34:04] <Fem_LittleLady> wil wel eens wat anders zien
+[18:42:17] *** Quits: Crip (Mibbit@541C880F.cm-5-5c.dynamic.ziggo.nl) (Exit)
+[18:56:47] <Redhead> navondjes 
+[18:57:06] <Lott> hey redje
+[18:57:08] <Fem_LittleLady> hoi
+[18:57:25] <Redhead> o/
+[18:59:54] *** Parts: Bertone (Bertone@classics.xs4all.nl) ()
+[19:03:10] *** Quits: Fiebel (PrincessCo@d77048.upc-d.chello.nl) (Exit)
+[19:12:33] <wirky> hallo mensen v h goeie leven
+[19:12:39] <wirky> zup
+[19:13:00] <wirky> net een miniwasmachine besteld 
+[19:13:37] <wirky> gaat 2,5 kg in
+[19:13:48] <wirky> maar moet los spoelen
+[19:17:06] *** Quits: Lott (Lott@242-207-158-163.dynamic.caiway.nl) (Ping timeout: 60 seconds)
+[19:26:53] <Redhead> hey wirky 
+[19:27:05] <Redhead> los spoelen ?
+[19:27:11] <Redhead> wat wil dat betekenen?
+[19:27:37] <wirky> https://www.bol.com/nl/p/aqua-laser-mini-wasmachine/9200000010178630/
+[19:27:46] <wirky> denk onder de douche
+[19:28:16] <wirky> kan je openen
+[19:28:17] <wirky> ?
+[19:29:46] <Redhead> ah ik zie
+[19:30:24] <Redhead> mjakan ook in de machine dan , als t klaar is met wassen , gewoon vers water er weer in
+[19:30:31] <Redhead> en zo
+[19:30:58] <wirky> ja gelijk heb je
+[19:31:43] <wirky> vraag me af of ik t in de keuken of badruimte moet zetten, afvoer van gootsteen stokt af en toe een beetje
+[19:40:14] <Redhead> badruimte lijkt me t handigst
+[19:40:39] <Redhead> als je nem gebruikt in de douche oid en verder kun je zon dingie makkelijk opbergen waar je wil
+[19:44:13] <wirky> lkkr mijn eigen wasjes draaien
+[19:46:12] <Redhead> uhu 
+[19:51:58] *** Joins: Beer`__ (beer@5ED0808C.cm-7-1c.dynamic.ziggo.nl)
+[19:56:20] *** Joins: Fe2O3 (Fe2O3@h70248.upc-h.chello.nl)
+[19:56:20] *** ChanServ sets mode: +o Fe2O3
+[19:56:55] *** Quits: EmmaVZ (Emma@53572337.cm-6-8a.dynamic.ziggo.nl) (Exit)
+[20:05:40] <nomadz> sup
+[20:06:04] <nomadz> GAAR
+[20:08:24] <Redhead> BURP
+[20:11:47] <nomadz> pizza en slapen
+[20:11:51] <nomadz> redje :*
+[20:12:49] <Redhead> :*
+[20:13:05] <Redhead> ben uitbuiken en koffie en zon pscies op smoel
+[20:13:41] <nomadz> vandaag van 7 tot half 8 een dienst gedraaid, allemaal duitse universiteiten die om onverklaarbare redenen in maastricht tegen elkaar kempen met sport
+[20:13:45] <nomadz> echt op zn amerikaans geopend ook
+[20:13:56] <nomadz> maar dan zie ik toch wel dat ik wat gemist heb toen ik zo oud was :)
+[20:14:30] <Redhead> hehe
+[20:15:00] <Redhead> wat vooral?
+[20:15:03] <nomadz> https://drive.google.com/file/d/1PxFdSzFnUVETCbYYWGHMnjWHzanjBiKDvQ/view?usp=sharing
+[20:15:05] <digibot> Title: IMG_20160415_111127.jpg - Google Drive (at drive.google.com)
+[20:15:15] <nomadz> dat was om 10 uur ofzo, volop op het bier
+[20:15:42] <Redhead> :)
+[20:16:13] <nomadz> ja euh, ik ging op mn 20e niet in het buitenland tegen andere universiteiten kempen en ladderzat raken
+[20:17:20] <nomadz> gesponsored door tinder
+[20:17:21] <nomadz> https://drive.google.com/file/d/1pLVjeRwXpKZyPwYJBgq8RaC1zJkBWFBmpA/view?usp=sharing
+[20:17:22] <digibot> Title: IMG_20160415_172031.jpg - Google Drive (at drive.google.com)
+[20:17:26] <nomadz> overal tinder handdoeken en posters etc
+[20:17:32] <nomadz> en tinder rugzakken
+[20:17:44] <nomadz> morgen een paar meeklauwen
+[20:23:18] <nomadz> de 2e dienst is net begonnen, de jeugd gaat nog feesten tot 05:00
+[20:23:38] <nomadz> en dan kom ik weer om 07:00 de sporters weer oplappen
+[20:23:42] <nomadz> ondertussen gaat opa zo slapen
+[20:27:10] <Redhead> hehe
+[20:27:14] <Redhead> slaap heel lekker
+[20:50:42] <nomadz> nog niet
+[20:50:49] <nomadz> effe onder de douche doorgelopen en pizza weer koud
+[21:10:52] *** Joins: Andros (Andros@248.151-244-81.adsl-dyn.isp.belgacom.be)
+[21:11:55] *** Joins: Lott (Lott@242-207-158-163.dynamic.caiway.nl)
+[21:12:19] <Lott> haaay
+[21:13:54] <nomadz> lotteke
+[21:14:12] <nomadz> ik heb iets voor je
+[21:14:12] <nomadz> https://www.facebook.com/photo.php?fbid=1125071130877689&set=a.985214364863367.1073741826.100001244371710&type=3&theater
+[21:14:15] <digibot> Title: Tijdlijnfotos (at www.facebook.com)
+[21:14:15] <nomadz> kopen?
+[21:15:00] <Lott> wat is da?
+[21:15:13] <nomadz> een vrachtwagen met ruimte voor 6 paarden en je hele gezin
+[21:15:17] <Lott> lol
+[21:15:20] <Lott> no thanks
+[21:15:36] <nomadz> shit raak ik dat ding nooit meer kwijt!
+[21:15:49] <nomadz> ik was op zo'n internatiaal paardenjumping evenement
+[21:15:52] <nomadz> allemaal van die wagens
+[21:15:54] <nomadz> 400 paarden ofzo
+[21:16:00] <nomadz> kwamen helemaal uit japan
+[21:16:22] <nomadz> meer weet ik ook niet want toen heb ik 14 uur in het gras gelegen uit verveling
+[21:16:31] <Lott> herkenbaar
+[21:16:44] <Lott> daarom ga ik nooit naar zulke evenementen
+[21:16:57] <nomadz> ik ging als hulpverlener
+[21:17:03] <Lott> is alleen leuk als iemand et cross in de waterbak pleurt
+[21:17:12] <nomadz> maar als er iets gebeurde moesten eerst de ehbo'ers het opknappen
+[21:17:14] <nomadz> kortom, geen fuck te doen
+[21:17:41] <Lott> ik moet n minizakje met klavertjevier hebben
+[21:17:46] <Lott> van die zaadjes
+[21:18:29] <nomadz> http://www.duurzame-relatiegeschenken.com/zaadjes-en-plantjes/zaadzakjes/
+[21:18:31] <nomadz> alstublieft
+[21:18:31] <digibot> Title: Zaadzakjes | Groene Relatiegeschenken | Duurzame relatiegeschenken (at www.duurzame-relatiegeschenken.com)
+[21:20:33] <Lott> ghe maar heb maar 1 zakje  nodig
+[21:20:46] <Lott> en dan ben je meer kwijt aan verzendkosten dan verzending
+[21:21:52] <nomadz> valt toch wel mee
+[21:22:08] <nomadz> zo'n zaadje kan vast wel in een envelop met een postzegel van 50 cent ofzo (hoe duur is een postzegel tegenwoordig)
+[21:22:17] <Lott> 25 cent
+[21:22:58] <nomadz> geen idee hoor, maar als je 6,95 moet betalen dan vind ik dat onzin
+[21:23:23] <Lott> uhu
+[21:23:26] <Lott> ist ook
+[21:23:38] <Lott> ik ga vrijdag nog wel ff in enschede kijken
+[21:23:53] <Lott> en als daar nit kan krijgen bestel ik t wel online
+[21:24:23] <nomadz> http://www.tubantia.nl/regio/enschede-en-omgeving/enschede/symbool-van-geluk-herplaatst-op-enschedese-rotonde-1.3997485
+[21:24:25] <digibot> Title: Symbool van geluk herplaatst op Enschedese rotonde (at www.tubantia.nl)
+[21:24:26] <nomadz> je kan ook dat ding jatten
+[21:28:35] <Lott> whaha
+[21:28:46] <Lott> die past niet in het doosje waar t in moet
+[21:38:15] *** Quits: Lott (Lott@242-207-158-163.dynamic.caiway.nl) (Exit)
+[21:40:59] <Boots> http://m.hema.nl/winkel?fh_location=%2F%2Fnlhema%2Fnl_NL%2Fcategories%3C%7Bnlhema_nl9365%7D%2Fcategories%3C%7Bnlhema_nl9365_nl9426%7D%2Fcategories%3C%7Bnlhema_nl9365_nl9426_nl9438%7D&fh_view_size=24&fh_sort=pnl_stockavailability%2C-pnl_mcw_rank%2Cpnl_newness%2C-pnl_fh_ga_productviews_last_7_days&fh_modification=efbc2f89-0f99-4140-b988-a0d4e7715d88%2C&fh_secondid=pnl_60110131
+[21:41:01] <digibot> Title: HEMA - verrassend lage prijzen in de online winkel (at m.hema.nl)
+[21:41:04] <Boots> Oh ze is weg
+[21:41:06] <Boots> Noumoe
+[21:42:39] <Redhead> toetoet
+[21:43:43] <bReChThOu> Redhead :*
+[21:44:01] <Redhead> hey t bReChThOu :*
+[21:44:11] <Redhead> sup voor t weekend?
+[21:45:01] *** Joins: mijk (mijk@218-245-144-85.ftth.glasoperator.nl)
+[21:45:41] <Redhead> mijkert
+[21:45:44] <bReChThOu> ff chillen op de bank
+[21:45:48] <bReChThOu> morgen dagje brussel
+[21:45:54] <Redhead> lekker , genietse
+[21:45:55] <Boots> mijk is wel 10 verschillende users geweest
+[21:46:14] <Boots> Klopt niet he
+[21:46:25] <Boots> Hele scherm vol
+[21:46:27] <Redhead> k ken mensen die elke keer n andere nick nemen ....ontelbaar
+[21:51:12] <moppersmurf> hallo 
+[21:51:28] <Redhead> wat valt er te mopperen
+[21:52:48] *** Joins: inka (Mibbit@5ED7C51E.cm-7-8d.dynamic.ziggo.nl)
+[21:52:58] <moppersmurf> niks xD
+[21:53:05] <Redhead> cool
+[21:53:13] <Redhead> hola inka 
+[21:53:21] <inka> hoi
+[21:53:55] <Redhead> https://www.youtube.com/watch?v=tuNMBsrbv10
+[21:53:56] <digibot> Title: Dub Fx | Theory Of Harmony | Full Album Experience - YouTube (at www.youtube.com)
+[21:53:59] <Fem_LittleLady> Hoii
+[21:54:05] <Redhead> oi fem
+[21:54:30] <Fem_LittleLady> Zo mag donderdag een beter hok halen voor mijn caafjes
+[21:55:04] <Fem_LittleLady> Kunnen ze niet meer alle snippers over de randen gooien
+[21:55:32] *** Joins: Greek71 (Mibbit@145.133.133.39)
+[21:56:03] <Greek71> Geiasou kalo vrady
+[21:56:17] <Redhead> wirky: je weedsnorrert !
+[21:56:43] <Greek71> Lekker stoned op de chat
+[21:56:57] *** Joins: SCHAPiE (dorian@dhcp-077-249-247-124.chello.nl)
+[21:57:11] <Greek71> Dag Schapie
+[21:57:37] <Redhead> navond SCHAPiE 
+[21:57:51] <Redhead> ben je ook weleens niet stoned Greek71 ?
+[21:58:03] <Greek71> Ik blow niet zo heel vaak
+[21:58:05] <Redhead> gewoon benieuwd :)
+[21:58:12] <Redhead> k
+[21:58:20] <Greek71> Iek bekraip
+[21:58:41] <Redhead> a mi no importa
+[21:59:00] <Greek71> Ola kala
+[22:01:29] *** Quits: inka (Mibbit@5ED7C51E.cm-7-8d.dynamic.ziggo.nl) (Exit)
+[22:02:22] <Fem_LittleLady> Nog een weekje dan vakantie whoehoe
+[22:02:25] *** Joins: Fiebel (PrincessCo@d77048.upc-d.chello.nl)
+[22:02:28] <Fiebel> kbener
+[22:02:56] *** Quits: Greek71 (Mibbit@145.133.133.39) (Exit)
+[22:03:17] *** Joins: inka (Mibbit@5ED7C51E.cm-7-8d.dynamic.ziggo.nl)
+[22:03:27] <SCHAPiE> yo Greek, Redhead 
+[22:03:32] <SCHAPiE> late reactie, ik weet
+[22:04:00] <Redhead> hey fiebselie ;(
+[22:04:03] <SCHAPiE> over stoned gesproken, ik steek net een SuperSilverHaze jointje op
+[22:04:06] <SCHAPiE> dus proost, in die zin
+[22:04:06] <Redhead> verkeerde smiley schat
+[22:04:10] <Redhead> :**
+[22:04:11] <Redhead> hehe
+[22:04:12] <Fiebel> rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrreddie
+[22:04:12] <Fiebel> :D
+[22:04:14] <Fiebel> :***
+[22:04:17] <Redhead> SCHAPiE: that`s irc
+[22:04:46] <SCHAPiE> hehe, indeed, kwam thuis, zette m'n PC aan, alle apps starten, en dan weglopen
+[22:04:57] <SCHAPiE> en dan kom je terug, staat alles klaar
+[22:05:03] <SCHAPiE> incl notificaties
+[22:07:05] * Redhead doet met schaapie mee , ff rolle
+[22:07:20] <SCHAPiE> lekker, een indica'tje of sativa'tje?
+[22:07:25] <Redhead> mix
+[22:07:42] <Redhead> 70%sativa schat ik
+[22:07:50] <Redhead> fijn goedje
+[22:07:58] <Redhead> nieuwe oogst ;p
+[22:08:02] *** Quits: Beer`__ (beer@5ED0808C.cm-7-1c.dynamic.ziggo.nl) (Exit)
+[22:08:05] <SCHAPiE> hehe, klinkt goed :P
+[22:08:08] <SCHAPiE> khaal het gewoon bij de shop
+[22:08:24] <SCHAPiE> wel The Greenhouse®, dus kwali++, dat wel
+[22:08:38] <SCHAPiE> zelf nooit verbouwd
+[22:08:49] <Redhead> als ik in adam ben ga ik alleen naar shops waar ik de eigenaar van ken en die roen zelf alleen pure thai , old school , bio
+[22:08:52] <Redhead> met zaadjes
+[22:08:59] <Redhead> de rest is eng tegewoordig
+[22:09:04] <Redhead> in de shops
+[22:09:21] <Redhead> vd zaadjes heb ik nu 3 babies staan :) weet nog niet wat eruit komt
+[22:09:48] <Redhead> s/roen/roken
+[22:10:02] <SCHAPiE> hehe, nice
+[22:10:09] <Redhead> greenhouse vertrouw ik niet
+[22:10:26] <SCHAPiE> ik wel, al een jaar of 16 klant daar
+[22:10:30] <Redhead> k
+[22:10:31] <Redhead> :)
+[22:10:35] <SCHAPiE> die eigenaar ook paar keer mee gechilled
+[22:10:40] <SCHAPiE> wel een goeie gozer
+[22:10:50] <Redhead> haha dat is understetement
+[22:10:52] <Redhead> gewoon dikke junk
+[22:10:53] <Redhead> hahahaha
+[22:11:02] <SCHAPiE> die Arjan is vrij lijp ja :P
+[22:11:10] <Redhead> ;))
+[22:11:24] <Redhead> maar ieder zn ding:) 
+[22:11:32] <SCHAPiE> yeah, het zit om de hoek he
+[22:11:41] <SCHAPiE> ik moet er langs lopen als ik naar de appie wil
+[22:11:47] <SCHAPiE> dus zodoende is de gewoonte ontstaan :P
+[22:12:07] <SCHAPiE> kan ik wel die extra 150 meter lopen, en 2 euro minder betalen voor een gram
+[22:12:17] <SCHAPiE> maar die is dan duidelijk minder goed gecured, gedroogd, minder sterk, etc
+[22:12:22] <Redhead> mja gaat mij echt niet om prijzen oid
+[22:12:27] <SCHAPiE> hun kwaliteitsniveau is echt opper
+[22:12:39] <SCHAPiE> neuh, mij ook niet
+[22:13:00] <Redhead> maar tegenwoordig is het zo commercieel als wat , weinig liefhebbers , veel geldwolven , geen controles op pesticiden en dergelijke ...dus daarom
+[22:13:10] <Redhead> ik ken zat kwekers
+[22:13:18] <Redhead> die kweken echt voor hun zelf apart
+[22:13:22] <Redhead> en voor de verkoop boosten
+[22:13:24] <SCHAPiE> dat is zeker zo
+[22:13:29] <Redhead> is gewoon busiess ice cold
+[22:13:37] <Redhead> +n
+[22:13:39] <Redhead> vandaar
+[22:14:16] <Redhead> dat is voor mij ook de reden om te zeggen: crimineel gedrag vd overheid om wel verkoop toe te staan maar dan niet hun werk doen
+[22:14:26] <Redhead> dus frigging legalize en doe je taak
+[22:14:34] <SCHAPiE> volledig mee eens
+[22:14:39] <SCHAPiE> legaliseren die handel
+[22:14:41] <Redhead> bier en wijn mag ook niet met koelvloeistof ed
+[22:14:58] <Redhead> k noem maar n dwarsstrata
+[22:15:13] *** Quits: inka (Mibbit@5ED7C51E.cm-7-8d.dynamic.ziggo.nl) (Exit)
+[22:15:25] <SCHAPiE> mja alcohol, ik ben er eigenlijk geen fan meer van
+[22:15:33] <Redhead> ik ook niet 
+[22:15:37] <SCHAPiE> ik rook liever wiet
+[22:16:01] <SCHAPiE> van één biertje, 1, kan ik ook nauwelijks genieten
+[22:16:07] <Redhead> ik verheerlijk geen ene drug
+[22:16:28] <Redhead> doseren doseren doseren geldt voor alles in het leven ;)
+[22:16:30] <SCHAPiE> ik ga gelijk te hard, met alles
+[22:16:32] <SCHAPiE> :P
+[22:16:36] <Redhead> en niet voor iedereenis wiet een goede zaak
+[22:17:03] <Redhead> voor sommigen is dat net zo gif als voor anderen alcohol bijv of coke 
+[22:17:08] <Fem_LittleLady> Och vind het wel een leuke plant voor in de vensterbank
+[22:17:09] <Redhead> oid
+[22:17:11] <SCHAPiE> alcohol doseren vind ik erg moeilijk
+[22:17:48] <Redhead> mja , zelfkennis toepAssen eh
+[22:17:51] <Redhead> :)
+[22:17:57] <SCHAPiE> yep
+[22:18:05] <SCHAPiE> dat bewustzijn is er inmiddels wel, gelukkig
+[22:18:11] <Redhead> beter :)
+[22:18:17] <Redhead> stap 1
+[22:18:19] <Redhead> haha
+[22:19:27] <Redhead> https://www.youtube.com/watch?v=XNcH2Zzg8mk
+[22:19:28] <digibot> Title: DAVID BOWIE & FOO FIGHTERS - Hallo Spaceboy - YouTube (at www.youtube.com)
+[22:19:30] <SCHAPiE> kheb uit variatie-motieven, wel 2 biertjes gehaald vandaag
+[22:19:42] <SCHAPiE> drink gewoonlijk helemaal niet meer
+[22:20:22] <Redhead> och met 2 kun je je geen breuk vallen
+[22:20:25] <Redhead> ;p
+[22:20:29] <SCHAPiE> maar telkens bij het voedsel aanschaffen zag ik ze staan, en ik ken ze nog niet
+[22:20:36] <Redhead> alhoewel , kan ook , als t verkeerd valt hihi
+[22:20:38] <SCHAPiE> eentje uit Kansas City, andere uit Nieuw Zeeland
+[22:20:56] <Redhead> :)
+[22:21:00] <SCHAPiE> en vandaag dacht ik: fock die shit, ik haal ze gewoon
+[22:21:06] <Redhead> welja
+[22:21:11] <SCHAPiE> zo maar eens eentje openen
+[22:21:19] <SCHAPiE> beide een IPA, qua bierstyle
+[22:21:25] <Redhead> cheers
+[22:23:26] <SCHAPiE> bbl
+[22:30:33] *** Quits: Guyver2 (Guyver2@guyver2.xs4all.nl) (Ping timeout: 66 seconds)
+[22:32:13] <wirky> nn
+[22:32:17] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Exit)
+[22:35:14] *** Quits: mijk (mijk@218-245-144-85.ftth.glasoperator.nl) (Ping timeout: 67 seconds)
+[22:43:46] *** Quits: Fem_LittleLady (Mibbit@a82-161-112-138.adsl.xs4all.nl) (Exit)
+[22:43:47] <SCHAPiE> muziekje erbij
+[22:43:47] <moppersmurf> ik ben er
+[22:43:47] <Pandora> gezellig, moppersmurf is er!
+[22:44:03] <SCHAPiE> woei, het is moppersmurf 
+[22:46:53] *** Quits: Jeroen (Jeroen@54188FF8.cm-5-1c.dynamic.ziggo.nl) (Exit)
+[22:57:07] <Redhead> ondertussen fruitsalade gemaakt met warme vanillesaus
+[22:57:10] <Redhead> nomnomnom
+[22:58:01] <Redhead> appel , banaan , sinaasappel , rode pompelmoen en mispels 
+[23:03:50] <moppersmurf> omnomnom
+[23:18:02] *** Joins: Beer`__ (beer@31.161.137.116)
+[23:35:00] *** Quits: Andros (Andros@248.151-244-81.adsl-dyn.isp.belgacom.be) (Ping timeout: 60 seconds)
+[23:36:10] *** Joins: Andros (Andros@248.151-244-81.adsl-dyn.isp.belgacom.be)
+[23:36:21] *** Joins: Vipertje (tweak@54182E79.cm-5-1a.dynamic.ziggo.nl)
+[23:38:34] <SCHAPiE> nice, ik hier een reguliere salade
+[23:39:39] <SCHAPiE> waterkers, veldsla, tomaat, sjalot, serranopeper, tuinkers, zout, zwarte peper, cayennepeper, citroensap, paar drupjes Tapatío, scheutje olijfolie
+[23:40:32] <SCHAPiE> goed spicy iig :P
+[23:42:24] *** Joins: rhod (rhod@86.85.193.196)
+[23:43:47] *** Quits: Fe2O3 (Fe2O3@h70248.upc-h.chello.nl) (Exit)
+[23:46:59] <moppersmurf> lekker men
+[23:53:56] *** Quits: Fiebel (PrincessCo@d77048.upc-d.chello.nl) (Exit)
+[23:54:40] *** Quits: Andros (Andros@248.151-244-81.adsl-dyn.isp.belgacom.be) (Ping timeout: 68 seconds)
+[23:58:15] *** Quits: rhod (rhod@86.85.193.196) (Exit)

@@ -1,0 +1,972 @@
+[00:00:13] *** Quits: BeerLT`_ (beer@193.172.46.138) (Ping timeout: 60 seconds)
+[00:02:31] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[00:02:51] *** Joins: BeerLT`_ (beer@84.241.194.145)
+[00:04:40] *** Quits: BeerLT`_ (beer@84.241.194.145) (Ping timeout: 67 seconds)
+[00:05:12] *** Joins: BeerLT`_ (beer@84.241.194.145)
+[00:09:21] *** Joins: BD (ok@ftth-083-247-022-153.solcon.nl)
+[00:14:31] *** Quits: coreblink (coreblink@145.132.131.160) (Exit)
+[00:18:57] *** Quits: Fe2O3 (Fe2O3@h70248.upc-h.chello.nl) (Exit)
+[00:20:10] *** Quits: botfather (dunker@shell1.dds.nl) (Ping timeout: 60 seconds)
+[00:20:10] *** Quits: bReChThOu (bReChThOu@cloud.brechthouben.be) (Ping timeout: 66 seconds)
+[00:20:56] *** Joins: botfather (dunker@shell1.dds.nl)
+[00:21:05] <BD> hoi
+[00:24:13] *** Joins: bReChThOu (bReChThOu@cloud.brechthouben.be)
+[00:33:34] *** Quits: SCHAPiE (dorian@dhcp-077-249-247-124.chello.nl) (Exit)
+[01:09:03] <rawplayer> hoi
+[01:15:31] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[01:17:45] *** Quits: Guyver2 (Guyver2@guyver2.xs4all.nl) (Exit)
+[01:34:09] *** Joins: coreblink (coreblink@145.132.131.160)
+[01:35:40] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[02:00:47] *** Quits: Metalfrost (Metalfrost@tsn109-201-152-16.dyn.nltelcom.net) (Exit)
+[02:08:54] *** Quits: Stuiterbal (Stuit@2001:980:5281:1:21f7:dc98:e25f:a795) (Exit)
+[02:14:54] *** Quits: BD (ok@ftth-083-247-022-153.solcon.nl) (Exit)
+[02:25:20] *** tozzatinprogress is now known as tozzatsucceeded
+[02:30:50] *** Joins: Salvad0R (asdfer@524BFA43.cm-4-4d.dynamic.ziggo.nl)
+[02:31:24] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[02:41:52] <Salvad0R> https://www.youtube.com/watch?v=vArod_Vp2AM
+[02:41:53] <digibot> Title: Payday Monsanto - The Sacrifice - YouTube (at www.youtube.com)
+[02:46:52] *** Quits: Hepp (Geert@torino.marketimedia.nl) (Ping timeout: 60 seconds)
+[02:50:51] *** Joins: Hepp (Geert@torino.marketimedia.nl)
+[02:56:40] *** Quits: Vipertje (tweak@54182E79.cm-5-1a.dynamic.ziggo.nl) (Connection reset by peer)
+[03:06:09] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[03:34:09] <wirky> sup
+[03:45:17] *** Quits: welly7 (willy@ip503c7f23.speed.planet.nl) (Ping timeout: 61 seconds)
+[03:45:24] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Ping timeout: 66 seconds)
+[03:46:20] *** Joins: welly7 (willy@ip503c7f23.speed.planet.nl)
+[03:48:19] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[03:59:50] <wirky> dna-enhancing
+[04:51:45] *** Quits: BeerLT`_ (beer@84.241.194.145) (Ping timeout: 66 seconds)
+[04:52:05] *** Joins: BeerLT`_ (beer@193.172.46.138)
+[04:59:53] *** Quits: Salvad0R (asdfer@524BFA43.cm-4-4d.dynamic.ziggo.nl) (Exit)
+[05:02:12] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[05:03:00] *** Quits: coreblink (coreblink@145.132.131.160) (Ping timeout: 61 seconds)
+[05:03:21] *** Joins: coreblink (coreblink@145.132.131.160)
+[05:06:29] *** Quits: NoBody (Pipo@185.47.132.207) (Exit)
+[05:19:31] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[05:36:03] *** Quits: milkshake (textual@76-14-185-84.wsac.wavecable.com) (Ping timeout: 60 seconds)
+[05:47:41] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[05:52:41] *** Quits: BeerLT`_ (beer@193.172.46.138) (Ping timeout: 60 seconds)
+[05:53:06] *** Joins: BeerLT`_ (beer@193.172.46.138)
+[06:01:11] <wirky> sup vogels
+[06:24:45] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[06:31:23] *** Quits: BeerLT`_ (beer@193.172.46.138) (Ping timeout: 66 seconds)
+[07:31:15] *** Quits: Hooglander1 (Hoog@isleet.nl) (Exit)
+[07:33:44] *** Joins: Hooglander1 (Hoog@isleet.nl)
+[07:36:57] <zovty> Och jongens wat een nacht.
+[07:37:00] <zovty> Niet normaal.
+[07:37:08] <zovty> Eerst naar bed.
+[07:38:44] *** Joins: Fiebel (PrincessCo@d77048.upc-d.chello.nl)
+[07:38:47] <Fiebel> kbener
+[07:55:48] <zovty> Fabis.
+[07:55:57] <zovty> Bonjour mon cherie.
+[07:56:06] <Fiebel> aaaaaaaaaaaah zovtieeeeeeeeee
+[07:56:10] <Fiebel> tu a en vie!
+[07:56:23] <zovty> Ik ben in beeld?
+[07:56:27] <Fiebel> ja 
+[07:56:30] <Fiebel> je leeft :")
+[07:56:30] <zovty> Ok.
+[07:56:32] <Fiebel> poging tot
+[07:56:34] <Fiebel> gihgihghigghigigh
+[07:56:35] <zovty> Ah.
+[07:56:38] <zovty> Ici is hier.
+[07:56:39] <Fiebel> wat spreek ik nou frans joh
+[07:56:45] <zovty> Ja daarom.
+[07:57:01] <Fiebel> rawplayer en ik dachten dat je dood was
+[07:57:06] <Fiebel> mogelijk
+[07:57:13] <zovty> Oh, vergissen is menselijk he.
+[07:57:17] <zovty> Of.
+[07:57:17] <Fiebel> is ook
+[07:57:19] <Fiebel> is ook zo
+[07:57:22] <zovty> Vergis ik me en ben ik ook dood?
+[07:57:22] <Fiebel> is ook gewoon zo
+[07:57:23] <zovty> :{
+[07:57:26] * Fiebel prikt
+[07:57:31] <Fiebel> hoeveel vingers steek ik op?
+[07:57:36] <zovty> 1.
+[07:57:45] <Fiebel> goed genoeg
+[07:57:49] <zovty> Of je bent gewoon heel blij om mij te zien.
+[07:57:53] <zovty> Hjihiihihhiihhiihhihiihhihihihihihihiih.
+[07:57:56] <zovty> Snap je wat ik daar suggereer?
+[07:57:57] <Fiebel> hurpduyrp
+[07:58:01] <Fiebel> hihiiihihiiihiiiiiihihihih
+[07:58:04] <Fiebel> penis
+[07:58:13] <zovty> Thihihihihihihihihihiihhihiih.
+[07:58:14] <zovty> Och jongens.
+[07:58:17] <zovty> Penii zijn zo lekker.
+[07:58:19] <Fiebel> hiiiiihiihiiihihiihihihihihihhiih
+[07:58:20] <zovty> Kun je zo fijn mee spelen.
+[07:58:33] <Fiebel> vooral lekker glad geschore
+[07:58:44] <zovty> Och heerlijk.
+[07:58:49] <Fiebel> net een vers ut eise vogeltje
+[07:58:50] <zovty> Zo van die gladde zachte balletjes.
+[07:58:52] <zovty> Dat is zo fijn he.
+[07:58:55] <Fiebel> tjieptjiep
+[07:59:27] <zovty> Vogels zijn al vroeg wakkker.
+[07:59:28] <zovty> Jij ook trouwens.
+[07:59:36] <zovty> Maar jij zit nog niet zo te tjippen.
+[07:59:37] <Fiebel> ikke wel
+[07:59:38] <zovty> +1 voor jou.
+[07:59:40] <Fiebel> lekker wurmen vangen!!!!
+[07:59:53] <zovty> De vroege vogel vangt de worm.
+[08:00:01] <Fiebel> lekker beschuit met wormen
+[08:00:02] <zovty> Ik moet kakken.
+[08:00:07] <zovty> Maar er kan ook zo een visite komen.
+[08:00:13] <Fiebel> oei!!!!!!!
+[08:00:15] <Fiebel> oei!!!!!!!!!!!!!!!!!!!!!!!!!
+[08:00:19] <zovty> Maar dat kan tot 12 uur.
+[08:00:21] <zovty> Dus dat is lastig.
+[08:00:32] <Fiebel> het hele leven is lastig
+[08:00:37] <Fiebel> vind ik persoonlik
+[08:00:38] <zovty> En tot 13:30 kan er nog ee nandere visite komen.
+[08:00:40] <zovty> Ja is ook.
+[08:00:42] <Fiebel> ocherm
+[08:00:43] <zovty> Is ook gewoon lastig.
+[08:00:46] <Fiebel> wat doe je jezelf ook aan
+[08:00:47] <zovty> Ik ga maar ff gauw.
+[08:00:49] <zovty> Jajoh.
+[08:00:54] <Fiebel> zet hem op!!
+[08:07:03] <zovty> Och jongens toch.
+[08:07:08] <zovty> Wat is het toch fijn om leeg te zijn.
+[08:07:25] <Fiebel> nu kun je er nootjes instoppen!!
+[08:07:33] <zovty> in me kont?
+[08:07:35] <zovty> :?
+[08:07:39] <Fiebel> dan kan niemand ze ooit vinden
+[08:07:42] <Fiebel> HIER TRAP IK DUS NIET IN!!!!!!!!!
+[08:07:49] <zovty> Dat weet je niet...
+[08:07:53] <Fiebel> nee iso ok
+[08:07:55] <Fiebel> is ook zo
+[08:07:57] <Fiebel> is ook gewoon zo
+[08:08:00] <zovty> Ja toch.
+[08:08:27] <zovty> Ik snap er echt geen kont van.
+[08:08:35] <Fiebel> van de leef?
+[08:08:40] <zovty> Nee.
+[08:08:45] <zovty> Maar ook van die heel die arduino shit.
+[08:08:55] <zovty> Hebbe nze nou hun eigenlijk compiler gemaakt?
+[08:08:56] <Fiebel> o ik weet niet eens wat dat is joh
+[08:09:01] <zovty> Op basis van gcc?
+[08:09:15] <Fiebel> vraag zo maar even aan rawplayer
+[08:09:17] <Fiebel> die weet dat wel
+[08:09:20] <zovty> Oh, weet je wat misschen ook wel een interessante dingus is om te leren; nodejs.
+[08:09:28] <zovty> Dat is javascript voor (server) applicaties.
+[08:09:28] <Fiebel> hhhihihihihihihih
+[08:09:30] <Fiebel> nondeju
+[08:09:33] <Fiebel> hhhihihihihihihihihih
+[08:09:40] <zovty> Heel erg populair op het moment.
+[08:09:42] <Fiebel> ik weet niet eens wat een serverapplicatie is
+[08:09:44] <Fiebel> ihihihihihih
+[08:09:53] <zovty> Nou gewoon, google bijvoorbeeld.
+[08:09:58] <zovty> Of facebook.
+[08:10:00] <Fiebel> google vinnik zo lief
+[08:10:05] <zovty> Of twitter.
+[08:10:05] <Fiebel> heb altijd zo een leuk plaatje
+[08:10:08] <Fiebel> lief en geestig
+[08:10:10] <zovty> Ja.
+[08:10:11] <Fiebel> aak
+[08:10:12] <Fiebel> vaak
+[08:10:24] <zovty> Gisteren een vlammetje vor onze bevreidingsdag.
+[08:10:33] <Fiebel> buuuuuuuuuuurn motherfucker
+[08:10:35] <Fiebel> buuuuuuuuuuuuuuuuuurn
+[08:10:41] <zovty> Vink gewoon symphatiek.
+[08:10:44] <Fiebel> is ook
+[08:10:46] <Fiebel> is ook gewoon zo
+[08:10:47] <zovty> Neejoh, dast logo van die hele ellende.
+[08:10:54] <zovty> Van geef de fakkel van de vrijheid door.
+[08:10:58] <zovty> Zoiets.
+[08:11:05] <zovty> NOU WAAR DIE FAK IS DAN DIE VRIJHEID?
+[08:11:14] <Fiebel> weet ik het kind
+[08:11:20] <Fiebel> de tredmolen moet draaien he
+[08:11:21] <zovty> Lekker poepen.
+[08:11:23] <zovty> Lalalalallalaa.
+[08:11:27] <Fiebel> hmggggggggggggggggg
+[08:11:28] <zovty> Lekker poepen is zo fijn.
+[08:11:34] <Fiebel> vink ook
+[08:11:41] <zovty> Gisteren ammal nogal dikke paniek hier he.
+[08:11:42] <zovty> Jezus.
+[08:11:50] <Fiebel> ieeeeeeeeeeeeeeepieeeeeeeeeeeeeeeeeeeeeep
+[08:11:54] <Fiebel> ieeeeeeeeeeeeeeeeeeeeeeep
+[08:11:58] <zovty> Druk gedoe.
+[08:12:13] <Fiebel> *flapperflapperflapper*
+[08:12:13] <zovty> Bierbie houdt alles in de gaten.
+[08:12:19] <Fiebel> OI!!!
+[08:12:20] <Fiebel> OI!!!!!
+[08:12:21] <zovty> Nikt ontsnapt haar oog.
+[08:12:22] <Fiebel> OIOI!!!!!
+[08:12:26] <zovty> En anders vangt haar neusje het wel op.
+[08:12:31] <Fiebel> PFOE!!!
+[08:12:49] <zovty> Lekker naar buiten kijken.
+[08:12:52] <zovty> Dat is zo gezellig he.
+[08:12:58] <zovty> Lekker beetje kijken.
+[08:12:59] <Fiebel> watdoetdiedaar?
+[08:13:02] <Fiebel> waarisdiemeebezig?
+[08:13:06] <Fiebel> watgebeurtdaar?
+[08:13:07] <Fiebel> VOGEL!
+[08:13:28] <zovty> Spekkie.
+[08:13:34] <zovty> tis wel een beetje een spekkie.
+[08:13:38] <zovty> Ze zit strak in d'r velletje.
+[08:13:40] <Fiebel> peppie ook
+[08:13:48] <Fiebel> zo gezellig
+[08:13:53] <Fiebel> zo'n gezellig dikkerdje
+[08:14:12] <zovty> Padlarven zijnt.
+[08:14:17] <Fiebel> ja
+[08:14:28] <Fiebel> ik ga een keer haar pootjes afschroeven
+[08:14:40] <Fiebel> en een fotoshoot doen
+[08:14:54] <zovty> Gezellig.
+[08:15:12] <zovty> Enorm gezonde gedachte.
+[08:15:23] <zovty> Och och och.
+[08:15:26] <zovty> Er zat een vogel.
+[08:15:28] <zovty> Nou nou nou.
+[08:15:48] <zovty> Pieperdepiepieppiep.
+[08:17:37] <Fiebel> kweeeeekweeeekweeee
+[08:17:40] <Fiebel> kweehehehehrhrhrh
+[08:22:56] <zovty> J.
+[08:22:57] <zovty> ja.
+[08:22:58] <zovty> Ja.
+[08:23:00] <zovty> Hehe.
+[08:23:03] <zovty> Hihihihiihihihihih.
+[08:23:08] <zovty> Ik zou wel een lekker sigaretje lusten.
+[08:23:14] <Fiebel> och heerlijk
+[08:23:39] <zovty> En een lijntje.
+[08:23:46] <zovty> Een lekker lijntje coke en een safie na.
+[08:24:13] <Fiebel> och heerlijk
+[08:24:15] <Fiebel> en dan zo aaien
+[08:24:41] <zovty> Ja.
+[08:24:47] <zovty> Borstjes aaien.
+[08:25:09] <Fiebel> heerlijkheerlijkheerlijk
+[08:25:12] <Fiebel> wat een leven
+[08:26:42] <zovty> Jajoh.
+[08:32:16] <nomadz> whazza bitchess
+[08:32:33] <zovty> Nomads.
+[08:32:38] <zovty> Doe eens een beetje normaal.
+[08:32:59] <nomadz> wat is normaal en waarom?
+[08:34:49] <zovty> Normaal is de norm en we doen normaal omdat dat de norm is.
+[08:35:20] <nomadz> wanneer ga jij je aan de norm houden?
+[08:35:32] <Fiebel> nomy!
+[08:35:37] <Fiebel> ik heb koffie!
+[08:35:40] <nomadz> fiebjne!
+[08:35:40] <Fiebel> en een krakker
+[08:35:44] <nomadz> lekker hoor
+[08:35:47] <nomadz> doe maar luxe
+[08:35:52] <nomadz> ik heb geen van beiden
+[08:36:06] <nomadz> voor mij een reden om naar mn werk te gaan en daar te ontbijten
+[08:36:19] <zovty> Ik noem niemand bitches.
+[08:36:28] <zovty> Wat, hoe je het ook went of keert, een denigrerende term is.
+[08:36:41] *** Joins: Jeroen (Jeroen@ip82-139-124-155.lijbrandt.net)
+[08:36:54] <nomadz> "sup bitches" is anders een algemeen geaccepteerde groet tegenwoordig
+[08:36:56] <Fiebel> och erm
+[08:37:51] <nomadz> sup jeroen 
+[08:38:05] <nomadz> http://www.ad.nl/ad/nl/11604/Amerikaanse-Verkiezingen/article/detail/4295273/2016/05/06/Trump-Groot-Brittannie-is-beter-af-buiten-EU.dhtml
+[08:38:07] <digibot> Title: Trump: Groot-Brittannië is beter af buiten EU - AD.nl (at www.ad.nl)
+[08:38:57] <Jeroen> mogge
+[08:39:07] <Jeroen> haha trump
+[08:39:07] <Fiebel> ha jeroen
+[08:48:56] <nomadz> dus, 25 graden zometeen. ff passende kleren zoeken
+[08:48:59] <nomadz> en dan maar es pleitte
+[08:49:04] <nomadz> houdoe bitches
+[08:49:07] <nomadz> en fiebel 
+[08:52:41] <Fiebel> houdoe nomy!
+[08:54:50] <Fiebel> gihhhihihihihihihi
+[08:54:54] <Fiebel> ben ik er nog
+[08:54:55] <Fiebel> ben ik er nog
+[08:54:58] <Fiebel> ben ik er nog
+[08:55:00] <Fiebel> ben ik er nog
+[08:55:00] *** Fiebel was kicked by Pandora (Stop repeating yourself!)
+[08:55:00] *** Joins: Fiebel (PrincessCo@d77048.upc-d.chello.nl)
+[08:55:01] <Fiebel> ja
+[08:55:02] <Fiebel> ik ben
+[08:55:03] <Fiebel> er
+[08:55:07] <Fiebel> is fok stuk dan?
+[08:56:48] <WvdL> ben jij stuk?
+[08:56:55] <Fiebel> beyond repair 
+[08:56:59] <Fiebel> beyond repair W
+[09:06:37] <zovty> Visite is er nog niet.
+[09:06:46] <zovty> Had makkelijk saffies kunnen halen
+[09:06:47] <zovty> gvd.
+[09:06:53] <zovty> Afspraak = afsrpaak!
+[09:08:33] <Fiebel> och kiendje toch
+[09:08:34] <Fiebel> zoetma
+[09:09:08] <Fiebel> is toch een vieze gewoonte
+[09:09:09] <Fiebel> blehbahfies
+[09:11:21] <Fiebel> strijke strijke
+[09:12:36] <zovty> Wat?
+[09:12:43] <zovty> Oh.
+[09:12:44] <zovty> Jajoh
+[09:12:46] <zovty> Nou.
+[09:12:51] <zovty> Ik vind het eigenlijk toch wel lekker.
+[09:13:03] <Fiebel> is ook
+[09:13:05] <Fiebel> is ook zo
+[09:13:07] <Fiebel> is ook gewoon zo
+[09:13:52] <zovty> Ja.
+[09:13:58] <zovty> Och jongens toch.
+[09:14:04] <zovty> Zal ik nog een ontbijtje?
+[09:14:09] <Fiebel> welja
+[09:14:12] <zovty> Ja toch.
+[09:14:16] <Fiebel> je bent leeg!
+[09:14:19] <Fiebel> plek zat!!
+[09:14:20] <zovty> Yup.
+[09:14:27] <zovty> Ik heb al wel een smoothie op he
+[09:14:31] <zovty> Van 2 sinaasappels.
+[09:14:33] <zovty> 2 banaans.
+[09:14:38] <zovty> En 2 avocados.
+[09:14:46] <zovty> En whey.
+[09:14:51] <zovty> Lekker whey erbij.
+[09:15:01] <Fiebel> je moet er geen whey bij doen kind
+[09:15:05] <zovty> Nee?
+[09:15:17] <Fiebel> of ben je al begonnen met crossfitte?
+[09:15:25] <zovty> Neejoh :D.
+[09:15:28] <zovty> gek.
+[09:15:28] <zovty> gek kkind.
+[09:15:31] <Fiebel> nou dan
+[09:15:35] <zovty> Ja is ook
+[09:15:41] <Fiebel> voor alleen maar naar je werk fietsen heb je geen whey nodig hoor
+[09:16:01] <zovty> Neejoh.
+[09:25:21] <Fiebel> er is gisteren iets verskrikkelijks gebeurd
+[09:26:20] <zovty> Wat dan?
+[09:26:34] <zovty> Ben ej geslonken?
+[09:26:40] <Fiebel> ijn vriendinnetje heeft mij in mijn doeljurk gekregen
+[09:26:45] <Fiebel> nu ben ik volledig doelloos
+[09:26:47] <Fiebel> :<
+[09:26:54] <zovty> Dan ga je toch sparen voor een tv.
+[09:27:01] <Fiebel> ik heb al een tv
+[09:27:05] <zovty> GROTERE!
+[09:27:25] <Fiebel> och kind ik zou veel liever een kleinere hebben
+[09:27:26] <Fiebel> of deze weg
+[09:27:32] <zovty> Oh nou.
+[09:27:36] <Fiebel> mar als ik deze weg doe kan ik ook die 3 keer per jaar niet meer wii-en
+[09:27:40] <Fiebel> en ik krijg binnenkort een wii-u
+[09:27:43] <Fiebel> dus ik moet deze wel houden
+[09:27:44] <zovty> Ja.W
+[09:27:45] <zovty> Maar.
+[09:27:49] <zovty> Kijk je dan nooit tv?
+[09:27:49] <Fiebel> maar deze is ook al niet eens van mij
+[09:27:51] <Fiebel> nee
+[09:27:54] <Fiebel> nagenoeg nooit
+[09:27:55] <zovty> Jij zit ttoch altijd series te downloaden enzo?
+[09:27:58] <zovty> Kij ke jde p jelaport?
+[09:28:00] <Fiebel> ja
+[09:28:00] <Fiebel> ja
+[09:28:03] <zovty> Oh slehcht
+[09:28:05] <Fiebel> waarom
+[09:28:12] <zovty> Groter beeld is toch altijd beter fabis.
+[09:28:19] <zovty> En zo'n laptopje is toch geowon maar kut.
+[09:28:23] <zovty> Ga je helmeala krom van zitten.
+[09:29:10] *** Quits: Jeroen (Jeroen@ip82-139-124-155.lijbrandt.net) (Exit)
+[09:30:39] <Fiebel> mj
+[09:30:41] <Fiebel> mja
+[09:30:44] <Fiebel> ik vind dat lekkerder
+[09:34:10] <zovty> Lekker doen dan.
+[09:34:26] *** Joins: Guyver2 (Guyver2@guyver2.xs4all.nl)
+[09:34:41] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 66 seconds)
+[09:35:03] <Fiebel> ja toch?!
+[09:35:07] <Fiebel> ja toch zeker?!
+[09:35:07] <zovty> Jajoh.
+[09:35:09] <zovty> Ik moet nog eten.
+[09:35:20] <zovty> En me visite is er nog steeds niet.
+[09:35:22] <zovty> Ik haat dat.
+[09:35:25] <zovty> Kom geowon om 8 uur.
+[09:35:35] <zovty> En me andere visite is onderweg.
+[09:35:37] <zovty> Nounou.
+[09:35:39] <zovty> Wat een eer.
+[09:36:10] <Fiebel> och kind
+[09:36:12] <Fiebel> oooooooooooooch kind
+[09:36:15] <zovty> Jajoh.
+[09:36:16] <Fiebel> heb je worstebroodjes?
+[09:36:19] <zovty> Nee.
+[09:36:30] <zovty> Jij?
+[09:37:00] <zovty> Of heb je lekkere kadetjes?
+[09:37:03] <zovty> Hahahahahahahahahaahhahahahahahahhaha.
+[09:37:22] <WvdL> http://img-9gag-fun.9cache.com/photo/ab0w3mX_460s_v1.jpg
+[09:37:56] <Fiebel> hihihihihhiiiihhiihihihii
+[09:41:55] *** Joins: Jeroen (Jeroen@wlan-145-94-195-159.wlan.tudelft.nl)
+[09:42:01] *** Quits: Jeroen (Jeroen@wlan-145-94-195-159.wlan.tudelft.nl) (Exit)
+[09:52:12] *** Joins: Jeroen (Jeroen@wlan-145-94-195-159.wlan.tudelft.nl)
+[09:52:13] *** Joins: Andros (Andros@203.124-244-81.adsl-dyn.isp.belgacom.be)
+[09:54:02] <rawplayer> hoi
+[09:55:15] <rawplayer> ja stop anders met chatten
+[09:55:17] <rawplayer> omdat ik er ben
+[09:55:21] <rawplayer> zovty: 
+[09:56:42] <zovty> Ja.
+[09:56:48] <zovty> Ok.
+[09:56:52] <zovty> Ik wacht wel tot je weg bent dan.
+[09:56:54] <zovty> Sorry.
+[09:57:00] <rawplayer> :|
+[09:57:03] <rawplayer> waar was je gister
+[09:57:05] <rawplayer> je was weg
+[09:57:05] <rawplayer> opeens
+[09:57:08] <rawplayer> en ik wilde meeten
+[09:57:11] <rawplayer> leg maareens uit
+[09:59:13] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[10:03:11] <Fiebel> gihghihighigihgihghighig
+[10:03:13] <Fiebel> ik ben er weer
+[10:06:48] <rawplayer> oooo wat leuk
+[10:07:58] <Fiebel> WAAR ZIJN MIJN DROLLEN!!!!!!!!
+[10:08:00] <Fiebel> }:{
+[10:08:33] <rawplayer> ja dat moeti k ook zo
+[10:08:36] <rawplayer> koffie drinken
+[10:08:38] <rawplayer> goed kakken
+[10:08:42] <rawplayer> naar de naaiturk
+[10:08:49] <rawplayer> shoppen
+[10:08:51] <rawplayer> geld uitgeven
+[10:08:58] <rawplayer> pfffff als ik dit nu bedenk
+[10:09:01] <rawplayer> wat ik allemaal moet
+[10:09:09] <rawplayer> zonnenbank
+[10:12:44] <Spacecowboy> hoi
+[10:13:20] <rawplayer> hoi Spacecowboy 
+[10:13:25] <rawplayer> ik heb nog een beetje gehuild
+[10:14:05] <Spacecowboy> fijn
+[10:14:14] <Spacecowboy> ben je ook al ongesteld?
+[10:14:31] <rawplayer> nee
+[10:14:37] <rawplayer> alleen maar huilen
+[10:14:50] <Fiebel> ochochochoch
+[10:14:54] <Fiebel> oooooooochochcoh
+[10:14:55] <Fiebel> zoeeetmaaaa
+[10:15:59] <rawplayer> :|
+[10:16:11] *** Quits: TooL (x@ip172-92-210-87.adsl2.static.versatel.nl) (Ping timeout: 66 seconds)
+[10:16:33] <Spacecowboy> wanneer ga je je weer eens als een kerel gedragen? Beetje een wijf dat hol insleuren en kapottrekken? Bier drinken en kut roepen etc etc
+[10:17:43] <Fiebel> och heerlijk
+[10:17:45] <Fiebel> potje havermout
+[10:17:46] <Fiebel> wat een mooi leven
+[10:23:21] <zovty> Zo.
+[10:23:21] <zovty> Nou.
+[10:23:25] <zovty> Visite #1 is alweer weg.
+[10:23:32] <rawplayer> Spacecowboy: ja joh
+[10:23:36] <rawplayer> ik ben niet meer op de markt
+[10:23:37] <zovty> Natuurlijk belde hij aan precies toen mijn spek en owrst en eitjes in de pan lagen.
+[10:23:41] <zovty> Nu weer wachten op visite #2.
+[10:23:42] <Fiebel> omdat je geen worstebroodje gaf
+[10:23:48] <zovty> Wat?
+[10:23:58] <rawplayer> Fiebel: zovty heeft mij op ignore
+[10:24:03] <zovty> Jajoh.
+[10:24:08] <zovty> Ik negeer die jongen gewoon.
+[10:24:09] <zovty> Sjesus.
+[10:24:10] <rawplayer> hij geeft gewoon geen antwoord
+[10:24:13] <rawplayer> op mijn vragen
+[10:24:20] <zovty> Ik geef hem gewoon geen antwoord op z'n vele vrfagen.
+[10:24:29] <Spacecowboy> [10:23:36]  <rawplayer>	ik ben niet meer op de markt
+[10:24:32] <Spacecowboy> fuck de markt
+[10:24:35] *** Joins: TooL (x@ip172-92-210-87.adsl2.static.versatel.nl)
+[10:25:31] *** Joins: CoolGuy (Sentinel@541D7070.cm-5-6b.dynamic.ziggo.nl)
+[10:25:50] <zovty> Hoezo is hij niet meer op de markt?
+[10:26:42] <CoolGuy> mogguh
+[10:26:48] *** Joins: Stuiterbal (Stuit@2001:980:5281:1:21f7:dc98:e25f:a795)
+[10:26:57] <rawplayer> hoi Stuiterbal 
+[10:26:59] <zovty> Hoi stuiterbal.
+[10:27:03] <zovty> Nog maar 9 uurtjes.
+[10:27:05] <zovty> Of 10.
+[10:27:07] <Stuiterbal> Dan wat.
+[10:27:10] <Stuiterbal> Oh, BF.
+[10:27:12] <zovty> Dan is het weer tijd he.
+[10:27:24] <zovty> Tijd voor jouw hoogtepuntje.
+[10:27:30] <zovty> of eignelijk ons aller hoogtepuntje.
+[10:27:32] <Stuiterbal> http://www.battlefield.com/event
+[10:27:34] <digibot> Title: Battlefield World Premiere (at www.battlefield.com)
+[10:27:39] <CoolGuy> #($#$)*(#&%
+[10:27:45] <CoolGuy> kut iphone, kut itunes, kut apple :@@@
+[10:27:53] <Stuiterbal> Apple is kut, ja.
+[10:28:02] <CoolGuy> ja, vertel dat tegen mn vriendin
+[10:28:06] <CoolGuy> godsgloeiende
+[10:28:17] *** Quits: Hooglander1 (Hoog@isleet.nl) (Ping timeout: 66 seconds)
+[10:28:21] <zovty> :|
+[10:28:27] <zovty> Jullie kunnen er gewoon niet mee omgaan.
+[10:28:37] * Stuiterbal blaast nu Dio - Rock & Roll - 05 - Duivelszoon (feat. Big2 & Sjaak) door speakers.
+[10:28:41] <CoolGuy> dat kan zijn hoor
+[10:28:52] <Fiebel> ochjonges
+[10:28:55] <Fiebel> even zitte hoor
+[10:28:57] <Fiebel> goed zitte
+[10:28:57] <CoolGuy> maar ik krijg die godverdomde data niet gebackupped en overgezet naar dr nieuwe iphone
+[10:29:03] *** Joins: Hooglander1 (Hoog@2001:984:ef56:1:211:32ff:fe51:1415)
+[10:29:20] <zovty> Zit je wel op de goeie icloud account?/
+[10:29:26] <CoolGuy> ja
+[10:29:30] <zovty> Zeker weten?
+[10:29:32] <CoolGuy> dus ik zet alles aan BEHALVE fotos
+[10:29:35] <CoolGuy> ja 100%
+[10:29:39] <rawplayer> haha apple
+[10:29:42] <CoolGuy> ik wil fotos niet gebackupped hebben
+[10:29:45] <CoolGuy> nou prima
+[10:29:47] <CoolGuy> je hebt 5gig
+[10:29:49] <CoolGuy> hij begint
+[10:29:58] <CoolGuy> komt ie met de melding dat je maar 5 gig hebt en dat bijna vol is
+[10:30:04] <CoolGuy> aan wat, motherfucker, je bent toch die fotos aan t doen
+[10:30:27] <zovty> Fotostream.
+[10:30:28] <rawplayer> zullen we CoolGuy ff knufflen
+[10:30:28] <CoolGuy> dus ik denk, oke, forget icloud, ik maak gewoon lokaal een backup van de gehele iphone
+[10:30:38] <CoolGuy> moet je locatiebepaling uitzetten
+[10:30:39] <CoolGuy> prima
+[10:30:40] <CoolGuy> uitgezet
+[10:30:46] <CoolGuy> komt ie met 'error'
+[10:30:49] <CoolGuy> niet wat, of waarom
+[10:30:49] <rawplayer> zovty: heb jij nog gehuild
+[10:30:52] <CoolGuy> nee, error
+[10:31:13] <CoolGuy> zo moeilijkj kan t toch niet zijn om die rotzooi over te zetten exclusief foto's,
+[10:32:15] <rawplayer> heb je de itunes backup license geactivveerd
+[10:33:06] <Jeroen> je kan ook even de foto's van icloud trekken en dan overzetten
+[10:33:24] <CoolGuy> IK niet, maar ik heb zelf geen iphone, zij heeft al jaren iphone, ik weet er niks van. Als zij het niet heeft gedaan, dan niet, maar dat verklaard niet waarom hij wel begint, en dan komt met de melding dat de 5 gig van icloud bijna vol is, 4,750mb vol ofzo, dus hij doet wel IETS. alleen, als ik dan in haar icloud kijk, is die volledig leeg.
+[10:33:55] <Spacecowboy> [10:31:13]  <CoolGuy>	zo moeilijkj kan t toch niet zijn om die rotzooi over te zetten exclusief foto's,
+[10:33:57] <CoolGuy> nee kijk, die fotos die kun je ook van de phone af halen gewoon via usb, kopieren zeg maar
+[10:33:58] <Spacecowboy> nieuwe iphone aanzetten
+[10:34:00] <CoolGuy> dat heb ik dus gedaan
+[10:34:02] <CoolGuy> die fotos zijn safe
+[10:34:03] <Spacecowboy> restore from previous backup
+[10:34:05] <Spacecowboy> klaar
+[10:34:14] <CoolGuy> ik wil gewoon de contacten, mail, etc, overzetten naar de cloud
+[10:34:18] <Spacecowboy> ^^
+[10:34:19] <Fiebel> ik wil ook van alles
+[10:34:24] <Fiebel> maar je krijgt niet altijd wt je wil
+[10:34:29] <Fiebel> ze zeggen dat je krijgt wat je nodig hebt
+[10:34:32] <Fiebel> maar daar geloof ik niet zo in
+[10:34:32] <Spacecowboy> ik ga zo ff bij de giro kijken
+[10:34:36] <rawplayer> nice
+[10:34:43] <Spacecowboy> kijken of we tom dumoulin aan n overwinning kunnen helpen
+[10:34:47] <CoolGuy> vanavond maar opnieuw proberen
+[10:34:56] <Spacecowboy> CoolGuy die je het vanaf een windows pc?
+[10:35:01] <CoolGuy> ja
+[10:35:03] <CoolGuy> windows pc idd
+[10:35:08] <Spacecowboy> sja
+[10:35:15] <Spacecowboy> :P
+[10:35:18] <CoolGuy> :P
+[10:35:20] <Spacecowboy> nee maar ff zonder gekheid
+[10:35:23] <Spacecowboy> methode boven lukte niet?
+[10:35:41] <CoolGuy> er IS geen previous backup
+[10:35:46] <CoolGuy> ze heeft nog nooit gebackupped
+[10:35:52] <CoolGuy> ze heeft een iphone 5
+[10:35:55] <CoolGuy> al voor ik haar kende
+[10:36:01] <CoolGuy> dus ik vroeg haar wat wil je voor je verjaardag
+[10:36:03] <CoolGuy> ja ik weet niks
+[10:36:07] <CoolGuy> oke, dan maar nieuwe 6s
+[10:36:16] <Spacecowboy> dan maak je daar nu toch een backup van
+[10:36:21] <Spacecowboy> probleem opgelost
+[10:36:21] <CoolGuy> allemaal leuk, maar dat backuppen gaat dus tot nu toe niet succesvol
+[10:36:28] <CoolGuy> ja ik wil nu ook een backup doen
+[10:36:32] <CoolGuy> en dan de 5 loshalen
+[10:36:34] <CoolGuy> 6 aansluiten
+[10:36:37] <CoolGuy> en dan restore backup
+[10:36:43] <CoolGuy> zodat alles van haar 5, op de 6s staat
+[10:36:49] <CoolGuy> maar dus niet de fotos
+[10:36:53] <CoolGuy> want ze heeft 8 gig aan fotos
+[10:36:56] <CoolGuy> dat hoeft niet
+[10:37:00] <CoolGuy> alles zonder de fotos dus
+[10:37:02] <Spacecowboy> dat gebeurt gelijk al zodra je inlogt met icloud
+[10:37:04] <CoolGuy> maar die backup, dat wil nog niet
+[10:37:38] <CoolGuy> ja hij zegt idd wel synchroniseren
+[10:37:39] <Spacecowboy> maargoed
+[10:37:42] <Spacecowboy> #apple
+[10:37:50] <Spacecowboy> ik ga even koffie pakken
+[10:37:53] <CoolGuy> en dan komt ie met de vraag of ik apps uit de appstore wil backuppen ofzo. ja, wil k ook, en dan houdt t op
+[10:38:03] <zovty> Bijna niet meer player.
+[10:38:06] *** Quits: Jeroen (Jeroen@wlan-145-94-195-159.wlan.tudelft.nl) (Ping timeout: 66 seconds)
+[10:38:07] <zovty> Alleen gisteren nog even heel erg.
+[10:38:25] <Fiebel> :<
+[10:39:01] <zovty> En jij fabis?
+[10:39:07] <zovty> Wanneer waren jouw laatste traantjes?
+[10:39:11] <Fiebel> ikke niet
+[10:39:12] <Fiebel> in de bios denk ik
+[10:39:15] <zovty> Och och, kleine stoerderik.
+[10:39:18] <zovty> Oh, maar dat is niet echt.
+[10:39:20] *** Joins: Jeroen (Jeroen@wlan-145-94-195-159.wlan.tudelft.nl)
+[10:39:21] <Fiebel> nee
+[10:39:21] <Fiebel> is ook zo
+[10:39:23] <zovty> Dat zijn geleende emoties.
+[10:39:25] <Fiebel> ja
+[10:39:26] <Fiebel> is ook
+[10:39:42] <Fiebel> dan op een gebrabenis
+[10:40:01] <Fiebel> denk ik
+[10:40:02] <Fiebel> ik hou dat nooit zo bij
+[10:40:04] <Fiebel> in mijn excelletje
+[10:40:07] <Fiebel> ik ga nu weg
+[10:40:09] <Fiebel> god zij met jullie
+[10:40:11] *** Quits: Fiebel (PrincessCo@d77048.upc-d.chello.nl) (Exit)
+[10:42:04] <wirky> 12h sta ik op t naaktstrand geplent
+[10:42:21] <wirky> een show
+[10:42:50] <Stuiterbal> Sure
+[10:43:01] <Stuiterbal> Ik heb dan een meet in het witte huis.
+[10:43:27] <wirky> probeer die verbinding te maken
+[10:43:41] <Stuiterbal> wirky<>naaktstrand?
+[10:43:42] <Stuiterbal> Nee, liever niet.
+[10:44:07] <wirky> je weet werkelijk niet wat je mist
+[10:44:16] <Stuiterbal> Klopt.
+[10:44:38] <wirky> ik doe niet vaak shows meer he
+[10:44:39] <Spacecowboy> weet je wat ook klopt?
+[10:44:57] <wirky> heb me een beetje uit t publieke terein teruggetrokken
+[10:45:25] <rawplayer> mijn oren zij nweer openenr
+[10:45:26] <rawplayer> WOEI
+[10:45:29] <rawplayer> ik hoor weer
+[10:45:30] <rawplayer> O+ O+ O+ O+
+[10:45:33] <rawplayer> jaaaa
+[10:45:41] <CoolGuy> oren laten uitspuiten?
+[10:45:41] <rawplayer> lalalaalalala
+[10:45:43] <rawplayer> ECHO ECHO ECHO
+[10:45:44] <rawplayer> nee
+[10:45:48] <rawplayer> dikke verkoudheid
+[10:45:54] <CoolGuy> das kut
+[10:45:58] <rawplayer> ja :<
+[10:46:10] <rawplayer> en fak ik heb spierpijn
+[10:46:13] <rawplayer> schijt crossfit
+[10:46:15] <Spacecowboy> wijf
+[10:46:16] <CoolGuy> maar, net op tijd voor het mooie weer weer aan de beterende hand dus :)
+[10:46:24] <rawplayer> dadelijk ff naar mijn naaiturk
+[10:46:32] <CoolGuy> je...naai..turk?
+[10:46:35] <rawplayer> 2 broeken laten uitnemen
+[10:46:39] <rawplayer> zodat mijn dikke pens er in past
+[10:46:45] <CoolGuy> whehe
+[10:46:46] <rawplayer> nee grapje
+[10:46:51] <rawplayer> halve cm korter laten maken
+[10:46:54] <rawplayer> of een cm
+[10:47:21] <zovty> Kun je niet beter gewoon een beetje groeien?
+[10:48:06] <CoolGuy> ja, gewoon effe wat langer worden
+[10:49:30] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 61 seconds)
+[10:50:22] *** Quits: Beer`__ (beer@5ED0808C.cm-7-1c.dynamic.ziggo.nl) (Connection reset by peer)
+[10:52:58] <CoolGuy> hm, dat Ratchet & Clank is niet z� leuk als ik gehoopt had
+[10:54:19] *** Quits: Andros (Andros@203.124-244-81.adsl-dyn.isp.belgacom.be) (Ping timeout: 66 seconds)
+[10:54:22] *** Joins: Fokker_6511 (Mibbit@ip-213-49-251-191.dsl.scarlet.be)
+[10:55:39] <Fokker_6511> ewel ewel ewel mannekes???
+[10:55:55] <Spacecowboy> zeker
+[10:55:56] <Spacecowboy> zeker
+[10:59:19] <rawplayer> zo
+[10:59:21] <rawplayer> koffie
+[10:59:23] <rawplayer> havermout
+[10:59:28] <rawplayer> dadelijk sportschool
+[10:59:43] <rawplayer> en hard schijten
+[10:59:46] *** Joins: johan (Mibbit@ip54-233-208-87.adsl2.static.versatel.nl)
+[11:00:52] <rawplayer> zovty: 
+[11:00:54] <rawplayer> waar was je gister
+[11:00:57] <rawplayer> ik wilde met jou naar tilburg
+[11:00:59] <rawplayer> of den bosch
+[11:01:48] *** Quits: johan (Mibbit@ip54-233-208-87.adsl2.static.versatel.nl) (Exit)
+[11:03:08] *** Joins: johan (Mibbit@ip54-233-208-87.adsl2.static.versatel.nl)
+[11:03:45] *** Quits: Fokker_6511 (Mibbit@ip-213-49-251-191.dsl.scarlet.be) (Exit)
+[11:06:16] *** Quits: johan (Mibbit@ip54-233-208-87.adsl2.static.versatel.nl) (Exit)
+[11:14:39] *** tozzatsucceeded is now known as tozzert
+[11:19:26] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Exit)
+[11:26:23] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[11:26:45] *** Quits: CoolGuy (Sentinel@541D7070.cm-5-6b.dynamic.ziggo.nl) (Exit)
+[11:27:11] *** Quits: Guyver2 (Guyver2@guyver2.xs4all.nl) (Exit)
+[11:29:54] *** Quits: Bertone (Bertone@classics.xs4all.nl) (Exit)
+[11:32:36] *** tozzert is now known as tozzbraque
+[11:56:17] <rawplayer> ZOVTY
+[11:56:19] <rawplayer> echt jong
+[12:30:24] *** Joins: Bertone (Bertone@classics.xs4all.nl)
+[12:31:32] *** Joins: Fokker_2251 (Mibbit@195-240-170-250.ip.telfort.nl)
+[12:32:08] <Fokker_2251> ik moet met spoed ib60 hebben ik heb hem 2 weken geleden aan gevraagt en het is nog niet binnen hoe lossen we dit op wand het had vandaag bij de owning bouw aan moetten komen
+[12:33:39] <Stuiterbal> Welkom in bij #belastingtelefoon
+[12:33:40] *** Quits: Fokker_2251 (Mibbit@195-240-170-250.ip.telfort.nl) (Exit)
+[12:33:45] <Stuiterbal> -in
+[12:33:53] <Stuiterbal> Another happy customer
+[12:33:58] <rawplayer> :s
+[12:34:01] <rawplayer> hoi stuit
+[12:34:02] <rawplayer> kom je haten
+[12:34:13] *** Quits: Jeroen (Jeroen@wlan-145-94-195-159.wlan.tudelft.nl) (Exit)
+[12:34:14] <Stuiterbal> Je bedoelt jouw werk doen?
+[12:34:37] <rawplayer> nou ja zeg
+[12:34:45] <rawplayer> tis bij mij niet zwart/wit
+[12:39:02] *** Joins: Beer`_ (beer@5ED0808C.cm-7-1c.dynamic.ziggo.nl)
+[12:47:01] *** Joins: Fokker_0619 (Mibbit@62.72.192.112)
+[12:52:04] *** Joins: Jeroen (Jeroen@ip82-139-124-155.lijbrandt.net)
+[12:55:04] *** Quits: Fokker_0619 (Mibbit@62.72.192.112) (Exit)
+[13:17:37] *** Joins: Vipertje (tweak@54182E79.cm-5-1a.dynamic.ziggo.nl)
+[13:39:54] <Escovan> zovty, http://tweakers.net/nieuws/111049/kaspersky-nederland-en-belgie-in-top-drie-van-doelwitten-voor-ransomware.html - maar ik roep af en toe maar gewoon wat hoor.
+[13:39:55] <digibot> Title: Tweakers (at tweakers.net)
+[13:57:34] <Stuiterbal> Klopt.
+[14:33:55] *** Quits: Jeroen (Jeroen@ip82-139-124-155.lijbrandt.net) (Exit)
+[14:44:27] *** Quits: Vipertje (tweak@54182E79.cm-5-1a.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[15:16:26] *** Joins: CoolGuy (Sentinel@541D7070.cm-5-6b.dynamic.ziggo.nl)
+[15:17:22] <rawplayer> hoi
+[15:17:25] <rawplayer> ik ben er
+[15:17:26] <Pandora> gezellig, rawplayer is er!
+[15:17:39] <CoolGuy> ik ook
+[15:19:12] <rawplayer> hoi CoolGuy 
+[15:22:15] <CoolGuy> euj rawplayer
+[15:22:35] <CoolGuy> t zijn een stelletje flikkers bij Ziggo
+[15:22:37] <CoolGuy> man man man
+[15:24:09] * rawplayer eet een berg groente en 2 kipschnitzels
+[15:24:59] <WvdL> wat voor issue heb je CoolGuy ?
+[15:25:08] * WvdL ligt ook wat in de clinch met ziggo :[
+[15:25:43] <rawplayer> :[
+[15:25:47] <CoolGuy> naja ik heb al jaren zon alles-in-1 pakket
+[15:25:52] <CoolGuy> das dus incl vaste telefonie
+[15:26:00] <CoolGuy> maar aangezien ik op mn mobiel nu onbeperkt bellen heb
+[15:26:05] <CoolGuy> heb ik die telefonie niet meer nodig
+[15:26:19] <CoolGuy> dus ik kijk op de website wat telefonie kost, en dan staat daar iets van 30 euro, maar dat is incl kabel tv
+[15:26:22] <CoolGuy> dus ik kijk wat kabel tv kost
+[15:26:24] <CoolGuy> 18 euro
+[15:26:30] <CoolGuy> oftewel, telefonie kost dan 12 euro
+[15:26:39] <CoolGuy> ik denk mooi, 12 euro minder per maand, effe regelen
+[15:26:40] <CoolGuy> dus ik bel
+[15:26:54] <CoolGuy> kan niet, of kan wel, maar dan levert me dat...let op...2 euro korting per maand op
+[15:26:54] <CoolGuy> :')
+[15:27:02] <CoolGuy> ik zeg hoezo 2 euro
+[15:27:06] <CoolGuy> waar zijn die andere 10 euro?
+[15:27:10] <CoolGuy> hoezo andere 10 euro?
+[15:27:13] <CoolGuy> dus ik rekensommetje doen
+[15:27:16] <CoolGuy> ja nee zo werkt het niet
+[15:27:36] <WvdL> hoe wel dan? :+
+[15:27:47] <CoolGuy> ja daar hebben ze geen antwoord op
+[15:27:52] <WvdL> opzeggen en dan enkel inet afnemen?
+[15:28:02] <CoolGuy> nee want ik wil wel TV hebben
+[15:28:12] <CoolGuy> en de realiteit is dat de alternatieven allemaal kut zijn
+[15:28:14] <CoolGuy> tov kabel tv
+[15:28:22] <CoolGuy> ik wil gewoon dat fucking bellen weg hebben
+[15:28:22] <WvdL> mjah same issue
+[15:28:33] <WvdL> heb een haperende inet
+[15:28:40] <CoolGuy> welke modem?
+[15:28:41] <WvdL> maar geen 50+ mbit alternatief
+[15:28:45] <WvdL> had een ubee
+[15:28:47] <CoolGuy> lol
+[15:28:50] <rawplayer> ja dat gezeik hadden mijn ouders dus ook
+[15:28:53] <rawplayer> :[
+[15:28:56] <WvdL> sinds vorige week een technicolor
+[15:29:00] <WvdL> geenv erbetering
+[15:29:00] <CoolGuy> dat modem heb ik ook
+[15:29:05] <CoolGuy> ik heb gekut met wifi
+[15:29:15] <WvdL> mjah
+[15:29:26] <WvdL> en tering slechte firmware
+[15:29:32] <CoolGuy> elke keer als ik SABnzbd opstartte en begon te downloaden...bam weg wifi
+[15:29:36] <CoolGuy> modem bleef online
+[15:29:42] <CoolGuy> ik heb bekabeld internet
+[15:29:44] <CoolGuy> geen wifi
+[15:29:50] <WvdL> :D
+[15:29:51] <CoolGuy> nu gebruik ik newsleecher...probleem over :D
+[15:30:00] <WvdL> maar nog...
+[15:30:09] <CoolGuy> ja nog dat fucking bellen
+[15:30:24] <CoolGuy> ben benieuwd of ze terug bellen
+[15:30:26] <WvdL> heb ook bekabeld en elke keer als ik bel.. ja meneer heeft u gepoogd uw wifi te reseten ofzo
+[15:30:36] <WvdL> euhmm vertel net dat ik op lan zit.
+[15:30:44] <WvdL> :[
+[15:30:55] <rawplayer> ja of cookies verwijderen
+[15:30:57] <rawplayer> :[
+[15:31:07] <WvdL> :D
+[15:31:08] <CoolGuy> lol
+[15:31:26] <WvdL> nu voel ik mij al bijna verplicht nieuwe router aan te schaffen
+[15:31:34] <WvdL> en dan hele conenctie te loggen
+[15:31:34] <rawplayer> ja dat ligt idd aan jou WvdL 
+[15:31:36] <WvdL> :<
+[15:31:37] <rawplayer> aan ziggo natuurlijk niet
+[15:31:56] <WvdL> mjah plan nu eerst is pi in te zetten
+[15:32:08] <WvdL> en dan naar buiten pingen en binnen netwerk
+[15:32:11] <WvdL> en dat loggen
+[15:32:30] <WvdL> en ff informeren of buren er ook alst van hebben
+[15:32:35] <WvdL> maar dan moet ik emt buren praten :(
+[15:33:02] <CoolGuy> eng
+[15:33:13] <WvdL> klopt
+[15:33:19] <WvdL> nahh vooral.. ikzie ze nooit
+[15:33:19] <WvdL> :D
+[15:33:37] <WvdL> heb geen goede ramen vanuit mijn game kamer ;]
+[15:34:16] <CoolGuy> lol ziggo belt me nu terug
+[15:36:01] <WvdL> Max download snelheid: 5 Mb/s
+[15:36:01] <WvdL> Max upload snelheid: 2 Mb/s
+[15:36:06] <WvdL> @ adsl  ;[
+[15:36:14] <WvdL> ze kijken hier gewoon mee :D
+[15:46:37] <CoolGuy> lol
+[15:46:46] <CoolGuy> weet je wat t verschil is tussen wel of niet vast bellen?
+[15:46:50] <CoolGuy> 1.45 euro :')
+[15:47:08] <CoolGuy> want je moet t natuurlijk op een andere manier berekenen
+[16:05:45] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 67 seconds)
+[16:32:13] *** Quits: CoolGuy (Sentinel@541D7070.cm-5-6b.dynamic.ziggo.nl) (Exit)
+[16:43:50] *** Joins: Fem_LittleLady (Mibbit@a82-161-112-138.adsl.xs4all.nl)
+[16:43:53] <rawplayer> :D
+[16:43:54] <Fem_LittleLady> :D
+[16:43:54] <rawplayer> femmie
+[16:43:55] <rawplayer> lekker ding
+[16:44:06] * Fem_LittleLady knuffelt rawplayer
+[16:44:07] <rawplayer> kom maar even bij rawpie op schoot
+[16:44:12] <rawplayer> vertel maar even wat je hebt gedaan
+[16:44:14] <Fem_LittleLady> Gezellig
+[16:44:15] <rawplayer> rekel
+[16:44:35] <Fem_LittleLady> Oh ik ben naar Oldebroek gewest, heb twee leuke cavia's erbij
+[16:44:48] <rawplayer> my god
+[16:44:51] <rawplayer> nog meer
+[16:44:52] <Fem_LittleLady> heb boodschapjes gedaan en heb een leuk bloesje gekocht
+[16:44:58] <rawplayer> nice nice
+[16:45:01] <rawplayer> ik heb alleen gesport
+[16:45:07] <Fem_LittleLady> Hij is alleen een beetje doorzichtig
+[16:45:09] * rawplayer is LOEISTERK
+[16:45:10] <rawplayer> :o
+[16:45:13] <rawplayer> hot
+[16:45:26] <Fem_LittleLady> ja 
+[16:45:45] <Fem_LittleLady> Heb weer 12 flessen vitamine water gehaald
+[16:46:01] <Fem_LittleLady> nu lekker binnen
+[16:46:43] <rawplayer> zit daar suiker in?
+[16:47:07] <Fem_LittleLady> Nee
+[16:47:23] <Fem_LittleLady> het is wel lekker fris
+[16:47:27] <Fem_LittleLady> smaakt naar framboos
+[16:47:36] <Fem_LittleLady> tenminste die smaak heb ik
+[16:47:47] <rawplayer> lekker
+[16:47:50] <rawplayer> rood fruit
+[16:47:50] <rawplayer> <3
+[16:49:46] <Fem_LittleLady> ja vind ik wel lekker
+[16:49:57] * rawplayer kriewelt femmie
+[16:49:57] <Fem_LittleLady> en handig mee te nemen
+[16:51:47] <Fem_LittleLady> oh zit 4,5 gr suiker in
+[16:52:02] <Fem_LittleLady> http://www.jumbo.com/jumbo-vitamine-water-framboos--granaatappel-6-x-500ml/144610PAK/
+[16:52:03] <digibot> Title: Jumbo Vitamine Water Framboos & Granaatappel 6 x 500ml - Vitamine water (at www.jumbo.com)
+[16:52:20] <rawplayer> dacht ik al
+[16:52:26] <rawplayer> 1 suikerklontje
+[16:52:36] <Fem_LittleLady> Nou is allicht minder dan cola
+[16:52:38] <rawplayer> ik ga douchen
+[16:52:49] <Fem_LittleLady> have fun, zal zo even kip tabouleh maken
+[16:52:54] <rawplayer> kzal zo aan je denken
+[16:52:56] <rawplayer> mgighgihgighgigihg
+[16:53:00] <Fem_LittleLady> hahaha
+[16:53:01] <rawplayer> ooo lekker hoor
+[16:55:42] <Stuiterbal> [16:51] <Fem_LittleLady> oh zit 4,5 gr suiker in
+[16:55:42] <Stuiterbal> [16:52] <Fem_LittleLady> http://www.jumbo.com/jumbo-vitamine-water-framboos--granaatappel-6-x-500ml/144610PAK/
+[16:55:43] <digibot> Title: Jumbo Vitamine Water Framboos & Granaatappel 6 x 500ml - Vitamine water (at www.jumbo.com)
+[16:55:55] <Stuiterbal> Zou je niet wat rustiger met de suiker doen?
+[16:56:05] <Stuiterbal> [16:52] <rawplayer> kzal zo aan je denken
+[16:56:06] <Stuiterbal> :r
+[16:56:52] <Fem_LittleLady> hahaha heb wel iets suiker nodig
+[16:59:08] *** Joins: Crip (Mibbit@541C880F.cm-5-5c.dynamic.ziggo.nl)
+[16:59:56] <Crip> ZOVTY
+[17:03:21] *** Quits: Crip (Mibbit@541C880F.cm-5-5c.dynamic.ziggo.nl) (Exit)
+[17:03:35] *** Joins: Jeroen (Jeroen@ip82-139-124-155.lijbrandt.net)
+[17:08:37] <nomadz> whatsup bitches
+[17:21:04] <nomadz> ok niet veel zo te zien
+[17:21:32] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[17:22:22] *** Quits: Fem_LittleLady (Mibbit@a82-161-112-138.adsl.xs4all.nl) (Exit)
+[17:24:36] *** Joins: Vipertje (tweak@54182E79.cm-5-1a.dynamic.ziggo.nl)
+[17:29:03] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[17:29:13] <wirky> hoi fokkens
+[17:29:31] <wirky> sup meej je 25 graadentje
+[17:29:47] <wirky> ik gloei helegaar
+[17:30:15] <wirky> elke koelkast warm ik nu op 
+[17:30:45] <wirky> sup fokkens mejje
+[17:39:43] *** Joins: chasingrainbows (Mibbit@541F9A6E.cm-5-8c.dynamic.ziggo.nl)
+[17:41:47] *** Quits: WvdL (uid21241@id-21241.ealing.irccloud.com) (Exit)
+[17:51:04] *** Quits: chasingrainbows (Mibbit@541F9A6E.cm-5-8c.dynamic.ziggo.nl) (Exit)
+[18:01:41] *** Quits: Vipertje (tweak@54182E79.cm-5-1a.dynamic.ziggo.nl) (Ping timeout: 61 seconds)
+[18:13:57] *** Joins: Fem_LittleLady (Mibbit@a82-161-112-138.adsl.xs4all.nl)
+[18:14:01] <Fem_LittleLady> :D
+[18:14:07] <bReChThOu> hoi
+[18:15:38] <Fem_LittleLady> wat een weertje he
+[18:18:02] <nomadz> weer smeertje
+[18:21:29] *** Quits: Steff (quassel@trinity.msrv.nl) (Ping timeout: 67 seconds)
+[18:21:34] *** Joins: Steff (quassel@trinity.msrv.nl)
+[18:23:47] *** Joins: SCHAPiE (dorian@dhcp-077-249-247-124.chello.nl)
+[18:30:20] *** Quits: t4rt4rus (t4rt4rus@s559686af.adsl.online.nl) (Client exited)
+[18:32:46] *** Joins: t4rt4rus (t4rt4rus@s559686af.adsl.online.nl)
+[18:50:47] *** Quits: Fem_LittleLady (Mibbit@a82-161-112-138.adsl.xs4all.nl) (Exit)
+[18:56:06] *** Joins: Fem_LittleLady (Mibbit@a82-161-112-138.adsl.xs4all.nl)
+[19:07:00] *** Quits: Fem_LittleLady (Mibbit@a82-161-112-138.adsl.xs4all.nl) (Exit)
+[19:31:28] *** Joins: crow (chatzilla@D97B3212.cm-3-4a.dynamic.ziggo.nl)
+[19:58:23] *** Joins: Fem_LittleLady (Mibbit@a82-161-112-138.adsl.xs4all.nl)
+[19:58:30] <Fem_LittleLady> :D
+[20:00:48] <rawplayer> leuk, dumoulin eerste
+[20:00:53] <rawplayer> hoi femmie
+[20:00:59] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Ping timeout: 60 seconds)
+[20:01:04] *** Quits: welly7 (willy@ip503c7f23.speed.planet.nl) (Ping timeout: 66 seconds)
+[20:01:52] <Fem_LittleLady> Lekker gedoucht?
+[20:01:54] *** Joins: welly7 (willy@ip503c7f23.speed.planet.nl)
+[20:01:59] <rawplayer> zeker
+[20:02:04] <rawplayer> lekker zomerkledkng
+[20:02:06] <rawplayer> an
+[20:02:07] <Fem_LittleLady> Ja zel zo ook even gaan
+[20:02:17] <rawplayer> slippertjes en op balkon
+[20:02:30] <Fem_LittleLady> ook lekker
+[20:02:42] <rawplayer> hoe was je kip?
+[20:02:58] <Fem_LittleLady> Ja lekker, is altijd lekker
+[20:05:44] <Fem_LittleLady> hahaha lig altijd dubbel van het lachen als je duitse advertentie's gaat vertalen via de vertaler
+[20:06:15] <Fem_LittleLady> Verkoop van liefdevolle cattery, Jonge Peruanen in slate-blue-goud-wit, kleur en getekend rasserein, om lief te hebben, maar ook om te broeden krijg uw stamboom Koper neemt de 2 jongens hebben de voorkeur twee jongens zijn goedkoper, duurder zijn 2 meisjes .. Scheepvaart geen probleem, van buiten entertainment
+[20:09:28] <crow> klinkt als een advertentie van stichting martijn
+[20:09:57] <Fem_LittleLady> hahaha ja he
+[20:15:00] *** Quits: Fem_LittleLady (Mibbit@a82-161-112-138.adsl.xs4all.nl) (Exit)
+[20:36:13] <nomadz> howdy niggers
+[20:36:19] <nomadz> en zovty 
+[20:41:45] *** Joins: Fem_LittleLady (Mibbit@a82-161-112-138.adsl.xs4all.nl)
+[20:50:18] *** Quits: Fem_LittleLady (Mibbit@a82-161-112-138.adsl.xs4all.nl) (Exit)
+[20:56:31] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[20:58:16] *** Joins: Vipertje (tweak@54182E79.cm-5-1a.dynamic.ziggo.nl)
+[21:00:44] <rawplayer> sup
+[21:15:32] *** Joins: Fem_LittleLady (Mibbit@a82-161-112-138.adsl.xs4all.nl)
+[21:15:56] <Fem_LittleLady> :D
+[21:17:45] * BarthezZ zwaait naar Fem_LittleLady
+[21:18:17] <Fem_LittleLady> hoii
+[21:19:56] <rawplayer> hoi
+[21:20:10] <BarthezZ> hi
+[21:20:30] <Fem_LittleLady> Morgen lekker mijn eigen auto terug
+[21:28:48] <Vipertje> wat voor iets ?
+[21:29:28] <Fem_LittleLady> mijn auto?
+[21:30:44] <Vipertje> nee je paard
+[21:31:12] <Fem_LittleLady> ohw dat is gewoon een biefstukje
+[21:32:08] <Fem_LittleLady> maar mijn auto is een opel tigra
+[21:45:08] *** Joins: Fe2O3 (Fe2O3@h70248.upc-h.chello.nl)
+[21:45:08] *** ChanServ sets mode: +o Fe2O3
+[21:46:12] <SOFIE> 10:58 -!- Irssi: Starting query in tweakers with Fokker_6511
+[21:46:12] <SOFIE> 10:58 <Fokker_6511> hallo dag sofiee alles goed met jou?
+[21:46:13] <SOFIE> 10:58 <Fokker_6511> stoor ik?
+[21:46:13] <SOFIE> 11:03 -!- Fokker_6511 [Mibbit@ip-213-49-251-191.dsl.scarlet.be] has quit [Exit]
+[21:46:23] <nomadz> LAURA
+[21:47:17] <SOFIE> nodne
+[21:47:18] <SOFIE> nonde
+[21:54:08] <Jeroen> haar naam is laura, een hele lieve meid
+[21:54:19] <Jeroen> als zij rond de wereld zeilt is zij de weg heel even kwijt
+[21:54:58] <SOFIE> het is
+[21:55:00] <SOFIE> sofie
+[21:55:00] <SOFIE> SOFIE
+[21:55:02] <SOFIE> LEES
+[21:55:02] <SOFIE> JE
+[21:55:05] <SOFIE> DAT
+[21:55:07] <SOFIE> GIDVERERZERERZERZEZEZZDOMME
+[21:55:15] <Jeroen> wat zei je, laura?
+[21:55:26] <nomadz> MEVROUW DEKKERS
+[21:55:26] <rawplayer> zeilmeisje <3
+[21:55:38] <SOFIE> jonge
+[21:55:42] <SOFIE> zal ik je eens dekken
+[21:55:46] <SOFIE> :/
+[21:55:48] <nomadz> is dat een uitdaging?
+[21:55:52] <SOFIE> nah
+[21:55:55] <SOFIE> getrouwde vrouw hé
+[21:55:59] <SOFIE> doe ik beter niet
+[21:56:00] <nomadz> voel je niets van
+[21:56:24] <Jeroen> ligt eraan waar je die ring om hangt
+[21:57:48] *** Quits: Remie (Remie@5ED5F214.cm-7-6d.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[21:58:04] <SOFIE> der is geen ring
+[22:03:12] <SOFIE> ik zeil naar hamburger nou
+[22:03:14] <SOFIE> -er
+[22:06:25] *** Joins: Remie (Remie@5ED5F214.cm-7-6d.dynamic.ziggo.nl)
+[22:07:45] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 67 seconds)
+[22:09:00] *** Quits: Fem_LittleLady (Mibbit@a82-161-112-138.adsl.xs4all.nl) (Exit)
+[22:34:12] *** Quits: Vipertje (tweak@54182E79.cm-5-1a.dynamic.ziggo.nl) (Ping timeout: 66 seconds)
+[22:34:21] *** Joins: Vipertje (tweak@54182E79.cm-5-1a.dynamic.ziggo.nl)
+[22:34:40] *** Joins: Guyver2 (Guyver2@guyver2.xs4all.nl)
+[22:35:26] *** Quits: Vipertje (tweak@54182E79.cm-5-1a.dynamic.ziggo.nl) (Connection reset by peer)
+[22:47:22] *** Quits: SCHAPiE (dorian@dhcp-077-249-247-124.chello.nl) (Exit)
+[22:50:20] *** Joins: SCHAPiE (dorian@dhcp-077-249-247-124.chello.nl)
+[22:53:01] *** Joins: mijk (mijk@218-245-144-85.ftth.glasoperator.nl)
+[22:59:28] *** Joins: chezzmo (roodje@ip4daa38d9.direct-adsl.nl)
+[22:59:32] <chezzmo> goeiavond all
+[23:00:49] <nomadz> goeiedag
+[23:01:33] *** Quits: Boots (boots@2001:980:93ad:1:ba27:ebff:fea0:b2a) (Ping timeout: 64 seconds)
+[23:04:43] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[23:05:30] *** Joins: Boots (boots@0011110000110011.nl)
+[23:08:45] *** Quits: appeltjes2 (appel@2001:41d0:b:550:6667:0:0:11) (Ping timeout: 67 seconds)
+[23:09:38] *** Quits: bReChThOu (bReChThOu@cloud.brechthouben.be) (Ping timeout: 66 seconds)
+[23:10:32] *** Quits: AjDuLion (sid50412@id-50412.charlton.irccloud.com) (Ping timeout: 67 seconds)
+[23:10:46] <nomadz> veel mensen met een crappy ipv6
+[23:11:04] *** Joins: AjDuLion (sid50412@2604:8300:100:200b:6667:3:0:c4ec)
+[23:14:33] *** Quits: TooL (x@ip172-92-210-87.adsl2.static.versatel.nl) (Ping timeout: 67 seconds)
+[23:14:41] *** Quits: zovty (zovty@5ED033C3.cm-7-1a.dynamic.ziggo.nl) (Ping timeout: 67 seconds)
+[23:14:43] *** Joins: zovty (zovty@5ED033C3.cm-7-1a.dynamic.ziggo.nl)
+[23:15:35] *** Joins: TooL (x@ip172-92-210-87.adsl2.static.versatel.nl)
+[23:18:30] *** Joins: Fe2O3MarktSjouwen (Fe2O3@h70248.upc-h.chello.nl)
+[23:18:45] *** Quits: Fe2O3 (Fe2O3@h70248.upc-h.chello.nl) (Ping timeout: 68 seconds)
+[23:19:02] *** Quits: Bliksem (Tweaki7@a82-161-41-5.adsl.xs4all.nl) (Ping timeout: 67 seconds)
+[23:19:31] *** Joins: bReChThOu (bReChThOu@cloud.brechthouben.be)
+[23:19:35] *** Joins: Bliksem (Tweaki7@a82-161-41-5.adsl.xs4all.nl)
+[23:21:42] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 61 seconds)
+[23:21:51] <nomadz> https://www.youtube.com/watch?v=FKscaLcO7ko
+[23:21:53] <digibot> Title: Muppets Rick Roll - YouTube (at www.youtube.com)
+[23:23:12] *** Joins: Fokker_2996 (Mibbit@108.sub196.ddfr.nl)
+[23:23:40] <Fokker_2996> hoi
+[23:24:12] <nomadz> hoi
+[23:25:08] <Fokker_2996> alles goed
+[23:28:04] *** Joins: appeltjes2 (appel@appel.centravi.org)
+[23:33:04] <chezzmo> alles lekkah
+[23:33:08] <chezzmo> en daar dan ?
+[23:34:38] <Fokker_2996> ja en daar
+[23:36:36] <chezzmo> (Y)
+[23:38:01] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[23:38:51] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Exit)
+[23:40:56] <Fokker_2996> (Y)
+[23:42:42] *** Quits: Fokker_2996 (Mibbit@108.sub196.ddfr.nl) (Exit)
+[23:48:26] *** Joins: Fokker1985 (Mibbit@108.sub196.ddfr.nl)
+[23:48:36] <Fokker1985> oh
+[23:53:13] <nomadz> oh
+[23:56:44] *** Joins: BeerW`eRk_ (beer@5ED0808C.cm-7-1c.dynamic.ziggo.nl)

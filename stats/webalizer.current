@@ -1,0 +1,439 @@
+# Webalizer V2.23-08 Incremental Data - 06/04/2016 22:54:22
+2016 6 4 22 54 22
+1513 1369 11 118 10 12 147869195 745 20 0 0 0
+4 227 311 1 4
+120 109 713968 4 97 3 0 0
+23 20 194999 3 8 3 0 0
+149 135 550813 4 72 7 0 0
+1221 1105 146409415 4 568 7 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+1 0 213 1 0 0
+26 25 214774 11 0 0
+113 108 305066 51 0 0
+0 0 0 0 0 0
+6 1 38656 4 0 0
+0 0 0 0 0 0
+2 0 812 2 0 0
+0 0 0 0 0 0
+21 19 194393 6 0 0
+0 0 0 0 0 0
+35 32 60495 31 0 0
+83 75 496061 64 0 0
+0 0 0 0 0 0
+4 0 14842 4 0 0
+2 0 8590 2 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+3 2 9855 3 0 0
+315 277 40301217 151 0 0
+142 123 5458822 119 0 0
+250 218 61280129 106 0 0
+283 272 20960594 129 0 0
+227 217 18524676 61 0 0
+0 0 0 0 0 0
+0
+0
+0
+1369
+0
+0
+0
+0
+0
+6
+0
+0
+64
+0
+30
+0
+0
+0
+0
+0
+3
+29
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+10
+0
+0
+0
+0
+0
+# -urls- 
+/lib/tpl/dokuwiki/images/button-php.gif
+1 14 0 9463 0 0 0 0
+/lib/scripts/jquery/jquery-ui-theme/images/ui-bg_highlight-soft_75_cccccc_1x100.png
+1 7 0 5174 0 0 0 0
+/lib/images/media_link_nolnk.png
+1 3 0 2767 0 0 0 0
+/lib/images/smileys/icon_question.gif
+1 9 0 5338 0 0 0 0
+/lib/images/throbber.gif
+1 3 0 7596 0 0 0 0
+/.well-known/acme-challenge/V9kGq-imn49MkNyml8SEC6B-Xc1WMLpgbZcncmro4zc
+0 2 0 600 0 0 0 0
+/lib/images/toolbar/hminus.png
+1 9 0 11527 0 0 0 0
+/lib/images/smileys/icon_neutral.gif
+1 9 0 5194 0 0 0 0
+/lib/images/media_size_large.png
+1 3 0 1550 0 0 0 0
+/lib/images/ns.png
+1 1 0 1226 0 0 0 0
+/lib/tpl/dokuwiki/images/usertools.png
+1 14 0 23956 0 0 0 0
+/lib/images/toolbar/hequal.png
+1 9 0 10985 0 0 0 0
+/lib/images/toolbar/mono.png
+1 9 0 10841 0 0 0 0
+/lib/images/open.png
+1 1 0 381 0 0 0 0
+/lib/images/smileys/icon_smile.gif
+1 9 0 5242 0 0 0 0
+/lib/images/mediamanager.png
+1 3 0 2767 0 0 0 0
+/lib/images/toolbar/strike.png
+1 9 0 7343 0 0 0 0
+/lib/tpl/dokuwiki/images/toc-bullet.png
+1 11 0 5896 0 0 0 0
+/lib/exe/fetch.php
+0 52 0 132153615 2 0 0 0
+/lib/images/media_size_original.png
+1 3 0 1886 0 0 0 0
+/lib/tpl/dokuwiki/images/favicon.ico
+0 8 0 66068 0 0 0 0
+/lib/plugins/extension/images/plugin.png
+1 1 0 4329 0 0 0 0
+/lib/images/media_align_left.png
+1 3 0 1982 0 0 0 0
+/lib/scripts/jquery/jquery-ui-theme/images/ui-bg_flat_75_ffffff_40x100.png
+1 8 0 5457 0 0 0 0
+/lib/images/toolbar/hplus.png
+1 9 0 11383 0 0 0 0
+/lib/images/plus.gif
+1 3 0 1824 0 0 0 0
+/lib/images/toolbar/link.png
+1 9 0 7515 0 0 0 0
+/lib/images/success.png
+1 1 0 999 0 0 0 0
+/lib/exe/ajax.php
+0 133 0 205655 0 1 0 0
+/lib/tpl/dokuwiki/images/pagetools-sprite.png
+1 14 0 106546 0 0 0 0
+/doku.php
+0 206 0 1012858 3 0 0 0
+/lib/images/smileys/icon_fun.gif
+1 9 0 5338 0 0 0 0
+/lib/images/toolbar/smiley.png
+1 9 0 9802 0 0 0 0
+/lib/exe/mediamanager.php
+0 3 0 8661 0 0 0 0
+/lib/tpl/dokuwiki/images/button-html5.png
+1 14 0 10825 0 0 0 0
+/lib/images/toolbar/linkextern.png
+1 9 0 11818 0 0 0 0
+/lib/images/smileys/icon_cool.gif
+1 9 0 5242 0 0 0 0
+/lib/exe/js.php
+0 18 0 2481429 0 0 0 0
+/lib/images/smileys/facepalm.gif
+1 9 0 5338 0 0 0 0
+/lib/images/toolbar/h4.png
+1 9 0 6490 0 0 0 0
+/lib/tpl/dokuwiki/images/button-donate.gif
+1 14 0 9010 0 0 0 0
+/lib/images/error.png
+1 1 0 911 0 0 0 0
+/lib/images/blank.gif
+1 1 0 571 0 0 0 0
+/lib/images/smileys/fixme.gif
+1 9 0 7786 0 0 0 0
+/lib/images/page.png
+1 1 0 1018 0 0 0 0
+/lib/tpl/dokuwiki/images/button-css.png
+1 14 0 9820 0 0 0 0
+/lib/images/diff.png
+1 1 0 570 0 0 0 0
+/lib/images/toolbar/underline.png
+1 9 0 10519 0 0 0 0
+/lib/images/smileys/icon_doubt2.gif
+1 9 0 9028 0 0 0 0
+/lib/images/smileys/icon_confused.gif
+1 9 0 5194 0 0 0 0
+/lib/plugins/extension/images/enabled.png
+1 1 0 1448 0 0 0 0
+/lib/images/smaller.gif
+1 9 0 4474 0 0 0 0
+/lib/images/media_link_direct.png
+1 3 0 3374 0 0 0 0
+/lib/plugins/extension/images/bug.gif
+1 1 0 468 0 0 0 0
+/lib/images/toolbar/hr.png
+1 9 0 5914 0 0 0 0
+/lib/scripts/jquery/jquery-ui-theme/images/ui-bg_glass_75_e6e6e6_1x400.png
+1 7 0 5062 0 0 0 0
+/lib/plugins/extension/images/down.png
+1 1 0 471 0 0 0 0
+/lib/images/smileys/icon_eek.gif
+1 9 0 5194 0 0 0 0
+/lib/images/media_link_displaylnk.png
+1 3 0 2174 0 0 0 0
+/lib/plugins/extension/images/disabled.png
+1 1 0 1439 0 0 0 0
+/lib/images/toolbar/sig.png
+1 9 0 7930 0 0 0 0
+/lib/images/toolbar/chars.png
+1 9 0 8122 0 0 0 0
+/lib/images/smileys/icon_biggrin.gif
+1 9 0 5242 0 0 0 0
+/lib/images/smileys/icon_lol.gif
+1 9 0 6778 0 0 0 0
+/lib/images/smileys/delete.gif
+1 9 0 7786 0 0 0 0
+/lib/images/smileys/icon_surprised.gif
+1 9 0 5242 0 0 0 0
+/lib/tpl/dokuwiki/images/button-dw.png
+1 14 0 10992 0 0 0 0
+/lib/images/fileicons/file.png
+1 2 0 1140 0 0 0 0
+/lib/images/minus.gif
+1 3 0 1985 0 0 0 0
+/.well-known/acme-challenge/7cuXIJygx11k4Zh7Nc1K-W1S3U1BdqVwPhGfCcFdU1E
+0 2 0 600 0 0 0 0
+/lib/images/fileicons/pdf.png
+1 2 0 1781 0 0 0 0
+/lib/images/smileys/icon_exclaim.gif
+1 9 0 5194 0 0 0 0
+/lib/tpl/dokuwiki/images/page-gradient.png
+1 14 0 8626 0 0 0 0
+/lib/plugins/extension/images/tag.png
+1 1 0 615 0 0 0 0
+/lib/images/media_link_lnk.png
+1 3 0 2990 0 0 0 0
+/lib/plugins/config/images/security.png
+1 1 0 957 0 0 0 0
+/lib/tpl/dokuwiki/images/search.png
+1 14 0 10038 0 0 0 0
+/lib/plugins/config/images/danger.png
+1 1 0 911 0 0 0 0
+/lib/images/smileys/icon_doubt.gif
+1 9 0 5338 0 0 0 0
+/lib/tpl/dokuwiki/images/apple-touch-icon.png
+1 22 0 207096 0 0 0 0
+/lib/images/magnifier.png
+1 3 0 3264 0 0 0 0
+/lib/tpl/dokuwiki/images/logo.png
+1 14 0 58336 0 0 0 0
+/lib/tpl/dokuwiki/images/toc-arrows.png
+1 11 0 6967 0 0 0 0
+/lib/images/toolbar/ol.png
+1 9 0 6394 0 0 0 0
+/lib/images/toolbar/bold.png
+1 9 0 9926 0 0 0 0
+/lib/images/smileys/icon_wink.gif
+1 9 0 5194 0 0 0 0
+/lib/images/fileicons/png.png
+1 3 0 2366 0 0 0 0
+/lib/plugins/config/images/warning.png
+1 1 0 880 0 0 0 0
+/lib/images/external-link.png
+1 14 0 11409 0 0 0 0
+/lib/images/toolbar/h2.png
+1 9 0 10389 0 0 0 0
+/lib/scripts/jquery/jquery-ui-theme/images/ui-icons_888888_256x240.png
+1 2 0 18736 0 0 0 0
+/lib/images/up.png
+1 1 0 682 0 0 0 0
+/lib/images/smileys/icon_sad.gif
+1 9 0 5194 0 0 0 0
+/lib/exe/indexer.php
+0 219 0 138314 0 8 0 0
+/lib/images/toolbar/h3.png
+1 9 0 6956 0 0 0 0
+/lib/images/wrap.gif
+1 9 0 4474 0 0 0 0
+/lib/images/history.png
+1 2 0 1105 0 0 0 0
+/lib/images/license/button/cc-by-nc.png
+1 14 0 11428 0 0 0 0
+/lib/images/toolbar/ul.png
+1 9 0 6507 0 0 0 0
+/lib/images/media_size_small.png
+1 3 0 1854 0 0 0 0
+/lib/images/larger.gif
+1 9 0 4474 0 0 0 0
+/lib/images/toolbar/h5.png
+1 9 0 6699 0 0 0 0
+/lib/images/toolbar/image.png
+1 9 0 8506 0 0 0 0
+/lib/images/media_align_right.png
+1 3 0 2143 0 0 0 0
+/lib/images/media_size_medium.png
+1 3 0 1934 0 0 0 0
+/lib/images/smileys/icon_silenced.gif
+1 9 0 5338 0 0 0 0
+/lib/images/smileys/icon_razz.gif
+1 9 0 5338 0 0 0 0
+/lib/images/toolbar/h.png
+1 9 0 9748 0 0 0 0
+/lib/images/notify.png
+1 1 0 1010 0 0 0 0
+/lib/images/smileys/icon_smile2.gif
+1 9 0 5242 0 0 0 0
+/lib/images/toolbar/italic.png
+1 9 0 9830 0 0 0 0
+/lib/images/trash.png
+1 3 0 2671 0 0 0 0
+/lib/exe/css.php
+0 19 0 424047 0 0 0 0
+/lib/scripts/jquery/jquery-ui-theme/images/ui-bg_flat_0_aaaaaa_40x100.png
+1 1 0 618 0 0 0 0
+/lib/images/media_align_center.png
+1 3 0 2143 0 0 0 0
+/lib/images/toolbar/h1.png
+1 9 0 10101 0 0 0 0
+/lib/images/media_align_noalign.png
+1 3 0 1886 0 0 0 0
+/lib/images/fileicons//png.png
+1 2 0 1557 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+188.120.255.100
+0 2 0 812 1 1464935658 0 0
+-
+66.133.109.36
+0 2 2 600 0 0 0 0
+-
+91.227.68.159
+0 1 0 213 1 1464828723 0 0
+-
+208.91.115.10
+0 4 3 162100 1 1464807040 0 0
+/lib/exe/js.php
+207.244.76.204
+0 4 0 17180 3 1465016310 0 0
+-
+199.30.228.156
+0 2 1 4688 1 1464868161 0 0
+/doku.php
+52.203.243.139
+0 2 2 600 0 0 0 0
+-
+184.105.247.195
+0 2 0 7421 1 1464960339 0 0
+-
+24.132.88.103
+0 1487 1366 147633799 10 1465080862 0 0
+/lib/exe/indexer.php
+71.6.165.200
+0 5 1 34361 1 1465013579 0 0
+-
+216.218.206.68
+0 2 0 7421 1 1465047480 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+207.244.76.204
+0 1 0 4295 1 1465016310 0 0
+-
+24.132.88.103
+0 1213 1110 146363338 4 1465080862 0 0
+/lib/exe/indexer.php
+71.6.165.200
+0 5 1 34361 1 1465013579 0 0
+-
+216.218.206.68
+0 2 0 7421 1 1465047480 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+https://www.logged.be/lib/exe/detail.php
+0 2
+- (Direct Request)
+0 104
+http://logged.be/doku.php
+0 117
+https://www.logged.be/doku.php
+0 1166
+https://logged.be/doku.php
+0 12
+http://logged.be/lib/exe/css.php
+0 9
+https://www.logged.be/lib/exe/mediamanager.php
+0 67
+https://www.logged.be/lib/exe/fetch.php
+0 2
+https://logged.be/lib/exe/css.php
+0 7
+https://www.logged.be/lib/exe/css.php
+0 27
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Safari/537.36 Edge/13.105
+0 721
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.3.18 (KHTML, like Gecko) Version/7.1.3 Safari/537.85.12
+0 3
+Mozilla/5.0 (compatible; Let's Encrypt validation server; +https://www.letsencrypt.org)
+0 2
+python-requests/2.9.1
+0 4
+Mozilla/5.0 (Linux; Android 4.4.2; GT-P5210 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.89 Safari/5
+0 263
+Mozilla/5.0 (Linux; U; Android 4.4.2; nl-nl; GT-P5210 Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari
+0 197
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:46.0) Gecko/20100101 Firefox/46.0
+0 50
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13 GTB7.1
+0 2
+Python-urllib/2.7
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0
+0 254
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36
+0 4
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

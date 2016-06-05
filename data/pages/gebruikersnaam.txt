@@ -1,0 +1,2 @@
+====== Gebruikersnaam ======
+Makkelijke niet unieke aanduiding voor gebruikers van [[software]] om zichzelf te kunnen herkennen. Vaak gaat een gebruikersnaam gepaard met een totaal overbodig ezelsbruggetje dat je moet onthouden als je makkelijk met je gebruikersnaam wil kunnen werken. Dit noemen we ook wel een [[wachtwoord]]. 

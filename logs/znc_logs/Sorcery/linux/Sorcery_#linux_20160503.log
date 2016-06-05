@@ -1,0 +1,66 @@
+[01:40:04] *** Quits: Sein (random@sorcery-gqa.ilt.81.73.IP) (Ping timeout: 121 seconds)
+[01:41:26] *** Quits: Ikarus (ufo@sorcery-60v6eb.adsl.xs4all.nl) (Ping timeout: 121 seconds)
+[01:48:45] *** Joins: Ikarus (ufo@sorcery-60v6eb.adsl.xs4all.nl)
+[01:49:46] *** Ikarus is now known as Guest49791
+[01:53:39] *** Joins: Sein (random@sorcery-sc3.r43.81.73.IP)
+[02:37:01] *** Awaythysius is now known as Aethysius
+[06:17:00] *** Quits: StarThorn (topher@crucible.lab13.org) (Ping timeout: 121 seconds)
+[06:23:07] *** Joins: StarThorn (topher@sorcery-kerlt1.lab13.org)
+[07:52:32] *** Aethysius is now known as Awaythysius
+[13:39:59] *** Quits: Sein (random@sorcery-sc3.r43.81.73.IP) (Ping timeout: 121 seconds)
+[13:53:32] *** Joins: Sein (random@sorcery-e1e.q2f.81.73.IP)
+[14:22:17] *** Joins: Lapthysius (Aethysius@Heywood.Jablome)
+[14:22:18] *** ChanServ sets mode: +v Lapthysius
+[14:25:10] *** Quits: Awaythysius (Aethysius@Heywood.Jablome) (Ping timeout: 121 seconds)
+[14:34:53] *** Joins: Lapthysius` (Aethysius@sorcery-bs6.lb9.149.69.IP)
+[14:37:41] *** Quits: Lapthysius (Aethysius@Heywood.Jablome) (Ping timeout: 121 seconds)
+[14:38:06] *** Quits: Lapthysius` (Aethysius@sorcery-bs6.lb9.149.69.IP) (Quit: I am exiting this session of multiplayer Notepad.)
+[14:38:44] *** Joins: Aethysius (Aethysius@Heywood.Jablome)
+[14:38:44] *** ChanServ sets mode: +v Aethysius
+[14:39:34] *** Joins: Lapthysius (Aethysius@Heywood.Jablome)
+[14:39:34] *** ChanServ sets mode: +v Lapthysius
+[14:39:50] *** Quits: Aethysius (Aethysius@Heywood.Jablome) (NickServ (GHOST command used by Lapthysius))
+[14:39:50] *** Lapthysius is now known as Aethysius
+[14:51:29] *** Quits: sheenobu (sheenobu@sorcery-jsddm4.hs.gigamonster.net) (Ping timeout: 121 seconds)
+[14:51:56] *** Joins: sheenobu (sheenobu@sorcery-jsddm4.hs.gigamonster.net)
+[14:56:51] *** Joins: Lapthysius (Aethysius@Heywood.Jablome)
+[14:56:51] *** ChanServ sets mode: +v Lapthysius
+[14:58:33] *** Quits: Aethysius (Aethysius@Heywood.Jablome) (NickServ (GHOST command used by Lapthysius))
+[14:58:33] *** Lapthysius is now known as Aethysius
+[15:17:23] <StarThorn> Hrm.  We haven't seen Thunderguy since he talked about converting an Ubuntu system to a Debian system.  I wonder if he tried it, and it went bad, and now he can't get it working again?
+[15:19:29] <StarThorn> Hrm.  Anyone know of any tools that can take an XML document and expand out the elements to spit out a CSV?
+[16:59:03] <ankh> it depends on the XML
+[16:59:21] <ankh> (that's like asking if there are tools that take a program written in ASCII text and convert them to compiled binary :-) )
+[16:59:54] <ankh> but XQuery and XSLT are usually good ways to do the conversion
+[17:01:49] <Quickshot> StarThorn, Something to ask him if he shows up again?
+[17:03:12] *** Quits: sheenobu (sheenobu@sorcery-jsddm4.hs.gigamonster.net) (Ping timeout: 121 seconds)
+[17:17:40] *** Joins: sheenobu (sheenobu@sorcery-jsddm4.hs.gigamonster.net)
+[17:23:27] <StarThorn> ankh: Yeah, I was hoping someone might know of a tool that would just expand out all elements and dump it as CSV, without me having to write any code for it. ;-)
+[17:23:40] <StarThorn> Hrm.  This is interesting: https://www.redhat.com/en/about/press-releases/red-hat-expands-red-hat-developer-program-no-cost-red-hat-enterprise-linux-developer-subscription
+[17:25:08] <ankh> StarThorn, that might exist if your XML is flat and does not contain mixed content
+[17:31:23] <StarThorn> ankh: Which (at first glance) looks to be the case.  I'm at the point where I'll probably just throw together a script to try to process it, though.  I think I can do that faster than find something else.
+[17:32:32] <ankh> it'll likely be a really simple XSLT transform
+[17:33:13] <ankh> if you're using xsltproc, use string replacement - replace() from exslt - to do escaping probably.
+[17:39:51] * StarThorn nods.
+[17:40:28] <StarThorn> Good call.  XSLT is probably the best way to approach this.  I was originally just going to try to read it into memory and then iterate through it via a Perl script.
+[17:40:35] * StarThorn will take a shot with xsltproc.
+[17:42:18] <ankh> if you get stuck i'll gladly help
+[17:50:38] <StarThorn> Cool, thanks. ;-)
+[18:08:25] *** Quits: sheenobu (sheenobu@sorcery-jsddm4.hs.gigamonster.net) (Connection closed)
+[18:40:04] *** EnglishFrag is now known as AmericanFrag
+[19:36:35] *** Quits: Ccomp5950 (ccomp5950@totally.not.a.bot) (*.net *.split)
+[19:36:35] *** Quits: Neoburner (Neoburner@sorcery-pdsg09.com) (*.net *.split)
+[19:36:35] *** Quits: StarThorn (topher@sorcery-kerlt1.lab13.org) (*.net *.split)
+[19:36:35] *** Quits: Aethysius (Aethysius@Heywood.Jablome) (*.net *.split)
+[19:36:40] *** Joins: Ccomp5950 (ccomp5950@totally.not.a.bot)
+[19:36:40] *** Joins: StarThorn (topher@sorcery-kerlt1.lab13.org)
+[19:36:40] *** Joins: Aethysius (Aethysius@Heywood.Jablome)
+[19:36:40] *** Joins: Neoburner (Neoburner@sorcery-pdsg09.com)
+[19:36:40] *** paranor.sorcery.net sets mode: +v Aethysius
+[19:38:22] *** Aethysius is now known as Awaythysius
+[20:28:19] *** ChanServ sets mode: +o StarThorn
+[20:28:30] *** Quits: StarThorn (topher@sorcery-kerlt1.lab13.org) (Changing host)
+[20:28:30] *** Joins: StarThorn (topher@crucible.lab13.org)
+[20:28:30] *** gaia.sorcery.net sets mode: +o StarThorn
+[21:19:44] *** Joins: mrmojorising (mrmojorisin@sorcery-1f8hqe.iusacell.net)
+[22:25:15] *** Quits: mrmojorising (mrmojorisin@sorcery-1f8hqe.iusacell.net) (Ping timeout: 121 seconds)

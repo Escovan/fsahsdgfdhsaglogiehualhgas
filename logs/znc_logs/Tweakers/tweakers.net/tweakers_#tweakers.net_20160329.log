@@ -1,0 +1,1652 @@
+[00:05:21] *** Quits: coolhva (coolhva@nix.ipv6.hype.nl) (Ping timeout: 61 seconds)
+[00:06:28] <tozzert> het is weer zover
+[00:06:34] <tozzert> kennieslaopenie
+[00:07:52] *** Joins: coolhva (coolhva@nix.ipv6.hype.nl)
+[00:10:36] * Aapje slaps tozzert around a bit with a large trout
+[00:11:22] *** Quits: Jeroen (Mibbit@54188FF8.cm-5-1c.dynamic.ziggo.nl) (Exit)
+[00:11:51] <tozzert> ejej
+[00:11:55] <tozzert> ejsj
+[00:15:06] *** Quits: klaveRCX (michiel@klaver.it) (Ping timeout: 68 seconds)
+[00:15:43] *** Quits: Wussie (wussie@220-251.ftth.onsbrabantnet.nl) (Exit)
+[00:17:18] *** Quits: Sponge (Sponge@149.210.150.92) (Exit)
+[00:19:01] *** Joins: klaveRCX (michiel@klaver.it)
+[01:00:30] *** Quits: Spelvoud (Spelvoud@sd51113cf.adsl.online.nl) (Exit)
+[01:08:58] *** Quits: Guyver2 (Guyver2@guyver2.xs4all.nl) (Exit)
+[01:15:03] *** Quits: Svardskampe (Svardskamp@198-14-ftth.onsnetstudenten.nl) (Connection reset by peer)
+[02:00:21] *** Joins: Anthor (Anthor@cust.7.103.adsl.cistron.nl)
+[02:02:04] <tozzert> :/
+[02:05:38] *** Quits: Erik (M1bbit@cl-1606.ams-04.nl.sixxs.net) (Ping timeout: 60 seconds)
+[02:06:19] *** Joins: chem (chem@ppp-58-11-21-225.revip2.asianet.co.th)
+[02:07:08] *** Joins: Deianeira|GPC (spam@j217177.upc-j.chello.nl)
+[02:07:12] *** Quits: Twizzlerz (M@178-84-226-29.dynamic.upc.nl) (Ping timeout: 60 seconds)
+[02:07:12] *** Quits: Prof_Away^^ (~NaPo@92-108-244-176.dynamic.upc.nl) (Ping timeout: 60 seconds)
+[02:07:12] *** Quits: freebee666 (spam@j217177.upc-j.chello.nl) (Ping timeout: 60 seconds)
+[02:07:15] *** Joins: Jeroen (Mibbit@54188FF8.cm-5-1c.dynamic.ziggo.nl)
+[02:07:20] *** Joins: Prof_Away^^ (~NaPo@92-108-244-176.dynamic.upc.nl)
+[02:07:21] *** Quits: mrwazoo (mrwazoo@h102136.upc-h.chello.nl) (Ping timeout: 60 seconds)
+[02:07:21] *** Quits: Aapje (user@i244127.upc-i.chello.nl) (Ping timeout: 60 seconds)
+[02:07:21] *** Quits: djedditt (jay@dhcp-077-251-029-140.chello.nl) (Ping timeout: 60 seconds)
+[02:07:21] *** Joins: _Aapje (user@i244127.upc-i.chello.nl)
+[02:07:25] *** Joins: Mrwazig (mrwazoo@h102136.upc-h.chello.nl)
+[02:07:28] *** Joins: djedditt (jay@dhcp-077-251-029-140.chello.nl)
+[02:07:32] *** Joins: Twizzlerz (M@178-84-226-29.dynamic.upc.nl)
+[02:07:46] *** Prof_Away^^ is now known as Prof_NaPo^^
+[02:12:20] *** Quits: Jeroen (Mibbit@54188FF8.cm-5-1c.dynamic.ziggo.nl) (Exit)
+[02:13:05] *** Joins: Erik (M1bbit@cl-1606.ams-04.nl.sixxs.net)
+[02:14:28] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[02:14:38] *** Quits: wopie (wopie@84-245-32-188.dsl.cambrium.nl) (Ping timeout: 68 seconds)
+[02:15:23] *** Quits: Gaitman (Gaitman@ip503dde5c.speed.planet.nl) (Ping timeout: 66 seconds)
+[02:20:08] *** Joins: wopie (wopie@84-245-32-188.dsl.cambrium.nl)
+[02:21:40] *** Quits: [M]-V (meicobuijs@84-245-27-142.dsl.cambrium.nl) (Ping timeout: 66 seconds)
+[02:24:03] *** Joins: Gaitman (Gaitman@ip503dde5c.speed.planet.nl)
+[02:34:37] *** Joins: [M]-V (meicobuijs@84-245-27-142.dsl.cambrium.nl)
+[02:47:33] *** Quits: _Aapje (user@i244127.upc-i.chello.nl) (Ping timeout: 60 seconds)
+[02:47:33] *** Quits: Mrwazig (mrwazoo@h102136.upc-h.chello.nl) (Ping timeout: 60 seconds)
+[02:47:35] *** Joins: MrWazoo (mrwazoo@h102136.upc-h.chello.nl)
+[02:47:36] *** Quits: Prof_NaPo^^ (~NaPo@92-108-244-176.dynamic.upc.nl) (Ping timeout: 60 seconds)
+[02:47:36] *** Quits: Twizzlerz (M@178-84-226-29.dynamic.upc.nl) (Ping timeout: 60 seconds)
+[02:47:43] *** Joins: Aapje (user@i244127.upc-i.chello.nl)
+[02:47:51] *** Joins: Prof_Away^^ (~NaPo@92-108-244-176.dynamic.upc.nl)
+[02:48:05] *** Joins: Twizzlerz (M@178-84-226-29.dynamic.upc.nl)
+[02:48:16] *** Prof_Away^^ is now known as Prof_NaPo^^
+[02:57:54] *** Quits: Twizzlerz (M@178-84-226-29.dynamic.upc.nl) (Ping timeout: 67 seconds)
+[03:06:08] *** Joins: Twizzlerz (M@178-84-226-29.dynamic.upc.nl)
+[03:24:19] *** Quits: DinX (DinX___@ptr-2hj4tblnzznafgmncii5uu9oy.ip6.access.telenet.be) (Ping timeout: 60 seconds)
+[03:26:23] *** Quits: chem (chem@ppp-58-11-21-225.revip2.asianet.co.th) (Exit)
+[03:43:43] *** Quits: Twizzlerz (M@178-84-226-29.dynamic.upc.nl) (Ping timeout: 61 seconds)
+[03:43:52] *** Quits: Prof_NaPo^^ (~NaPo@92-108-244-176.dynamic.upc.nl) (Ping timeout: 61 seconds)
+[03:44:12] *** Joins: Twizzlerz (M@178-84-226-29.dynamic.upc.nl)
+[03:45:23] *** Joins: Prof_Away^^ (~NaPo@92-108-244-176.dynamic.upc.nl)
+[03:45:26] *** Prof_Away^^ is now known as Prof_NaPo^^
+[04:00:41] *** Joins: DinX (DinX___@d54C120B6.access.telenet.be)
+[04:08:06] *** Joins: Jeroen (Mibbit@54188FF8.cm-5-1c.dynamic.ziggo.nl)
+[04:13:08] *** Quits: Jeroen (Mibbit@54188FF8.cm-5-1c.dynamic.ziggo.nl) (Exit)
+[04:36:33] *** Quits: jasper (jasper@54693D97.cm-12-2a.dynamic.ziggo.nl) (Client exited)
+[04:39:09] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[05:32:11] *** Quits: pasta (pasta@541E0197.cm-5-7a.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[05:35:51] *** Joins: pasta (pasta@541E0197.cm-5-7a.dynamic.ziggo.nl)
+[05:55:22] *** Quits: MysterX (MysterX@5468C220.cm-12-1d.dynamic.ziggo.nl) (Exit)
+[05:57:12] *** Joins: MysterX (MysterX@5468C220.cm-12-1d.dynamic.ziggo.nl)
+[06:03:51] *** Joins: Spelvoud (Spelvoud@sd51113cf.adsl.online.nl)
+[06:08:52] *** Joins: Jeroen (Mibbit@54188FF8.cm-5-1c.dynamic.ziggo.nl)
+[06:13:55] *** Quits: Jeroen (Mibbit@54188FF8.cm-5-1c.dynamic.ziggo.nl) (Exit)
+[06:21:30] <tozzert> meh
+[07:09:56] *** Joins: zomertje (zomertje@pluizigenblauw.xs4all.nl)
+[07:09:56] *** ChanServ sets mode: +o zomertje
+[07:26:02] *** Quits: DinX (DinX___@d54C120B6.access.telenet.be) (Exit)
+[08:09:38] *** Joins: Jeroen (Mibbit@54188FF8.cm-5-1c.dynamic.ziggo.nl)
+[08:14:33] *** Quits: zomertje (zomertje@pluizigenblauw.xs4all.nl) (Exit)
+[08:14:42] *** Quits: Jeroen (Mibbit@54188FF8.cm-5-1c.dynamic.ziggo.nl) (Exit)
+[08:26:00] *** Joins: dpowell (dpowell@pool-108-11-240-14.hrbgpa.fios.verizon.net)
+[08:26:22] *** moto-moi|afk is now known as moto-moi
+[08:26:28] <moto-moi> tozzert: alweer zin in deze week? :P
+[08:27:58] *** Quits: dpowell (dpowell@pool-108-11-240-14.hrbgpa.fios.verizon.net) (Exit)
+[08:44:11] *** Joins: Chiron (Chiron@ip5652834f.adsl-surfen.hetnet.nl)
+[08:44:58] *** Joins: Drawer (Mibbit@80.255.245.203)
+[08:45:05] <Drawer> https://www.mobielschademelden.nl/
+[08:45:06] <Drawer> teeering
+[08:45:12] <Drawer> wat een tekst in die https balk
+[08:45:13] <Drawer> :
+[08:45:14] <Drawer> :D
+[08:45:39] <MueR> https://www.reddit.com/comments/uxpil/ive_been_playing_the_same_game_of_civilization_ii/ holy crap
+[08:45:46] <MueR> ja, oude post, I know
+[08:49:58] *** Quits: Drawer (Mibbit@80.255.245.203) (Exit)
+[08:50:25] *** Joins: toko (toko@2a02:348:71:6320:0:0:0:1)
+[08:55:30] *** Joins: ravenger (textual@ravenger.xs4all.nl)
+[08:55:33] *** Joins: DinX_Werk (DinX@out.helics.leuven.be)
+[08:56:34] *** Joins: Drawer (Mibbit@80.255.245.203)
+[08:56:46] <Drawer> gezellige boel
+[08:56:47] <Drawer> daar in egypte
+[08:57:19] <Chiron> is er al actie?
+[08:57:26] <Drawer> is er een stream?
+[08:58:21] <Chiron> https://twitter.com/LeadingEwe/status/714708077447135232/photo/1
+[09:00:20] <Drawer> een stream
+[09:00:52] *** Quits: DinX_Werk (DinX@out.helics.leuven.be) (Input/output error)
+[09:01:03] *** Joins: DinX_Werk (DinX@out.helics.leuven.be)
+[09:02:10] <moto-moi> gezellig daar
+[09:10:30] *** Quits: ravenger (textual@ravenger.xs4all.nl) (Exit)
+[09:14:21] *** Joins: groentela (GroenteLa@213.154.252.196)
+[09:14:51] <Drawer> ik heb mn laptop vandaag al 2x opnieuw opgestart voor updates
+[09:14:58] <Drawer> en nu begint ie weer updates te downloaden
+[09:15:00] <Drawer> IS HET ZON DAG?!
+[09:15:12] <DinX_Werk> wat een kutsite dat ticketmaster
+[09:15:29] <Drawer> hoezo, hebben ze geen vlaamse instelling?
+[09:15:50] <DinX_Werk> vanalle javascript meuk die niet werkt enzo lijkt het
+[09:15:54] <DinX_Werk> in chrome toch al niet
+[09:17:27] <Hooglander1> ticketmaster is een kutbedrijf :p
+[09:17:30] <Hooglander1> naast de site
+[09:17:37] *** Joins: tbosua (tbosua@office.hostnetbv.nl)
+[09:18:53] <Drawer> de nazi's ook
+[09:18:59] <Drawer> al was hun site wel ok
+[09:19:16] <Escovan> Drawer, Update Tuesday ... dat zegt je niets?
+[09:22:36] <DinX_Werk> en de ing controle site gaat dan weer niet in IE11
+[09:22:37] <DinX_Werk> ffs
+[09:22:58] <Drawer> en dan is zometeen je datalimiet erdoorheen DinX_Werk 
+[09:23:03] <Drawer> want tja, blijft toch belgie he
+[09:23:04] <DinX_Werk> :+
+[09:24:51] <moto-moi> with Hooglander1 
+[09:25:07] <moto-moi> ticketmaster is wel een van de meest paupere bedrijven die ik ken voor het geld wat ze voor hun 'service' krijgen
+[09:25:22] <Hooglander1> Ik betaal ook nergens zo veel geld voor zo'n simpele service
+[09:25:24] <DinX_Werk> nnnggghhh
+[09:25:25] <DinX_Werk> ffs
+[09:25:41] <Hooglander1> Je vraagt je bijna af of het mag, grote kans dat ticketmaster aan twee kanten betaald krijgt
+[09:25:45] <Hooglander1> van de zalen en van de ticketkopers
+[09:27:12] *** Joins: kees (kees@kees.tweakers.net)
+[09:27:21] *** Joins: jasper (jasper@54693D97.cm-12-2a.dynamic.ziggo.nl)
+[09:29:45] <tobias> ja natuurlijk krijgen ze dat Hooglander1 
+[09:29:54] <tobias> maar ze leveren dan ook de poppetjes om de kaarten te scanne nbij de ingang
+[09:29:59] <tobias> domweg gezegd 'maak geld' is de klus van ticketmaster
+[09:30:13] <tobias> de organisator maakt het verder geen flikker uit behalve dat ze geen gezeur willen
+[09:30:20] <moto-moi> ze vangen afaik miljoenen van lowlands om die 50k aan kaarten te slijten
+[09:30:20] <tobias> dus is het handig dt alleen mensen met een geldige ticket binnenkomen
+[09:30:39] <tobias> en ze maken dan lump-sum het ticketbedrag over aan de organisator
+[09:30:45] <moto-moi> en miljoenen tov. de services die ze leveren is kansloos
+[09:30:51] <tobias> en afhankelijk van de deal betaalt de organisator 0,0 en zit alles in servicekosten en ticketprijs
+[09:31:13] <tobias> uiteindelijk betaal jij het natuurlijk als klant, want de organisator betaalt het ook met jouw euros
+[09:31:19] <tobias> dus het komt gewoon netto op jouw ticketprijs
+[09:39:02] <DinX_Werk> eindelijk, de worsteling met ticketmaster gewonnen
+[09:42:08] <slein> congrats
+[09:42:29] *** boekee_away is now known as boekee
+[09:42:49] <moto-moi> waar ga je heen DinX_Werk?
+[09:43:23] <DinX_Werk> de zaterdag van graspop
+[09:43:54] <moto-moi> Ah
+[09:44:04] <moto-moi> doen ze dat tegenwoordig via ticketmaster?
+[09:44:07] <DinX_Werk> ja ...
+[09:44:23] <moto-moi> worden de kaartjes ook niet fraaier van :(
+[09:44:40] <DinX_Werk> een A4'tje :p
+[09:44:44] <moto-moi> pff
+[09:44:48] <moto-moi> le-luk
+[09:44:52] <Aapje> denk dat je meer livenation moet aankijken ipv ticketmaster :P
+[09:45:03] <moto-moi> 1 pot nat :P
+[09:45:09] <DinX_Werk> ja, zo'n beetje elk belgisch festival is via ticketmaster lijkt het
+[09:45:53] <moto-moi> ik zit nog te twijfelen over graspop, heel event met een vriend en dan zaterdag wat ander volk wat overkomt, of gewoon alleen de zaterdag samen met die club
+[09:46:24] <DinX_Werk> mja, hier ook alleen de zaterdag
+[09:46:27] <DinX_Werk> de andere dagen zijn ook leuk
+[09:46:31] <DinX_Werk> maar 3 dagen is me wat te
+[09:46:36] <Hooglander1> ticketmaster of eventim
+[09:46:40] <Hooglander1> beiden hetzelfde imo
+[09:46:43] <DinX_Werk> zaterdag is voor mij de leukkste dag, + m'n verjaardag
+[09:46:50] *** Quits: Deianeira|GPC (spam@j217177.upc-j.chello.nl) (Ping timeout: 66 seconds)
+[09:46:58] <moto-moi> hm, kan zo 1-2-3 niet een handig overzicht per dag vinden
+[09:46:58] <Hooglander1> vroeger was alles ticketmaster, toen was alles livenation / eventim
+[09:47:05] <Hooglander1> en nu langzaam weer alles naar ticketmaster
+[09:48:20] <moto-moi> afaik zijn livenation en ticketmaster samengegaan een tijdje geleden 
+[09:48:54] <Hooglander1> http://vorige.nrc.nl//kunst/article2148185.ece/Live_Nation_en_Ticketmaster_akkoord_over_fusie
+[09:49:12] <Hooglander1> livenation / Mojo is gewoon de monopolist in Nederland wat betreft grote concerten
+[09:49:38] *** Quits: MrWazoo (mrwazoo@h102136.upc-h.chello.nl) (Connection reset by peer)
+[09:51:25] *** Joins: McM (mcm@92-111-73-130.static.chello.nl)
+[09:54:32] <moto-moi> Hooglander1: klopt, en op zich is dat ook niet erg, maar de service die ticketmaster levert is zeer slecht als het aankomt op grote events
+[09:59:51] <Hooglander1> Mwhoa, een monopolie is altijd slecht
+[09:59:58] <Hooglander1> juist omdat ze dan wegkomen met slechte service
+[10:00:16] <Hooglander1> Ik vraag mij ook serieus af of het juridisch wel mag dat ze de servicekosten niet teruggeven bij een concert wat niet doorgaat
+[10:02:31] <Drawer> KIJK NAAR DE NS
+[10:02:36] <Drawer> overheid doet NIKS!
+[10:02:52] <gdex> de NS rekent tenminste geen losse servicekosten
+[10:03:12] <Drawer> nee
+[10:03:13] <Hooglander1> gdex: tenzij je geen chipkaart hebt
+[10:03:14] <Hooglander1> :>
+[10:03:15] <gdex> en, als je met een trein wil die niet rijdt, mag je met hetzelfde kaartje gewoon in een andere trein die wel rijdt op dezelfde dag
+[10:03:17] <Drawer> die flikkeren gewoon 50% op hun kaartjes
+[10:03:22] <Drawer> hoho Hooglander1 
+[10:03:26] <Drawer> 7.50 aan kosten
+[10:03:28] <Drawer> voor je ov kaart
+[10:03:29] <gdex> Hooglander1: dat is de papieren-ticket-toeslag
+[10:03:35] <gdex> die je betaalt om zelf te mogen printen
+[10:03:35] <Drawer> gaat ie stuk? nog een keer 7,50
+[10:03:52] <Drawer> kijk naar london, waarbij je je kaart 'onklaar' maakt en de 5 euro borg terugkrijgt
+[10:03:57] <gdex> moet je NS-abo hebben, dan krijg je een gratis kaart
+[10:03:58] <Drawer> gewoon uit een machine
+[10:04:22] <Drawer> mjaaaaaaa
+[10:04:27] <Drawer> nederland moest zelf iets verzinnen ej
+[10:06:36] *** boekee is now known as boekee_away
+[10:09:23] <slein> minder prettig systeem die ov-chipkaart
+[10:09:41] <jasper> "zelf iets verzinnen" heeft vrij weinig te maken met dat soort regeltjes en kosten
+[10:09:55] *** Joins: Jeroen (Mibbit@54188FF8.cm-5-1c.dynamic.ziggo.nl)
+[10:09:59] <Drawer> t is een kut systeem jasper 
+[10:10:02] <jasper> en besides, het is technisch toch dezelfde mifare chips als oyster etc?
+[10:10:04] <Drawer> t werkt in andere landen perfect
+[10:10:29] <gdex> dezelfde onderzoekers die de ov-chipkaart gekraakt hebben, hebben ook wel wat problemen met de oyster-card blootgelegd
+[10:10:37] <Drawer> en moet ik er de fyra nog ff bijhalen?
+[10:10:39] <Drawer> :>
+[10:10:39] <gdex> maar ze zijn er niet zo diep ingedoken, dus hebben 'm niet volledige gekraakt vziw
+[10:10:40] *** Joins: Tweaker_0991 (Mibbit@90-145-70-10.bbserv.nl)
+[10:10:45] <jasper> tja, 't probleem is vooral dat het over zoveel verschillende bedrijven moet werken, en dus design by committee is
+[10:10:50] <gdex> want de fyra is hetzelfde als de ov chipkaart
+[10:10:53] <jasper> Oyster werkt prima, maar werkt wel maar bij *een( vervoerder
+[10:11:03] <Drawer> ook iets wat ze zelf wilden gaan doen gdex
+[10:11:03] *** Quits: Tweaker_0991 (Mibbit@90-145-70-10.bbserv.nl) (Exit)
+[10:11:09] <Drawer> ipv bestaande systemen die bewezen zijn kopen
+[10:11:12] <gdex> de service van de ov chipkaart is vooral ruk
+[10:11:18] <jasper> exact
+[10:11:33] <Drawer> ik vind de poortjes en scanners ook kut
+[10:11:38] <Drawer> slooooooooom
+[10:11:44] <gdex> poortjes sloom?
+[10:11:45] <jasper> de technische systemen -- even de leverancier van de 'poortjes' daargelaten -- zijn gewoon bewezen systemen, want ze zijn wel degelijk hetzelfde als die anderen
+[10:11:47] <Drawer> vooral arriva/veolia
+[10:11:48] <Drawer> manmanm
+[10:11:50] <Drawer> wat een ellende
+[10:11:54] <jasper> het probleem is dat de organisatie eromheen ruk is
+[10:11:55] <gdex> oh, van derderangs vervoerders :+
+[10:11:59] <Drawer> 3 fucking seconden je pas voor dat ding houden
+[10:12:01] <Drawer> nah gdex
+[10:12:10] <Drawer> ns poortjes zijn ook slomer dan poortjes van londen
+[10:12:13] <slein> 3 seconden! pfff, drama
+[10:12:15] <gdex> beetje hetzelfde als de euro, iedereen wil meedoen maar niemand wil zich hoeven aanpassen of verantwoordelijkheid nemen
+[10:12:19] <Drawer> ja slein
+[10:12:22] <Drawer> op een druk station
+[10:12:24] <Drawer> in de ochtendspits
+[10:12:25] <Drawer> :>
+[10:12:30] <gdex> pf Drawer, poortjes, die hebben ze hier in utrecht niet :+
+[10:12:37] <Drawer> nog niet
+[10:12:38] <Drawer> :>
+[10:12:39] <jasper> gdex: Nog niet
+[10:12:40] <Escovan> Albums
+[10:12:40] <Escovan> ‌2.175
+[10:12:40] <Escovan> Foto's
+[10:12:40] <Escovan> ‌33.178
+[10:12:45] <Escovan> \o/
+[10:12:56] <gdex> misschien komen er wel supersnelhandige poortjes
+[10:13:02] <gdex> of zoals in de metro in moskou
+[10:13:05] <jasper> die palen staan niet voor niks nog steeds op "tijdelijke" vloertjes
+[10:13:08] <gdex> een ding wat dichtklapt als je doorloopt zonder te betalen
+[10:13:15] <slein> maak het wel eens mee dat zo'n paslezer het bij sommige kaartjes wel doet en bij andere niet, erg handig als er 10 man willen uitstappen bij de bus/tram
+[10:13:17] <gdex> en als je pech hebt komt dat heel hard tegen je benen aan
+[10:14:55] <Jeroen> MOSKAU
+[10:15:01] <Jeroen> fremd und geheimnisvoll
+[10:16:44] <Drawer> dat zei een konijn laatst
+[10:16:54] <Drawer> 'ik denk dat ik niet op gras maar op mos kauw'
+[10:17:36] <slein> oh, klaar met ov-chipkaart afkraken?
+[10:17:36] <slein> jammer
+[10:17:53] <Jeroen> https://haveibeenpwned.com/ dit is best een mooie website om emailadressen te verzamelen :+
+[10:19:52] <Hooglander1> jasper: Oyster werkt bij meerdere vervoerders
+[10:20:40] <Jeroen> https://www.youtube.com/watch?v=443B6f_4n6k
+[10:21:40] <slein> wtf?
+[10:24:49] <moto-moi> Jeroen: ghehe, en op een gegeven moment loopt 'ie vast ofzo? :P
+[10:28:00] <Jeroen> no idea :+
+[10:28:03] <Jeroen> https://i.imgur.com/ybXXQXU.jpg
+[10:28:42] <Jeroen> die zumwalts zijn zo gaaf he
+[10:29:56] <Tomcat_hatt> ik vind ze super lomp uitzien
+[10:30:02] <gdex> hij ziet eruit alsof 'ie van achter het bosje wacht tot 'ie z'n prooi kan bespringen
+[10:30:04] <Jeroen> what the shit
+[10:30:33] *** Quits: Jeroen (Mibbit@54188FF8.cm-5-1c.dynamic.ziggo.nl) (Exit)
+[10:30:44] *** Joins: Jeroen (Mibbit@54188FF8.cm-5-1c.dynamic.ziggo.nl)
+[10:30:47] <Jeroen> stinkmibbit
+[10:30:52] <gdex> koop een echte client
+[10:30:57] <Jeroen> :+
+[10:32:01] <Jeroen> ik ken blijkbaar iemand die speelt in een korte film die nu op cannes vertoond wordt
+[10:32:12] <Jeroen> verklaart de foto's met al die indiase filmsterren wel
+[10:34:40] *** Joins: Guyver2 (Guyver2@guyver2.xs4all.nl)
+[10:39:07] *** Quits: sm0ck2 (ashnohoe@D97B8CD4.cm-3-4c.dynamic.ziggo.nl) (Exit)
+[10:39:23] *** Joins: sm0ck (ashnohoe@D97B8CD4.cm-3-4c.dynamic.ziggo.nl)
+[10:42:21] *** boekee_away is now known as boekee
+[10:48:42] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Connection reset by peer)
+[10:48:43] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[10:57:42] *** Quits: McM (mcm@92-111-73-130.static.chello.nl) (Ping timeout: 68 seconds)
+[11:02:28] <Escovan> Vroegah had je een nummer dat je kon bellen als je een telefoonnummer zocht. 1888 ofzo. Voor mensen zonder google.
+[11:09:18] <Jeroen> wat is dit, #nuttelozeinformatiezondercontext.net?
+[11:20:25] <Escovan> Kanaal vulling :P
+[11:20:41] <Escovan> Heb ik de hele dag de tijd voor
+[11:20:45] <Escovan> Elke 
+[11:20:46] <Escovan> dag
+[11:20:47] <Escovan> weer
+[11:20:54] <gdex> en niemand die er op zit te wachten
+[11:22:08] <Drawer> http://nos.nl/artikel/2095815-nederlander-gegijzeld-in-gekaapte-egyptische-airbus.html
+[11:22:10] <Drawer> SHIT IS AAN
+[11:23:41] <Jeroen> http://www.hpdetijd.nl/2016-03-28/dwdd-ik-kan-het-niet-langer-aanzien/
+[11:24:53] <tobias> hebben we vandaag Hooglander1 eigenlijk al gefeliciteerd?
+[11:25:12] <Hooglander1> vandaag?
+[11:25:16] <Hooglander1> nee
+[11:25:18] <Hooglander1> waarvoor?
+[11:25:24] <tobias> volgens facebook ben je jarig
+[11:25:26] *** gdex changes topic to 'Gefeliciteerd Hooglander1!'
+[11:25:32] <Hooglander1> dan moet je vaker facebook checken
+[11:25:34] <Hooglander1> :>
+[11:25:35] <gdex> maakt niet uit waarmee
+[11:25:40] <gdex> vandaag feliciteren we Hooglander1 
+[11:25:41] <Jeroen> rare facebook heb je :+
+[11:25:50] <Drawer> wtf
+[11:25:52] <Jeroen> gefeliciteerd he, Hooglander1 
+[11:25:54] <Hooglander1> want dat was 5 dagen geleden tobias  :+
+[11:25:56] <Drawer> ;D
+[11:25:59] <tobias> lol
+[11:26:05] <gdex> dat had zelfs ik door zonder facebook
+[11:26:35] <tobias> maar facebook heeft altijd gelijk dus maakt me niet uit, Hooglander1 
+[11:26:37] <tobias> gefeliciteerd :>
+[11:26:59] <Hooglander1> thnx dan he :D
+[11:27:00] <Escovan> goed stuk Jeroen ... ik kan Dwdd ook niet meer aanzien. 
+[11:27:17] <tobias> hm maar opzich geeft een aantal posts met daarin 'rip cruyff' wel de hint dat wellicht deze tab een beetje over datum is :>
+[11:27:58] <gdex> hij is nog steeds dood hoor
+[11:31:13] <tobias> wtf @ vliegen van alexandrie naar cairo en dan noodlanden op cyprus
+[11:31:55] <Hooglander1> sowieso dat stuk vliegen is al wtf he :P
+[11:32:15] <tobias> ik denk dat de wegen afschuwelijk zijn
+[11:32:32] <tobias> beetje als de cityhopper AMS-CDG
+[11:32:52] <tobias> je zou het prima kunnen rijden maar op het moment dat je in parijs wil zijn staat alles tussen amsterdam en parijs stil in de file
+[11:32:57] <Tomcat_hatt> http://i.imgur.com/mxEFQpC.gifv
+[11:33:12] <Hooglander1> flightradar heeft er slechte dekking helaas
+[11:33:16] <Hooglander1> https://www.flightradar24.com/MSR181/93d5b9d
+[11:33:29] <tobias> Tomcat_hatt: rofl
+[11:34:09] *** Joins: m1dnight (christophe@2a02:a03f:1273:fc00:be5f:f4ff:fe9a:a91e)
+[11:34:30] *** Joins: Kaastosti (Kaastosti@185.19.103.3)
+[11:34:33] <Kaastosti> goeeeeiemorgen!
+[11:35:07] <Kaastosti> is Hoog jarig (geweest)?
+[11:35:18] <tobias> :>
+[11:35:27] <Escovan> Ja, hij mag nu autorijden.
+[11:35:30] <Kaastosti> dan is er kennelijk iets mis gegaan bij de post... geen uitnodiging, geen taart, helemaal niks
+[11:35:48] <Jeroen> je ziet dat AMS-CDG tegenwoordig ook wel met de thalys gedaan wordt, tobias 
+[11:35:49] <Kaastosti> jullie zeker allemaal wel?
+[11:35:58] <Jeroen> ik vlieg 100x liever, overigens
+[11:36:00] <Jeroen> zelfs naar CDG
+[11:36:02] <Jeroen> kutvliegveld
+[11:36:16] <gdex> Kaastosti: hij is niet jarig
+[11:36:26] <Kaastosti> oh god
+[11:36:28] <Escovan> Niets Kaastosti helemaal niets. Volgens mij haat hij ons.
+[11:36:29] <Kaastosti> dat andere
+[11:36:31] <tobias> mwah, ligt eraan. Met privium misschien, maar het gezeur om 's ochtends op tijd op schiphol te zijn en op tijd door alle procedures
+[11:36:36] <gdex> nee Kaastosti
+[11:36:38] <gdex> er is niks aan de hand
+[11:36:41] <tobias> lol
+[11:36:43] <gdex> tobias dacht alleen dat 'ie jarig was
+[11:36:45] <tobias> is je vrouw zwanger Hooglander1 ?!
+[11:36:57] * Kaastosti doet even hyperen in een plastic zakje
+[11:36:59] <tobias> gefeliciteerd! :>
+[11:37:00] <gdex> :D
+[11:37:13] <Jeroen> oja ik bedoel als leg, tobias 
+[11:37:13] <Jeroen> :p
+[11:37:20] <Jeroen> als feedervluch
+[11:37:21] <Jeroen> t
+[11:37:29] <tobias> ahja ok
+[11:37:30] <Kaastosti> hij heeft z'n eerste schilderij van Ravensburger af
+[11:37:34] <tobias> ik moest vroeger nog wel es 'even' in parijs zijn
+[11:37:39] <Kaastosti> met slechts 2 vakjes verkeerd
+[11:37:39] <Jeroen> ghehe
+[11:37:40] <tobias> dus dan ga je maar met de klm-bus
+[11:37:49] <Jeroen> uur of 6 rijden joh :+
+[11:37:59] <tobias> dan kan ik geen koffie krijgen
+[11:38:00] <tobias> wel lief
+[11:38:00] <Kaastosti> met de bus :| hell no
+[11:38:08] <tobias> klm-bus met vleugels Kaastosti :-)
+[11:38:11] <tobias> veel meer is het neit
+[11:38:18] <Jeroen> een fokker
+[11:38:21] <Jeroen> zoals het hoort
+[11:38:22] <gdex> iets comfortabeler dan een bus
+[11:38:22] <Jeroen> verdomme
+[11:38:24] <gdex> niet veel tho
+[11:38:26] <Kaastosti> iets
+[11:38:36] <tobias> instappen, dan de wedstrijd zoveel-mogelijk-koffie-in-een-half-uur, dan landen en uitstappen
+[11:38:42] <Kaastosti> jammer dat business class zo gruwelijk veel duurder is altijd
+[11:38:44] <Jeroen> en whisky he
+[11:38:56] <Kaastosti> ja... bocht
+[11:39:00] <tobias> na het economy kopje in een plastic beker altijd nog 2x in porcelein want die pakken ze dan uit de businessclass
+[11:39:01] <gdex> beter dan niks toch
+[11:39:09] <Kaastosti> maar als je wil slapen.. it'll do
+[11:39:09] <tobias> ik zou die hop nooit business vliegen, is't echt niet waard
+[11:39:39] <Kaastosti> het is het sowieso niet waard... als je zelf moet dokken
+[11:39:40] <gdex> dan kun je beter 1e klas thalys pakken
+[11:39:40] <tobias> en stiekem is vliegen zelfs goedkoper dan de benzine om zelf te rijden
+[11:39:51] <tobias> thalys is ook duurder dan vliegen :>
+[11:39:58] <Kaastosti> naar NZ hebben we er aan gedacht... tot we de prijs zagen, toen werd het een 'als we de loterij winnen'-only dingetje
+[11:39:59] <gdex> zo'n city-bus is nog goedkoper :P
+[11:40:05] <tobias> ja shittybus ftl
+[11:40:10] <gdex> tobias: wisselend :P
+[11:40:20] <tobias> Kaastosti: als je veel zakelijk vliegt zsm zorgen dat je punten spaart
+[11:40:32] <tobias> die spaar je ook op economy maar kun je inzetten ook op je eigen privevluchten (staan op jouw naam)
+[11:40:32] <gdex> toen ik een keer corsica -> huis moest doen was de goedkoopste optie om via parijs en verder thalys te doen
+[11:40:34] <Kaastosti> dat is dus niet het geval
+[11:40:38] <gdex> ook extra vliegen was een tik duurder
+[11:40:47] <tobias> gdex: true
+[11:40:49] <Kaastosti> en vind ik niet erg ook... doe mij maar gewoon lekker dicht bij huis :)
+[11:41:05] <gdex> en de thalys gaat vaker dan vliegtuigen
+[11:41:07] <Kaastosti> bij de gemeente Haarlem draaien ze ook op SAP... toch eens vragen of daar niks leuks te doen is
+[11:41:13] <Jeroen> maar doorgaans is thalys bizar duuah
+[11:41:24] <gdex> je moet een rustige tijd uitzoeken :P
+[11:41:44] <gdex> ik was 40 ekki's kwijt voor parijs->rotterdam
+[11:41:50] <Jeroen> dat valt mee
+[11:42:32] <tobias> Kaastosti: voor gemeenten is het vaak makkelijker als je het vanuit een zzp-rol komt doen (of een lokale tent die je daar kan neerzetten)
+[11:42:41] <tobias> dan zitje niet aan de balkenende-norm en hoef je niet door alle hoepels
+[11:43:04] <Jeroen> het stikt sowieso van de it-zzp'ers bij de overheid
+[11:43:10] <tobias> mooiste zou natuurlijk zijn als je huidige werkgever je daar neer kan detacheren
+[11:43:18] <tobias> en ze na drie jaar denken 'koop die vent' en je daar een leuke stap mee kan maken
+[11:43:28] <tobias> (hoewel de 'koop' move meestal niet door gemeenten gebeurt)
+[11:43:33] <Jeroen> vraag me af hoe dat zit bij logius
+[11:45:05] <Hooglander1> tobias: daarom direct als zzp'er in dienst
+[11:45:08] <Hooglander1> kun je meteen beginnen met harken
+[11:45:29] <tobias> dan moet je mensen kennen :)
+[11:45:37] *** Quits: Guyver2 (Guyver2@guyver2.xs4all.nl) (Exit)
+[11:45:41] <Hooglander1>  True
+[11:45:50] <Hooglander1> Al heb ik altijd het idee dat als je eenmaal begonnen bent zoiets heel hard kan lopen
+[11:45:53] <Jeroen> dus je wordt lid van een lokale partij
+[11:45:57] <Jeroen> borrelt een keer met de wethouder
+[11:45:58] <tobias> Hooglander1: true
+[11:46:16] <Kaastosti> heh die 'koop' move komt er echt niet :P
+[11:46:25] *** Joins: Francis (Francis@5468C56E.cm-12-1d.dynamic.ziggo.nl)
+[11:46:25] <Kaastosti> maar inderdaad via de huidige werkgever zou ideaal zijn
+[11:46:29] <Kaastosti> lekker op de fiets naar het werk
+[11:46:32] <Jeroen> je zoekt een functie in de oranjevereniging of heemkundekring ofzo, iets dat binding met het durp aangeeft
+[11:46:43] <Hooglander1> Als je ze zelf aanlevert als klant ben je helemaal lekker bezig Kaastosti 
+[11:46:43] <Kaastosti> mijn buurman werkt bij de gemeente :P
+[11:46:54] <Jeroen> het zijn lokale politici, hoe moeilijk kan het zijn om die te beïnvloeden :+
+[11:46:57] <tobias> Hooglander1: als je baas daar oog voor heeft zeker ja :)
+[11:47:00] <tobias> Jeroen: lol
+[11:47:13] <Hooglander1> tobias: en anders wijs je ze er toch even op? :P
+[11:47:30] <tobias> toch wel bijzonder dat Microsoft voor haar Build event dezelfde locatie gebruikt als dat Apple gebruikt voor oa WWDC
+[11:47:31] <Kaastosti> overheden staat nou niet heel erg vooral als het aankomt op innovatie
+[11:47:37] <tobias> blijkbaar is dat 'de spot' in sanfran
+[11:47:41] <tobias> (moscone center)
+[11:47:47] <Kaastosti> *vooraan
+[11:48:03] <Jeroen> Moscone Center /mɒsˈkoʊni/ is the largest convention and exhibition complex in San Francisco, California.
+[11:48:04] <Jeroen> :p
+[11:48:16] <tobias> zal ook wel f'in huge zijn though
+[11:48:16] <Hooglander1> het is de grootste
+[11:48:18] <Hooglander1> verklaart al een boel
+[11:48:32] <tobias> apart trouwens, voor mn gevoel was build 2015 echt maar een paar maand geleden
+[11:48:49] <Kaastosti> je bent nog helemaal warm van binnen? :)
+[11:48:53] <tobias> (daar hebben ze de hele app strategy incl 'hop crosscompile objective-c naar win10' en hololens gedemood)
+[11:49:00] <tobias> Kaastosti: eigenlijk wel ja :D
+[11:49:06] <Hooglander1> al die dingen die ze nu dood hebben gemaakt toch?
+[11:49:12] <Jeroen> nou dat is voor mij echt heel lang geleden :+
+[11:49:13] <tobias> nee, dat is allemaal springlevend
+[11:49:21] <tobias> enige wat 'dood' is verklaard is de bridge naar Android, Hooglander1 
+[11:49:27] <tobias> namelijk android runtime embedded in winmobile
+[11:49:32] *** Quits: m1dnight (christophe@2a02:a03f:1273:fc00:be5f:f4ff:fe9a:a91e) (Exit)
+[11:49:34] <tobias> dat werkte toch niet supermooi en was niet echt nodig meer
+[11:49:46] <Kaastosti> laat ze W10 eens fatsoeneren zodat de gebruiker weer in control is... dan doe ik weer mee
+[11:50:07] <tobias> ze hebben onlangs Xamarin gekocht, ben benieuwd of dat vanaf heden gratis bij visualstudio zit
+[11:50:56] <tobias> Kaastosti: ik vind de gebruiker nog prima in control in win10. bovendien is het SNEL. En qua settings zie je alle OS'en teruglopen in de GUI in ruil voor duidelijkheid.
+[11:51:13] <tobias> voor detailsettings moet je op zowel osx als linux de console in, en op windows console (powershell) of regedit
+[11:52:14] <tobias> ben benieuwd of er een hololensv2 gepreviewd gaat worden
+[11:52:43] *** Quits: Francis (Francis@5468C56E.cm-12-1d.dynamic.ziggo.nl) (Exit)
+[11:53:31] <Kaastosti> mee eens, W10 ziet er prima uit en start snel op... en vervolgens wordt werkelijk _alles_ wat je maar doet doorgestuurd naar de servers van MS
+[11:53:40] <Kaastosti> en dat vind ik behoorlijk storend
+[11:54:02] <tobias> dat is schromelijk overdreven
+[11:54:03] <Kaastosti> maar goed, die tirade heb ik hier al eens eerder afgestoken
+[11:54:28] <tobias> ik merk wel dat veel os'en tegenwoordig slecht kunnen tegen 'offline zijn'
+[11:54:31] <Kaastosti> beetje gechargeerd uiteraard, maar onderaan de streep kun je het niet geheel uitzetten
+[11:55:24] <Kaastosti> als het OS niet sneaky gegevens door zou blijven sturen, had ik het echt top gevonden
+[11:55:46] <Kaastosti> tuurlijk wat kleine bugs, maar het hele upgrade proces... hulde aan MS dat dat allemaal zo soepel verloopt
+[11:56:33] <Kaastosti> mooie mix van W7 en een nieuwe gui
+[11:57:20] <Kaastosti> weer even wennen, maar ach, dat hadden we van '98 naar XP, XP naar 7, 7 naar 8 hebben we het maar niet over :P
+[11:57:35] <tobias> heerlijk youtube-filmpje van letterlijk ALLE windows-versies die achter elkaar upgraden
+[11:57:43] <tobias> van windows 1 naar windows 10 :)
+[11:59:47] <Kaastosti> haha wat een bende wordt dat echt :D
+[12:02:39] *** Quits: Jose_Orinoko (AndChat492@ip-81-11-224-248.dsl.scarlet.be) (Ping timeout: 66 seconds)
+[12:03:27] <Hooglander1> het kan niet eens
+[12:03:31] <Hooglander1> windows 1 is 16 bit :P
+[12:03:37] <Hooglander1> ergens moet je van 16 naar 32 bit
+[12:04:14] <tobias> ja en
+[12:04:18] <Drawer> boeie
+[12:04:21] <Jeroen> gewoon 2x installeren
+[12:04:26] <Drawer> gewoon nieuwe proc erin
+[12:04:37] <Drawer> nerds
+[12:04:40] <tobias> je moderne cpu kan prima 16-bit processen draaien hoor
+[12:04:43] <Drawer> hoezo weet jij dat soort shit Hooglander1 
+[12:04:45] <Drawer> nerd
+[12:05:09] <Kaastosti> hij heeft nog een servertje draaien... :P
+[12:05:38] <Drawer> wist niet dat zon celeron nuc zo kut was dat ie 16bit deed joh
+[12:06:19] <tobias> Hooglander1: Kaastosti: https://www.youtube.com/watch?v=hj6R2L9Z_o4
+[12:07:36] <Hooglander1> Drawer: omdat wij thuis van 16 naar 32 naar 64 zijn gegaan :P
+[12:07:49] <Hooglander1> en tobias als ik mij niet vergis was de 16 bit emulatie eruit gehaald toen we 64 bit processoren kregen
+[12:08:02] <Drawer> wij van 2 naar 4 naar 16 naar 32 naar 64 naar 128
+[12:08:05] <Drawer> :7
+[12:08:05] <tobias> nope, is onderdeel van de x86 spec
+[12:08:25] <tobias> dat is het irritante eigenlijk - er zit heel veel in een moderne proc om x86-compatible te blijven
+[12:08:54] <tobias> lol een creative labs cd-rom drive
+[12:09:18] <Kaastosti> oldskool
+[12:09:29] <tobias> oh dit is een chinese of japanse video - ik heb 'm ook 100% engels gezien
+[12:09:38] <Kaastosti> ik heb de bon van m'n eerste PC nog :) gewoon sentiment
+[12:09:48] <Kaastosti> 3838 gulden
+[12:09:54] <tobias> oh ik echt niet, want dat was een xt en ik was denk ik 8 of 9 :)
+[12:10:01] <Hooglander1> ah, windows kon geen 16 bit installers meer draaien tobias 
+[12:10:02] <Hooglander1> dat was het
+[12:10:09] <tobias> hercules graphics ftw
+[12:10:13] <Hooglander1> was idd niet direct cpu gerelateerd
+[12:10:16] <Drawer> opoes
+[12:10:18] <Kaastosti> hercules kon ik emuleren
+[12:10:20] <tobias> Hooglander1: check
+[12:10:23] <Kaastosti> hgcibm /i
+[12:10:28] <Kaastosti> en gaan
+[12:10:39] <tobias> jup :) pastte prima in ega/cga
+[12:10:39] <Hooglander1> yeah
+[12:10:40] <Hooglander1> dat hadden wij ook
+[12:10:43] <Hooglander1> hercules op cga
+[12:10:47] <Kaastosti> uh huh
+[12:11:09] <Kaastosti> toen was elke innovatie ook echt zichtbaar een stap voorwaarts
+[12:11:15] <Kaastosti> CGA naar EGA, EGA naar VGA
+[12:11:20] <Kaastosti> kleur WHOOOOO
+[12:11:31] <Drawer> nurts
+[12:11:36] <Kaastosti> een soundblaster (ipv speaker of adlib) sayw000t
+[12:12:03] <Kaastosti> en nu... een Ge-Force 970 ipv 950... eeeh tjah, weer iets sneller
+[12:12:03] <tobias> met volume via het draaiwieltje achterop je computer
+[12:12:03] <Drawer> 1e pc was een tulip ding, dunno precies
+[12:12:05] <tobias> superhandig
+[12:12:09] <Hooglander1> wij gingen dus van een 16 bit cga naar een pc die win 98 draaide :X
+[12:12:12] <Drawer> en 2e was een 166MHz van de vobis
+[12:12:12] <Drawer> jaja
+[12:12:13] <Drawer> vobis
+[12:12:15] <Hooglander1> hello 21e eeuw
+[12:12:15] <Drawer> tyfuskutzaak
+[12:12:21] <tobias> Hooglander1: holy tiefus dat is een stap :)
+[12:12:22] <Kaastosti> 166MHz... luxe
+[12:12:27] <Drawer> jaja
+[12:12:30] <Drawer> met 128MB ram
+[12:12:32] <Drawer> denk ik
+[12:12:40] <Drawer> draaide net de Sims 1
+[12:12:43] <Hooglander1> Van een echte tekstverwerker met commando's naar office 97
+[12:12:51] <Hooglander1> ben de naam van die tekstverwerker vergeten goddammit
+[12:12:58] <Kaastosti> het begon met Commodore, daarna een QL Sinclair (met van die kleine tapejes), en daarna een PC met Turbo knop om te switchen tussen 8 of 12 MHz
+[12:13:16] <Kaastosti> een 8068
+[12:13:19] <Kaastosti> eeeh 8086
+[12:13:41] <Kaastosti> gevolgd door 286, 386.. echt alles is wel voorbij gekomen
+[12:13:41] <Drawer> 166Mhz P3 128MB , 30GB hdd
+[12:14:08] <Kaastosti> good old times
+[12:14:22] <kees> ik begon met een 8088
+[12:14:22] <tobias> wij hebben ook nog een zx spectrum gehad, zowel gebruikt met fullsize tapes als met microtape Kaastosti :)
+[12:14:25] <Hooglander1> wordperfect 5.1
+[12:14:26] <Hooglander1> dat was hem
+[12:14:27] <Kaastosti> maar heb daar als ik het mij goed herinner al eens een topic over gestart... dat ik het *wouw* effect een beetje mis
+[12:14:31] <tobias> hah WP51
+[12:14:33] <Hooglander1> :D met zo'n geplastificeerde strip voor je tobo
+[12:14:41] <kees> en daarna een 286, 386, pentium
+[12:14:42] <Hooglander1> zodat je de commando's niet uit je hoofd hoefde te leren
+[12:14:44] <Kaastosti> VR zou weer zoiets kunnen zijn
+[12:14:56] <tobias> toen ik een pentium had kon ik Quake spelen
+[12:15:00] <Kaastosti> haha oh ja zo'n strip op je keyboard
+[12:15:00] <tobias> weet je hoe fucking vet
+[12:15:02] <tobias> echte 3d
+[12:15:14] <Kaastosti> en toen kwam 3DFX, hoe fucking awesome!
+[12:15:15] <Hooglander1> Die stappen heb ik allemaal gemist
+[12:15:16] <Hooglander1> zuinigheid thuis
+[12:15:20] <Kaastosti> Voodoo 2 12Mb
+[12:15:21] <kees> duke nukem was de eerste game waar ik echt wow van had
+[12:15:27] <Kaastosti> als opvolger van de Diamond Viper V330
+[12:15:36] <Drawer> soldier of fortune
+[12:15:37] <Drawer> bazenspel
+[12:15:40] <tobias> hah ja, 3dfx, die als eis had dat elke game ook het 3dfx-splashscreen toonde
+[12:15:41] <Kaastosti> en die Voodoos kon je SLI-en
+[12:15:44] <kees> duke nukem 3d, toen 3d nog in de titel kon :P
+[12:15:49] <tobias> Kaastosti: klopt :D
+[12:15:52] <tobias> met rare splitterdinges
+[12:16:03] <Kaastosti> ja met zo'n twist in het midden van de kabel
+[12:16:25] <Kaastosti> dat was in de tijd van Quake 2 en Carmageddon
+[12:16:57] <Hooglander1> we zijn oud :+
+[12:16:59] <Kaastosti> of was het zelfs nog Q1
+[12:17:04] <Kaastosti> meh ik was meer van de UT
+[12:17:06] <Hooglander1> dat gaat niet meer goed komen denk ik
+[12:17:11] <Kaastosti> nee wij zijn verdoemd
+[12:17:21] <Kaastosti> en de generaties na ons nog veel harder
+[12:17:36] <tobias> wel leuke week. ms build en tesla model 3 release
+[12:17:48] <Kaastosti> ah de Model 3 komt eindelijk?
+[12:17:54] <tobias> jes
+[12:18:00] <tobias> vrijdagochtend 04:30 is release event
+[12:18:08] <tobias> je kan je nu nog inschrijven bij de tesladealer voor 1k eur
+[12:18:08] <Hooglander1> de release of de onthulling?
+[12:18:19] <tobias> onthulling natuurlijk, levering begint late 2017
+[12:18:24] <tobias> in EU probably early 2018
+[12:18:44] <tobias> (die 1k kun je any moment terugkrijgen overigens, de rest betaal je pas bij levering)
+[12:18:56] <Hooglander1> de tandjes man
+[12:19:02] <Hooglander1> al is het wel een idee
+[12:19:05] <tobias> dus als je denkt 'in 2018 wil ik wellicht een model 3' dan moet je ff naar de dealer en je inschrijven
+[12:19:07] <Hooglander1> nu ff 1k euro inleggen :+
+[12:19:08] <Kaastosti> wordt een beetje betaalbare electrische auto
+[12:19:17] <tobias> ja, de markt denkt 35k usd
+[12:19:23] <Kaastosti> kaal
+[12:19:31] <Hooglander1> 45 k euro probably dan
+[12:19:37] <Kaastosti> en dan wil je nog een grotere accu en wat gadgets... kom je ook wel weer op de 45k inderdaad
+[12:19:43] <Hooglander1> ik gok dat ze hem tegen de bmw 3 willen zetten
+[12:19:45] <Kaastosti> maar dan nog, met lage bijtelling, prima te doen
+[12:19:49] <Kaastosti> ja dat segment
+[12:19:49] <tobias> ja, maar in de US wordt ie juist cheaper want tot 10k aan govt support
+[12:19:56] <Hooglander1> hier ook minder bpm
+[12:19:59] <Hooglander1> dus wat dat betreft
+[12:20:06] <tobias> en idd, lage bijtelling, wagen van <50k met een boel features
+[12:20:09] <tobias> doemediemaar
+[12:20:11] <Hooglander1> maar wat koop je in de US voor 35k USD dan?
+[12:20:11] <kees> 35k euro in .nl volgens tesla.nl
+[12:20:13] <Kaastosti> ik zeg het je... in 20 jaar rijdt alles electrisch
+[12:20:32] <Hooglander1> Ik zou serieus prima elektrisch kunnen rijden
+[12:20:35] <tobias> kees: tesla.nl is een andre site :P
+[12:20:37] <Kaastosti> en dan gaan we daar vervolgens ook gewoon belasting over betalen uiteraard
+[12:20:41] <Hooglander1> Met een range van 300km ben ik goed zat
+[12:20:50] <tobias> same here
+[12:21:02] <Kaastosti> meh meestal wel, 400 is net even wat comfortabeler
+[12:21:02] <Hooglander1> Enige vervelende is als ik naar Engeland of Frankrijk moet
+[12:21:05] <Hooglander1> Mgoe, houd je dan ff rekening mee
+[12:21:05] <kees> tobias, ik bedoel tesla in nederland :P
+[12:21:08] <tobias> en als veel mensen 't doen wordt het ook niet meer het verlengsnoer mee naar de klant
+[12:21:19] <Hooglander1> Nu kan je al overal goed laden
+[12:21:21] <Hooglander1> iig, in de randstad wel
+[12:21:27] <Kaastosti> het begint te komen inderdaad
+[12:21:31] <Hooglander1> op de high tech campus zijn alle elektrisch laden plekken vrijwel altijd bezet
+[12:21:36] <Hooglander1> dat zijn wel goede tekenen
+[12:21:41] <tobias> ik hoop dat ze een boel poen gebruiken om die superchargers ff hard uit te rollen
+[12:21:49] <Kaastosti> mooie is wel dat eigenaren vaak ook hun  auto weghalen als 'ie vol is
+[12:21:57] <tobias> Hooglander1: nou, het betekent dat de lokale palenboer er te weinig neergezet heeft :>
+[12:22:06] <tobias> Kaastosti: dat is wel netjes idd
+[12:22:21] <Kaastosti> tenminste... de Tesla bobo's wel
+[12:22:34] <Kaastosti> de Opel Ampera lutsers niet
+[12:23:01] <tobias> heh wij hadden een collega met een ampera
+[12:23:09] <Kaastosti> die denken 'ey gratis plek!'
+[12:23:10] <tobias> dat ding ging toeteren als ie een dip in de stroom merkte
+[12:23:16] <Kaastosti> haha
+[12:23:18] <Hooglander1> wat? waarom
+[12:23:20] <tobias> supermongole feature
+[12:23:34] <Hooglander1> en hoe gevoelig is dat ding als dat in NL afgaat :D
+[12:23:49] <Hooglander1> sluit je een Tesla in de paal er naast aan
+[12:23:49] <Hooglander1> TOET
+[12:23:51] <tobias> dunno - het was kut op de parkeerplaats van ons bedrijf :D
+[12:23:53] <Jeroen> iedere keer als ie meer dan 110V heeft, dan toetert ie
+[12:24:05] <Kaastosti> blijft 'ie dan  ook toeten, of is het eenmalig *toet*
+[12:24:06] <gdex> lekker met 50hz
+[12:24:15] <tobias> Kaastosti: af en toe gewoon toet
+[12:24:17] <tobias> like, wtf
+[12:24:22] <tobias> hou je muil kutauto
+[12:24:26] <Kaastosti> schrik je je toch ook wild
+[12:24:33] <Kaastosti> stekkertje er uit
+[12:24:37] <Jeroen> tja, opel :+
+[12:24:48] <Hooglander1> Chevrolet bedoel je :+
+[12:24:55] <Hooglander1> met hun zogenaamd volledig elektrische aandrijving
+[12:24:58] <Hooglander1> wat keihard bullshit was
+[12:25:23] <Kaastosti> het zou zo fijn zijn als je gewoon zelf een beetje kon programmeren in alle non-essentiële systemen
+[12:25:51] <Kaastosti> kan ik alles instellen zoals _ik_ het wil, niet wat de fabrikant heeft bedacht dat iedereen wil hebben
+[12:25:58] <Drawer> 12:24	Jeroen	tja, opel :+ 12:24	Hooglander1	Chevrolet bedoel je :+
+[12:26:00] <Drawer> uh?
+[12:26:05] <Drawer> met Jeroen 
+[12:26:17] <Drawer> ampera is een opel
+[12:26:17] <Drawer> :>
+[12:26:18] <Jeroen> ampera=chevy volt
+[12:26:21] <Drawer> NEE
+[12:26:24] <Drawer> AMPERA IS OPEL
+[12:26:30] <Jeroen> allemaal GM-meuk
+[12:26:35] <Jeroen> en Kaastosti, juist GM haat op dat soort shit
+[12:26:36] <Jeroen> :P
+[12:26:38] <Jeroen> samen met deere
+[12:27:00] <Kaastosti> wat voor shit?
+[12:27:08] <Jeroen> General Motors told the Copyright Office that proponents of copyright reform mistakenly “conflate ownership of a vehicle with ownership of the underlying computer software in a vehicle.”
+[12:27:22] <Jeroen> aanpassen van programmatuur ed
+[12:27:45] <Kaastosti> voor motormanagement en kiritieke dingen... tjah, logisch... maar de rest, why not?
+[12:27:52] <Jeroen> GM went so far as to argue locking people out helps innovation. 
+[12:27:54] <Jeroen> mehehe
+[12:27:58] <Jeroen> http://www.wired.com/2015/04/dmca-ownership-john-deere/
+[12:27:59] <Jeroen> scumbags
+[12:28:00] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Ping timeout: 61 seconds)
+[12:28:02] <Kaastosti> als je maar duidelijk maakt dat je als fabrikant je hannden er van af trekt als er wat aangepast is
+[12:29:05] <tobias> zelfs dat hoeft niet
+[12:29:20] <Jeroen> http://www.extremetech.com/extreme/203913-general-motors-john-deere-want-to-keep-tinkering-self-repair-illegal
+[12:29:31] <tobias> ja, die john deere case is vies
+[12:29:33] <tobias> lekker alles onder DRM
+[12:29:42] <tobias> maar daar doet elke autobouwer ook aan
+[12:29:56] <Kaastosti> het lullige is dat het voor de massa ook niet nodig is
+[12:30:10] <tobias> (zo is de garage-handleiding van mercedes-benz niet meer de oude installable vanaf cd/dvd maar een SaaS online applicatie waar je als garagier per maand voor betaalt)
+[12:30:11] <Jeroen> nee tobias, vooral GM
+[12:30:14] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[12:30:16] <Kaastosti> de massa is een duffe gebruiker die het helemaal niet erg vindt... 'hij doet het toch'
+[12:30:17] <tobias> dus als consument krijg je die niet in je handen
+[12:30:39] <Jeroen> de rest zegt "eh ja daar zijn we niet zo blij mee qua veiligheid en dat kan wel eens lastig worden voor garantie"
+[12:30:48] <Jeroen> gm zegt net als deere "FUCK YOU je komt er niet aan"
+[12:30:56] <Jeroen> in a nutshell
+[12:31:17] <Jeroen> mja ik heb het over legal matters he, niet technisch
+[12:31:41] <Kaastosti> In de basis snap ik dat uitgangspunt... de software maakt het product werken. Als je mensen daaraan laat prutsen, is de kans groot dat de boel stuk gaat
+[12:32:04] *** Joins: Guyver2 (Guyver2@guyver2.xs4all.nl)
+[12:32:25] <Jeroen> vind ik ook fair
+[12:32:32] <Kaastosti> Fair enough, maar de boel moet toch op te splitsen zijn... kritieke systemen kun je niet bij, maar al het andere... er zijn genoeg enthousiastelingen die maar wat graag dingen anders willen zien
+[12:32:32] <tobias> ja en
+[12:32:34] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Exit)
+[12:32:37] <tobias> zorg dat ik makkelijk stock kan terugflashen
+[12:32:49] <Jeroen> maar doodleuk zeggen "je koopt alleen het metaal en de software blijft van ons" terwijl je natuurlijk ook voor de licentie betaalt, dat vind ik nogal verneukeratief
+[12:32:49] <tobias> zodat bij diagnostiek je makkelijk de defaults erin blaft
+[12:33:02] <Jeroen> en dat doen ze nu dus in de VS
+[12:33:10] <Kaastosti> diagnostische software zou je gewoon bij moeten kunnen
+[12:33:19] <Kaastosti> beetje gelul om voor elke melding naar de garage te moeten
+[12:33:19] <tobias> heb ik nu toch ook met mn internetverbinding :) ik heb een glasvezel van vodafone, en ik kies ervoor een eigen router met SFP eraan te hangen.
+[12:33:25] <Kaastosti> het is een trekker, die heb je nodig
+[12:33:28] <Jeroen> mja ford heeft al een third party die diagnostics maakt aangeklaagd
+[12:33:28] <Jeroen> blijkbaar
+[12:33:38] <tobias> werkt prima, maar vanmorgen was 't stuk. Stap 1 is dan: breng situatie in vendor-original form terug.
+[12:33:39] <Kaastosti> echt waar?
+[12:33:56] <tobias> dus het gelul 'jamaar garantie' vind ik echt onzin
+[12:34:05] <tobias> als je dingen buiten spec brengt met je software zit je zelf op de blaren
+[12:34:07] <Kaastosti> ja okee, eerst zeker weten dat het probleem in jouw spullen zit en niet bij de leverancier
+[12:34:22] *** Joins: Blaasvis_ (arjan@ip56585c3c.direct-adsl.nl)
+[12:34:29] *** Quits: Blaasvis_ (arjan@ip56585c3c.direct-adsl.nl) (Exit)
+[12:34:33] <tobias> en wellicht dat je dus als fabrikant dan inderdaad iets moet doen wat je eigenlijk sowieso moet doen: layered defense
+[12:34:37] <Kaastosti> maar dat moet een bewuste keuze zijn... als het zonder aanpassingen nog werkt, dan is het dus niet stuk
+[12:34:48] <tobias> als het spannend is om het gaspedaal op 11 te zetten, moet er firmware tussenzitten die gaspedaal op 9 limit
+[12:34:54] <tobias> dat moet niet in de 'normale' software zitten
+[12:35:08] <Kaastosti> gewoon wat harde waarden, limieten etc.
+[12:35:14] <tobias> maar dat soort zinnige software-engineering gebeurt niet en daarom worden al die auto's ook gehacked.
+[12:35:15] <Kaastosti> en daarbuiten, speel maar raak :)
+[12:35:18] <tobias> want het is een dampende hoop poep
+[12:35:25] <tobias> dus eenmaal binnen ben je OVERAL binnen
+[12:35:35] <Kaastosti> en dat men dat niet wil hebben, snap ik prima
+[12:35:51] <Kaastosti> maar fix het dan, in plaats van NEEEHEEEE te roepen en alles aan te klagen wat in de buurt komt
+[12:35:51] <tobias> naja het is dus eigenlijk het verbloemen van een groot probleem in de software als 'nee dan gaat de garantie erana'
+[12:36:15] <Kaastosti> het is de makkelijkste manier om te voorkomen dat men er aan komt
+[12:36:27] <tobias> ja, maar het verstopt het probleem ipv dat het dat oplost
+[12:36:28] <Jeroen> nouja kan je dat ze kwalijk nemen, tobias 
+[12:36:28] <Kaastosti> want als je dat toe wil staan, moet je eerst het hele model herzien en inderdaad beveiligen
+[12:36:30] <Jeroen> (tot nu dan)
+[12:36:34] <Jeroen> je kocht altijd een auto als 1 product
+[12:36:35] <tobias> Jeroen: ja, enorm
+[12:36:41] <Kaastosti> het kost geld
+[12:36:44] <Jeroen> en dat beetje software op de chips zogt er gewoon voor dat de hardware werkt
+[12:36:47] <tobias> want als je een bug in je software hebt kan die software je gaspedaal dus naar 11 drukken
+[12:36:52] <tobias> want er zit geen layer tussen die die shit voorkomt
+[12:37:10] <tobias> het is een dampende hoop drek
+[12:37:20] <Jeroen> je ziet eigenlijk pas de laatste jaren dat software echt belachelijk veel waarde in een product draagt, en -belangrijker- ook nog eens meer "los" staat met updates ed
+[12:37:22] <tobias> safety moet geen onderdeel zijn van de operatie
+[12:37:24] <Jeroen> het is een eeprommetje meer
+[12:37:37] <Jeroen> dus ik zie dat hele securitygebeuren wel steeds meer komen
+[12:37:42] <tobias> nee, het is een mindset, en autobouwers kunnen dat nog niet
+[12:37:42] <Jeroen> maar dat zijn mi een beetje overgangspijnen
+[12:37:56] <Jeroen> het is alleen nogal jammer dat, inderdaad zoals je zegt, ze vooral naar advocaten grijpen
+[12:37:58] <Jeroen> ipv engineers
+[12:38:01] <tobias> die zijn begonnen met een simpele bus en daar vervolgens allerlei puisten opgebouwd
+[12:38:06] <tobias> en goh, dat werkt niet
+[12:38:10] <Jeroen> nouja tesla kan het al meer
+[12:38:16] <tobias> want tesla is geen autobouwer
+[12:38:17] <Jeroen> maar we zeggen in feite hetzelfde
+[12:38:20] <Jeroen> ze kunnen het nog niet
+[12:38:20] <Jeroen> :p
+[12:38:23] <tobias> tesla is een informaticabedrijf dat auto's maakt 
+[12:38:29] <tobias> niet andersom :)
+[12:38:37] <tobias> daarom maken ze meer software-updates dan automodellen
+[12:39:04] <tobias> en dat kunnen ze omdat ze die auto's dodelijk simpel hebben gemaakt
+[12:39:12] <tobias> accu, motoren, stuur, gaspedaal, klaar
+[12:39:22] <Jeroen> nouja... :+
+[12:39:22] *** Joins: McM (mcm@89.200.89.240)
+[12:39:25] <tobias> wat is er dan moeilijk? de computer middenin
+[12:39:30] <tobias> en daar zit de focus op
+[12:40:16] <tobias> er zitten geen vernieuwende mechatronische features op een model S, Jeroen; bij model X hebben ze zich een beetje wilder gedragen met die falcon doors met ultrasonic sensors
+[12:40:25] <Jeroen> true
+[12:40:28] <tobias> maar ook dat is 99% informatica en verder toepassen van hardware die al bestaat
+[12:40:35] *** Quits: McM (mcm@89.200.89.240) (Ping timeout: 67 seconds)
+[12:40:54] <Jeroen> maar als je de s-klasse overslaat, zijn de concurrenten nu bepaald ook geen ruimteschepen
+[12:41:04] <Jeroen> het enige verschil zit imo in het motormanagement
+[12:41:10] <Jeroen> en dat slaat tesla idd fundamenteel over
+[12:41:31] <Jeroen> we slaan hier overigens wel het punt van networked supply chains over
+[12:41:45] *** Joins: Svardskampe (Svardskamp@198-14-ftth.onsnetstudenten.nl)
+[12:42:03] <Jeroen> ik gok dat je eerder bosch de "schuld" kan geven van hoe onderdelen met firm- en software omgaan, dan het automerk zelf
+[12:42:11] <tobias> true
+[12:42:20] <Jeroen> dat voordeel heeft tesla natuurlijk
+[12:42:35] <tobias> maar dat is ook een vraag-en-aanbod-ding, en als implementor/systemsengineer maak jij de keus voor een bepaalde opzet
+[12:42:42] <tobias> en daar zoek je je parts bij / laat je ze maken
+[12:42:53] <Jeroen> een gigantisch complex onderdeel met pompen, kettingen, riemen en dat soort shit, dat hebben ze niet en maken ze misschien zelfs volledig in-house?
+[12:42:57] <Jeroen> ja true
+[12:43:05] <Jeroen> maar er zit dus een vertraging in he
+[12:43:25] <Jeroen> het automerk heeft het gezeik met de klant, probeert dat eerst te bevechten met advocaten
+[12:43:33] <Jeroen> en gaat dán pas naar de leverancier 
+[12:43:37] <tobias> jup
+[12:43:44] <tobias> naja ik ben blij dat ik niet in die industrie werk
+[12:43:47] <Jeroen> (al ga ik ervan uit dat dat natuurlijk wat relationeler en intelligenter staat, maar goed het gaat om het principe)
+[12:43:51] <tobias> ik word al gefrustreerd van de minor hacks bij ons
+[12:44:07] <tobias> dus de kludges op vier wielen die de autoindustrie maakt ga ik denk ik van huilen
+[12:44:53] *** Joins: McM (mcm@89.200.89.240)
+[12:46:02] <Jeroen> ghehe
+[12:46:11] <Jeroen> ik vind het wel een mooie industrie
+[12:46:18] <Jeroen> maar ik denk niet dat je er op dit moment wil werken
+[12:46:34] <Jeroen> 't is nogal een gok, gezien er nogal wat gaat veranderen de komende 10-20 jaar
+[12:46:41] *** Quits: McM (mcm@89.200.89.240) (Ping timeout: 66 seconds)
+[12:47:34] <kees> weet je welke markt eens een flinke schop onder hun hol moet krijgen? de ssl certificaten markt
+[12:48:11] <Jeroen> haha
+[12:49:25] *** Joins: PCR (PCR@ip54508f13.adsl-surfen.hetnet.nl)
+[12:49:35] <tobias> kees: het concept mag wmb wat decentraler :) als jij in de dns van t.net kan aangeven wie trusted CA is tbv t.net-certs heb je heel die boeven niet meer nodig
+[12:49:41] <tobias> eigen CA rollen en gaan
+[12:49:49] <Jeroen> blockchain
+[12:49:49] <Jeroen> jonge
+[12:49:52] <tobias> (uiteraard secure dns nodig)
+[12:50:14] <kees> tobias, dat kan dan alleen als je dnssec hebt :P
+[12:50:19] <tobias> precies
+[12:50:31] <tobias> en ook daarmee mag men es een beetje doorpakken
+[12:50:46] <kees> true
+[12:50:50] <kees> moet ik ook eens opzetten
+[12:51:52] *** Quits: itsnotreal (Mibbit@ip54508f13.adsl-surfen.hetnet.nl) (Exit)
+[12:52:03] *** Joins: Jose_Orinoko (AndChat492@ip-81-11-224-248.dsl.scarlet.be)
+[12:52:37] <Jeroen> http://www.programmableweb.com/news/can-blockchain-replace-ssl/analysis/2015/03/17
+[12:54:28] *** Joins: McM (mcm@89.200.89.240)
+[12:55:14] <PCR> Iemand anders ook een error als-ie ingelogd naar secure.tweakers.net.aboshop gaat?
+[12:55:22] <PCR> Laatste punt is / natuurlijk
+[12:55:49] <gdex> ja
+[12:55:50] <gdex> kees! ^^
+[12:55:56] <gdex> Request ID: Plutus_30657_56fa5f2e72de19.53202775
+[12:56:04] <PCR> Thx!
+[12:56:05] <DizzyWeb> Request ID: Phobos_19438_56fa5f357863f8.49033552
+[12:56:08] <DizzyWeb> :P
+[12:56:18] <PCR> Doe ik ook ff mee: Request ID: Plutus_22749_56fa5ef06b2835.22606992
+[12:56:23] <gdex> mooie uniqid(true) trouwens
+[12:56:39] <Jeroen> Request ID: Plutus_25624_56fa5f4dde5f39.16021278
+[12:56:55] <DizzyWeb> Ik denk dat de hint duidelijk is ;)
+[12:57:05] <tobias> heh, die uniqid is een beetje herleidbaar naar een bepaald systeem zo te zien
+[12:57:19] <gdex> neehoor
+[12:57:30] <gdex> die uniqid() is gewoon iets met de huidige tijd aan het begin en dan een beetje random
+[12:57:38] <tobias> of waar komt die 56fa5 vandaan
+[12:57:40] <tobias> ah, klok
+[12:57:44] <Jeroen> ik denk dat "plutus" en "phobos" wel wat zeggen
+[12:58:04] <tobias> dr zit ook nog wel es een beetje macadress in afaik
+[12:59:03] <gdex> nee hoor, niet bij uniqid()
+[12:59:32] <gdex> "without being passed any additional parameters the return value is little different from microtime()." aldus de docs
+[12:59:46] <Jeroen> dat is wel een if
+[13:00:05] <gdex> iirc doen ze een hexadecimal microtime en dat vullen ze ergens aan met iets aan bits om het iets meer beter te krijgen
+[13:00:06] <Jeroen> wat als kees het mac er ook ingooit
+[13:00:08] <Jeroen> of wie de mol is
+[13:00:32] <gdex> en de "more entropy" optie (wat de enige additional parameter is) voegt nog een random extra getal toe
+[13:00:41] <gdex> best wel "the php way" van een uniek ID genereren
+[13:00:45] <tobias> op .net: Once you take it apart, the bits of the GUID break down like this 60 bits of timestamp,48 bits of computer identifier,14 bits of uniquifier, and six bits are fixed, for a total of 128 bits.
+[13:01:00] <gdex> het is geen GUID tobias 
+[13:01:02] <gdex> verre van :P
+[13:01:06] <tobias> ah ok
+[13:01:10] <gdex> http://php.net/manual/en/function.uniqid.php
+[13:01:12] <gdex> je overschat PHP
+[13:01:18] <tobias> wie niet :+
+[13:01:20] <kees> ok
+[13:01:34] <gdex> je hebt ook http://php.net/manual/en/function.com-create-guid.php
+[13:01:41] <gdex> en daar in de comments gereren mensen random GUIDs
+[13:01:48] <gdex> geen idee of die functie het wel goed doet
+[13:02:05] <gdex> oh dat is een windows only ding, dan zal het wel :P
+[13:02:33] <kees> PCR, we zien de fout, we gaan hem zo fixen en releasen
+[13:02:41] <kees> thanks voor de melding
+[13:02:46] <tobias> bugs piewen
+[13:02:49] <Jeroen> http://www.huffingtonpost.com/h-a-goodman/its-time-for-hillary-clin_b_9555422.html
+[13:02:51] <PCR> kees: thx!
+[13:02:52] <Jeroen> de huffpo
+[13:02:54] <Jeroen> :')
+[13:03:00] <tobias> kees: krijgt ie nu een sleutelhanger? :P
+[13:03:15] <PCR> Nou ja aboshop dus dan krijg ik een ... :P
+[13:03:31] <PCR> Nee hoor ;)
+[13:03:39] <Jeroen> een ban?
+[13:03:44] <Jeroen> een schop onder je hol?
+[13:03:51] <gdex> een anton-mailtje
+[13:04:19] <Jeroen> what year is it
+[13:04:24] *** boekee is now known as boekee_away
+[13:05:36] *** Joins: Francis (Francis@5468C56E.cm-12-1d.dynamic.ziggo.nl)
+[13:06:52] <Francis> ohai
+[13:07:11] <Francis> tobias: hebben jullie zaterdagavond wat te doen?
+[13:08:53] <tobias> noclue, ik kan vanaf hier niet in tamaar dr agenda
+[13:08:58] <tobias> wieso?
+[13:09:08] *** Quits: McM (mcm@89.200.89.240) (Ping timeout: 66 seconds)
+[13:09:20] <Francis> mijn verjaardag vieren :)
+[13:09:27] *** Joins: IdieEasy (Mibbit@mail1.arntz-nl.com)
+[13:09:39] <tobias> ah :) gefeli alvast
+[13:09:45] <Francis> dank :)
+[13:09:45] *** Parts: IdieEasy (Mibbit@mail1.arntz-nl.com) ()
+[13:10:04] <Francis> eik vandaag jarig, maar op de dinsdag vieren is zo suf :P
+[13:10:35] <gdex> gefeliciteerd Francis!
+[13:10:42] <Francis> dank :)
+[13:12:33] <slein> gefelici Francis
+[13:13:26] <DinX_Werk> nogmaals feli Francis :)
+[13:13:35] <Kaastosti> of wil je dat we je Ajax noemen?
+[13:13:36] <Francis> dank
+[13:13:40] <Francis> maar
+[13:13:41] <Francis> DinX_Werk: 
+[13:13:41] <Kaastosti> of is die grap alweer oud
+[13:13:45] <Francis> super tenere
+[13:13:47] <Francis> doen?
+[13:13:59] <DinX_Werk> nieuw ? 2de hands ?
+[13:14:04] <DinX_Werk> ik vond het een leuke fiets :)
+[13:14:07] <Francis> 2e hands,
+[13:14:14] <Francis> eerste editie iig
+[13:14:25] <Francis> over paar maandjes kopen denk ik
+[13:16:53] <DinX_Werk> :Y)
+[13:17:10] <Kaastosti> ergens komende maanden maar eens een motorhok bouwen in de voortuin :)
+[13:17:20] <DinX_Werk> meteen nieuwe bougies steken francis :p
+[13:21:43] <Francis> why?
+[13:22:31] <Francis> http://www.motorquickservice.nl/occasions/mqs-motoren/xt1200z
+[13:22:42] <Francis> die als hij dan nog te koop is
+[13:22:52] <Francis> eigenaar van zaak is maatje
+[13:23:27] <Francis> alleen moet er wel een mooie alu kofferset erbij 
+[13:23:58] <Hooglander1> kan altijd nog :)
+[13:24:07] <Hooglander1> een simpel topkoffertje is voor woon-werk wel relaxed
+[13:24:07] <Francis> psoes
+[13:24:09] <Francis> tzt
+[13:24:12] <NMe> Francis! feli!
+[13:24:31] <Francis> tnx!
+[13:24:42] <Kaastosti> ziet er uit als een comfortabele fiets
+[13:25:52] <Hooglander1> en gefeliciteerd Francis  :)
+[13:26:00] <Francis> tnx!
+[13:26:10] <Drawer> FRANCIS OUWE
+[13:26:12] <Drawer> feli ouwe
+[13:26:17] <Francis> check!
+[13:26:22] <Jeroen> feli Francis 
+[13:26:23] <Francis> 43 alweer
+[13:26:33] <Jeroen> op dezelfde dag jarig als Hooglander1 
+[13:26:35] <Jeroen> -tobias
+[13:26:44] *** Quits: Kaastosti (Kaastosti@185.19.103.3) (Ping timeout: 60 seconds)
+[13:29:11] <gdex> http://coolblueminimagazijn.nl/
+[13:29:28] <NMe> Hooglander1 speelt vals, die is al 5 dagen jarig
+[13:29:28] <NMe> :P
+[13:29:33] <Drawer> nice gdex
+[13:29:37] <Drawer> dat wil ik wel
+[13:29:40] <Drawer> maar dan wel pas vanaf vrijdag
+[13:30:11] <gdex> vooral die "Nee. Jij bedankt." kaartjes
+[13:30:15] *** Joins: Kaastosti (Kaastosti@185.19.103.3)
+[13:30:15] <gdex> @ filmpje
+[13:30:41] <tobias> lol lekker passief-agressief
+[13:31:11] <Francis> coolblue is wel leuk
+[13:31:19] <Francis> Pieter - Eindbaas
+[13:33:05] *** Quits: Jeroen (Mibbit@54188FF8.cm-5-1c.dynamic.ziggo.nl) (Exit)
+[13:39:38] <kees> PCR, https://secure.tweakers.net/aboshop/ werkt weer
+[13:39:53] <PCR> Top, bedankt!
+[13:40:57] <Hooglander1> Bij Coolblue lekker aanmelden
+[13:41:02] <Hooglander1> kans dat je nog een kortingscode krijgt ook nog :P
+[13:41:09] <Drawer> hmm ja
+[13:41:10] <Drawer> goeie
+[13:41:42] <Drawer> mooi formulier wel
+[13:44:28] <gdex> je daarom heb ik het ook gedaan Hooglander1 
+[13:44:40] <gdex> ben benieuwd wat voor mail ik ervan krijg
+[13:49:46] <Hooglander1> ahuh, zal vast iets leuks zijn
+[13:50:00] <Drawer> klasgenoot trapt er in gdex
+[13:50:01] <Drawer> :X
+[13:50:12] <Drawer> maar die wilde t alleen als ie er echt een vergoeding voor kreeg, geen korting
+[13:50:14] <Drawer> :DDDDD
+[13:52:22] <Hooglander1> mafketel
+[13:52:24] <Hooglander1> echt he
+[13:53:11] <Drawer> inb4 'drawer heeft domme vrienden'
+[13:53:50] <gdex> sowieso
+[13:53:55] <gdex> kijk maar naar jeroen
+[13:54:08] <Drawer> true
+[13:57:24] *** Joins: Ik (robin@5419F052.cm-5-2d.dynamic.ziggo.nl)
+[13:58:23] *** Ik is now known as Robin
+[13:58:27] *** Quits: Robin (robin@5419F052.cm-5-2d.dynamic.ziggo.nl) (Exit)
+[13:58:35] *** Joins: Ik (robin@5419F052.cm-5-2d.dynamic.ziggo.nl)
+[13:59:45] <Drawer> haha
+[13:59:50] <Drawer> collega hier is in rome geweest
+[13:59:56] <Drawer> 'looks like India'
+[13:59:57] <Drawer> ......:D
+[14:00:15] *** Ik is now known as Robin
+[14:00:26] *** ChanServ sets mode: +v Robin
+[14:06:52] <Kaastosti> eeehmmm no it doesn't :P
+[14:09:24] *** Quits: Robin (robin@5419F052.cm-5-2d.dynamic.ziggo.nl) (Exit)
+[14:11:05] *** Joins: Robin (robin@5419F052.cm-5-2d.dynamic.ziggo.nl)
+[14:11:05] *** ChanServ sets mode: +v Robin
+[14:12:20] <Drawer> hmm
+[14:12:26] <Drawer> mn wagen doet 1:13.5 ongeveer
+[14:12:32] <Drawer> valt me nog niet zo tegen
+[14:26:53] <Hooglander1> hoeveel is dat in logische units?
+[14:28:18] <Hooglander1> Drawer: ?
+[14:28:21] <mimic> 7l/100km
+[14:28:22] <Drawer> 1:13.5 + 79 euros boete
+[14:28:30] <Drawer> \o/
+[14:28:43] <mimic> 7.4l/100km actually :+
+[14:29:22] <Drawer> zoiets ja
+[14:29:51] <Drawer> ik sta samen met Hooglander1 op een boetefoto
+[14:30:01] <mimic> hehe
+[14:30:02] <kees> ik zit nu op 6.8l/100km de afgelopen 9999km
+[14:30:14] <mimic> diesels allemaal?
+[14:30:17] <Drawer> nee
+[14:30:18] <kees> bezine
+[14:30:18] <Drawer> benzine
+[14:30:22] <mimic> mijn lolvo doet 6.5 op de snelweg
+[14:30:32] <mimic> maar ik rijd meestal 10/100 :+
+[14:30:34] <Hooglander1> 7,4 vind ik nog aardig wat, maar niet zo veel voor stadsverkeerd
+[14:30:43] <Drawer> oud bakkie he
+[14:30:44] <Drawer> sportief
+[14:30:47] <mimic> vlammen als een baas
+[14:30:51] <kees> ik slurpte gisteren met 140 recht tegen windkracht 9 in wel ~13l/100km
+[14:30:51] <Drawer> voor zover je daarvan kan spreken
+[14:30:52] <Drawer> :+
+[14:30:52] <mimic> 5 cilinder, genoeg pk's, zwaar
+[14:31:05] <mimic> mooi spul
+[14:31:08] <Hooglander1> Ik heb zo'n auto die op de snelweg meer verbruikt nu :X
+[14:31:08] <Hooglander1> superkut
+[14:31:16] <mimic> hehe
+[14:31:41] <mimic> ik heb liever 10/100 en superlekker rijden dan 5/100 en een koektrommel
+[14:31:46] <SJ> ik let niet echt op verbruik 
+[14:31:50] <mimic> ^
+[14:31:56] <SJ> of dieselprijzen for that matter 
+[14:31:58] <mimic> en als ik wil gassen dan doe ik dat ook gewoon
+[14:31:59] <Drawer> ZEKER AUTO VAN DE ZAAK HE
+[14:32:02] <mimic> neen :+
+[14:32:28] <SJ> Drawer: ook toen ik nog een eigen auto reed lette ik er niet op\
+[14:32:44] <Francis> Ik krijg een tankpas
+[14:33:04] <SJ> tankpas ftw 
+[14:33:11] <tobias> heh, autos
+[14:33:14] <SJ> leasehok ftw 
+[14:33:15] <tobias> breek me de bek niet open :-)
+[14:33:20] <tobias> ze zijn allemaal kut 
+[14:33:55] <SJ> tobias rijdt of motor, of heeft een bakfiets en stemt groen links ;-) 
+[14:33:55] <Erik> mijn eigen auto doet 1:4
+[14:34:09] <mimic> Erik met de v8
+[14:34:20] <Erik> 4 cylinder
+[14:34:21] <SJ> Erik: 1:4 ja? 
+[14:34:27] <tobias> nee, SJ, ik ben aan het proberen een nieuwe auto te kopen
+[14:34:35] <SJ> tobias: ah :)
+[14:34:37] <tobias> en je wordt opgelicht waar je bijstaat en wat je zoekt is er niet
+[14:34:45] <Erik> oldtimer benzine slurpende 4x4
+[14:34:46] <SJ> wat zoek je dan?
+[14:35:03] <SJ> Erik: ah, wel cool :) Oude landrover? 
+[14:35:12] <Erik> SJ: Nekaf
+[14:35:24] <mimic> hehe nice
+[14:35:30] <SJ> Erik: vet :-)
+[14:35:34] <mimic> nederlands oergoed
+[14:35:35] <tobias> SJ: een zinnige fullfeature grote station, met <170kkm, met verbruik op de snelweg niet onder de 1:15 (spec, weet dat realisme niet afwijkt), van zeker na 2006, liever >=2007
+[14:35:44] <tobias> benzine, handbak, liefst 6 versnellingen, want veel snelweg
+[14:35:53] <tobias> ik rij vaker naar den haag vanuit deventer dan naar de supermarkt, zegmaar
+[14:36:23] <SJ> tobias: ahja 
+[14:36:29] <Kaastosti> diesel, automaat, 7 versnellingen... lekker chill :)
+[14:36:32] <tobias> en dan is mn budget max 8k eur
+[14:36:37] <SJ> golf variant uit zeg, 2009?
+[14:36:40] <tobias> maar liever 7k
+[14:36:55] <tobias> SJ: die zijn niet zo groot (daarnaast vind ik de neus erg lelijk)
+[14:37:05] <tobias> dus dacht ik, passat
+[14:37:05] <SJ> tobias: dat wordt lastig voor dat budget dan 
+[14:37:07] <tobias> <grote zoemer>
+[14:37:15] <tobias> helaas, voor dat budget vettepech
+[14:37:23] <Kaastosti> ja passat kost geld
+[14:37:23] <SJ> tobias: die generatie is niet heel veel kleiner dan een passat hoor 
+[14:37:25] <mimic> een chineze auto niet iets voor je?
+[14:37:31] *** Quits: Francis (Francis@5468C56E.cm-12-1d.dynamic.ziggo.nl) (Exit)
+[14:37:40] <Kaastosti> skoda dan
+[14:37:57] <SJ> tobias: uiteraard is 20 cm kofferruimte minder aanzienlijk qua inhoud 
+[14:38:28] <SJ> tobias: ik heb zo'n ding gehad, banken plat en je had een vlakke laadvloer van een meter of 2 
+[14:38:50] <tobias> SJ: bij de golf variant?
+[14:38:53] <SJ> tobias: ja
+[14:39:01] <tobias> maybe dan toch maar es naar kijken
+[14:39:29] <SJ> (tuinset in vervoerd, met een tafelblad van 1,90 of 2 meter 
+[14:39:36] <SJ> vandaar dat ik dat weet ;-) 
+[14:39:42] <Drawer> 206 uit 2004 met 138k op de teller kopen tobias 
+[14:39:43] <Drawer> 8k
+[14:39:55] <tobias> ik heb een 206 uit 2002 met 192k op de teller
+[14:39:57] <tobias> kopen? 1k
+[14:40:16] <Kaastosti> ja dat spelletje van veel ruimte creëren hebben ze bij VAG wel begrepen
+[14:40:16] <SJ> peugeot? nee, dank je 
+[14:40:56] <Drawer> haha tobias 
+[14:40:57] <Kaastosti> peusjoo
+[14:41:03] <kees> al mijn auto's tot nu toe zijn peugeot's geweest
+[14:41:25] <tobias> SJ: als je zegt 'volkswagen vanaf 2007, tot 170kkm, handmatig/benzine, max 8k eur' heb je in totaal 8 resultaten op autotrack.nl
+[14:41:35] <tobias> (oh, en +stationwagon)
+[14:41:45] <SJ> tobias: hmmm, da's niet heel veel 
+[14:41:46] <Drawer> tobias: gaspedaal.nl
+[14:41:48] <tobias> precies
+[14:41:51] <Drawer> zoekt op meer van die sites tegelijk
+[14:41:54] <Drawer> soort searchingpanda
+[14:41:57] <Drawer> maar dan voor auto's
+[14:42:00] <SJ> tobias: dan zijn ze wellicht toch duurder 
+[14:42:04] <gdex> is 'ie ook van jou dan Drawer ? :
+[14:42:07] <tobias> Drawer: hoewaar?
+[14:42:21] <Drawer> www.gaspedaal.nl
+[14:42:23] <Drawer> nee gdex
+[14:42:25] <Drawer> was t maar zon feest
+[14:42:26] *** Joins: chem (chem@ppp-58-11-20-106.revip2.asianet.co.th)
+[14:42:31] <gdex> ik wou al zeggen
+[14:42:33] <Drawer> dan werkte ik hier niet wss
+[14:42:44] <tobias> we gaan es kijken Drawer :>
+[14:42:44] <Drawer> zelfde als die bram nogiets
+[14:42:46] <Drawer> van bellen.com
+[14:42:48] <Drawer> manman
+[14:42:53] <Drawer> hele dag aan je ballen krabben
+[14:43:34] *** Quits: chem (chem@ppp-58-11-20-106.revip2.asianet.co.th) (Exit)
+[14:43:44] <tobias> ROFL
+[14:43:47] <tobias> Drawer: resultaat: http://www.autowereld.nl/volkswagen/passat-variant/1-4-tsi-comfortline-bmt-17073905/details.html
+[14:43:52] <tobias> hahahaha
+[14:44:00] <SJ> oef
+[14:44:03] <SJ> 1.4 TFSI
+[14:44:09] <tobias> klik op het linkje
+[14:44:28] <Drawer> lichte rookschade
+[14:44:29] <gdex> ik zeg doen
+[14:44:40] <SJ> hmm
+[14:44:43] <Drawer> aapje zou er een stijve piemel van krijgen
+[14:44:44] <Drawer> of mja
+[14:44:46] <Drawer> geen opel logo
+[14:44:49] <SJ> dubieus 
+[14:44:52] <SJ> blegh, opel 
+[14:44:55] <gdex> 2007+ is te nieuw ook voor Aapje 
+[14:45:27] <SJ> ooit, een Corvette C3 ernaast :)
+[14:45:36] *** Joins: chem (chem@ppp-58-11-20-106.revip2.asianet.co.th)
+[14:45:41] <tobias> ok val dood gaspedaal
+[14:45:46] <tobias> een opel agila is geen stationwagon
+[14:46:48] <Hooglander1> whahaha
+[14:46:50] <Hooglander1> niet? :D
+[14:47:15] <SJ> een agila -O_
+[14:47:22] <SJ> daar stap je niet in 
+[14:47:27] <SJ> die trek je aan 
+[14:47:49] *** Quits: ElectrowolF (DI3@5355D892.cm-6-6d.dynamic.ziggo.nl) (Exit)
+[14:53:01] *** Quits: Jose_Orinoko (AndChat492@ip-81-11-224-248.dsl.scarlet.be) (Ping timeout: 66 seconds)
+[14:55:36] *** Joins: Wussie (wussie@220-251.ftth.onsbrabantnet.nl)
+[15:02:10] <Kaastosti> ze hadden het vorige week op 538 over lelijke auto's... en dat de Cactus toch wel hoog op het lijstje staat... en gele auto's... en voor me reed een gele Cactus, ik moet zeggen inderdaad niet heel mooi
+[15:02:17] <Hooglander1> Vind je?
+[15:02:24] <Hooglander1> Ik kan dat ding steeds meer waarderen
+[15:02:30] <Kaastosti> de grijze valt het niet zo op, die is nog wel okee
+[15:02:43] <Kaastosti> verder vind ik het geen mooie auto's... en ze zijn best heel krap van binnen
+[15:02:51] <Hooglander1> staat op het platform van de C3 he
+[15:02:52] <Kaastosti> dus om de enorme bak ruimte hoef je het ook niet te doen
+[15:02:57] <Hooglander1> maar als je bekijkt wat je hebt voor de prijs
+[15:03:01] <Hooglander1> dan is het een geinig ding voor weinig geld
+[15:04:08] <gdex> het ging over mooi Hooglander1 
+[15:04:10] <gdex> niet over functioneel
+[15:04:12] <Kaastosti> tjah zo krijg je een Multipla er ook nog wel doorheen gelult :P
+[15:04:17] <Kaastosti> geluld zelfs
+[15:04:42] <Kaastosti> ook die is functioneel, ruim... maar dat elastiekje om z'n neus is gewoon geen pan
+[15:07:37] <Chiron> zo'n auto koop je voor de functionaliteit als het je geen reet kan schelen hoe ie eruit ziet
+[15:08:11] <gdex> je zit er zelf toch in
+[15:08:36] <PCR> Ik ben een 1 april grap aan het voorbereiden, is een buis per definitie rond zoals gras altijd groen is?
+[15:09:00] <Chiron> nee.
+[15:09:02] <gdex> "Een buis of pijp is een hol, cilindrisch voorwerp,"
+[15:09:04] <Kaastosti> gras is niet altijd groen, dus een buis ook niet per definitie rond
+[15:09:05] <gdex> aldus wikipedia
+[15:09:14] <PCR> Hm, ok
+[15:09:15] <Kaastosti> ovaal is ook prima
+[15:09:27] <Chiron> https://www.combulex.com/nl/productaanbod
+[15:09:27] <gdex> en cilindrisch is "Een cilinder in enge zin is een meetkundig lichaam met een cirkelvormig grondvlak en evenwijdig aan het rondvlak overal dezelfde cirkelvormige doorsnede met alle middelpunten op een rechte, de as."
+[15:09:35] <Kaastosti> het is 's nachts altijd wel kouder dan buiten
+[15:09:54] <gdex> oh, "In een algemenere definitie van cilinder kan het grondvlak, in plaats van een cirkel, een willekeurige figuur zijn."
+[15:09:58] <PCR> Haha, ik weet voldoende!
+[15:10:04] <gdex> stervormige buizen!
+[15:10:06] <Kaastosti> ja nee, nou zijn we gestart hoor
+[15:10:19] <Kaastosti> is een buizerd dan ook altijd rond?
+[15:10:24] <PCR> Ha, laat maar komen. Zat te denken aan een vierkante buis...
+[15:10:37] <Kaastosti> of is het dan een pijp?
+[15:11:13] <PCR> Da is toch een buurt in A'dam...
+[15:11:23] * PCR regelt een zak zout
+[15:13:08] <Kaastosti> dat is DE pijp, dit is EEN pijp
+[15:13:18] *** Joins: Jose_Orinoko (AndChat492@ip-80-236-202-39.dsl.scarlet.be)
+[15:13:23] <PCR> Pak jij DE pijp even?
+[15:13:33] <Kaastosti> nee
+[15:13:43] <PCR> Ik hoef em ook niet...
+[15:14:45] <Chiron> ik heb 'm aan maarten gegeven
+[15:15:04] <PCR> Die had ook al een lampion
+[15:15:06] <Kaastosti> voor niks?
+[15:15:18] <Kaastosti> SMS lampi ON naar 4242
+[15:17:40] <PCR> Goed ik ga voor dakloze dakconstructies
+[15:24:16] *** Quits: DinX_Werk (DinX@out.helics.leuven.be) (Input/output error)
+[15:26:04] *** Quits: Twizzlerz (M@178-84-226-29.dynamic.upc.nl) (Ping timeout: 66 seconds)
+[15:33:28] <Kaastosti> dakconstructies van daklozen? da's ook zielig
+[15:34:00] <tobias> PCR: het bestaan van vierkante buis zou genoeg moeten zijn voor je vraag :-)
+[15:34:15] *** Joins: Twizzlerz (M@178-84-226-29.dynamic.upc.nl)
+[15:34:45] <PCR> Ja maar ja dat zegt de Gamma... :P
+[15:34:56] <PCR> Oh ja, en alumniumshop.nl ook...
+[15:35:39] <PCR> Ok, dit is wel een typisch voorbeeld van een Googletje idd
+[15:36:23] <tobias> oh ik zat meer in mn hoofd met dat ik vierkante buis heb gebruikt tijdens mn werkplaatswerk van mn opleiding :P
+[15:36:27] *** Quits: chem (chem@ppp-58-11-20-106.revip2.asianet.co.th) (Exit)
+[15:37:26] <PCR> Ja zo ja, ik moest bij buis toch altijd aan een holle cilinder denken
+[15:37:45] <Kaastosti> ik denk de meeste mensen... maar het _hoeft_ dus niet
+[15:38:41] <PCR> Maar jij zei gras is niet altijd groen, welk gras is niet groen dan? Wordt veel gebruikt als voorbeeld van pleonasme nl.
+[15:39:04] <Erik> kunstgras
+[15:39:38] *** Quits: samschaap (samschaap@5469BF1F.cm-12-2c.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[15:39:44] <PCR> Hm, goeie, rood kunstgras is idd te koop
+[15:40:43] <Erik> ik zou geel nemen, kan je niet zien dat er overheen gepist is
+[15:41:16] <PCR> Huppa
+[15:43:21] <Kaastosti> gras kan ook bruin zijn
+[15:43:42] <Kaastosti> dus iets vergelijken met 'zoals gras altijd groen is', is dus niet zo'n hele sterke
+[15:44:01] <Kaastosti> daarmee geef je hooguit aan dat je niet hebt op zitten letten bij de hogere graskunde
+[15:44:32] <PCR> Klopt ook wel, die colleges sloeg ik altijd over
+[15:47:02] <Aapje> «14:45:01» <gdex> 2007+ is te nieuw ook voor Aapje  <-- yes. 
+[15:47:16] <Aapje> 1:10 naar ehv geblazen afgelopen weekend
+[15:47:19] <Aapje> o/
+[15:47:47] *** Joins: samschaap (samschaap@5469BF1F.cm-12-2c.dynamic.ziggo.nl)
+[15:48:36] <Kaastosti> en toen was je buiten adem?
+[15:48:50] *** Quits: kees (kees@kees.tweakers.net) (Input/output error)
+[15:50:37] <Hooglander1> iek
+[15:50:41] <Hooglander1> wat deed je in mijn stadje Aapje 
+[15:51:17] <Drawer> zn opel naar de sloop brengen
+[15:51:35] *** Quits: samschaap (samschaap@5469BF1F.cm-12-2c.dynamic.ziggo.nl) (Exit)
+[15:52:06] *** Joins: samschaap (samschaap@5469BF1F.cm-12-2c.dynamic.ziggo.nl)
+[15:53:51] *** Joins: Phaxinity (textual@tsn109-201-135-220.dyn.nltelcom.net)
+[15:56:34] *** Joins: ElectrowolF (DI3@5355D892.cm-6-6d.dynamic.ziggo.nl)
+[15:59:46] <Escovan> http://www.geenstijl.nl/mt/archieven/2016/03/compilatie_bners_over_geenpeil.html#comments
+[16:03:31] <Aapje> parkeren met een sticker van 't beursgebouw
+[16:08:54] <Drawer> beursfgebouuuuuuuuw
+[16:08:56] <Drawer> heeeeeeuj
+[16:09:31] <Hooglander1> beetje gamen Aapje ? :D
+[16:10:46] <Aapje> klein beetje maar
+[16:11:15] <Aapje> dus je had mijn automobiel kunnen spotten
+[16:11:18] <Aapje> en m'n ex automobiel ook
+[16:11:21] <Aapje> daar was Robin mee :P
+[16:12:57] *** Quits: Jose_Orinoko (AndChat492@ip-80-236-202-39.dsl.scarlet.be) (Ping timeout: 60 seconds)
+[16:13:31] <Robin> \o/
+[16:13:52] <Aapje> hoe is 't eig met je rotte bak?
+[16:13:56] <Aapje> al apk gefix0rt?
+[16:13:58] <Hooglander1> Aapje:  ik was zelf niet in ehv dit weekend :P
+[16:14:08] <Robin> maandag gaat de beunhaas aan de slag, Aapje 
+[16:14:09] <gdex> je wist dat Aapje kwam? :+
+[16:14:11] <Robin> ownee
+[16:14:11] <Robin> dinsdag
+[16:14:18] <gdex> het is dinsdag o/
+[16:14:19] <Robin> maandagavond auto brengen, dinsdag klaar
+[16:14:21] <Robin> 150 euro
+[16:14:28] <Aapje> incl. afmelding apk?
+[16:15:13] <Robin> daar meot ik weer teruggaan naar de apk-boer
+[16:15:15] <Aapje> ah 
+[16:15:29] <gdex> beunhazen doen geen APK doorgaans
+[16:15:39] <Aapje> deze wel :o
+[16:15:40] <Robin> een apk-beunhaas weer wel :+
+[16:15:42] <gdex> oh wow :+
+[16:15:43] <Aapje> kheb daar weer een beunhaas voor
+[16:15:43] <Robin> 35 euro
+[16:15:57] <gdex> meestal nemen de beunhazen 't risico niet
+[16:15:57] <Aapje> mijn is altijd raak voor 40euro
+[16:16:02] <Hooglander1> een apk beunhaas is duurder :+
+[16:16:11] <Aapje> aka afgekeurd? --> Neem maar terug en fix maar --> en kom maar gratisch terug
+[16:16:21] *** Joins: Jeroen (Mibbit@ip82-139-124-155.lijbrandt.net)
+[16:16:23] <Hooglander1> Nja, je betaald effectief voor 2 keuringen gewon
+[16:16:24] <Robin> precies dat, Aapje 
+[16:16:26] <Hooglander1> hij keurt hem echt niet formeel af
+[16:16:28] <Aapje> heb zo die rotte kadett ong. 5 keer terug gebracht daaro :P
+[16:16:41] <Drawer> 'die' rotte kadet
+[16:16:45] <Drawer> jij rijdt toch enkel in rotte kadets
+[16:16:46] <Aapje> hij wilde 'm maar niet afmelden :+
+[16:16:52] <Aapje> nee 
+[16:16:55] <Aapje> kheb twee kadettjes gehad
+[16:17:02] <Aapje> 1 was rot, andere ook
+[16:17:05] <Aapje> maar 1 WAS HEUL ROT
+[16:17:18] <Robin> ik zag vandaag een bruine Kadett met twee afgedekte Hella-mistlampen op de gril
+[16:17:21] <Hooglander1> categorie bakken en braaien?
+[16:17:22] <Robin> er reed een oma in :D
+[16:17:30] <Robin> volgens mij was dat haar eerste auto -O_
+[16:17:32] <Aapje> je hebt zeg maar, rijp voor de sloop.... en door de grond gezakt en gaar
+[16:18:15] <Aapje> http://static.tweakers.net/ext/f/05LscBdBZBhn0qjVSg8UvUhb/full.jpg <-- deze had 't mos+gras+schimmel als hoogpoligtapijt aan de binnenzijde
+[16:18:29] <Drawer> gast
+[16:18:31] <Drawer> waaaaaaaaaaaaaaarom
+[16:18:37] <Aapje> omdat aantonen dat apk prut is
+[16:18:39] <Aapje> stelt niks voor
+[16:18:42] <Aapje> worked.
+[16:19:00] <Hooglander1> apk is makkelijk te omzeilen als je het per se wil
+[16:19:11] <Hooglander1> Maar om te voorkomen dat iemand per ongeluk in een rotte auto rijd is het prima
+[16:19:15] <Aapje> ze konden niks meer vinden om 'm af te keuren
+[16:19:15] <Aapje> :+
+[16:19:31] <Aapje> zelfs de stofzuigerstang als uitlaat moest ie goedkeuren, want lekvrij
+[16:19:46] <Hooglander1> het lekt!!! *ducttape* nu niet meer *vink*
+[16:19:49] <Jeroen> apk stelt wel wat voor, maar let vooral uit de veiligheid en dan ook vooral op de veiligheid voor anderen
+[16:20:06] <Aapje> oh komt weer zo'n pauper vertellen dat de veiligheid voor andere belangrijk is :D
+[16:20:16] <Drawer> is een gordel die niet lekker terugschiet een afkeurpunt?
+[16:20:17] <Drawer> :+
+[16:20:26] <Drawer> of mss is het de lompheid van mn bijrijders steeds
+[16:20:26] <Aapje> remschijven zou je vroeger afgekeurd hebben op dikte / aanwezigheid van stevigheid
+[16:20:29] <Aapje> is tegenwoordig geen afkeur meer
+[16:20:31] <Jeroen> verder is het een gestandaardiseerde test en is het dus a] de vraag of zo'n rot voorscherm een probleem is voor de veiligheid en b] of het dermate veel voorkomt dat opgenomen moet worden in de APK
+[16:20:32] <Drawer> dat de gordel steeds tussen de deur komt
+[16:20:33] <Drawer> ;(
+[16:20:40] <Aapje> dus schijven van minder dan een milimeterdikte keuren ze nog goed
+[16:20:53] <Aapje> dus apk... veiligheid... mwa
+[16:21:17] <Hooglander1> het is wel dat er naar gekeken word en dus moet er een monteur naar kijken
+[16:21:22] <Hooglander1> die dan er geld op kan verdienen als ie het vervangt
+[16:21:28] <Hooglander1> Dus er kijkt een monteur naar, which is win
+[16:21:41] <SJ> Aapje: remt dat nog denk je? Schijven van een milimeter?
+[16:21:47] <SJ> +l ergens 
+[16:21:51] <gdex> het remt vast wel iets
+[16:21:54] <Jeroen> De APK keuringseisen stellen dat een remschijf moet voldoen aan een minimum dikte. 
+[16:22:03] <Jeroen> ja ze kijken echt niet naar de remschijfdikte hoor
+[16:22:05] <SJ> ja, ik wou al zeggen 
+[16:22:39] <Jeroen> http://nos.nl/artikel/2092818-honderden-apk-keurmeesters-op-non-actief.html hier zal die van Aapje ook wel onder vallen
+[16:23:13] <Aapje> SJ, nee maar apk denkt van wel
+[16:23:25] <Aapje> Jeroen, dat is 't nou juist
+[16:23:27] <Aapje> die regel is geschrapt
+[16:23:46] <SJ> Aapje: bron? Want dat lijkt me wel heel erg vreemd? 
+[16:24:33] <Aapje> beter draai ik dat even om, toon maar aan dat in de apk regels staat dat de remschijf een afkeur is
+[16:24:34] <Aapje> ;)
+[16:24:48] <SJ> daarnaast is een remproef onderdeel van meen ik
+[16:24:52] <Aapje> want iets wat er niet in staat kan ik niet aantonen
+[16:25:02] <Aapje> ja maar leuke is, remproef kan ie doorkomen 
+[16:25:12] <SJ> http://www.apk-autokeuring.nl/apk-keuring/waar-worden-de-remmen-op-gecontroleerd/
+[16:25:12] <Aapje> en dan op de hoek van de straat is de schijf zo heet dat ie knapt/scheurt w/e
+[16:25:24] <Aapje> dat is geen officiele RDW site
+[16:26:36] <Jeroen> remschijven geen dusdanige slijtage mogen vertonen dat er gevaar op breuk ontstaat.
+[16:26:42] <Jeroen> http://handboek.rdw.nl/regelgeving/apk/Personenautos/Reminrichting/Onderdelen%20en%20werking%20reminrichting/Paginas/default.aspx
+[16:26:50] <Aapje> bingo, niks dikte
+[16:26:52] <Jeroen> misschien niet in die woorden
+[16:27:08] <Jeroen> maar een remschijf van "een millimeter" wordt natuurlijk gewoon afgekeurd
+[16:27:09] <Erik> net zoals de uitlaat niks over de lengte zegt, alleen dat die dicht moet  zijn
+[16:27:11] <Jeroen> laten we wel wezen
+[16:27:26] <Aapje> Erik, wel dat ie achter de auto uitkomen moet
+[16:27:27] <Aapje> afaik
+[16:27:31] <Erik> of de minimale lengte was 15cm ofzo
+[16:27:45] <Erik> Aapje: zelfs dat niet eens dacht ik
+[16:27:51] <Aapje> Jeroen: dat is 't nou juist, ze worden niet altijd afgekeurd
+[16:27:54] <Erik> je kon hem gewoon bij het motorblok afzagen
+[16:28:13] <SJ> Aapje: https://www.rdw.nl/SiteCollectionDocuments/APK/handleidingen/Regelgeving%20APK%20-%20Keuringseisen%2001-01-2013.pdf
+[16:28:17] <Jeroen> goh, het is mensenwerk dat op grote schaal gedaan wordt over een verscheidenheid van onderdelen
+[16:28:20] <Aapje> volgens mij mag rdw je kenteken dan innemen hoor Erik :P iets met dB's
+[16:28:23] <SJ> Paragraaf 8
+[16:28:26] <Jeroen> enig inzicht van de keurmeester moet je daar wel bij houden ja
+[16:28:28] <Aapje> '2001'?
+[16:28:31] <Aapje> really? die oude documentatie?
+[16:28:32] <Aapje> ;)
+[16:28:37] <Erik> Aapje: dat is geluids overlast, is weer een zaak van de politie, niet de rdw
+[16:28:41] <SJ> Artikel 5.2.31
+[16:28:52] <Aapje> Regelgeving Algemene Periodieke Keuring versie 1.0-2013 
+[16:28:54] <Aapje> is al tijdje weer anders 
+[16:28:57] <Jeroen> dus ik kan je verzekeren dat als de keurmeester een steekproef krijgt en hij heeft remschijven van 1mm dik gekeurd
+[16:29:03] <Jeroen> dat ie een probleem heeft
+[16:29:13] <Aapje> dat hij geen punten aftrek krijgt zolang ie 't als adviespunt opgegeven heeft
+[16:29:13] <Aapje> juist ja
+[16:29:27] <Jeroen> dat er altijd problemen doorsluipen op een dergelijke schaal maakt niet die hele keuring een wassen neus
+[16:29:32] <Erik> maar die van mij moet toch gekeurd worden naar de normen van 1959
+[16:29:40] <SJ> e. remschijven geen dusdanige slijtage mogen vertonen dat er gevaar op breuk ontstaat
+[16:29:44] <Erik> snapte ook niet elk keurings station
+[16:29:48] *** Quits: Kaastosti (Kaastosti@185.19.103.3) (Exit)
+[16:29:54] <Aapje> https://scontent-cdg2-1.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/11125233_982003835173887_5576544302844678038_n.jpg?oh=3eb0cacb7e24418a4ab7c77e03de4e66&oe=577246A1
+[16:29:58] <Aapje> dit soort dingen kom je tegen dan :P
+[16:30:37] <Hooglander1> dat noem ik al breuk :P
+[16:30:51] <Jeroen> Een remschijf mag niet zodanig door corrosie zijn aangetast dat per kant de breedte van het effectieve gedeelte, over de gehele omtrek van de remschijf, minder bedraagt dan 50% van de maximumbreedte van het remblok.
+[16:30:56] <Jeroen> die zou dus sowieso afgekeurd zijn
+[16:30:57] <Aapje> niks gebroken, alleen afgedraait :D
+[16:31:00] <SJ> Aapje: de keuringseisen die ik net paste zijn uit 2013
+[16:31:13] <Aapje> ja, das ook al weer outdated
+[16:31:14] <Aapje> _O-
+[16:31:42] <Escovan> Aapje, moet nooit voor de overheid gaan werken.
+[16:31:43] <SJ> Aapje: je roept een hoop maar toont maar weinig aan
+[16:31:50] <SJ> laat maar zien :) 
+[16:32:03] <Robin> Hij rijdt erin.
+[16:32:07] <Robin> Zegt genoeg.
+[16:32:09] <Aapje> staat overigens niks in je paragraaf over diktes
+[16:32:22] <Jeroen> kerel
+[16:32:25] <Aapje> alleen dat 't deugdelijk bevestigd moet zijn, geen scheuren moet vertonen e.d.
+[16:32:35] <Aapje> dus daar voldoet een 1mm remschijf ook nog prima aan
+[16:32:38] <SJ> "e. remschijven geen dusdanige slijtage mogen vertonen dat er gevaar op breuk ontstaat"
+[16:32:49] <SJ> daar voldoet 1mm dus duidelijk niet aan 
+[16:33:08] <Jeroen> als een eis is dat een muur van een huis de wind tegen moet houden, en er zitten 15 gaten van een meter in, dan wordt dat ook afgekeurd
+[16:33:15] <Aapje> je snapt dat ik 't ook kolder vindt he?
+[16:33:17] <Jeroen> ook al staat er niet expliciet "er mogen geen gaten in de muur zitten"
+[16:33:34] <Jeroen> ja dat je auto's potentiele gevaren op de weg zijn, dat wisten we al langer :+
+[16:33:37] <Escovan> :D
+[16:33:42] <Hooglander1> knappe keurmeester die dat goedkeurt en verdedigt krijgt als zijn licentie ingenomen word
+[16:33:52] <Hooglander1> iets met geest van de regels
+[16:33:54] <Aapje> zijn licentie :')
+[16:33:57] <Hooglander1> wat jij laat zien is breuk
+[16:34:20] <Aapje> is 1 dagje op cursus van rdw en je hebt weer apk bevoegdheid
+[16:35:05] <Hooglander1> ook als die is ingetrokken omdat je dat soort shit goedkeurt?
+[16:35:08] <Hooglander1> Mag hopen van niet
+[16:35:15] <Aapje> jahoor
+[16:35:15] <SJ> Aapje: dat je makkelijk keurmeester wordt, sure, maar de regels zijn er en staan er gewoon 
+[16:35:26] <Aapje> nee dat is 't nou juist
+[16:35:27] <Aapje> staat er niet
+[16:36:00] <Hooglander1> http://www.destentor.nl/regio/apeldoorn/rdw-krijgt-gelijk-met-intrekken-apk-bevoegdheid-1.2518946
+[16:36:04] <Aapje> de fabrikant heeft die shit netjes bgeschreven per model in de datasheets no problemo, maar RDW stelt niet de eis aan de keuring dat de remschijven nog voor minimaal 50k km's goed moet zijn
+[16:36:04] <Jeroen> ik denk dat we maar eens remschijven moeten maken van dat blok voor je kop
+[16:36:12] <Hooglander1> Ik geloof dat het niet klopt wat je zegt Aapje 
+[16:36:17] <Aapje> kerel, je hebt zelf een blok voor je kop
+[16:36:26] <Aapje> ik zeg alleen wat er gebeurt in deze achtelijke wereld
+[16:37:04] <Jeroen> dat ontkennen we niet
+[16:37:14] <Jeroen> we zeggen alleen niet dat het volgens de regels is
+[16:37:19] <Aapje> dus waarom denk je dat ik 't normaal vind met zulke schijven te rijden?
+[16:37:23] <Jeroen> sterker nog, we zeggen dat het niet volgens de regels is
+[16:37:27] <Aapje> ik vervang die shit gewoon optijd
+[16:37:30] <Aapje> ben niet levensmoe 
+[16:37:47] <Jeroen> je rijdt ook in rotte auto's blijkbaar
+[16:37:49] <Aapje> maar die regels kloppen niet volledig
+[16:37:52] <Jeroen> dat is ook niet bijzonder veilig
+[16:37:58] <Aapje> ja nadat ik 100 kg aan plaatwerk erin gelast heb
+[16:38:02] <Aapje> stomme knurft
+[16:38:14] <Jeroen> dus nu is het al dat de regels niet volledig kloppen, ipv een totale wassen neus zijn? :+
+[16:38:41] <Aapje> goed vertrouw lekker blind op de apk
+[16:38:42] <Aapje> :w
+[16:39:05] <SJ> dat is het punt niet
+[16:39:11] <Jeroen> dat is iets heel anders
+[16:39:12] <Erik> mijn auto hoeft toch geen APK meer \o/
+[16:39:28] <SJ> het punt is dat je stelt dat een auto met remschijven van 1mm dik de keuring doorkomt en legaal de weg op mag
+[16:39:35] <SJ> dat is baarlijke nonsens 
+[16:42:38] <Aapje> http://www.amt.nl/werkplaats-onderhoud/nieuws/2015/6/ondeugdelijke-remschijf-apk-afkeur-10146894
+[16:43:18] <Aapje> ok SJ, je komt met 5mm en een adviespunt bij de apk weg... je rijd 20k verder... en je schijf is nu nog 1mm, niks dat je heeft tegengehouden om die schijf te vervangen, nog zit ie op je uato
+[16:43:20] <Aapje> auto*
+[16:44:02] <Jeroen> Indien bij herhaling blijkt dat artikel 5 wordt overtreden, wordt de keuringsbevoegdheid direct ingetrokken voor bepaalde tijd, ongeacht of deelname aan de toets binnen deze periode heeft plaatsgevonden
+[16:44:03] <Aapje> maargoe, in de documentatie van de auto staat X mm moet ie zijn, rdw laat het aan de "Mening" van de apkkeurmeester over wat hij denkt wat een breuk kan veroorzaken
+[16:44:14] <Jeroen> waarbij artikel 5 het halen van (te veel) strafpunten is
+[16:44:18] <SJ> Aapje: het word nooit waterdicht, maar daarom de apk keuring volledige onzin noemen gaat te ver 
+[16:44:28] <Jeroen> dus in principe kan je na kwijtraken bevoegdheid wel gewoon opnieuw de toets volgen
+[16:44:40] <Aapje> nou nee, die apk is zeker wel een wassenneus
+[16:44:43] <Jeroen> maar voor misbruik lijkt er een clausule te zijn
+[16:44:48] <Aapje> want 't kijkt niet naar de levensjaren van een remslang bijv
+[16:44:56] <SJ> Aapje: ja, dat is exact wat ze doen, omdat het beleidsmatig ondoenlijk is de minimale dikte voor ieder merk/model op te nemen 
+[16:45:05] <Aapje> of kijken naar de volledige remleiding die bijv. achter wat plastic kapjes zit
+[16:45:10] <Aapje> waar ze meestal volledig verrot zijn
+[16:45:12] <Erik> mijn remslang is 40 jaar oud denk ik
+[16:45:26] *** Quits: Drawer (Mibbit@80.255.245.203) (Exit)
+[16:45:32] <Aapje> mijn punt was, apk en veiligheid? mwa. vertrouw er maar niet op
+[16:45:51] <SJ> wat daar staat is vrij vertaald: "Beste keurmeester, kijk in de documentatie van de fabrikant voor de minimale dikte en inspecteer visueel op mogelijk aanleidingen voor breuk' 
+[16:46:22] <Aapje> nee dat staat er niet 
+[16:46:28] <Hooglander1> moet ik wel lachen om mijn remschijven @ motor :D
+[16:46:31] <Hooglander1> die zijn 5 mm dik
+[16:46:36] <Aapje> dat maak jij er van :P
+[16:46:37] <Hooglander1> maar wel afgekeurd zodra het glijvlak er af is :P
+[16:46:44] <Hooglander1> maar voordat die krengen breken
+[16:46:57] <SJ> Aapje: hoe wil je het dan doen? :)
+[16:47:00] <Aapje> en keurmeester X maakt weer wat anders ervan
+[16:47:06] <SJ> APK afschaffen?
+[16:47:09] <Aapje> het moet gewoon duidelijk op papier
+[16:47:10] <Aapje> nee
+[16:47:18] <Aapje> net zo achtelijk maken zoals TUV en belgie keuren
+[16:47:23] <Aapje> alles volgens de specs van de fabrikant
+[16:47:36] <Aapje> gelijk aan de ban met die klote immitatie zooi zoals xenon verlichting en verlagingen
+[16:48:12] <SJ> Aapje: opzich geen slecht plan, maar ik denk dat de huidige apk ook voldoet 
+[16:48:54] <Jeroen> daarvoor zou je eigenlijk moeten kijken naar cijfers van ongelukken in NL vs BE en DE met als oorzaak voertuigfalen
+[16:49:09] <Jeroen> overigens is belgie wel wat doorgedraafd afaik
+[16:49:12] <Jeroen> maar op zich geen slecht idee
+[16:49:30] <Aapje> imho ook, maar alles wat op je auto zit moet minimaal bijv. goedgekeurd zijn met een E keurmerk ofzo zou al een uitkomst zijn
+[16:49:42] <Aapje> vallen de helft van die gare remblokken al af
+[16:49:51] <Jeroen> verder: keurstations gewoon puur laten keuren ipv ook repareren, want dat is natuurlijk een klassieke verstrengeling van belangen
+[16:50:01] <Aapje> jup
+[16:50:12] <Aapje> daar ben ik 't eig nog wel 't meeste mee eens
+[16:50:28] <Hooglander1> inherent krijg je hetzelfde
+[16:50:37] <Hooglander1> een garage zal alsnog reparatie adviseren in hun pre-check
+[16:50:46] <Hooglander1> dat houd je altijd
+[16:50:54] <Hooglander1> Als je iets wil doen zou meer controle op de APK nog het beste zijn
+[16:51:50] <Aapje> maargoed, die rotte barrels van mij remmen beter dan menig nieuwere 
+[16:52:15] <Aapje> tis vaak dat ik van de rem moet loskomen omdat er zowat een up-je of een andere bluemotion zowat op de trekhaak hangt
+[16:52:16] <Escovan> Hmm, phising met no-reply@kpn.com als adres ... Daar kon je toch iets tegen doen? SPF/DKIM enzo.
+[16:53:41] <Aapje> al moet ik zeggen, 1 van de dingen in belgie is wel goed om hier ook te hebben Jeroen
+[16:53:45] <Aapje> schokdemper testen
+[16:53:55] <Jeroen> daar hebben we te weinig gaten in de weg voor :+
+[16:54:13] <Aapje> ja denk je, maar gare dempers beinvloed het rijgedrag van de auto
+[16:54:27] <Aapje> vooral met die windstoten nu :D
+[16:54:34] <SJ> sure 
+[16:54:40] <Aapje> ook de reden dat er mooie billsteins onderweg zijn voor moi
+[16:54:44] <SJ> blij dat ik geen peugeot meer rij 
+[16:54:49] <SJ> wat dat betreft 
+[16:54:58] <Aapje> want dan weetje dat de gordels vastzitten? :D
+[16:55:10] <Jeroen> ik had er wel redelijk wat in mijn rijbaan ja, vanmiddag
+[16:55:14] <SJ> erg comfi hoor, maar wegligging vergeleken met VW is naadje 
+[16:55:21] <Jeroen> denk overigens meer dat dat te maken had met de bestuurder dan de schokdempers
+[16:55:43] <Aapje> naja als de dempers gaar zijn drukt de auto snel in
+[16:55:52] <Aapje> vooral met die windacties
+[16:56:24] <Aapje> http://apkexperts.nl/wp-content/uploads/2013/11/PB211933-1024x768.jpg
+[16:56:44] <Aapje> iig als je denkt dat opels kunnen roesten ken je nieuwe peugeots niet :D
+[16:57:06] <Jeroen> sakkers
+[16:57:14] <ElectrowolF> die roesten toch al in de folder?
+[16:57:34] <mimic> franse auto's uberhaupt
+[16:57:36] <mimic> :')
+[17:01:36] <Aapje> http://tweakers.net/aanbod/964525/bada-lb-5600-netfilter-+-2-high-end-powercables.html
+[17:01:38] <Aapje> :')))))))))))))))))
+[17:02:17] *** Joins: Jeroen_ (Jeroen@ip82-139-124-155.lijbrandt.net)
+[17:02:36] *** Quits: Jeroen (Mibbit@ip82-139-124-155.lijbrandt.net) (Exit)
+[17:02:37] *** Jeroen_ is now known as Jeroen
+[17:03:44] *** Parts: Jeroen (Jeroen@ip82-139-124-155.lijbrandt.net) ()
+[17:04:13] *** Joins: Jeroen (Jeroen@ip82-139-124-155.lijbrandt.net)
+[17:07:12] *** boekee_away is now known as boekee
+[17:08:36] *** boekee is now known as boekee_away
+[17:14:20] *** Joins: zomertje (zomertje@pluizigenblauw.xs4all.nl)
+[17:14:20] *** ChanServ sets mode: +o zomertje
+[17:16:18] <Jeroen> Bonjour my sexy rabbit
+[17:16:19] <Jeroen> i f٘o̻und yr profile via facebook .̹. you are pretty boy .
+[17:16:20] <Jeroen> seems legit
+[17:16:55] *** Parts: Phaxinity (textual@tsn109-201-135-220.dyn.nltelcom.net) ()
+[17:17:05] *** Joins: Phaxinity (textual@tsn109-201-135-220.dyn.nltelcom.net)
+[17:17:51] *** Quits: Phaxinity (textual@tsn109-201-135-220.dyn.nltelcom.net) (Exit)
+[17:19:04] <Hooglander1> vind je
+[17:19:13] <Hooglander1> ze heeft duidelijk je foto's niet gezien
+[17:19:39] <Aapje> maareh
+[17:19:55] <Aapje> zijn er serieus mensen die geloven in elfjes bij maanlicht? gezien die 'filter'?
+[17:20:07] <Aapje> aka onderdelen doos van twv 5 euro aan chineze elektronica goederen
+[17:20:15] <tozzert> niet in het bijzonder moto-moi, jij?
+[17:20:22] <Jeroen> so mean Hooglander1 
+[17:20:23] <Jeroen> :D
+[17:21:31] <Jeroen> https://www.youtube.com/watch?v=FPWgRbBTBwA
+[17:22:30] <tozzert> de waarheid is niet altijd lief of vriendelijk
+[17:22:39] <tozzert> sterker nog
+[17:22:41] <tozzert> zelden!
+[17:22:43] <tobias> lol die powercables Aapje 
+[17:22:53] <tobias> ik denk zelfs dat het niet de aangeboden 100% koper is
+[17:23:06] <tobias> of bedoelt hij, dat zodra je de bieding accepteert, je 100% koper bent
+[17:24:47] <Jeroen> http://i.imgur.com/pq3djGZ.jpg
+[17:24:49] <Jeroen> wat een wereld
+[17:26:28] <tobias> Jeroen: https://image-store.slidesharecdn.com/226652f9-2dc5-4833-8526-ab314f7c312a-original.jpeg
+[17:26:30] <tobias> ja, dat is pur
+[17:26:33] <tobias> 'die waaien mooi niet meer weg'
+[17:27:20] <Nakebod> tocht ook nooit meer
+[17:28:46] *** Quits: tbosua (tbosua@office.hostnetbv.nl) (Exit)
+[17:31:00] <Jeroen> haahahahaha
+[17:32:27] <mimic> https://www.youtube.com/watch?v=2bGb5AOwp44
+[17:33:11] <Jeroen> is vrij normaal in china, mimic 
+[17:33:24] <Jeroen> doen ze blijkbaar in ieder groot winkelcentrum
+[17:33:31] <mimic> best wel sick :)
+[17:34:22] <Jeroen> uhuh
+[17:35:32] *** Joins: Phaxinity (Phaxinity@tsn109-201-135-220.dyn.nltelcom.net)
+[17:35:34] *** Joins: ravenger (textual@ravenger.xs4all.nl)
+[17:36:05] <Jeroen> hm
+[17:36:26] <Jeroen> ik heb tomaten, zongedroogde tomaten, een bol mozzarella, wat penne en 2 moten zalm
+[17:36:36] <Jeroen> ja/nee bij elkaar gooien en het een gerecht noemen
+[17:36:37] <Jeroen> :+
+[17:37:52] <mimic> doe het
+[17:39:12] <Jeroen> op zich ken het wel
+[17:39:21] <Jeroen> goed wat zwarte peper erop zodat je de rest toch niet proeft :+
+[17:41:05] *** Joins: DinX (DinX___@ptr-2hj4tblnzznafgmncii5uu9oy.ip6.access.telenet.be)
+[17:44:26] <Tomcat_hatt> je moet eigenlijk nog wat groente erbij doen
+[17:44:44] <Tomcat_hatt> het kan zeker wel maar is wat basic
+[17:46:47] <Jeroen> ben te lui om naar de supermarkt te gaan :+
+[17:46:58] <Jeroen> doe er wel wat broccoli bij
+[17:48:23] *** boekee_away is now known as boekee
+[17:50:06] *** Quits: DinX (DinX___@ptr-2hj4tblnzznafgmncii5uu9oy.ip6.access.telenet.be) (Connection reset by peer)
+[17:50:15] *** Joins: DinX (DinX___@ptr-2hj4tblnzznaefun0f82h1i4s.ip6.access.telenet.be)
+[17:55:08] *** Quits: DinX (DinX___@ptr-2hj4tblnzznaefun0f82h1i4s.ip6.access.telenet.be) (Ping timeout: 61 seconds)
+[17:58:17] *** Joins: DinX (DinX___@ptr-2hj4tblnzznag2j98qxbmw439.ip6.access.telenet.be)
+[17:59:03] *** Quits: DinX (DinX___@ptr-2hj4tblnzznag2j98qxbmw439.ip6.access.telenet.be) (Connection reset by peer)
+[17:59:04] *** Joins: Resistor (Resistor@ip5456d91b.speed.planet.nl)
+[18:00:01] *** Joins: DinX (DinX___@d54C120B6.access.telenet.be)
+[18:00:28] *** Quits: duckson (duckson@vps.duckson.nl) (Exit)
+[18:01:50] *** Joins: kees (kees@office.tweaknet.net)
+[18:11:08] *** Joins: Francis (Francis@5468C56E.cm-12-1d.dynamic.ziggo.nl)
+[18:11:17] <mimic> Gefeli Francis \o
+[18:11:26] <Francis> tnx!
+[18:13:55] *** Joins: fee-tje (fee-tje@137-109-201-31.ftth.glasoperator.nl)
+[18:17:55] *** Quits: Tomcat_hatt (user@193.107.221.57) (Exit)
+[18:26:57] *** Quits: fee-tje (fee-tje@137-109-201-31.ftth.glasoperator.nl) (Exit)
+[18:37:11] *** Joins: Sponge (Sponge@149.210.150.92)
+[18:37:15] *** Joins: Matthew (Matthew@178-117-75-230.access.telenet.be)
+[18:39:57] *** Quits: Francis (Francis@5468C56E.cm-12-1d.dynamic.ziggo.nl) (Exit)
+[18:41:06] *** Joins: Tweaker219 (Mibbit@vanramselaar.xs4all.nl)
+[18:41:59] *** Joins: fee-tje (fee-tje@137-109-201-31.ftth.glasoperator.nl)
+[18:42:43] *** Quits: Tweaker219 (Mibbit@vanramselaar.xs4all.nl) (Exit)
+[18:44:49] *** Joins: Tomcat_hatt (user@193.107.221.57)
+[18:46:17] *** Quits: zomertje (zomertje@pluizigenblauw.xs4all.nl) (Exit)
+[18:49:05] *** Quits: Aapje (user@i244127.upc-i.chello.nl) (Ping timeout: 67 seconds)
+[18:51:20] *** Quits: Tomcat_hatt (user@193.107.221.57) (Connection reset by peer)
+[18:53:31] *** Quits: fee-tje (fee-tje@137-109-201-31.ftth.glasoperator.nl) (Exit)
+[19:00:39] *** Quits: ravenger (textual@ravenger.xs4all.nl) (Exit)
+[19:02:49] *** Joins: ravenger (textual@ravenger.xs4all.nl)
+[19:03:45] *** Joins: najtreve (najtreve@vanramselaar.xs4all.nl)
+[19:04:50] *** Joins: Tomcat_hatt (user@193.107.221.57)
+[19:08:46] *** Joins: Jose_Orinoko (AndChat492@ip-80-236-202-39.dsl.scarlet.be)
+[19:12:04] *** Quits: PerlinNoise (P@D97B0886.cm-3-4a.dynamic.ziggo.nl) (Ping timeout: 61 seconds)
+[19:12:49] *** Joins: PerlinNoise (P@D97B0886.cm-3-4a.dynamic.ziggo.nl)
+[19:17:55] *** Quits: ravenger (textual@ravenger.xs4all.nl) (Exit)
+[19:22:43] *** Joins: Escofan (escovan@j88103.upc-j.chello.nl)
+[19:22:54] *** Quits: Sponge (Sponge@149.210.150.92) (Ping timeout: 67 seconds)
+[19:27:07] *** Joins: JamesB009 (got@185.65.53.175)
+[19:27:59] *** Quits: Escofan (escovan@j88103.upc-j.chello.nl) (Exit)
+[19:30:47] *** Joins: Francis (Francis@5468C56E.cm-12-1d.dynamic.ziggo.nl)
+[19:30:53] *** Quits: Phaxinity (Phaxinity@tsn109-201-135-220.dyn.nltelcom.net) (Input/output error)
+[19:31:28] *** Joins: Phaxinity (Phaxinity@tsn109-201-135-220.dyn.nltelcom.net)
+[19:44:27] *** Joins: chim0 (a@d5c53ff2.ftth.concepts.nl)
+[19:50:14] *** Joins: Smileface (alexander@25bc408b.ftth.concepts.nl)
+[19:58:35] *** Joins: fee-tje (fee-tje@137-109-201-31.ftth.glasoperator.nl)
+[20:03:34] <Hooglander1> *burp
+[20:07:56] <Hooglander1> Hoe ist nou?
+[20:08:36] <tozzert> bemoei je met je eigen zakem :/
+[20:08:38] <tozzert> n
+[20:10:44] * Hooglander1 krabt aan zijn zaken
+[20:10:47] <Hooglander1> En nou?
+[20:10:57] <tozzert> ruiken
+[20:11:31] <Hooglander1> Ruikt naar bloemetjes
+[20:11:55] <tozzert> paddestoelen zijn geen bloemetjes h~e
+[20:15:02] *** Quits: najtreve (najtreve@vanramselaar.xs4all.nl) (Exit)
+[20:15:12] *** Joins: najtreve (najtreve@82.161.255.73)
+[20:15:33] *** Joins: Lin (Lin@53570183.cm-6-8a.dynamic.ziggo.nl)
+[20:16:04] <tozzert> ik ga eens kijken of ik het met een ESP8266 zo voor elkaar kan krijgen dat ik bij m'n pa de garagedeur kan openen
+[20:16:17] <tozzert> should be possible
+[20:16:29] <moto-moi> ligt eraan, heeft 'ie een garage?
+[20:16:41] <tozzert> én een elektrisch bedienbare garagedeur!
+[20:17:03] <moto-moi> en dan bedoel je zonder stroomschokken op een negertje neem ik aan?
+[20:17:05] <tozzert> dan kan ik met m'n foon die deur openen
+[20:17:31] <tozzert> we gaan het meemaken
+[20:17:43] <tozzert> eerst wat spulletjes roggelen waar ik het in ga bouwen
+[20:17:58] <tozzert> dan gaat mijn Domoticz het allemaal aansturen
+[20:19:02] <tozzert> wel paar voorwaarden waaraan voldaan moet worden, zat te denken aan dat ik <10 minuten in de geofence bij hem moet zijn en een knop 2x binnen 3 seconden moet bedienen
+[20:19:07] <tozzert> dat lijkt me wel redelijk safe
+[20:26:32] *** boekee is now known as boekee_away
+[20:39:05] <Jeroen> 10 minuten? is dat niet wat veel?
+[20:42:03] *** Joins: boy_yonder (Seb@82-169-222-71.ip.telfort.nl)
+[20:46:03] <tozzert> in dat tijdsbestek KAN ik de deur openen
+[20:46:08] <tozzert> er gebeurt niks automatisch
+[20:46:51] <tozzert> en als ik daar met m'n auto aan kom rijden en eer ik een plekje heb waar ik hem neer kan plempen
+[20:47:29] <tozzert> maar doe ik er langer dan 10 minuten over, kan ik niet meer middels 2x binnen x sec de deur openen
+[20:47:35] <tozzert> lijkt me prima oplossing
+[20:54:48] <Jeroen> of ik volg je niet, of je kan binnen half tilburg alsnog met 2x drukken binnen 3s de deur openen?
+[20:55:12] <tozzert> dan volg je me niet
+[20:55:45] <Jeroen> leg dat geofence eens uit
+[20:55:56] <tozzert> als ik de geofence rond pa betreed, heb ik 10 minuten de tijd om de garagedeur te openen
+[20:56:03] <Jeroen> aaaah
+[20:56:11] <Jeroen> ik dacht dat je de geofence in 10 minuten uitdrukte
+[20:56:16] <tozzert> daarna mag ik dat niet meer middels dat 2x drukken
+[20:56:20] <tozzert> neuje
+[20:56:20] <Jeroen> met een hippe satnav-toepassing
+[20:56:56] <tozzert> lijkt me niet praktisch als ik daar langer dan 10 minuten op bezoek ben
+[20:57:01] <tozzert> wat heus weleens voorvalt!
+[20:57:12] <tozzert> ik een beetje aan het pielen ben en constant die deur opengaat
+[20:57:12] <tozzert> :+
+[20:57:43] <tozzert> notificatietje middels pushbullet erbij
+[20:57:49] <Jeroen> zo bedoel ik het niet, ik dacht even dat je je geofence perimeter in tijd uitdrukte ipv aftand :p
+[20:58:05] <tozzert> jaja, dat snapte ik
+[20:58:10] <Jeroen> ok gelukkig :+
+[20:58:10] <tozzert> je denkt weer heerlijk moeilijk
+[20:58:11] <tozzert> ;p
+[20:58:12] <Jeroen> uhuh
+[20:58:17] <Jeroen> daar betalen ze mij voor
+[20:58:18] <Jeroen> nouja
+[20:58:19] *** Quits: fee-tje (fee-tje@137-109-201-31.ftth.glasoperator.nl) (Exit)
+[20:58:23] <Jeroen> eigenlijk niet, maar je begrijpt het :+
+[20:58:31] <tozzert> om moeilijk te denken terwijl het makkelijk prima kan?
+[20:58:40] <Jeroen> precies
+[20:58:40] <tozzert> trek je er ook een moeilijk gezicht bij?
+[20:58:45] <Jeroen> uhuh
+[20:58:50] <tozzert> zo zit jouw gezicht het lekkerst toch?
+[20:58:50] <Jeroen> en soms zit ik met m'n vinger aan m'n kin
+[20:59:16] <tozzert> en daarna weer aan je aarsch
+[20:59:22] <tozzert> en dan weer aan je kin
+[20:59:58] <Jeroen> beetje bijbruinen
+[21:01:21] <tozzert> nu nog 3 weken wachten tot er een pirretje van 99 dollarcent vanuit china opm de deurmat ligt
+[21:01:29] <tozzert> die ik ook nog aan kan sluiten op die ESP8266
+[21:01:35] <tozzert> bietje pielen
+[21:04:08] <Jeroen> zozo
+[21:04:17] <Jeroen> ouwe elektrotechnieker
+[21:04:27] <Jeroen> https://www.youtube.com/watch?v=02YbgQPvSu8
+[21:04:58] <tozzert> contact, ben een dondergod
+[21:05:25] <tozzert> blijft een skøn nummerke
+[21:07:22] <Jeroen> uhuh
+[21:08:24] *** Joins: fee-tje (fee-tje@137-109-201-31.ftth.glasoperator.nl)
+[21:15:06] *** Quits: fee-tje (fee-tje@137-109-201-31.ftth.glasoperator.nl) (Exit)
+[21:15:54] *** boekee_away is now known as boekee
+[21:38:21] *** moto-moi is now known as moto-moi|afk
+[21:42:27] *** Quits: Robin (robin@5419F052.cm-5-2d.dynamic.ziggo.nl) (Exit)
+[21:50:19] *** Joins: freebee666 (spam@j217177.upc-j.chello.nl)
+[21:51:28] <freebee666> g�vond
+[21:53:14] *** Quits: Francis (Francis@5468C56E.cm-12-1d.dynamic.ziggo.nl) (Exit)
+[21:54:18] *** Quits: kees (kees@office.tweaknet.net) (Input/output error)
+[21:55:54] *** Quits: Resistor (Resistor@ip5456d91b.speed.planet.nl) (Exit)
+[21:58:19] *** Quits: Matthew (Matthew@178-117-75-230.access.telenet.be) (Connection reset by peer)
+[22:15:50] *** Quits: bbee (bbee@53541BFC.cm-6-5a.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[22:16:50] *** Quits: boy_yonder (Seb@82-169-222-71.ip.telfort.nl) (Exit)
+[22:19:16] *** Quits: klaveRCX (michiel@klaver.it) (Ping timeout: 66 seconds)
+[22:19:32] *** Joins: klaveRCX (michiel@klaver.it)
+[22:26:30] *** Joins: Sponge (Sponge@149.210.150.92)
+[22:31:44] *** Joins: bbee (bbee@53541BFC.cm-6-5a.dynamic.ziggo.nl)
+[22:32:42] *** Joins: Aapje (user@i244127.upc-i.chello.nl)
+[22:34:55] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[22:38:00] *** boekee is now known as boekee_away
+[22:42:25] <Jeroen> http://www.politico.eu/article/brussels-attacks-terrorism-europe-muslims-brussels-attacks-airport-metro/
+[22:42:28] *** Quits: Wussie (wussie@220-251.ftth.onsbrabantnet.nl) (Exit)
+[22:51:32] *** Quits: DizzyWeb (arjen@ip56508964.direct-adsl.nl) (Ping timeout: 60 seconds)
+[22:51:52] *** Joins: DizzyWeb (arjen@ip56508964.direct-adsl.nl)
+[23:00:10] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Ping timeout: 66 seconds)
+[23:00:43] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[23:07:16] *** Quits: JamesB009 (got@185.65.53.175) (Exit)
+[23:22:27] *** Quits: Jeroen (Jeroen@ip82-139-124-155.lijbrandt.net) (Exit)
+[23:36:28] *** Quits: Phaxinity (Phaxinity@tsn109-201-135-220.dyn.nltelcom.net) (Exit)
+[23:47:21] <ElectrowolF> hmm.. we hebben hier niet echt een audio channel toch?
+[23:55:16] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 61 seconds)
+[23:55:17] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)

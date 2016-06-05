@@ -1,0 +1,45 @@
+[01:40:00] *** Quits: Sein (random@sorcery-ast.q2f.81.73.IP) (Ping timeout: 121 seconds)
+[01:53:37] *** Joins: Sein (random@sorcery-ast.q2f.81.73.IP)
+[02:18:58] *** Quits: ankh (liam@sorcery-sbu.1mf.35.174.IP) (Connection closed)
+[02:24:41] *** Fragmint is now known as EnglishFrag
+[02:31:24] *** Joins: ankh (liam@sorcery-sbu.1mf.35.174.IP)
+[05:45:20] *** Joins: sheenobu (sheenobu@sorcery-jsddm4.hs.gigamonster.net)
+[07:29:35] *** Joins: Lapthysius (Aethysius@Heywood.Jablome)
+[07:29:35] *** ChanServ sets mode: +v Lapthysius
+[07:29:50] *** Quits: Aethysius (Aethysius@Heywood.Jablome) (NickServ (GHOST command used by Lapthysius))
+[07:29:51] *** Lapthysius is now known as Aethysius
+[07:31:44] *** Quits: Neoburner^ (Neoburner@sorcery-pdsg09.com) (Ping timeout: 121 seconds)
+[07:31:48] *** Joins: Neoburner (Neoburner@sorcery-pdsg09.com)
+[07:32:33] *** Quits: Sein (random@sorcery-ast.q2f.81.73.IP) (Ping timeout: 121 seconds)
+[07:33:20] *** Joins: Sein (random@sorcery-ast.q2f.81.73.IP)
+[08:19:11] *** Joins: tycel (tycel2004@sorcery-7ktaf7.fidnet.com)
+[08:19:11] *** ChanServ sets mode: +v tycel
+[08:55:14] *** Aethysius is now known as Awaythysius
+[12:51:15] *** Quickshot is now known as Quickshot-afk
+[13:40:03] *** Quits: Sein (random@sorcery-ast.q2f.81.73.IP) (Ping timeout: 121 seconds)
+[13:53:28] *** Joins: Sein (random@sorcery-gqa.ilt.81.73.IP)
+[14:21:33] *** Quits: sheenobu (sheenobu@sorcery-jsddm4.hs.gigamonster.net) (Connection closed)
+[15:02:21] *** Joins: sheenobu (sheenobu@sorcery-ggfj3c.hfc.comcastbusiness.net)
+[16:48:21] *** Quits: Vicarious (diepfriet@sorcery-imt8eu.icario.us) (Ping timeout: 121 seconds)
+[16:54:44] *** Joins: Vicarious (diepfriet@sorcery-imt8eu.icario.us)
+[16:59:29] *** Quits: sheenobu (sheenobu@sorcery-ggfj3c.hfc.comcastbusiness.net) (Ping timeout: 121 seconds)
+[18:25:49] *** Quits: Thunderguy (thunderguy@sorcery-5cfg9f.at.cox.net) (Quit: my Router is 14 years old and hard lags everything by 3 seconds, today it shall be reset and firmware upgraded! (If Im not back in 2 hours I will go to BestBuy®!))
+[20:34:33] *** Joins: Thunderguy (thunderguy@sorcery-5cfg9f.at.cox.net)
+[20:34:33] *** ChanServ sets mode: +v Thunderguy
+[21:43:27] <Thunderguy> I wonder if I can convert ubuntu to debian by updating sources.list and apt-get
+[21:53:07] *** Quickshot-afk is now known as Quickshot
+[22:00:06] *** Quits: Thunderguy (thunderguy@sorcery-5cfg9f.at.cox.net) (Quit: Lost terminal)
+[22:05:19] <StarThorn> Sort of.
+[22:05:23] <StarThorn> D'oh.  Missed him.
+[22:05:44] <StarThorn> You can convert between Debian and Ubuntu, but you will typically end up with some broken stuff.
+[22:07:19] <Quickshot> Which you'd preferably know a bit about the systems so you can fix it?
+[22:09:32] <StarThorn> Hopefully.  Sometimes there are low-level incompatibilities that can be tricky, however.
+[22:09:51] <StarThorn> For example, if you have packages that depend on Ubuntu-specific packages, which don't exist in Debian.  And vice-versa.
+[22:10:36] <StarThorn> Also, they're going to be based off of different release points, so unless you're planning on going to Debian Testing/Sid, you're going to probably have issues.
+[22:11:21] <StarThorn> As a general rule, I'd pretty strongly recommend against trying to do an in-place conversion between the two.  You're better off standing up a new box/instance with the target OS, dumping you installed package list from the current box, installing them on the new one, then copying configs over.
+[22:11:37] <StarThorn> It's relatively painless, usually, and will result in a much more stable and reliable system.
+[22:13:41] *** Joins: sheenobu (sheenobu@sorcery-jsddm4.hs.gigamonster.net)
+[22:57:01] <ankh> i'd agree with that approach too - you don't know what patches Ubuntu had made (and there's usually lots)
+[22:59:06] * StarThorn nods.
+[22:59:29] <StarThorn> Also, Ubuntu has moved to systemd as the default init, and Debian isn't quite as far along in their transition.
+[23:01:09] <Quickshot> Sure, fair enough

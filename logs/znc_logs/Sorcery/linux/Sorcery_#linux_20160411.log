@@ -1,0 +1,70 @@
+[02:12:21] *** Joins: Lapthysius (Aethysius@Heywood.Jablome)
+[02:12:21] *** ChanServ sets mode: +v Lapthysius
+[02:13:20] *** Quits: Aethysius (Aethysius@Heywood.Jablome) (NickServ (GHOST command used by Lapthysius))
+[02:13:20] *** Lapthysius is now known as Aethysius
+[02:23:23] *** Quits: Aethysius (Aethysius@Heywood.Jablome) (Connection closed)
+[02:24:09] *** Joins: Aethysius (Aethysius@Heywood.Jablome)
+[02:24:09] *** ChanServ sets mode: +v Aethysius
+[04:51:16] *** CrippledFrag is now known as Fragosaurus
+[04:59:55] <Fragosaurus> rawr
+[06:09:46] *** Quits: Sein (random@sorcery-uht.6vf.153.50.IP) (Ping timeout: 121 seconds)
+[06:23:13] *** Joins: Sein (random@sorcery-5uc.dkr.153.50.IP)
+[07:08:25] *** Quits: Aethysius (Aethysius@Heywood.Jablome) (Quit: brb)
+[08:01:58] *** Joins: Aethysius (Aethysius@Heywood.Jablome)
+[08:01:59] *** ChanServ sets mode: +v Aethysius
+[08:02:54] *** Quits: Aethysius (Aethysius@Heywood.Jablome) (Quit: I am exiting this session of multiplayer Notepad.)
+[08:03:09] *** Joins: Aethysius (Aethysius@Heywood.Jablome)
+[08:03:09] *** ChanServ sets mode: +v Aethysius
+[08:04:44] *** Quits: Aethysius (Aethysius@Heywood.Jablome) (Quit: I am exiting this session of multiplayer Notepad.)
+[08:04:56] *** Joins: Aethysius (Aethysius@Heywood.Jablome)
+[08:04:56] *** ChanServ sets mode: +v Aethysius
+[08:05:12] *** Quits: Aethysius (Aethysius@Heywood.Jablome) (Quit: I am exiting this session of multiplayer Notepad.)
+[08:13:10] *** ankh is now known as abababababababababababab
+[08:13:18] *** abababababababababababab is now known as ankh
+[08:15:31] *** Joins: Aethysius (Aethysius@Heywood.Jablome)
+[08:15:31] *** ChanServ sets mode: +v Aethysius
+[12:30:43] *** Aethysius is now known as Qor
+[13:28:12] *** Quits: Quickshot (Quickshot@sorcery-3a8u0v.l2ae.08va.0981.2001.IP) (Quit: Leaving)
+[13:28:26] *** Joins: Quickshot (Quickshot@sorcery-3a8u0v.l2ae.08va.0981.2001.IP)
+[13:28:26] *** ChanServ sets mode: +o Quickshot
+[14:08:20] *** Quickshot is now known as Quickshot-afk
+[14:41:49] * Fragosaurus coughs daintily
+[14:41:52] <Fragosaurus> I SAID RAWR
+[14:41:57] * Fragosaurus terrorizes #linux
+[14:58:23] *** Qor is now known as Aethysius
+[15:25:16] *** Sein is now known as Issy
+[18:09:55] *** Quits: Issy (random@sorcery-5uc.dkr.153.50.IP) (Ping timeout: 121 seconds)
+[18:14:56] *** Quits: Aethysius (Aethysius@Heywood.Jablome) (Connection closed)
+[18:15:15] *** Joins: Aethysius (Aethysius@Heywood.Jablome)
+[18:15:15] *** ChanServ sets mode: +v Aethysius
+[18:21:50] *** Joins: Lapthysius (Aethysius@Heywood.Jablome)
+[18:21:50] *** ChanServ sets mode: +v Lapthysius
+[18:23:27] *** Joins: Issy (random@sorcery-kr0.h1u.153.50.IP)
+[18:24:37] *** Quits: Aethysius (Aethysius@Heywood.Jablome) (Ping timeout: 121 seconds)
+[19:13:08] <Karolis2011> How is your Linux installs are doing?
+[19:13:23] <Karolis2011> What is your opinion on bash on Windows?
+[20:06:58] *** Issy is now known as Sein
+[20:42:30] <ankh> 15 years ago Microsoft could have demolished the credibility of Linux in the corporate and server world really easily; now it's too late and they have to work with it
+[22:30:08] *** Lapthysius is now known as Aethysius
+[22:37:01] <Aethysius> It's going to be the year of Linux on the desktop soon! :P
+[22:39:24] <ankh> maybe
+[22:39:46] <ankh> but Microsoft's stated reason for implementing a Linux ABI is for server usage
+[22:40:09] <StarThorn> The reason I saw was for developer use.
+[22:40:13] <Aethysius> Oh.
+[22:40:27] * Aethysius was out of that loop
+[22:40:36] <ankh> yes
+[22:40:41] <StarThorn> The article I saw (from a Microsoft person) said that it was CLI only, no GUI support, intended for developers to be able to utilize Linux Development tools on Windows.
+[22:40:47] <ankh> (these two things are not inconsistent of course)
+[22:40:52] * StarThorn nods.
+[22:40:53] <StarThorn> Agreed.
+[22:40:53] <ankh> yes, CLI
+[22:41:11] <StarThorn> So, don't expect X Windows on Windows anytime soon (at least, not supported by Microsoft).
+[22:41:14] <ankh> in particular you get bash, not e.g. a  Unity or GNOME desktop
+[22:41:45] <StarThorn> Although, it wouldn't surprise me to see community supported Unity/Gnome/etc. show up eventually.
+[22:43:04] <ankh> i don't know, that might depend on whether device access to video drivers is exposed appropriately
+[22:43:09] <ankh> but it wouldn't amaze me either
+[22:43:15] <ankh> or wayland :)
+[22:43:34] * StarThorn nods.
+[22:44:29] <StarThorn> Until it's released and I have a chance to dig in and play with it, I dunno what it'll end up looking like.
+[22:45:00] <StarThorn> But, then again, just being able to access bash, common command line tools, perl, etc., will make me really happy.
+[23:45:15] *** Quickshot-afk is now known as Quickshot

@@ -1,0 +1,44 @@
+[00:00:14] <grape> the latest idea is that I should look after a cluster again (which does technically no longer belong to us).. and when the new guy comes that will be looked after by ??? as  got to look after the new stuff (which is old stuff and thus more work)
+[00:02:11] <grape> the latest is that I am looking after tomcat and jupyter... and of course.. I got no idea how tomcat works
+[00:02:55] <lowkey> its a computer!  you just plug it in and put it in a closet.
+[00:03:11] <grape> I don't mind working.. and I don't mind working hard... but it is too much
+[00:03:36] <grape> lowkey: I wish... the ssl-certificate is self signed... and I seem to be unable to get that sorted
+[00:03:51] <grape> well... I meanwhile learned how to use apache as a proxy...
+[00:04:10] <lowkey> use certbot to get an EFF signed cert!
+[00:04:40] <grape> I got a cert... but I am unable to install it in tomcat
+[00:05:07] <grape> I should sit down and read the docu from beginning to end... but I don't have the time for that
+[00:05:16] <lowkey> you wipe the serve with a cloth (clinton says so) and then tape the cert to the top
+[00:05:48] * grape doubts that helps
+[00:06:23] <lowkey> she's an expert!  never doubt the expert.
+[00:07:34] <lowkey> just make sure its a good cloth.  probably some form of microfiber
+[00:10:16] <grape> how about macrofiber?
+[00:10:30] <grape> or even better... stainless steel rods... and beat some users
+[00:11:06] <lowkey> that could work to but it tends to create blood that needs cleaning up, then you will wish you had the microfiber
+[00:11:42] <grape> cotton...
+[00:11:52] <grape> anyhow.. bedtime for me...
+[00:11:55] <grape> I am exhausted..
+[00:12:13] <lowkey> sleep well grape
+[00:13:35] <grape> I will.. but thanks
+[00:13:41] <grape> ttfn
+[00:13:42] *** Quits: grape (~grape@CJ-3k1.8q0.194.90.IP) (Quit: Verlassend)
+[00:14:36] <lowkey> http://img.fark.net/images/cache/850/i/if/fark_ifICShzDjD61uWsN8qxj-ShkUsw.png?t=COCBpZDtG_TNPwV-mgYvow&f=1463976000
+[00:16:25] <lowkey> http://img.fark.net/images/cache/850/4/4h/fark_4hvlqRFEkQ9stPYzSBRrT0yJWuE.jpg?t=7tJEvHFP2K4PTcbMTT9DBA&f=1463976000
+[00:25:19] <LionsMane> hahahah
+[00:25:24] <lowkey> http://img.fark.net/images/cache/850/5/5J/fark_5JzI8Z48YGMEBVxNFFXed0HlXe4.jpg?t=TXNCAW0OaUbTqaTL7aSy6g&f=1463976000
+[00:25:26] <LionsMane> So in Bernie Sanders out of the running?
+[00:25:55] <lowkey> I dont think so,  I think Hillary still needs 100 delegates to lock it up
+[00:27:24] <lowkey> but the important thing is they have a treatment if you feel the burn
+[00:36:06] <LionsMane> hahah yes.  
+[00:36:20] <LionsMane> I would rather vote for Sanders than Clinton.  
+[00:36:46] <LionsMane> I am not voting for Trumpkin
+[00:37:48] <lowkey> i gave up voting for the lesser evil years ago.  It Cthulhu or nothing.
+[00:38:31] <lowkey> https://cthulhuforamerica.com/
+[00:39:57] <lowkey> or there's always this choice --> http://www.zerohedge.com/sites/default/files/images/user3303/imageroot/2015/05/20150519_nobody.jpg
+[01:09:57] <LionsMane> hahahah nice.
+[01:28:52] <LionsMane> ok, i am out.  hAVE A GOOD evening.
+[01:28:58] <LionsMane> Ohhh crazy caps!  Nice.
+[01:29:06] <lowkey> g'nite
+[01:32:08] *** Quits: LionsMane (~don@CJ-ifj.kbt.9.173.IP) (Quit: Leaving.)
+[01:57:12] *** Quits: lowkey (~lowkey@CJ-4e4.bbq.247.77.IP) (Quit: leaving)
+[07:11:15] *** Quits: chalcedony (~llhull@CJ-73ggem.asm.bellsouth.net) (Ping timeout: 121 seconds)
+[09:26:11] *** Joins: chalcedony (~llhull@CJ-f7i.cvs.152.72.IP)

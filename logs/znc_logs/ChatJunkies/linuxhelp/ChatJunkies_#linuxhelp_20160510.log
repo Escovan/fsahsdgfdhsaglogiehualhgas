@@ -1,0 +1,82 @@
+[04:23:45] *** Joins: chalcedony (~llhull@adsl-72-152-76-192.asm.bellsouth.net)
+[04:24:40] *** Quits: chalcedny (~llhull@CJ-f7i.cvs.152.72.IP) (Ping timeout: 121 seconds)
+[11:02:07] *** Quits: chalcedony (~llhull@adsl-72-152-76-192.asm.bellsouth.net) (Ping timeout: 121 seconds)
+[11:02:36] *** Joins: chalcedony (~llhull@CJ-f7i.cvs.152.72.IP)
+[14:42:35] *** Quits: chalcedony (~llhull@CJ-f7i.cvs.152.72.IP) (Quit: Leaving)
+[16:55:51] *** Joins: chalcedony (~llhull@adsl-72-152-76-192.asm.bellsouth.net)
+[20:33:13] *** Quits: Emmanuel_Chanel (~emmanuel@CJ-104.4ni.10.222.IP) (Ping timeout: 121 seconds)
+[20:37:06] *** Joins: LionsMane (~don@tower.lionsmane.org)
+[20:44:45] <LionsMane> Meh
+[20:45:44] *** Joins: Emmanuel_Chanel (~emmanuel@CJ-104.4ni.10.222.IP)
+[20:59:29] *** Quits: Emmanuel_Chanel (~emmanuel@CJ-104.4ni.10.222.IP) (Ping timeout: 121 seconds)
+[21:03:54] *** Joins: Emmanuel_Chanel (~emmanuel@CJ-o0h.dup.10.222.IP)
+[21:04:28] <AcidJell0> hah
+[21:04:35] <AcidJell0> youre here
+[21:04:44] <AcidJell0> grumpy f*er :)
+[21:04:58] <AcidJell0> yesterday you took off, i didnt even get a chance to respond :D
+[21:28:06] <LionsMane> Yeah, I changed networks and had so many connectivity problem I didn't bother to reconnect.
+[21:37:06] <AcidJell0> haha
+[21:37:27] <AcidJell0> so, i guess you had a good weekend ?
+[21:37:29] <AcidJell0> :)
+[21:59:19] <LionsMane> Yup, drove 300 miles on the moto.
+[21:59:22] <LionsMane> Good weekend that way.
+[21:59:30] <LionsMane> Even some of the ride was in the rain and it was great.
+[21:59:45] <AcidJell0> i guess it rained there too
+[22:00:02] <AcidJell0> saturday was nice here
+[22:00:10] <AcidJell0> altho the weather f*kers messed it up totally
+[22:00:17] <AcidJell0> said saturday will be cooler and rainier
+[22:00:27] <AcidJell0> and sunday nice and sunny
+[22:00:33] <AcidJell0> then it turned out the other way around
+[22:36:12] *** Joins: grape (~grape@CJ-3k1.8q0.194.90.IP)
+[22:36:30] <grape> hi all
+[22:36:32] <grape> hi LionsMane 
+[22:37:30] <AcidJell0> sup graponicus
+[22:40:04] <grape> hi AcidJell0 
+[23:08:30] *** Quits: LionsMane (~don@tower.lionsmane.org) (Quit: Leaving.)
+[23:12:38] <AcidJell0> hah
+[23:12:39] <AcidJell0> quitter
+[23:15:31] *** Joins: lowkey (~lowkey@CJ-9q9.okf.255.5.IP)
+[23:15:43] <lowkey> hi all
+[23:25:16] <grape> hi lowkey 
+[23:25:23] <lowkey> hey grape
+[23:25:32] <grape> how are you?
+[23:26:11] <lowkey> fairly good.  just spent the afternoon replying to a users concerns about a podcast feed.
+[23:26:32] <lowkey> and nancy reagan was right.  users are losers.
+[23:26:47] <lowkey> ;-)
+[23:27:02] <lowkey> and how was your day?
+[23:30:02] <grape> not too bad... given I spent quite some time travelling back from Graz to London via Zurich....
+[23:30:32] <grape> and now I am booking my excursions when I am in Australia
+[23:30:36] <grape> so I am a poor man now...
+[23:30:37] <lowkey> hopefully with a couple stops for good food along the way....
+[23:30:41] * grape sings...
+[23:30:44] <lowkey> lol
+[23:30:56] <grape> I had some lunch at the airport which was not too bad
+[23:30:57] * grape sings...
+[23:31:07] <lowkey> had a small networking problem here yesterday
+[23:31:12] * grape sings (badly)...
+[23:31:18] <grape> how so?
+[23:31:31] * grape point out it was not the singing!
+[23:31:49] <lowkey> the "managed" switch I got brought up it's web interface (after being connected for 24 hrs for some reason) on 192.168.0.1
+[23:32:14] <lowkey> which just happens to be the IP of the gateway on this network
+[23:32:34] <grape> lol
+[23:32:57] <lowkey> so everything connected to that switch could only get to the internet about 50% of the time.
+[23:33:48] <lowkey> seriously who uses that IP?  It is the most common IP used in networking classes and EVERY router wants to use it for the internal network port....
+[23:35:09] <lowkey> I would bet money that either 1 or 254 are the most common IPs for the gateway.   Just use one of the other 252 addresses and even if there is a conflict it will probably only knock off one system
+[23:37:14] <lowkey> and if you do use that IP, how about a big warning sticker on the device so you can't ignore the fact when you connect it?
+[23:38:59] <grape> sounds like a familiar problem to me... my router is using this IP as a gateway too
+[23:39:33] <lowkey> everybody wants to use that one IP.  its like they all think that they are the single most important device ever...
+[23:39:53] <lowkey> and heaven forbid you have to connect two of any item.  
+[23:41:38] <grape> :-)
+[23:41:48] <lowkey> on the plus side, the Ubiquiti WIFI is awesome.
+[23:46:32] <grape> that is what I am after as well with the thing I ordered
+[23:47:19] <lowkey> I would warn you that its just a bridge from wifi to wired.  it does not do dhcpd or anything else.
+[23:48:03] <lowkey> but it makes scaling out a network easier because all you do is add APs as you need them
+[23:49:49] <lowkey> ok, users are illiterate (sp?)
+[23:50:27] <lowkey> I explain why the one feed he wants to use is different from the feed that is defined by the RSS standard
+[23:50:53] <lowkey> I find him an RSS feed for the items in the Atom feed he wanted to use
+[23:51:33] <lowkey> and he still asks "its a valid feed, are Atom feeds so rare that you never encountered them?"
+[23:56:00] <lowkey> OK, I think its time for "you have the source code, if it's easy submit a patch"
+[23:56:35] <grape> lol
+[23:56:43] <grape> sorry... I am a bit brain dead tonight...
+[23:56:55] <grape> from all the travelling... and I did not drink enough as well
+[23:57:05] <lowkey> thats OK. 

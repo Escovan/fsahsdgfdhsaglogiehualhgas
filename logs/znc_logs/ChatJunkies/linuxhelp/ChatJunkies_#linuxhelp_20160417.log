@@ -1,0 +1,122 @@
+[01:48:57] *** Joins: Jae (~Jley@CJ-q2u.5mn.59.24.IP)
+[02:47:03] *** Quits: lowkey (~lowkey@CJ-gen.mj1.100.185.IP) (Quit: leaving)
+[06:25:21] *** Quits: Jae (~Jley@CJ-q2u.5mn.59.24.IP) (Ping timeout: 121 seconds)
+[09:53:06] *** Quits: Emmanuel_Chanel (~emmanuel@CJ-dq9.p1k.10.222.IP) (Ping timeout: 121 seconds)
+[09:57:54] *** Joins: Emmanuel_Chanel (~emmanuel@CJ-dq9.p1k.10.222.IP)
+[11:29:07] *** Quits: Emmanuel_Chanel (~emmanuel@CJ-dq9.p1k.10.222.IP) (Quit: Leaving)
+[11:50:38] *** Joins: Emmanuel_Chanel (~emmanuel@CJ-dq9.p1k.10.222.IP)
+[15:23:04] *** Joins: andre_000_ (~andre_000@CJ-esl8ht.cpe.sourcecable.net)
+[15:24:06] *** Quits: AcidJell0 (~andre_000@CJ-51k.kgi.210.207.IP) (Ping timeout: 121 seconds)
+[20:42:36] *** Joins: Jae (~Jley@CJ-q2u.5mn.59.24.IP)
+[20:43:20] <Jae> What are the best resources for learning more about Openstack BESIDES PlugGRID, OpenStack.org, and meet-ups?
+[21:13:43] *** Joins: lowkey (~lowkey@CJ-44j.afk.87.192.IP)
+[21:14:01] <lowkey> boing
+[21:16:23] <Jae> ?
+[21:16:39] <lowkey> hello
+[21:17:44] <Jae> hi
+[21:17:59] <Jae> you know about openstack ?
+[21:18:09] <lowkey> nope
+[21:18:13] <lowkey> should I?
+[21:18:19] <Jae> meh. i'm learning about it
+[21:18:22] <Jae> it's intersting
+[21:19:59] <lowkey> the website seems interesting.  
+[21:21:02] <lowkey> although their use of "clouds" seems off point....
+[21:21:25] <lowkey> maybe not.
+[21:22:44] <Jae> in a way, it's your cloud
+[21:22:57] <lowkey> I'm just debating installing PTF into a qubes dedicated VM  ( https://github.com/trustedsec/ptf )
+[21:22:58] <Jae> maybe it should be called "fog"
+[21:23:56] <lowkey> I see that it is a way to group manage and develop for a series of systems.  So its kind of like a cloud but it's just a new usage of the word for me
+[21:25:28] <Jae> To me, it seems like a pro version of Amahi
+[21:25:49] <lowkey> I'm not familiar with Amahi either.
+[21:26:26] <Jae> Amahi runs Samba but is for home servers
+[21:26:27] <lowkey> only "cloud" type app I use is Seafile and it just runs on one system but makes resources available to many.
+[21:26:32] <lowkey> ah
+[21:26:42] <Jae> never heard of seafile.  Must Duck It
+[21:27:06] <lowkey> its like OwnCloud
+[21:27:15] <Jae> Seafile reads like Syncthing
+[21:27:27] <Jae> but peer 2 peer 
+[21:27:30] <lowkey> one part of it is like Syncthing
+[21:28:06] <Jae> it's an office solution. similar to Google Docs/Apps, right ?
+[21:28:09] <lowkey> it does do directory syncs.  but the primary use is just for a common offsystem file storage and some wikis
+[21:28:55] <lowkey> similar to some google Apps and the wikis are as close to google docs as it gets
+[21:32:34] <Jae> cool. learned something new. Syncthing does everything i need for now
+[21:33:38] <lowkey> Syncthing did everything I needed for a long time, but when I decided to have a server on 24/7 to sync with...well seafile fit better than syncfile
+[21:34:00] <lowkey> plus Seafile works well for a couple windows users who I share my server with
+[21:35:35] <Jae> Does syncthing not play well with Windows ?
+[21:35:51] <lowkey> not with the users I have to support.
+[21:36:43] <Jae> interseting
+[23:23:42] *** Joins: grape (~grape@CJ-tf3.bbc.216.2.IP)
+[23:24:58] <grape> hi all
+[23:25:00] <grape> hi lowkey 
+[23:25:06] <lowkey> hey grape
+[23:25:15] <lowkey> how was your weekend?
+[23:26:18] <Jae> hi grape
+[23:33:45] <grape> lowkey: ok... apart from the cold I have
+[23:33:57] <grape> so I did not so much yesterday... apart from some laundry..
+[23:34:02] <lowkey> bah.  its spring cold season is over!
+[23:34:06] <lowkey> over I say!
+[23:34:10] <grape> it was a miserable day anyway... at least it felt like that..
+[23:34:13] <grape> ok.. I got the flu
+[23:34:18] <lowkey> ouch
+[23:34:37] <lowkey> we were supposed to get 2ft of snow here today
+[23:34:43] <lowkey> turns out it was more like 6-8 inches
+[23:34:43] <grape> well.. given you declare the cold season is over... it must be the flu
+[23:35:05] <grape> :D
+[23:35:10] <grape> snow? in april?
+[23:35:11] <lowkey> flu is never allowed.  too bad it doesn't follow the rules :_P
+[23:35:14] <grape> hi Jae 
+[23:35:29] <lowkey> its colorado.  
+[23:35:48] <lowkey> you know how hobbits have second breakfast, we have second winter.
+[23:37:18] <lowkey> have you used any Let's Encrypt certificates?
+[23:37:34] <grape> no
+[23:37:37] <Jae> Isn't that the cert Wordpress is pushing to all sites soon ?
+[23:37:39] <grape> what is that?
+[23:37:48] <Jae> OSS SSL ?
+[23:37:57] <lowkey> Jae: I think they might have already done that recently
+[23:38:19] <grape> what is OSS SSL?
+[23:38:20] <Jae> i don't think so. My WP site hasn't seen an update
+[23:38:26] <lowkey> grape: its a service that offers free public verifiable SSL certificates for webservers
+[23:38:28] <Jae> Open Source Software Secure Socket Layer
+[23:38:31] <Jae> for HTTPS
+[23:38:39] <Jae> it was free to create
+[23:38:51] <lowkey> the key here is it is better than self-signed certificates
+[23:38:54] <Jae> a pain to implement with some web providers, though
+[23:38:57] <grape> Jae: open-ssl... I know that one
+[23:39:29] <lowkey> debian has a package (letsencrypt) that runs as a service to do as much of it as it can
+[23:39:44] <lowkey> I'm just curious if anyone is using it yet
+[23:39:48] <grape> nope
+[23:39:57] <Jae> Not until I get the update pushed to my server
+[23:40:14] <grape> the only two or so webservers which use SSL are at work... and here I generate the certificate and get it signed from a CA
+[23:40:25] <grape> work pays for it... so I don't care about the costs
+[23:40:35] <lowkey> ah
+[23:40:43] <lowkey> thats always good.
+[23:40:59] <lowkey> plus you can justify rotating them more often when someone else pays
+[23:42:19] <lowkey> and its good to get publicly signed ones so users don't see the "insecure site" warning for self-signed
+[23:42:35] <grape> true
+[23:43:02] <grape> and I really wish they had installed the tomcat properly.. with apache as a proxy server... rather than directly using tomcat
+[23:44:28] <lowkey> I install nginx recently to proxy for a kibana installation
+[23:44:51] <lowkey> so it has basic user authentication before they see everything thats been logged
+[23:45:08] <grape> ok... I cannot use that at work (from the Wiki page): Only domain-validated certificates are being issued. Organization Validation and Extended Validation Certificates will not be offered.[
+[23:45:29] <grape> I would require an organisation validation... I guess
+[23:45:49] <grape> why not apache?
+[23:46:07] <lowkey> nginz was simple to configure for this purpose
+[23:46:38] <lowkey> plus its optimized to be a reverse proxy
+[23:47:23] <lowkey> not that I really care about that.  the only person hitting this website is me.
+[23:47:58] <grape> ok
+[23:48:29] <lowkey> I mainly was concerned because by default kibana does no authentication
+[23:48:44] <lowkey> or can really
+[23:48:59] <grape> ok
+[23:49:39] <lowkey> it just runs away on 5601
+[23:50:15] <grape> now that is interesting (again, Wiki): The validation processes are run multiple times over separate network paths. Checking DNS entries is provisioned to be done from multiple geographically diverse locations to make DNS spoofing attacks harder to do.
+[23:50:17] <lowkey> so its really just using security by obscurity.  good against anyone who doesn't use a port scanner
+[23:50:41] <grape> now.. as M$ exchange is changing its DNS entry every 5 minutes... they would not be able to use it... I guess
+[23:51:12] <lowkey> it would be hard to.
+[23:51:22] <lowkey> then again if you're MS you can afford to pay for a cert
+[23:54:33] <grape> true
+[23:54:47] <grape> we found out that by chance... as we have problems with our clients
+[23:56:52] <lowkey> doh!
+[23:57:05] <grape> yep
+[23:57:14] <lowkey> I found that out about gmail when i tried to configure a firewall for it
+[23:57:36] <lowkey> it uses like three /16 and two /19 network ranges for IPs
+[23:58:33] <lowkey> on the imap side.  the smtp side only uses one /16 ...at least so far
+[23:59:20] <grape> no IPv6?

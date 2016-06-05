@@ -1,0 +1,165 @@
+[00:24:52] <AcidJell0> papers please
+[00:25:00] <AcidJell0> who the hell would of thought of a game like this
+[00:26:58] <LionsMane> ??
+[00:27:07] <LionsMane> I think I came into this conversation late.
+[00:27:10] <LionsMane> :D
+[00:28:31] <grape> LionsMane: makes two of us
+[00:32:31] <LionsMane> hahahah
+[00:32:32] <LionsMane> ok
+[00:32:43] <LionsMane> Welp, I am off to my MySQL meetup.
+[00:32:51] <grape> sounds like fun?
+[00:32:54] <LionsMane> I am getting some novel learning.  
+[00:33:03] <LionsMane> Yeah,  Oh yeah.  I am a database guy at heart.
+[00:33:05] <grape> novel as in new? or as in Novell?
+[00:36:44] <LionsMane> novel as in new.
+[00:36:57] <LionsMane> MySQL is now an Oracle property.  
+[00:37:35] <grape> oh dear... another one bits the dust...
+[00:37:54] <grape> I alsways thought that MySQL is still independant
+[00:38:00] <grape> is Novell still around?
+[00:41:44] <LionsMane> Meh, sorta.  Not much these days.
+[00:41:57] <grape> ok...
+[00:41:57] <LionsMane> OK, Past time for me to be outta here.
+[00:42:03] <grape> have fun LionsMane !
+[00:42:14] <LionsMane> I want to hear about the new boss.  So very curious I am .
+[00:43:00] *** Quits: LionsMane (~don@tower.lionsmane.org) (Quit: Leaving.)
+[00:49:44] *** Joins: lowkey (~lowkey@CJ-b22.afk.87.192.IP)
+[00:49:54] <lowkey> hi all
+[00:49:58] <grape> hi lowkey 
+[00:49:59] <lowkey> hi grape
+[00:50:04] <grape> you are late.. 
+[00:50:07] <grape> how are you?
+[00:50:19] <lowkey> a little later than normal.
+[00:50:26] <lowkey> just fighting with git today
+[00:50:49] <lowkey> how was your day?
+[00:51:12] <grape> was ok...
+[00:51:43] <grape> I had a meeting with my head of department and my new line manager
+[00:51:49] <grape> but more about that tomorrow... it is late
+[00:52:07] <lowkey> that sounds ....bad.
+[00:52:19] <lowkey> yeah it is late where you are.  
+[00:52:24] <lowkey> get some rest
+[00:53:06] <grape> no... not bad but I am tired
+[00:53:18] <lowkey> well thats good then
+[00:54:47] <grape> yes... I hope I am getting into quieter waters now
+[00:55:21] <lowkey> well I've got my fingers crossed for you
+[00:55:51] <grape> that is very kind of you
+[00:57:15] <lowkey> well one of this days, they'll figure out how much they need you and start finding ways to make it worth your while
+[00:57:34] <lowkey> it probably wont be any more money but maybe less brain-damage.
+[00:58:29] <grape> it is the latter I am after...
+[01:01:11] <lowkey> with any luck it will come
+[01:02:09] <grape> I think I am finally on a different track here...
+[01:02:42] <lowkey> on to more teaching or more cluster work?
+[01:03:35] <grape> on to having a line manager who actually does not yell at you but guides you
+[01:04:20] <lowkey> whoa.  that's a crazy idea.
+[01:04:37] <grape> why?
+[01:05:31] <lowkey> the idea of helping people below you be better at their jobs is wacky insanity.  everyone in the real world knows all it takes is louder yelling.
+[01:05:50] <lowkey> 1. unrealistic expectations
+[01:05:58] <lowkey> 2. yelling
+[01:06:03] <lowkey> 3.  more yelling
+[01:06:14] <lowkey> thats standard management 101
+[01:07:04] <grape> I thought that is standard management 123
+[01:07:09] <grape> ;-)
+[01:07:30] <lowkey> could be.
+[01:09:53] <grape> do you have a good idea why on one of my boxes all 4 nodes fail at the same time with the discs not having power any more?
+[01:10:07] <grape> I changed the backplane... and I changed one of the two PSU
+[01:10:21] <grape> the OS is still up and running.. as ganglia is still working
+[01:10:21] <lowkey> and it still happens?
+[01:10:26] <grape> yes
+[01:10:49] <lowkey> is it just SSH that disappears?
+[01:10:53] <grape> nope
+[01:11:05] <lowkey> the whole network?
+[01:11:16] <grape> the disc disappears... so any service which was not running at the time is no longer responding
+[01:11:24] <lowkey> ok
+[01:11:26] <grape> not network.. disc does not get any power any more
+[01:11:43] <lowkey> ok, I got confused by ganglia.
+[01:11:51] <grape> no worries
+[01:11:54] <lowkey> that seems weird
+[01:12:09] <lowkey> maybe something in the sleep settings?
+[01:12:12] <grape> the point I tried to make is: the OS is still running..
+[01:12:30] <lowkey> are the disks set to go to sleep at any time?  is there an idle timeout?
+[01:12:44] <grape> no.. I did not configure idle... 
+[01:12:55] <lowkey> although it should autorecover from that ....
+[01:12:59] <grape> so the normal Debian standard... what ever that is
+[01:13:30] <grape> I had it once before on a PC... it was running ok.. and suddenly the disc stopped... which meant that Windows hung
+[01:14:07] <lowkey> if it was a driver issue, its weird that its happening on 4 systems at about the same time....
+[01:14:35] <grape> no... power issue
+[01:15:17] <lowkey> is this a modern system with a smart power supply?
+[01:15:35] <grape> yes
+[01:15:54] <grape> I got plenty of these boxes.. and only one plays up
+[01:16:01] <grape> boxes = chassis with 4 nodes
+[01:16:12] <lowkey> weird.
+[01:16:24] <grape> yes
+[01:16:44] <grape> there is only one bit which we did not change which is the connector between the two PSU and the backplane
+[01:16:49] <grape> but all of that is mainly wire
+[01:16:54] <lowkey> can you swap the PSU you haven't changed with another box to see if the problem follows it?
+[01:17:19] <grape> done that today. and yes it happens again
+[01:17:35] <lowkey> so its not likely to be the PSU
+[01:17:59] <grape> yes
+[01:19:16] <lowkey> i cant think of anything right off.  although if it is network managed then I may put a wireshark/tshark node on that segment to listen to what is going by to eliminate any outside factors
+[01:19:42] <grape> not a network problem...
+[01:20:18] <grape> you see:
+[01:20:21] <grape> ssh node39
+[01:20:21] <grape> ssh_exchange_identification: Connection closed by remote host
+[01:20:31] <grape> ssh node40
+[01:20:31] <grape> ssh: connect to host node40 port 22: No route to host
+[01:20:36] <grape> same box, two different nodes
+[01:20:45] <lowkey> and what about just writing a small script to write a small bit of data to the drive every say minute.   
+[01:21:18] <grape> there was a job running on it...
+[01:21:23] <grape> besides.. there are log files
+[01:21:29] <lowkey> that is true.
+[01:22:01] <lowkey> and I assume it gets clean power.... no risk of brown-outs ?
+[01:22:28] <grape> no... two PSU on two different feeds
+[01:22:40] <lowkey> hmmmm
+[01:23:07] <grape> maybe gremlings?
+[01:23:10] <lowkey> and I assume this is a similar OS image to what is running on the other nodes?
+[01:23:42] <lowkey> is this one that gets rsynced?
+[01:24:04] <lowkey> gremlings are sounding more likely.
+[01:24:34] <grape> yes
+[01:24:41] <grape> identical OS
+[01:25:26] <lowkey> this is the problem with running clusters and large numbers of systems.  when you have enough running the odds of hitting some weird problem go up.
+[01:25:44] <grape> tel me something I don't know :D
+[01:25:55] <grape> but equally... you get quite a bit experience from that
+[01:26:23] <lowkey> and they always seem to find a new way to fail to keep you on your toes.
+[01:28:26] <grape> yes
+[01:28:34] <grape> but probably now you see where my time goes
+[01:28:49] <lowkey> the biggest thing I've learned is to worry about clean power.  once that's addressed the problems seem less frequent.
+[01:30:02] <grape> I got a kind of voltage spike controll in the system...
+[01:30:25] <lowkey> I once had a boss who wanted 8 systems plugged into one power strip so he could turn them all on at once by toggling the power strip 
+[01:31:09] <lowkey> the surge of all eight starting at once was enough to cause some to fail and need the three finger salute
+[01:31:52] <grape> well that is stupid
+[01:32:14] <grape> and the more expensive power strips have a staggered turnon
+[01:32:39] <lowkey> yep, but we didnt get those.  they were too expensive.
+[01:32:47] <grape> that is the problem
+[01:32:54] <lowkey> he was special
+[01:34:33] <lowkey> you've replaced the only components that i can think might be causing this...so I'm stumped
+[01:35:28] <grape> same here
+[01:35:55] <lowkey> I got a bug report today for a vim plugin script that i haven't done an update for in 10 yrs
+[01:37:39] <grape> that only shows that your scripts are written very well....
+[01:38:09] <lowkey> or that it took that long to find someone with a similar form of insanity to run it
+[01:39:09] <grape> nah
+[01:39:22] <grape> that is virtually improbable... well written script.. that is what I say
+[01:40:18] <grape> right... bedtime for me...
+[01:40:27] <grape> I should have gone to bed ages ago....
+[01:40:30] <lowkey> I dunno.  I stopped using it because it had issues with the way vim runs script synchronously
+[01:40:53] <lowkey> alright, get some rest!  sleep well grape
+[01:41:13] <grape> thanks lowkey ... and thanks for your sentiments
+[01:41:14] <grape> ttfn
+[01:41:24] <lowkey> g'nite :)
+[01:41:33] <grape> :-)
+[01:41:34] *** Quits: grape (~grape@CJ-bd6.6nj.194.90.IP) (Quit: Verlassend)
+[01:46:59] <lowkey> nite all
+[01:47:02] *** Quits: lowkey (~lowkey@CJ-b22.afk.87.192.IP) (Quit: leaving)
+[15:58:48] *** Quits: AcidJell0 (~andre_000@CJ-51k.kgi.210.207.IP) (Ping timeout: 121 seconds)
+[16:18:30] *** Joins: AcidJell0 (~andre_000@CJ-51k.kgi.210.207.IP)
+[16:39:49] *** Quits: AcidJell0 (~andre_000@CJ-51k.kgi.210.207.IP) (Ping timeout: 121 seconds)
+[16:48:54] *** Joins: AcidJell0 (~andre_000@CJ-51k.kgi.210.207.IP)
+[17:24:04] *** Joins: andre_000_ (~andre_000@CJ-51k.kgi.210.207.IP)
+[17:24:22] *** Quits: AcidJell0 (~andre_000@CJ-51k.kgi.210.207.IP) (Ping timeout: 121 seconds)
+[17:27:44] <andre_000_> gaah
+[17:27:50] <andre_000_> damn monkeys f*ing with the internet
+[18:28:49] *** Joins: chalcedony (~llhull@CJ-f7i.cvs.152.72.IP)
+[18:29:09] *** Quits: chalcedny (~llhull@CJ-f7i.cvs.152.72.IP) (Ping timeout: 121 seconds)
+[18:42:12] *** andre_000_ is now known as AcidJello
+[20:53:01] *** Quits: AcidJello (~andre_000@CJ-51k.kgi.210.207.IP) (Ping timeout: 121 seconds)
+[20:53:38] *** Joins: AcidJell0 (~andre_000@CJ-51k.kgi.210.207.IP)
+[23:20:47] *** Joins: grape (~grape@CJ-qu2.d9f.204.90.IP)
+[23:21:40] <grape> hi all

@@ -1,0 +1,147 @@
+[00:42:10] *** Quits: lowkey (~lowkey@CJ-41t.60m.123.37.IP) (Quit: leaving)
+[19:53:40] *** Joins: lowkey (~lowkey@CJ-3ig.3bl.165.46.IP)
+[19:53:50] <lowkey> boing
+[20:44:43] *** Quits: lowkey (~lowkey@CJ-3ig.3bl.165.46.IP) (Ping timeout: 121 seconds)
+[21:07:51] *** Joins: lowkey (~lowkey@CJ-ddg.p02.234.89.IP)
+[21:41:21] <lowkey> boing^2
+[21:53:26] *** Joins: grape (~grape@CJ-jqh.db3.189.46.IP)
+[21:53:33] <grape> hi all
+[21:53:35] <grape> hi lowkey 
+[22:01:15] <lowkey> hey grape
+[22:01:28] <lowkey> I got my new gig switch and wifi ap in!
+[22:01:40] <lowkey> about 90% installed too!
+[22:01:52] <grape> sounds good!¬
+[22:02:17] <lowkey> so how was your weekend?
+[22:02:21] <grape> good... but I noticed I am old.... 
+[22:02:36] <lowkey> lol, i hate when that happens
+[22:02:43] <grape> I only can be 1h and 30 mins on the dance floor these days....
+[22:02:45] <grape> :D
+[22:02:58] <grape> I am in Graz... I think I mentioned it
+[22:03:36] <lowkey> wow thats still a good long time.  I doubt I can groove for that long
+[22:03:58] <grape> give me good music.....
+[22:04:35] <lowkey> that still keeps me in the corner  :-P
+[22:04:41] <grape> really?
+[22:05:59] <lowkey> never been a big dancer.  born with two left feet and no coordination.
+[22:06:23] <lowkey> add to that a brain injury and I'm pretty sure there are laws against me dancing
+[22:07:37] <grape> ok.... the brain thing I can see.... I have to watch out for my vertigo... no good when you move around and you loose balance...
+[22:08:57] <grape> but I draw some attention... me in my leopard top :D
+[22:09:07] <lowkey> i loose my balance just trying to stand still some days.  
+[22:09:26] <lowkey> LOL
+[22:09:26] <grape> it is a red one
+[22:09:52] <lowkey> that will draw attention
+[22:10:06] <grape> it does.... 
+[22:10:39] <grape> thing is... as I am there only once a year... I can let off some steam (in a nice way) as I am off the day after... or so
+[22:11:02] <lowkey> thats always good.
+[22:11:18] <grape> yep
+[22:11:22] <grape> good fun...
+[22:11:38] <lowkey> its what I say whenever I go some place I can do some scuba.  I want to spend so much time in the water that I'm dead the next day
+[22:11:43] <grape> but after 3h I decided to go... the music got a bit too loud for me
+[22:12:11] <grape> well... why not?
+[22:12:17] <lowkey> that maybe the biggest change for me since the head injury.  I tend not to like music as loud as I used to
+[22:12:31] <grape> I have to mention that I was up the whole day... and I done quite some walking too
+[22:12:41] <lowkey> nice.
+[22:13:02] <lowkey> I bet there's good food there too.  plenty of places for a quick snack & a beer
+[22:13:44] <grape> not on a sunday... that is still the same
+[22:14:14] <lowkey> bah.  I'm so over "blue" laws.  
+[22:15:40] <grape> blue laws?
+[22:15:57] <lowkey> no alcohol sales on sunday, etc.
+[22:16:18] <grape> that is the odd thing here: one pub is open, the other one not
+[22:16:39] <lowkey> pubs & bars can be open here.  just no liquor stores.
+[22:16:57] <lowkey> although that has been changed in a lot of communities.
+[22:17:48] <lowkey> so its getting to be more common to be able to buy beer before a football game on sunday  (you used to have to plan ahead and buy on saturday...oh the trauma!)
+[22:20:12] <grape> ok
+[22:20:21] <grape> you can get booze here in the pubs...
+[22:20:51] <grape> and the supermarkets are open at the weekend as well.. though I don't remember on the top of my head about booze sale
+[22:22:23] <lowkey> supermarkets here can only sell 3.2% beer (or less) but they want to get a vote to change that so they can sell full strength beer
+[22:22:59] <lowkey> but they can sell 3.2% on Sunday so in a pinch you can get something that at least tastes like beer
+[22:24:17] <lowkey> bah, this WIFI ap only gave me 4 of the 6 screws that mounting it all the wall requires....
+[22:26:04] <grape> 6 screws? is it that heavy?
+[22:26:18] <grape> I have ordered my dual gigabit PC on Thursday
+[22:26:30] <lowkey> no.  its 4 for the AP and 2 for the POE injector
+[22:26:44] <lowkey> mostly its overkill
+[22:27:18] <lowkey> nice.  I ordered a small dual gigabit PC that should be here on Friday (to build a new firewall)
+[22:27:23] <grape> ok
+[22:28:10] <grape> same one you recommended to me?
+[22:28:37] <lowkey> PC?  not sure.  I got a small Zotac CI321
+[22:29:08] <lowkey> i dont recall what I recommended...
+[22:29:50] <grape> tinyPC...
+[22:29:51] <lowkey> I just wanted something small I could mount on the wall 
+[22:30:06] <grape> ok
+[22:31:12] <lowkey> plus I had trouble finding dual gigabit in a small form factor.  then this model got good reviews of people using it with both BSD & smoothwall (linux) firewalls
+[22:31:38] <grape> http://www.tinygreenpc.com/utilite-standard-8gb.html
+[22:31:56] <grape> that is the one you recommended
+[22:32:24] <lowkey> yeah I remember that one now.  
+[22:32:35] <lowkey> it gets good reviews too.
+[22:33:11] <lowkey> so you ordered one?
+[22:33:31] <grape> yes... after it took ages to get it into our finance system
+[22:34:22] <lowkey> isn't that always the case.
+[22:35:07] <lowkey> the zotac i found takes up to 16GB of ram and it has a sata interface.  so I can go as big as I need to for storage
+[22:35:32] <grape> ok.... I don't need that
+[22:35:37] <grape> storage that is...
+[22:35:46] <lowkey> it only comes with 2GB of ram (but I have a spare 2GB stick here already) and it has a 32GB sata to start
+[22:36:35] <grape> ok
+[22:36:56] <lowkey> should be enough for a firewall.  at least I hope it is....
+[22:37:22] <lowkey> it only has a dual core celeron processor (1.1Ghz) so we'll find out
+[22:38:07] <grape> yours or mine?
+[22:38:16] <lowkey> mine.
+[22:38:24] <grape> ok
+[22:38:45] <lowkey> yours is 1GHZ too but ARM
+[22:39:34] <grape> which should be fine for a fire wall
+[22:40:17] <lowkey> kinda shocking that I know wonder if dual core 1Ghz is enough when it wasn't so long ago that a 120Mhz single CPU was killer
+[22:40:48] <lowkey> err s/know/now/
+[22:41:59] <grape> yes
+[22:43:42] <lowkey> its crazy, I was wondering if 32GB was a big enough drive for what I wanted to do when it came to me that I used to build firewalls with a 1GB hard drive....
+[22:44:03] <lowkey> I have become jaded by the sizes and speeds available.
+[22:44:10] <lowkey> I always want faster
+[22:44:15] <lowkey> and bigger
+[22:44:21] <lowkey> even when I dont need it
+[22:46:46] <grape> I try to balance that... my file server is an atom and is running from a 16 GB USB thumb drive
+[22:47:59] <lowkey> I'm starting to.  thats why I used the NUC for my last system and the zotac for this one.
+[22:48:13] <lowkey> I still want big drives though...
+[22:49:35] <lowkey> plus drives are getting so cheap
+[22:49:58] <lowkey> we just had to replace a 1TB in a RAID, the new drive was $60
+[22:50:17] <lowkey> for a terabyte.  that size used to scare me.
+[22:50:36] <grape> I think I paid around 100 EUR at the time for the 1 TB... but that was back in 2007 or so
+[22:51:09] <lowkey> this was one optimized for a NAS so it had a small premium.  but still that seemed cheap
+[22:51:53] <grape> I am always wondering what the diffence is between a red and black WD drive
+[22:52:37] <lowkey> black is optimized for desktop use (fast response), red's are optimized for NAS or server storage, work really well in RAIDs
+[22:52:59] <grape> yes... I know that... 
+[22:53:00] <lowkey> greens are also good for NAS from a power consumption standpoint
+[22:53:09] <grape> but I thought the blue are for desktop and black for enterprise..
+[22:53:26] <grape> I got green ones in the NAS I got at work
+[22:53:32] <lowkey> blue & black for desktop.   blacks are more common in enterprise.
+[22:53:34] <grape> what I was after is: what is really the difference
+[22:53:54] <lowkey> big cache, slightly faster response.
+[22:54:14] <grape> ok
+[22:54:48] <lowkey> plus reds, & greens are tested to be left running 24/7
+[22:55:40] <lowkey> and if you get purples then you get much of the advantages of reds & blacks for security cameras etc.
+[22:56:29] <lowkey> but myself, if I really need speed then I go to SSD.  moving platters just can't keep up
+[22:56:40] <grape> here I am not sure why you need a special one for security cams... 
+[22:56:48] <grape> different read/write pattern?
+[22:56:56] <grape> true
+[22:57:01] <lowkey> faster write speeds.  to be sure all data is written
+[22:57:37] <grape> ok
+[22:58:09] <lowkey> but as I recall purples are expensive compared to reds or blacks
+[22:58:38] <grape> could be true... I cannot remember the price...
+[22:58:41] <grape> right.. I am off... 
+[22:58:48] <grape> nice chatting to you again...
+[22:59:08] <lowkey> ok, good talking to you too.
+[22:59:15] <grape> have a nice day!
+[22:59:18] <lowkey> I need to go experiment with this AP!
+[22:59:24] <lowkey> wish me luck
+[22:59:30] <lowkey> :-)
+[22:59:36] <grape> good luck!
+[22:59:50] <lowkey> enjoy Austria!
+[23:00:01] <grape> I will
+[23:00:08] <grape> I will fly back on Tuesday
+[23:00:30] <lowkey> nice.  plenty of time to find good food.  :-)
+[23:01:54] <grape> well.. only tomorrow.. I fly in the morning
+[23:01:57] <grape> 10:40
+[23:02:10] <grape> I am off
+[23:02:11] <grape> ttfn
+[23:02:12] <lowkey> well, better plan well then!
+[23:02:17] <lowkey> g'nite!
+[23:02:17] <grape> lol
+[23:02:20] <grape> ttfn
+[23:02:25] *** Quits: grape (~grape@CJ-jqh.db3.189.46.IP) (Quit: Verlassend)
+[23:31:18] *** Quits: lowkey (~lowkey@CJ-ddg.p02.234.89.IP) (Quit: leaving)

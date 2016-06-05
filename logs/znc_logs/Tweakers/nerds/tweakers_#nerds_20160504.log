@@ -1,0 +1,783 @@
+[00:31:40] *** Quits: Guyver2 (Guyver2@2001:985:f3f:1:800:4c1f:aa57:1471) (Exit)
+[00:55:26] *** Quits: SCHAPiE (dorian@dhcp-077-249-247-124.chello.nl) (Exit)
+[01:05:38] *** Quits: koolaid (koolaid@ip-213-127-118-32.ip.prioritytelecom.net) (Client exited)
+[01:54:31] <rawplayer> hoi
+[02:48:17] *** Quits: klaveRCX (michiel@klaver.it) (Ping timeout: 60 seconds)
+[02:49:08] *** Joins: klaveRCX (michiel@klaver.it)
+[03:20:21] *** Quits: silverstorm (silverstor@5ED4168A.cm-7-5a.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[06:44:45] <Fermata> Mogge
+[06:46:12] <the_Ye-Ti> ha Fermata 
+[07:12:44] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Ping timeout: 66 seconds)
+[07:31:27] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[07:39:44] <wirky> sup nirds
+[07:57:49] <arvid> ARBEIT
+[08:05:00] <Fermata> Mscht frei!
+[08:12:40] <wirky> arbeid matched freiheit
+[08:22:47] * Escovan is veranderingen op internet aan het bijhouden
+[08:23:05] * Fermata geeft Escovan changelogs.
+[08:24:48] <Escovan> Vanochtend om 5 uur schijnt 1 van mijn virtuele servers plat te zijn geweest, maar tegen de tijd dat ik wakker was, deed ie het gewoon. Raer.
+[08:35:18] <Escovan> mweh zal wel 1x een pakketje gedropt zijn, server is verder niet down geweest, load is Rustag
+[08:37:43] <pompoensoep103> mensen
+[08:38:05] <Fermata> 103!
+[08:38:06] <Fermata> LUL!
+[08:38:07] <Fermata> Koffie?
+[08:38:12] <pompoensoep103> immer
+[08:38:14] * Fermata paast de 103 een bak pleuah
+[08:38:38] <pompoensoep103> 0.5 L zelfgemixte melange van versgemalen colombiaanse en keniaanse koffiebonen
+[08:39:10] <pompoensoep103> s.v.p.
+[08:40:06] <Fermata> Ja heb ik je toch net voorgeschoteld.
+[08:42:10] *** Joins: WvdL (uid21241@id-21241.ealing.irccloud.com)
+[08:48:22] <pompoensoep103> WvdL!
+[08:48:23] <pompoensoep103> lulhoofd
+[08:48:34] <WvdL> 103!
+[08:48:36] <WvdL> geile beer
+[08:53:32] *** Joins: grid (grid@dhcp-089-099-194-232.chello.nl)
+[09:01:58] <the_Ye-Ti> WvdL: may the fourth!
+[09:02:05] <bReChThOu> lol
+[09:02:06] <bReChThOu> yeti o/
+[09:02:08] <bReChThOu> en anderen o/
+[09:02:49] <WvdL> oi bReChThOu 
+[09:04:22] <WvdL> the_Ye-Ti: sasquatch!
+[09:17:22] <syf_> o/ mogguh
+[09:22:50] <mimic> moge
+[09:23:34] <bReChThOu> mogge mimic
+[09:24:56] *** Joins: Guyver2 (Guyver2@guyver2.xs4all.nl)
+[09:29:26] <SJ> mogge
+[09:30:11] *** Quits: toko (toko@2a02:348:71:6320:0:0:0:1) (Exit)
+[09:30:15] *** Joins: toko (toko@2a02:348:71:6320:0:0:0:1)
+[09:34:00] *** Joins: silverstorm (silverstor@5ED4168A.cm-7-5a.dynamic.ziggo.nl)
+[09:34:34] *** Quits: grid (grid@dhcp-089-099-194-232.chello.nl) (Ping timeout: 66 seconds)
+[09:57:50] *** Quits: Guyver2 (Guyver2@guyver2.xs4all.nl) (Exit)
+[10:02:58] <syf_> woop woop
+[10:49:43] <pompoensoep103> rawplayer: het droogt op! MOAR pls
+[10:49:54] <rawplayer> !rosbief++
+[10:49:56] <digiweed> rawplayer: Karma for rosbief is now: 24
+[10:50:53] <pompoensoep103> de hoogtijdagen zijn voorbij: http://cheesylinkedin.tumblr.com/archive
+[10:50:56] <digiweed> Title: Cheesy Linkedin: Archive (at cheesylinkedin.tumblr.com)
+[10:51:18] <rawplayer> kheb niet veel
+[10:51:20] <rawplayer> meer
+[10:51:20] <rawplayer> 0
+[10:51:53] *** Joins: koolaid (koolaid@2a02:a212:280:1c00:5de0:d449:6aa7:8f64)
+[10:51:58] <pompoensoep103> ik denk dat ze er op filteren
+[10:52:08] <pompoensoep103> koolaid
+[10:52:17] <koolaid> \o
+[10:52:25] <koolaid> limb hoeft die tickets toch niet
+[10:52:36] <pompoensoep103> ah
+[10:52:43] <pompoensoep103> jij hebben?
+[10:52:46] <pompoensoep103> jij en ik
+[10:52:48] <pompoensoep103> trekkertrek
+[10:52:51] <rawplayer> trekkertrek
+[10:52:55] <rawplayer> misschien iets voor mf
+[10:52:56] <rawplayer> das wel een boe
+[10:52:57] <rawplayer> r
+[10:53:33] <pompoensoep103> !seen metalfrost
+[10:53:35] <digiweed> pompoensoep103: metalfrost was last seen in #nerds 1d 10h 18m 11s ago: <Metalfrost> nn
+[10:59:07] <WvdL> http://67.media.tumblr.com/41ee05b283682bb32636db4ec3395e96/tumblr_o6k64yuRyB1uwpt65o1_400.jpg   <-- geldt ook voor typverhaspelingen :+
+[10:59:44] <pompoensoep103> http://cheesylinkedin.tumblr.com/ <-- meer wijsheden van de kouwe grond
+[10:59:46] <digiweed> Title: Cheesy Linkedin (at cheesylinkedin.tumblr.com)
+[11:00:05] <Fermata> WvdL: jaaaaa of niet.
+[11:00:20] <WvdL> of wel Fermata 
+[11:00:21] <WvdL> of wel
+[11:00:54] <bReChThOu> is die soep nu nog niet op 103 ?
+[11:00:58] <pompoensoep103> al 3 dagen
+[11:01:02] *** pompoensoep103 is now known as ei103
+[11:01:05] <ei103> goed dat ge 't zegt
+[11:08:54] *** Joins: Paranoid (Mibbit@mail.venture-group.nl)
+[12:04:25] <Boots> We konden uw DHL EXPRESS - nr - van IHERB vandaag niet afleveren. Pas uw aflevering aan op - url - 
+[12:04:27] <Boots> :')
+[12:04:34] <Boots> Ze zouden pas vanavond komen
+[12:05:21] <ei103> goed dat ge 't zegt bReChThOu 
+[12:05:23] *** ei103 is now known as bier103
+[12:06:09] <bReChThOu> :D
+[12:06:11] <bReChThOu> hf
+[12:06:35] <bier103> wat een leven
+[12:06:40] <bier103> maar allez
+[12:06:42] <bier103> het is > 12 uur
+[12:10:31] <Fermata> Proost, 103
+[12:17:07] <bier103> dank u
+[12:17:12] <bier103> deur open
+[12:17:14] <bier103> verwarming aan
+[12:17:16] <bier103> bier in de hand
+[12:17:19] <bier103> pik in de andere
+[12:19:25] <Fermata> En iemand die het voorraadbeheer doet?
+[12:20:10] <bier103> ikzelf gisteren
+[12:20:10] <bier103> goed ingeslagen
+[12:25:25] <Fermata> Kiek.
+[12:26:01] <bier103> niet helemaal tevreden door
+[12:26:12] <bier103> donker kloosterbier van de lidl
+[12:26:16] <bReChThOu> oh sorry rawplayer103
+[12:26:18] <bier103> het zag er veelbelovend uit
+[12:26:24] <bier103> het is niet viesch ofzo
+[12:26:29] <Fermata> Het valt tegen?
+[12:26:38] <bier103> of
+[12:26:42] <rawplayer> bReChThOu: ?
+[12:26:49] <bReChThOu> hoi
+[12:26:53] <bier103> prijs/kwaliteit is prima (met name door de prijs)
+[12:26:55] <rawplayer> wat is er
+[12:27:03] <bReChThOu> niks
+[12:27:37] <Fermata> https://sneakerdistrict.nl/shop/nike/air-odyssey-dark-obsedian -- zal ik? 
+[12:27:41] <digiweed> Title: Nike Air Odyssey Dark Obsedian - 652989-104 (at sneakerdistrict.nl)
+[12:27:42] <bier103> jawel, er is iets </rawplayer>
+[12:27:47] <bier103> ik voel het </rawplayer>
+[12:27:49] *** Parts: Paranoid (Mibbit@mail.venture-group.nl) ()
+[12:28:02] <rawplayer> pursies
+[12:28:36] <bReChThOu> Fermata: DO IT FAGGOT
+[12:29:16] <WvdL> dat is je pakektje van gisteren, Boots ?
+[12:29:31] <Fermata> bReChThOu: :D
+[12:29:33] <Fermata> Ja maar
+[12:29:36] <Fermata> Ook in die kleuren?
+[12:30:00] <bReChThOu> yes
+[12:30:09] <WvdL> donkerder imo
+[12:30:13] <rawplayer> !koffie++
+[12:30:14] <WvdL> zo donker als jouw ziel
+[12:30:15] <digiweed> rawplayer: Karma for koffie is now: 1791
+[12:30:31] <Fermata> https://sneakerdistrict.nl/shop/nike/air-odyssey-prm-obsidianobsidian-white -- dan wordt het dit
+[12:30:34] <digiweed> Title: Nike Air Odyssey PRM Obsidian/Obsidian-White - 806252-401 (at sneakerdistrict.nl)
+[12:30:55] <WvdL> ze zijn beide lelijl.. dus beoeiend
+[12:30:55] <WvdL> :D
+[12:31:09] <bier103> zo kom jij toch ook aan je vriendin?
+[12:31:17] <bier103> beide lel... oh w8
+[12:31:18] <Fermata> WvdL: tuttuttut
+[12:31:18] <bier103> ja
+[12:31:30] <Fermata> bier103: hij snapt mij niet
+[12:31:42] <bier103> ik ook niet
+[12:31:46] <Fermata> Kekke Mascolori's zijn gewoon niet voor iedereen.
+[12:31:48] <bier103> maar ik zeg: kopen
+[12:32:14] <bReChThOu> die vorige url
+[12:32:15] <bReChThOu> niet  die laatste
+[12:33:47] <SJ> pfft
+[12:33:48] <SJ> schoenen 
+[12:34:03] * SJ mekkert nog wat en kauwt op Fermata's sneakers 
+[12:34:23] <Fermata> Zeg, zeg.
+[12:34:34] <Fermata> bReChThOu: de lichtere he?
+[12:34:43] <bReChThOu> ja
+[12:34:46] <rawplayer> mmm sneakers
+[12:34:51] <Fermata> rawplayer \o/
+[12:34:52] <bReChThOu> (inb4 ok dan worden het de donkere)
+[12:34:52] <rawplayer> je hond op laten kauwen
+[12:34:55] <rawplayer> Fermata: o/
+[12:35:05] <Fermata> bReChThOu: neuh, dan hooguit allebei
+[12:35:09] <bReChThOu> :')
+[12:35:11] <Fermata> Ik vind beide kleurstellingen wel iets hebben :p
+[12:35:25] <bReChThOu> krijg je geen 11de paar gratis als je er 10 bestelt ?
+[12:35:31] <bReChThOu> of hoeveel je er oo kal hebt inmiddels
+[12:35:36] <bReChThOu> heeft Nike geen loyalty programma
+[12:35:42] <rawplayer> jawel
+[12:35:47] <rawplayer> goedkope schoentjes
+[12:35:51] <rawplayer> gemaakt in bangladesh
+[12:35:51] <bier103> rawplayer weet dat
+[12:36:03] <bReChThOu> kinderhandjes leveren goed werk
+[12:36:05] <rawplayer> bReChThOu: wat weet ik?
+[12:36:09] <bReChThOu> ??
+[12:36:09] <rawplayer> bier103: wat weet ik?
+[12:36:10] <bReChThOu> NIKS
+[12:36:12] <bReChThOu> o
+[12:36:15] <bier103> dingen
+[12:36:21] <rawplayer> ah ja
+[12:36:21] <rawplayer> dingen
+[12:36:31] <Fermata> bReChThOu: met het nieuwe paar erbij dan 22.
+[12:36:39] <bReChThOu> w t f .
+[12:36:54] <Fermata> :>
+[12:36:54] <bReChThOu> wat kost zo'n gemiddeld paar ?
+[12:37:12] <bier103> dat geld ben je zoweer vergeten
+[12:37:15] <bReChThOu> wat kost zo'n paar gemiddeld?*
+[12:37:16] <Fermata> Heel gemiddeld 110 euro.
+[12:37:29] <Fermata> Met flinke uitschieters beide kanten op (joh)
+[12:37:39] <bReChThOu> :+
+[12:37:48] <bReChThOu> ach ja
+[12:37:53] <WvdL> je bent op werkbezoek @ bangladesh geweesT?
+[12:38:00] <WvdL> voor de goedkopere modellen ;+
+[12:38:03] <Fermata> Duurste paar dat ik heb, draag ik nu.  195 euro.  
+[12:38:08] <Fermata> Doe ik ook niet elke maand, zoiets he
+[12:38:22] <Fermata> Kommaplaatsing, ftw!
+[12:38:52] <WvdL> mijn zolen zijn doorgesleten..
+[12:38:59] <WvdL> maar heb nog geen zin om neiwuen te kopen :(
+[12:39:05] <WvdL> !schoenen kopen--
+[12:39:07] <digiweed> WvdL: Karma for schoenen kopen is now: -1
+[12:39:08] <mimic> ok, sommige klanten zijn baas
+[12:39:13] <mimic> stuur om 11.04 een factuur
+[12:39:19] <rawplayer> je gaat naar de van lier winkel
+[12:39:21] <rawplayer> kijkt even rond
+[12:39:23] <mimic> om 12.31 voldaan
+[12:39:24] <rawplayer> pakt maat 42
+[12:39:27] <rawplayer> betaald en bent weer pleite
+[12:39:34] <rawplayer> simpel hoor :P
+[12:39:40] <WvdL> specifiek naar de van lier winkel?
+[12:39:47] <rawplayer> ja
+[12:39:55] <Fermata> haha, maat 42.
+[12:39:58] <Fermata> :(
+[12:41:42] <WvdL> https://www.vanlier.nl/collectie/collectie/herenschoenen/kleur/blauw/maat/10/materiaalzool/lederen-zool/model/lage-veterschoen/seizoen/zomer-2016/materiaalboven/suede-schoenen/pasvorm/standaard-pasvorm/itemcode/3032-0000048-10
+[12:41:47] <digiweed> Title: 3032 Lage Veterschoen (at www.vanlier.nl)
+[12:41:52] <WvdL> is niet geheel verkeerd nee :]
+[12:42:07] <WvdL> ben dat bruine/zwarte/te donker blauw beetje zat
+[12:42:14] <WvdL> wil eiglijk iets met helder rood :9
+[12:42:49] <rawplayer> :9
+[12:43:02] <Fermata> https://sneakerdistrict.nl/shop/nike/air-max-90-ultra-essential-infrared-white-coolgrey -- zoek niet verder
+[12:43:05] <digiweed> Title: Nike Air Max 90 Ultra Essential OG Infrared White/ CoolGrey - 819474-106 (at sneakerdistrict.nl)
+[12:43:46] <WvdL> gewoong een nikes.. Fermata 
+[12:43:49] <WvdL> gewoon niet doen
+[12:43:49] <Fermata> :D
+[12:43:51] <WvdL> :[
+[12:44:29] <Fermata> Dan een mooi paar New Balances?
+[12:45:05] <bReChThOu> :///
+[12:45:37] <WvdL> Fermata, stop eens met die gympies 
+[12:45:41] <WvdL> :*
+[12:45:57] <Fermata> Ik heb ook keurige schoenen hoor, voor onder het maatpak.
+[12:50:30] <WvdL> ikheb alleen maar maatpakkleding
+[12:50:49] <WvdL> dus dan zijn sneakers al redelijk uitgesloten :D
+[12:51:03] <Fermata> Volgens de geldende sociale standaarden ja
+[12:51:33] <WvdL> ik doe al rebels door soms een knalgele minion shirt boven de pantalon aan te doen
+[12:51:45] <Fermata> Jij monster
+[12:52:03] <WvdL> precies!
+[12:52:09] <rawplayer> pursies
+[12:52:10] <WvdL> dus kan niet té rebels doen
+[12:52:23] <WvdL> pursies?  of pussies
+[12:52:33] <Fermata> Ik mag op het werk verschijnen in sweatpants en sneakers.  
+[12:52:36] <Fermata> Da's ook wel fijn
+[12:52:50] <bReChThOu> zie ik wel vaker bij de bediening @ macdo ja
+[12:52:58] <rawplayer> mgigghgi
+[12:53:07] <WvdL> !bReChThOu++
+[12:53:07] <WvdL> :D
+[12:53:10] <digiweed> WvdL: Karma for bReChThOu is now: 429
+[12:53:14] <Fermata> Kutbrecht :D
+[12:54:58] <bReChThOu> <3
+[12:58:59] <WvdL> is er hier een (bash) scripter aanwezig btw? :+
+[12:59:13] <WvdL> SJ vast wel
+[12:59:13] <bier103> surrounder
+[12:59:22] <WvdL> mjah, surrounder is op vakantie
+[12:59:36] <bier103> je stelt stomme vragen trouwens
+[12:59:44] <WvdL> toen ik er mee aan het kuttenw as gisteravond.. dacht ik ook.. surrounder moet ik hebben :D
+[12:59:54] <bier103> je kan beter doen: "hoe doe ik $x in $y?"
+[13:00:04] <WvdL> dat is mijn volgende stap
+[13:00:09] <bier103> ja das dus dom
+[13:00:18] <bier103> want zo leg je de lat hoog
+[13:00:28] <rawplayer> STEL JE VRAAG
+[13:00:31] <WvdL> Hoe doe ik elke 4 sec een ping naar 2 hosts en dat dan loggen
+[13:00:49] <bier103> while ; ping $host > blaa; sleep2; end ofzo
+[13:00:53] <bier103> figure it out ;)
+[13:01:20] <WvdL> dat laatste lukt niet echt..
+[13:01:20] <bier103> gelul natuurlijk :(
+[13:01:24] <rawplayer> ping -w 4 <host> > ping.output
+[13:01:27] <bier103> dat
+[13:01:32] <bier103> en dan '&' voor ze background
+[13:01:40] <WvdL> want wil er ook nog een timestamp  bij :(
+[13:01:43] <bier103> kan je er 2 tegelijk doen
+[13:01:43] <WvdL> ping -c 1 -t 1 ${IP_ADDRESS} date >> ${IP_ADDRESS}.log 2>&1
+[13:01:50] <bier103> met je xy-problemen
+[13:01:54] <WvdL> is wat ik nu heb
+[13:01:55] <bier103> omg
+[13:02:04] <bier103> ik zou wat awk en sed in the mix gooien
+[13:02:07] <rawplayer> ja joh
+[13:02:11] <justaguy> Viezeeeee shelllscripts
+[13:02:12] <the_Ye-Ti> zei er iemand scripten?
+[13:02:19] <WvdL> ja dat is dus mijn issue..
+[13:02:24] <the_Ye-Ti> !cli--
+[13:02:28] <digiweed> the_Ye-Ti: Karma for cli is now: -16
+[13:02:29] <WvdL> op intrnet zie je dan gelijk de meest vage scripts vorobij komen
+[13:02:31] * rawplayer heeft windows 7
+[13:02:33] <rawplayer> \o/
+[13:02:38] <WvdL> voor wat volgens mij best simpel kan zijn
+[13:02:47] <bier103> als het zo simpel is, waarom heb je het dan nog niet gefixT?
+[13:02:56] <the_Ye-Ti> rawplayer: welkom in 2009
+[13:03:02] <WvdL> 0,0 verstand van scripten/bash
+[13:03:17] <WvdL> en door de bomen van 9optionele) opties het bos niet zien
+[13:03:17] <bier103> misschien moet je het dan niet in bash doen
+[13:03:37] <rawplayer> ja joh
+[13:03:39] <WvdL> wil het vanaf mijn raspberry doen.
+[13:03:39] <rawplayer> tis puur om te klooien
+[13:03:41] <rawplayer> met malware
+[13:03:47] <rawplayer> iig met licentie
+[13:03:48] <rawplayer> er bij
+[13:03:49] <rawplayer> O+
+[13:04:06] <justaguy> ida pro licentie?
+[13:04:12] <justaguy> Rijke tata rawplayer
+[13:04:33] <the_Ye-Ti> hij leent de licentie van snow gok ik
+[13:05:05] <justaguy> ik heb gewoon een cuckoo met alles der op en der aan :3
+[13:06:15] <the_Ye-Ti> waar heb je dat voor nodig?
+[13:06:28] <bier103> je begrijpt het niet the_Ye-Ti 
+[13:06:30] <bier103> voor de heb
+[13:06:39] <the_Ye-Ti> verzamelwoede?
+[13:06:48] <bier103> wat moet justin bieber met een range rover, een land rover en een lambo?
+[13:07:00] <the_Ye-Ti> oeh een mopje
+[13:07:30] <justaguy> the_Ye-Ti: Automatiseren van spamtraps ;)
+[13:07:42] <justaguy> meteen alles cuckoo inmikken
+[13:08:08] <the_Ye-Ti> bier103: vertel!
+[13:08:12] <bier103> WAT
+[13:08:51] <the_Ye-Ti> zit je op t terras?
+[13:09:12] <bier103> als je die verzameling tegels hier zo wilt noemen
+[13:09:12] <bier103> dan ja
+[13:09:40] <the_Ye-Ti> ah vandaar
+[13:11:25] <bier103> vandaar WAT?
+[13:14:00] <SOFIE> bier103: schreeuw niet
+[13:14:57] <bier103> ik schreeuw niet
+[13:15:07] <bier103> ik emfaseer
+[13:15:35] <Fermata> Ik heb toch twee uur pauze nu
+[13:15:42] <Fermata> Op naar Nike aan de Kalverstraat
+[13:17:41] <Aim> mogguh
+[13:19:39] <rawplayer> sup aim
+[13:19:58] <bReChThOu> :')
+[13:19:58] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Exit)
+[13:20:04] <bReChThOu> ey Aim
+[13:22:51] <Aim> hey rawplayer o/
+[13:22:54] <Aim> bReChThOu :3 
+[13:22:59] <Aim> hoest hier? 
+[13:23:13] <bReChThOu> aftellen
+[13:23:14] <bReChThOu> :+
+[13:23:34] <SJ> je zal vanavond toch een etentje hebben op een dakterras 
+[13:23:34] <Aim> oja :D
+[13:23:41] <Aim> jij hebt straks lekker vakantie he :D
+[13:23:42] <SJ> !kutleven--
+[13:23:45] <digiweed> SJ: Karma for kutleven is now: -1
+[13:25:47] <SOFIE> 80 uur per week werken jwz
+[13:29:36] <bReChThOu> haha, nee
+[13:30:11] <Aim> bReChThOu: oh? 
+[13:30:39] <Aim> berks upload --no-freeze 
+[13:30:51] <Aim> hmpf
+[13:33:45] <syf_> berks?
+[13:34:06] <syf_> ga je je kekke kickz ophalen Fermata ?
+[13:34:10] <appy> mogguh
+[13:34:11] <syf_> OG NIKE INFRARED
+[13:34:13] <syf_> mogguh
+[13:35:48] <Dubbeldrank> appy!
+[13:35:50] <Dubbeldrank> appy!
+[13:35:52] <Dubbeldrank> appy!
+[13:35:58] <appy> dat ben ik
+[13:36:06] <Dubbeldrank> hoi \o/
+[13:36:22] <appy> hoi \o/
+[13:37:05] <mimic> appy!
+[13:37:16] <rawplayer> hoi \o/
+[13:37:30] <mimic> he bah, wie heeft rawplayer nou weer binnen gelaten
+[13:38:28] *** Joins: grid (grid@dhcp-089-099-194-232.chello.nl)
+[13:44:43] <syf_> appy wat zijn jouw favo nike's?
+[13:45:25] <appy> die die nooit gemaakt zijn, niet verkocht worden, en niemand voor exploited is
+[13:47:23] <WvdL> iedereen wordt geexploit
+[13:47:36] <WvdL> en die kinderen kunnen of 0 cent krijgen en bedelen
+[13:47:40] <syf_> !appy++
+[13:47:42] <WvdL> of 2 cent per dag en eens chaaltje rijst
+[13:47:43] <digiweed> syf_: Karma for appy is now: 415
+[13:52:03] <Aim> syf_: chef dependency solver/manager 
+[14:10:22] <syf_> is t wat
+[14:19:25] *** Quits: grid (grid@dhcp-089-099-194-232.chello.nl) (Ping timeout: 66 seconds)
+[14:21:01] <rawplayer> mmm rijst
+[14:21:06] <rawplayer> !rijst++
+[14:21:10] <digiweed> rawplayer: Karma for rijst is now: 5
+[14:23:37] *** Quits: toko (toko@2a02:348:71:6320:0:0:0:1) (Ping timeout: 60 seconds)
+[14:23:37] *** Quits: Arnie (niels@merg.okkernoot.net) (Ping timeout: 60 seconds)
+[14:23:45] <Fermata> syf_: de Infrareda heb ikal
+[14:23:55] *** Joins: toko (toko@2a02:348:71:6320:0:0:0:1)
+[14:23:56] *** Quits: bReChThOu (bReChThOu@cloud.brechthouben.be) (Ping timeout: 66 seconds)
+[14:23:58] <Fermata> Infrareds*
+[14:24:13] *** Quits: arvid (arvid@mail.arvid.org) (Ping timeout: 66 seconds)
+[14:24:14] *** Quits: mimic (cyka@eindbaas.s4nder.nl) (Ping timeout: 66 seconds)
+[14:24:57] <Fermata> Air Odysseys niet op voorraad, dus die maar online besteld
+[14:25:08] *** Quits: toko (toko@2a02:348:71:6320:0:0:0:1) (Ping timeout: 68 seconds)
+[14:26:27] *** Joins: toko (toko@2a02:348:71:6320:0:0:0:1)
+[14:27:06] <Dubbeldrank> http://www.vice.com/nl/read/de-groeiende-industrie-van-plastisch-chirurgen-die-uitgerekte-oorlellen-weer-dichtnaaien-172
+[14:27:21] <Dubbeldrank> ah, hipster zijn is niet meer in de mode
+[14:27:23] <Fermata> !tunnels--
+[14:27:27] <digiweed> Fermata: Karma for tunnels is now: -7
+[14:27:37] <Dubbeldrank> het ziet er ook niet uit
+[14:27:46] <Fermata> Dat vind jij
+[14:28:12] <rawplayer> !tunnels--
+[14:28:15] *** Joins: bReChThOu (bReChThOu@cloud.brechthouben.be)
+[14:28:15] <digiweed> rawplayer: Karma for tunnels is now: -8
+[14:28:56] *** Joins: mimic (cyka@eindbaas.s4nder.nl)
+[14:29:36] *** Joins: arvid (arvid@mail.arvid.org)
+[14:29:44] *** Joins: Arnie (niels@merg.okkernoot.net)
+[14:30:06] <rawplayer> Arnie: wil je ook tunnels?
+[14:31:03] <Arnie> sorry?
+[14:32:53] *** Joins: Guyver2 (Guyver2@guyver2.xs4all.nl)
+[14:34:15] <WvdL> ik ook hoor Fermata 
+[14:34:20] <WvdL> ik vind het ook lelijk
+[14:34:24] <WvdL> :=
+[14:34:26] <WvdL> :+
+[14:35:30] <Fermata> Sommige jongens kunnen kleine tunnels best goed hebben
+[14:35:48] <syf_> kan je mooi je piemelinsteken! tog!
+[14:36:35] <Fermata> Beste syf_,
+[14:36:37] <Fermata> Nee
+[14:36:43] <Fermata> Groetjes van Fermata 
+[14:36:55] <WvdL> maar ik heb dan ook niks met sieraden in het algemeen :+
+[14:37:06] <WvdL> wssnlijk nog minder dan de gemiddelde mens
+[14:37:18] <Erik> een goudenketting en tanden zijn wel mooi
+[14:37:33] <WvdL> gouden tanden.. of algemeen: tanden
+[14:37:35] *** Joins: grid (grid@dhcp-089-099-194-232.chello.nl)
+[14:38:47] <WvdL> met gouden tanden krijg ik al snel een roma beeld :+
+[14:39:20] <WvdL> en kettingen.. wordt er ook nie echt warm van  /o\
+[14:40:29] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[14:40:43] <rawplayer> sup wirky 
+[14:41:08] <wirky> plennen
+[14:41:12] <wirky> dingen plennen
+[14:41:18] <wirky> rekenen
+[14:41:24] <wirky> dingen uitrekenen
+[14:43:06] <rawplayer> nice nice
+[15:10:40] <syf_> dus
+[15:11:25] <AlBundy> hm, iemand met kinderen interesse in een balance bike?
+[15:11:36] <rawplayer> bah kinderen
+[15:11:44] <rawplayer> !kinderen--
+[15:11:47] <digiweed> rawplayer: Karma for kinderen is now: -42
+[15:12:11] <SJ> !kinderen--
+[15:12:14] <digiweed> SJ: Karma for kinderen is now: -43
+[15:13:00] <AlBundy> !kinderen++
+[15:13:04] <digiweed> AlBundy: Karma for kinderen is now: -42
+[15:14:47] <SJ> mij niet gezien 
+[15:16:04] <syf_> !kinderen--
+[15:16:07] <digiweed> syf_: Karma for kinderen is now: -43
+[15:16:36] <Arnie> huilies
+[15:18:27] *** Quits: koolaid (koolaid@2a02:a212:280:1c00:5de0:d449:6aa7:8f64) (Client exited)
+[15:19:03] <SJ> Arnie: dat ja
+[15:19:07] <SJ> !kinderen-- 
+[15:19:11] <digiweed> SJ: Karma for kinderen is now: -44
+[15:19:41] <rawplayer> !kinderen--
+[15:19:43] <digiweed> rawplayer: Karma for kinderen is now: -45
+[15:20:02] <nomadz> !nerds--
+[15:20:06] <digiweed> nomadz: Karma for nerds is now: -1003
+[15:20:11] <rawplayer> !ouders--
+[15:20:13] <digiweed> rawplayer: Karma for ouders is now: -4
+[15:20:14] <nomadz> over nerds gesproken
+[15:20:16] <rawplayer> sommige ouders mogen ook geen kinderen krijgen
+[15:20:18] * nomadz paast de surrounder een peuk
+[15:20:54] <syf_> SJ: is toch leuk kinderen, moet je van je vrouw in een of andere multivan gaan rondrijden om al die kinderen te vervoeren
+[15:21:05] <syf_> en aangepaste vakanties want ze moeten mee
+[15:21:09] <rawplayer> ja
+[15:21:12] <SJ> ja
+[15:21:12] <syf_> naar de camping \m/
+[15:21:15] <rawplayer> je hebt dan zelf geen vakantie
+[15:21:16] <rawplayer> vergeet dat niet
+[15:21:19] <SJ> ook
+[15:21:46] <syf_> idd
+[15:21:50] <SJ> en je rijdt verplicht een fiat multipla als ze per ongeluk een vierling op de wereld schopt 
+[15:22:08] <nomadz> en zaterdagochtenden naar de klote om ze naar voetbal ofzo te brengen
+[15:22:31] <nomadz> lekker romantisch op de bank met je vrouw kan je dan ook gewoon vergeten
+[15:22:33] <SJ> met een kater, want van alle stress zuip je je vrijdagavond een stuk in je kraag 
+[15:22:37] <Arnie> !kinderen++
+[15:22:39] <digiweed> Arnie: Karma for kinderen is now: -44
+[15:22:49] <syf_> bah
+[15:24:03] <Arnie> !kinderen++
+[15:24:06] <digiweed> Arnie: Karma for kinderen is now: -43
+[15:24:30] <rawplayer> Arnie: wat is er ++ aan
+[15:24:43] <nomadz> mn baas slaapt nu tijdens het werk in de ambulance wanneer ie kan omdat ie snachts geen slaap krijgt met die kinderen
+[15:25:06] <SJ> ladies & gentlemen, we hebben een trotse Papa, ik herhaal WE HEBBEN EEN TROTSE PAPA
+[15:25:08] <nomadz> hij gaat nu voor nachtdiensten op de meldkamer zodat ie overdag kan slapen
+[15:25:26] <SJ> mja
+[15:25:45] <Arnie> tsja
+[15:25:51] <SJ> http://theoatmeal.com/comics/kids
+[15:25:52] <SJ> astu
+[15:25:55] <digiweed> Title: Why haven't you had kids yet? - The Oatmeal (at theoatmeal.com)
+[15:25:56] <Arnie> ik vind het wel een zwaktebod om je kinderen de schuld te geven van een slechte levensstijl
+[15:26:03] <Arnie> dan moet je geen kinderen nemen
+[15:26:11] <Arnie> ik ben heel blij met mijn zoontje
+[15:26:45] <SJ> Arnie: gelukkig is dat allemaal heel serieus natuurlijk ;-)
+[15:27:11] <SJ> ik heb geen kinderen en ik wil geen kinderen. Dat maakt iedereen voorzich uit he :) 
+[15:27:15] <nomadz> ik vind kinderen ook best leuk eigenlijk
+[15:27:20] <Arnie> SJ, absoluut
+[15:27:22] <nomadz> zolang ik savonds in mn eigen nest lig en geen herrie heb
+[15:27:23] <SJ> oh, zeker
+[15:27:27] <SJ> voor een middagje
+[15:27:29] <SJ> of een weekend
+[15:27:32] <Arnie> dat neemt niet weg dat ik je niet zal lastigvallen over kinderen van tijd tot tijd ;)
+[15:27:42] <rawplayer> ja ik ook
+[15:27:48] <rawplayer> als de auto weer eens gewassen moet worden
+[15:27:59] <SJ> Arnie: dan is dat stripje van the Oatmeal dus toch waar! 
+[15:28:02] <SJ> ;-) 
+[15:28:11] <nomadz> ohja goed idee, vrijdag die autisten op mijn werk eens 10 euro in de handen duwen om mijn auto te cleanen
+[15:28:16] <AlBundy> ach, zoals ik mijn ouders lastig heb gevallen als kind, verdien ik zelf niet beter 
+[15:28:39] *** Joins: koolaid (koolaid@2a02:a212:280:1c00:5de0:d449:6aa7:8f64)
+[15:28:39] *** Quits: koolaid (koolaid@2a02:a212:280:1c00:5de0:d449:6aa7:8f64) (Client exited)
+[15:28:40] *** Joins: koolaid (koolaid@2a02:a212:280:1c00:5de0:d449:6aa7:8f64)
+[15:28:43] <Arnie> SJ, ;)
+[15:29:48] <SJ> ik heb wel een hekel aan van die supermoekes 
+[15:30:34] <rawplayer> ik een hekel aan ouders die als een mongool tegen hun kind praten
+[15:30:38] <rawplayer> koetjiekoetjiekoe enzo
+[15:31:20] *** Quits: koolaid (koolaid@2a02:a212:280:1c00:5de0:d449:6aa7:8f64) (Client exited)
+[15:31:44] <AlBundy> zonde van je energie, om daar een hekel aan te hebben
+[15:31:49] <AlBundy> beter doe je het gewoon zelf niet
+[15:37:19] <AlBundy> !liene++
+[15:37:22] <digiweed> AlBundy: Karma for liene is now: 1
+[15:38:46] <WvdL> GoT spoiler alert:  http://img-9gag-fun.9cache.com/photo/anNZpKL_460s.jpg
+[15:52:51] <syf_> wie is liene?
+[15:55:44] <AlBundy> mijn vriendin
+[15:57:19] <syf_> leuk
+[15:57:34] <bReChThOu> :'''''''''''')
+[15:57:50] <AlBundy> ja, ze zorgt goed voor me 
+[15:58:02] <AlBundy> komt me net een potion brengen
+[15:58:13] <syf_> een wat
+[15:58:16] <syf_> mana of health/
+[15:59:01] <AlBundy> kurkuma, cayennepeper, knoflook, gember, honing, geperste citroen
+[15:59:22] *** Quits: grid (grid@dhcp-089-099-194-232.chello.nl) (Ping timeout: 61 seconds)
+[15:59:25] <AlBundy> met water en kokosnootolie
+[15:59:52] <syf_> bam
+[16:00:00] <AlBundy> dat laatste omdat kurkuma niet goed werkt als het nieti n vet is opgelost
+[16:00:33] <AlBundy> mja, best wel pittig ook :)
+[16:09:56] <WvdL> !pittig++
+[16:09:59] <digiweed> WvdL: Karma for pittig is now: 2
+[16:10:03] <WvdL> !pittig kapsel--
+[16:10:07] <digiweed> WvdL: Karma for pittig kapsel is now: -1
+[16:10:14] <WvdL> ff voor de duidelijkheid :+
+[16:18:58] <AlBundy> :D
+[16:19:02] <AlBundy> pittige tante?
+[16:21:16] <wirky> pedis paardepis
+[16:21:41] <wirky> met eiwitvlokken
+[16:22:05] *** Quits: Ou-Tannu (Ou-Tannu@5249248B.cm-4-2a.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[16:26:29] <Aim> nerds... 
+[16:27:54] *** Joins: Ou-Tannu (Ou-Tannu@5249248B.cm-4-2a.dynamic.ziggo.nl)
+[16:37:10] <syf_> !aim++
+[16:37:14] <syf_> hoe is t met aim?
+[16:37:15] <digiweed> syf_: Karma for aim is now: 80
+[16:50:23] *** Quits: Guyver2 (Guyver2@guyver2.xs4all.nl) (Connection reset by peer)
+[16:56:22] <Aim> yoo syf_ 
+[16:56:36] <Aim> syf_: prima hoor, erg druk met dingen
+[16:59:12] <syf_> ja hier ook al
+[17:03:52] *** Joins: koolaid (koolaid@2a02:a212:280:1c00:5de0:d449:6aa7:8f64)
+[17:16:32] *** Quits: toko (toko@2a02:348:71:6320:0:0:0:1) (Exit)
+[17:18:29] *** Joins: toko (toko@2a02:348:71:6320:0:0:0:1)
+[17:40:09] <the_Ye-Ti> !zaagvis++
+[17:40:12] <digiweed> the_Ye-Ti: Karma for zaagvis is now: 82
+[17:40:18] <Fermata> Woei
+[17:40:18] <the_Ye-Ti> *verward doe*
+[17:40:26] <Fermata> Zaterdag naar Keulen \o/
+[17:40:52] <the_Ye-Ti> ?
+[17:41:07] <Fermata> MidDagje Musicstore.
+[17:41:16] <Fermata> Spelen op synths die ik overweeg.
+[17:46:07] <the_Ye-Ti> ah
+[17:46:17] <the_Ye-Ti> doet je rug het alweer een beetje?
+[17:47:36] <Fermata> Steeds wat beter, halverwege juni mag ik weer op controle.
+[17:55:21] *** Joins: grid (grid@dhcp-089-099-194-232.chello.nl)
+[18:02:06] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Ping timeout: 66 seconds)
+[18:05:15] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[18:14:59] *** Joins: SCHAPiE (dorian@dhcp-077-249-247-124.chello.nl)
+[18:24:28] <Boots> https://scontent.xx.fbcdn.net/t31.0-8/fr/cp0/e15/q65/13131541_10153597056753499_5853718616957193536_o.jpg?efg=eyJpIjoidCJ9
+[18:27:50] *** Quits: grid (grid@dhcp-089-099-194-232.chello.nl) (Ping timeout: 66 seconds)
+[18:38:45] *** Quits: koolaid (koolaid@2a02:a212:280:1c00:5de0:d449:6aa7:8f64) (Client exited)
+[18:40:01] *** Quits: Ou-Tannu (Ou-Tannu@5249248B.cm-4-2a.dynamic.ziggo.nl) (Ping timeout: 66 seconds)
+[18:45:37] * BarthezZ slaat rawplayer
+[18:47:53] <rawplayer> wat
+[18:49:12] *** Joins: Ou-Tannu (Ou-Tannu@5249248B.cm-4-2a.dynamic.ziggo.nl)
+[18:50:27] <bier103> rawplayer: hoest met de hertstucht?
+[18:50:49] <syf_> hoi
+[18:52:42] <rawplayer> bier103: wat/
+[18:52:43] <rawplayer> ?
+[18:52:48] <rawplayer> !crossfit++
+[18:52:52] <digiweed> rawplayer: Karma for crossfit is now: 135
+[18:53:28] *** Joins: grid (grid@dhcp-089-099-194-232.chello.nl)
+[18:53:37] <bier103> HARTSTOCHT
+[18:53:42] <bier103> (sorry SOFIE)
+[18:54:15] <the_Ye-Ti> met van die emotie?
+[18:54:31] <bier103> en met de jouwe, the_Ye-Ti ?
+[18:54:49] <rawplayer> bier103: daar heb ik toch geen tijd voor
+[18:55:07] <the_Ye-Ti> goeie vraag
+[18:55:10] <the_Ye-Ti> hoe meet ik dat?
+[18:55:17] <bier103> niet
+[18:55:56] <the_Ye-Ti> rawplayer was toch aan de tinder?
+[18:56:10] <rawplayer> het gaat over jou
+[18:56:12] <rawplayer> niet overm ij
+[18:56:34] * BarthezZ slaat rawplayer harder
+[18:56:39] <rawplayer> waarom?
+[18:56:42] <the_Ye-Ti> danmaar even eten
+[18:56:59] <BarthezZ> rawplayer waar blijven mijn wiet en hoeren? :$ 
+[18:57:04] <rawplayer> dunno
+[18:57:04] <BarthezZ> dat hadden we toch afgesprokenm elke woensdag
+[18:57:27] <BarthezZ> onbetrouwbaar kreng :o 
+[18:59:58] <bier103> nou
+[19:00:04] <bier103> als rawplayer nou ff een spannend pakkie aan doet
+[19:00:16] <bier103> onderweg naar bart de koffieshop met een bezoekje vereert
+[19:00:20] <bier103> tada
+[19:00:27] <bier103> niet zo in problemen denken, bart
+[19:00:40] <rawplayer> ik doe niks meer
+[19:00:41] <rawplayer> eten en douchen
+[19:00:42] <rawplayer> en liggen
+[19:01:34] <bier103> ja man
+[19:01:37] <bier103> wat een dag
+[19:01:38] <bier103> wat een dag!
+[19:01:45] <rawplayer> zeg dat
+[19:02:03] <rawplayer> ik heb geen reet gedaan vandaag
+[19:02:06] <rawplayer> was ook geen reet te doen
+[19:02:27] <bier103> ik ben opgestaan
+[19:02:31] <bier103> van de grond
+[19:02:34] <rawplayer> wat een kut smiley is :{)
+[19:02:58] <bier103> oh!
+[19:03:00] <rawplayer> ech niks
+[19:03:02] *** bier103 is now known as flaffel103
+[19:03:02] <rawplayer> in mijn tijdslijn
+[19:03:04] <rawplayer> 0,0
+[19:03:07] <rawplayer> opdoeken
+[19:03:08] <rawplayer> die site
+[19:03:11] <rawplayer> WEG
+[19:03:14] <flaffel103> je mag 'm kopen
+[19:03:17] <rawplayer> nee dank je
+[19:03:20] <rawplayer> neeeee dank je
+[19:03:29] <flaffel103> maarreuh
+[19:03:31] <rawplayer> kunnen we geen woorden shufflen
+[19:03:36] <rawplayer> van verschillende jpgs
+[19:03:39] <rawplayer> zodat het iets word
+[19:03:40] <flaffel103> gaat 't wel goed dan met snow als er geen ruk te doen is?
+[19:03:50] <rawplayer> zeker
+[19:03:55] <rawplayer> ik heb geen ruk te doen he
+[19:04:01] <flaffel103> of juist omdat er geen ruk te doen is
+[19:04:06] <flaffel103> het kan er vanaf blijkbaar
+[19:04:08] <rawplayer> is dit wat? https://media.licdn.com/media-proxy/ext?w=531&h=400&f=n&hash=uEQa%2BWpSoB2fw15Ux41A1SP%2Bfkw%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWjqKJLdcbqloUBHcH5XjQBjKea1SDXmEI6-eY3mfNpyjZXgd8L5aRUPbhU4hGUB5sE-Pg
+[19:04:11] <flaffel103> ja
+[19:04:13] <flaffel103> ff kiijken
+[19:04:15] <rawplayer> lol
+[19:04:25] <flaffel103> beter dan niets
+[19:04:37] <flaffel103> soort quasi-grappig
+[19:04:47] <rawplayer> mja
+[19:04:50] <rawplayer> dit kom ik ook tegen
+[19:04:51] <rawplayer> https://media.licdn.com/media-proxy/ext?w=531&h=400&f=n&hash=FP9aMYQRRsw%2BuHQ88x2P195qRWw%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWi4cMWNfrum9UBDKXkEjQA3duq1ETO3RI6-L4q-K4gg3sKzcpD5agYUbhl4j3lK6w
+[19:04:59] <rawplayer> men probeert het he
+[19:06:49] <rawplayer> tis karig hoor
+[19:06:51] <rawplayer> echt karig
+[19:06:58] <flaffel103>  you can’t spell COBOL without COOL
+[19:07:41] <rawplayer> ik moet eten maken
+[19:07:44] <rawplayer> en pissen
+[19:09:51] <Sling> flaffel103: and theres only one datatype in COBOL
+[19:10:04] <Sling> (BOOL dus!)
+[19:17:34] <syf_> rawp o/
+[19:18:33] <rawplayer> syf_: o/
+[19:29:22] <flaffel103> !seen appy
+[19:29:24] <flaffel103> !seen NoxiousPluK 
+[19:29:24] <digiweed> flaffel103: appy was last seen in #nerds 5h 43m 57s ago: <appy> die die nooit gemaakt zijn, niet verkocht worden, en niemand voor exploited is
+[19:29:26] <digiweed> flaffel103: NoxiousPluK was last seen in #nerds 1d 13h 54m 53s ago: <NoxiousPluK> nope
+[19:31:51] <rawplayer> flaffel103: ga je ook de dooie herdenken
+[19:32:30] <syf_> wanneer  gaan we ze herdenken?
+[19:32:34] <syf_> 8 uur?
+[19:32:39] <Sling> wie?
+[19:32:57] <rawplayer> https://pbs.twimg.com/media/ChoEh-_WUAAHGX2.jpg:large
+[19:32:57] <rawplayer> lol
+[19:33:34] <syf_> haha
+[19:35:02] <flaffel103> rawplayer: ik herdenk de dooien elke dag
+[19:39:38] <syf_> flaffel103: wat goed van je
+[19:40:05] <rawplayer> nobel
+[19:40:11] <rawplayer> ik heb kebabschotel besteld
+[19:40:16] <rawplayer> ik hoop dat die sambal chill is
+[19:42:07] <BarthezZ> jeetje rawplayer
+[19:42:21] <BarthezZ> heb je je remote "Amsterdam hek-om-duw apparaat al aanstaan"? 
+[19:42:28] <BarthezZ> voor bij de dodenherdenking
+[19:42:41] <rawplayer> xD
+[19:42:45] <rawplayer> is dat live?
+[19:43:16] <the_Ye-Ti> stelletje misantropen
+[19:43:41] <rawplayer> wkert niet
+[19:43:42] <rawplayer> op nos.nl
+[19:45:00] <the_Ye-Ti> syf_: hoelang woon je nou al in nl?
+[19:46:10] <syf_> best lang
+[19:46:29] <syf_> en jij?
+[19:46:44] <Aim> mogguh 
+[19:46:50] <the_Ye-Ti> ja al wat jaartjes ondertussen
+[19:47:03] <Aim> hey guys o/
+[19:47:14] <Fermata> o/
+[19:47:19] <the_Ye-Ti> \o l'aim
+[19:47:21] <NoxiousPluK> https://youtu.be/KZf4BSmgdO4 
+[19:47:23] <digiweed> Title: A Tour of the IBM Quantum Lab - YouTube (at youtu.be)
+[19:47:42] <Aim> morgen eindelijk een thuis werkdag 
+[19:48:19] <the_Ye-Ti> \o noxp
+[19:48:24] <NoxiousPluK> oi
+[19:48:26] <syf_> Aim: lekker
+[19:48:40] <Aim> juh
+[19:48:49] <Aim> lekker nerden op de bank 
+[19:48:58] <Aim> onder genot van een dikke toeter 
+[19:49:42] <NoxiousPluK> toeterrrrrr
+[19:49:58] <the_Ye-Ti> *airhorn*
+[19:50:04] <Fermata> MEEEEEEEEP
+[19:50:19] <Aim> wwhoop da whoop
+[19:50:40] <rawplayer> de bezorger vroeg of het een grap was dat ik als naam altijd H. ACker invul
+[19:50:44] <the_Ye-Ti> mag je binnen roken?
+[19:50:45] <rawplayer> met een raar telefoonnummer
+[19:50:45] <rawplayer> lol
+[19:51:07] <Aim> the_Ye-Ti: duh 
+[19:51:08] <Aim> is mijn huis 
+[19:51:23] <Aim> rawplayer: heh
+[19:51:45] <Aim> naja huis is van de bank
+[19:51:51] <Aim> maar ik geef ze geld zodat ik mag zeggen dat het van mij is 
+[19:52:02] <rawplayer> !seen AlBundy 
+[19:52:02] <the_Ye-Ti> Aim: ja uh misschien is je kat allergisch ofzo
+[19:52:02] <Nyx> AlBundy is on the channel right now!
+[19:52:03] <digiweed> rawplayer: AlBundy was last seen in #nerds 3h 32m 59s ago: <AlBundy> pittige tante?
+[19:53:09] <Aim> the_Ye-Ti: als ik een kat zou hebben, zou deze ook een stoner zijn :P
+[19:55:54] <syf_> !rawplayer++
+[19:55:58] <digiweed> syf_: Karma for rawplayer is now: 411
+[20:02:23] <flaffel103> das war es!
+[20:09:30] <syf_> ja?
+[20:09:41] <flaffel103> jawohl
+[20:19:36] <surrounder> http://www.curiousgnu.com/reddit-godwin - :D
+[20:19:39] <digiweed> Title: 78% of Reddit Threads With 1,000+ Comments Mention Nazis (at www.curiousgnu.com)
+[20:21:57] <syf_> nice
+[20:23:24] *** Joins: koolaid (koolaid@2a02:a212:280:1c00:5de0:d449:6aa7:8f64)
+[20:24:14] <rawplayer> koolaid: o/
+[20:24:17] <rawplayer> koolaid: ik heb gesport!
+[20:24:20] <koolaid> olah
+[20:24:21] <koolaid> ja ik ook!
+[20:24:27] <rawplayer> zal ik even zeggen wat ik heb gedaan
+[20:24:33] <koolaid> doe dat
+[20:24:52] <rawplayer> 21 Deadlift @ 185/130#
+[20:24:52] <rawplayer> 21 Box Jumps 30/24′
+[20:24:52] <rawplayer> 5 Rounds Cindy: ( 5 Pull ups, 10 Push Ups, 15 Squats)
+[20:24:52] <rawplayer> 15 Deadlift
+[20:24:52] <rawplayer> 15 Box Jumps
+[20:24:54] <rawplayer> 7 Rounds Cindy
+[20:24:56] <rawplayer> 9 Deadlift
+[20:24:59] <rawplayer> 9 Box Jumps
+[20:25:01] <rawplayer> 9 Rounds Cindy
+[20:25:04] <rawplayer> deadliften had ik de eerste 21 reps 120kg
+[20:25:06] <rawplayer> er na 100
+[20:25:09] <rawplayer> te zwaar gewoon
+[20:25:45] <rawplayer> en cindy heb ik 3 pull ups, 5 push ups en 10 squats gedaan
+[20:26:14] <rawplayer> en jij?
+[20:32:00] <syf_> wie is cindy?
+[20:34:33] <flaffel103> koolaid: flok doet tegenwoordig Cobol
+[20:35:42] <rawplayer> syf_: een bitch van een workout
+[20:35:46] <rawplayer> syf_: een bitch van een wod
+[20:36:07] <Aim> klinkt afschuwelijk rawplayer 
+[20:36:15] <rawplayer> was het ook
+[20:36:16] <Aim> weet nou niet of ik nu happy voor je moet zijn of niet 
+[20:36:26] <rawplayer> ik heb het al gehaald
+[20:36:28] <rawplayer> in de laatste minuut
+[20:36:32] <rawplayer> timecap was 35 minuten
+[20:36:36] <Aim> en je leeft nog \o/
+[20:36:43] <rawplayer> ja
+[20:37:12] <Aim> kom je binnenkort weer eens eten?
+[20:37:21] <Aim> eens zien of we er weer paar kilo's bij kunnen kweken :P
+[20:37:28] <rawplayer> sure
+[20:37:34] <Fermata> Bemerk ik een #nerds date?
+[20:37:44] <Aim> food-date 
+[20:37:53] <Aim> foooood
+[20:38:09] <Aim> reminds me ... moet nog koken 
+[20:53:20] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Ping timeout: 60 seconds)
+[20:55:09] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[21:01:29] *** Quits: koolaid (koolaid@2a02:a212:280:1c00:5de0:d449:6aa7:8f64) (Client exited)
+[21:50:22] *** Quits: jk-5 (jk-5@D549D0E1.cm-10-1b.dynamic.ziggo.nl) (Exit)
+[21:54:52] <nomadz> sup bitches
+[21:55:23] * Fermata paast de nomadz een koffie
+[21:55:24] *** Joins: jk-5 (jk-5@D549D0E1.cm-10-1b.dynamic.ziggo.nl)
+[21:55:25] <flaffel103> (0,0,1)
+[21:56:02] * nomadz paast de fermata een peuk
+[22:02:40] <rawplayer> bah roken
+[22:05:12] <nomadz> http://www.flemingmedical.ie/WebRoot/Store/Shops/FlemingMedical/4DF8/645E/47B2/0172/379D/D5AB/DDB4/E430/VF6103L.jpg
+[22:05:15] <nomadz> bah
+[22:12:02] *** Quits: grid (grid@dhcp-089-099-194-232.chello.nl) (Ping timeout: 60 seconds)
+[22:21:36] <AlBundy> zoek je mij, rawplayer?
+[22:25:52] *** Quits: zwiep (zwiep@d54c03c0d.access.telenet.be) (Exit)
+[22:31:53] *** Joins: grid (grid@dhcp-089-099-194-232.chello.nl)
+[22:42:04] <flaffel103> !marmite++
+[22:42:08] <digiweed> flaffel103: Karma for marmite is now: 3
+[22:43:32] <Fermata> !marmite++
+[22:43:33] <Fermata> ja.ja
+[22:43:36] <digiweed> Fermata: Karma for marmite is now: 4
+[22:44:07] <flaffel103> er is iets raars aan de hand met marmite
+[22:44:13] <flaffel103> </decorrespondent>
+[22:45:04] <Fermata> lol
+[22:45:32] <flaffel103> vroeger kon je het in elke reformzaak krijgen
+[22:45:35] <flaffel103> nu in geen enkele
+[22:45:39] <flaffel103> pure e621 immers
+[22:46:35] <Fermata> Ja.
+[22:46:41] <Fermata> Daar krijg ik rare schokken van
+[22:46:48] <Fermata> Niet aan te raden
+[22:47:00] <flaffel103> NO MARMITE FOR YOU
+[22:47:19] <Fermata> Wel de echte uit Engeland/Schotland
+[23:01:45] *** Joins: koolaid (koolaid@ip-213-127-118-32.ip.prioritytelecom.net)
+[23:03:33] *** Quits: koolaid (koolaid@ip-213-127-118-32.ip.prioritytelecom.net) (Ping timeout: 66 seconds)
+[23:04:54] *** Quits: grid (grid@dhcp-089-099-194-232.chello.nl) (Ping timeout: 66 seconds)
+[23:13:32] *** Joins: zwiep (zwiep@d54c03c0d.access.telenet.be)
+[23:32:28] <nomadz> zwiep
+[23:36:57] *** Quits: t4rt4rus (t4rt4rus@s559686af.adsl.online.nl) (Client exited)
+[23:39:28] *** Joins: t4rt4rus (t4rt4rus@s559686af.adsl.online.nl)
+[23:56:51] <the_Ye-Ti> nn
+[23:57:37] <Aim> yo nomadz o/

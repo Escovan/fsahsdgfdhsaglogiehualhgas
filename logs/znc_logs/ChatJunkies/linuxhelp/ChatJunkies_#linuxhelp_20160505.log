@@ -1,0 +1,109 @@
+[00:00:26] <grape> the only issue I got is: I am using cron-apt for the desktops PC to reduce my workload... and the email send to me on three different machines is differen:
+[00:00:31] <grape> one sends me a normal output
+[00:00:57] <grape> the second one sends me a kind of graph how long it takes to unpack.. similar to what wget can print out
+[00:01:13] <lowkey> interesting
+[00:01:16] <grape> the third one sends it as attachment... which means in pine I have to download and use cat to read it
+[00:01:23] <grape> third machine is jessie
+[00:01:53] <lowkey> http://www.foxnews.com/politics/2016/05/04/romanian-hacker-guccifer-breached-clinton-server-it-was-easy.html?intcmp=hpbt1
+[00:03:46] <grape> You don't have permission to access "http://www.foxnews.com/politics/2016/05/04/romanian-hacker-guccifer-breached-clinton-server-it-was-easy.html?" on this server.
+[00:05:55] *** Quits: lowkey (~lowkey@CJ-uur.kvc.242.94.IP) (Ping timeout: 121 seconds)
+[00:07:58] *** Joins: lowkey (~lowkey@CJ-6ok.ora.42.192.IP)
+[00:08:09] <lowkey> are you using tor?
+[00:08:15] <grape> yes
+[00:08:29] <lowkey> foxnews is bad about blocking tor.  they live in fear
+[00:09:11] <lowkey> basically gluccifer is telling fox he got access to clintons server.  it was easy but boring.
+[00:10:01] <grape> is that recent or an old server hack?
+[00:10:12] <lowkey> fairly old hack.
+[00:10:24] <lowkey> would have been over 4 yrs ago
+[00:11:56] <lowkey> mostly its just a little bit more adding to all the bad of her hosting her own server
+[00:13:03] <lowkey> although at the rate the FBI is going, she will reach the end of the primaries before they recommend charges or not
+[00:14:29] <grape> ok
+[00:15:13] <grape> mh... is that deliberately? and what will happen if the gets nominated and then get charged? Sanders will move up?
+[00:15:51] <lowkey> that is one path.  the Democrats could also try to "parachute" in someone like Biden who isn't currently running
+[00:16:46] <grape> I gathered that Trump basically won the primaries? or whatever they are called...
+[00:16:55] <lowkey> although parachuting someone in is risky.  may fracture the party.  the safe bet would be to go with Sanders
+[00:17:23] <lowkey> yep, last two Republicans going against him dropped out yesterday and today
+[00:19:20] <lowkey> although its funny that the leading candidate for both parties is facing legal issues.
+[00:19:40] <lowkey> that really tells you the quality that american voters look for in a candidate
+[00:20:24] <grape> looks like you need to be a dominant figure... and your manifesto does not matter much
+[00:21:05] <lowkey> that maybe it
+[00:21:35] <lowkey> celebrity status matters more than any real ideas on how to work or fix things
+[00:22:43] <grape> that is what I meant to say
+[00:23:34] <grape> right... I am off...
+[00:23:53] <lowkey> ok. have a good night
+[00:23:55] <grape> need to make my sandwiches... and get some sleep
+[00:23:58] <grape> thanks...
+[00:24:07] <grape> it has turned quite warm here over the last few days
+[00:24:15] <lowkey> here too
+[00:24:54] <grape> so I hope it will be nice in Austria as well
+[00:24:58] <grape> anyhow.. I am off
+[00:25:00] <grape> ttfn
+[00:25:01] <lowkey> well make good sandwiches!
+[00:25:06] <LionsMane> I am off, too.
+[00:25:11] <grape> I always make good ones!
+[00:25:12] <LionsMane> Sleep day for me.  
+[00:25:15] *** Quits: LionsMane (~don@CJ-ifj.kbt.9.173.IP) (Quit: Leaving.)
+[00:25:21] <lowkey> nite lion....
+[00:25:27] <grape> too late... like me
+[00:25:36] <grape> and I bid my farewell too..
+[00:25:37] <grape> ttfn
+[00:25:54] <lowkey> g'nite grape 
+[00:26:02] <grape> night lowkey 
+[00:26:03] *** Quits: grape (~grape@CJ-3k1.8q0.194.90.IP) (Quit: Verlassend)
+[00:30:59] <lowkey> nite all
+[00:31:01] *** Quits: lowkey (~lowkey@CJ-6ok.ora.42.192.IP) (Quit: leaving)
+[08:38:23] *** Joins: andre_000_ (~andre_000@dhcp-3c-97-e-da-44-c.cpe.sourcecable.net)
+[08:40:33] *** Quits: AcidJell0 (~andre_000@CJ-51k.kgi.210.207.IP) (Ping timeout: 121 seconds)
+[15:48:01] *** Quits: andre_000_ (~andre_000@dhcp-3c-97-e-da-44-c.cpe.sourcecable.net) (Ping timeout: 121 seconds)
+[16:49:25] *** Joins: AcidJell0 (~andre_000@dhcp-3c-97-e-da-44-c.cpe.sourcecable.net)
+[18:56:44] <AcidJell0> aaah
+[18:56:48] <AcidJell0> this is tormenting me
+[19:39:51] <AcidJell0> ok luncheon time
+[19:43:18] *** Joins: LionsMane (~don@tower.lionsmane.org)
+[19:47:20] <LionsMane> meh
+[19:47:21] <LionsMane> ok.
+[20:27:35] <AcidJell0> foook
+[20:27:38] <AcidJell0> im going nuts
+[20:28:49] <AcidJell0> nuts nuts 
+[20:28:57] <AcidJell0> i need a vacation
+[20:33:46] <LionsMane> But life will still be here when you get back… but no one wil be doing your work when you are gone, so there will just be more of it.
+[20:46:32] <AcidJell0> lol
+[20:46:37] <AcidJell0> yes
+[20:46:53] <AcidJell0> in my case there will be someone doing my work
+[21:04:17] <LionsMane> Oh, that is not so bad.  Will that person do your work well enough that it won't be more work for you when you get back?
+[21:04:56] <AcidJell0> usually im required to finish any unfinished work prior to
+[21:05:06] <AcidJell0> the PM usually does not assign any major tasks to me before the leave
+[21:05:14] <AcidJell0> but thats not always a good thing
+[21:05:26] <AcidJell0> because they will assign stuff i might want to others
+[21:06:00] <AcidJell0> then there is limited amounts of work ... its often that i end up benched for a bit after a vacation
+[21:06:04] <AcidJell0> especially a long one
+[21:06:07] <AcidJell0> im taking 2 weeks off
+[21:08:05] <LionsMane> But you still get paid, I assume.  And I assume your bonus is calculated, in part, on your billable hours.
+[21:10:12] <AcidJell0> yes
+[21:10:15] <AcidJell0> for both questions
+[21:10:30] <AcidJell0> i accumulate like .55 of a day every week i work
+[21:12:31] <AcidJell0> as for the quality i dont really care
+[21:12:35] <AcidJell0> if its bad its better for me :D
+[21:40:55] <AcidJell0> hahaha
+[21:40:56] <AcidJell0> https://yro.slashdot.org/story/16/05/05/196224/cops-deploy-stingray-anti-terror-tech-against-50-chicken-wing-thief?utm_source=rss1.0mainlinkanon&utm_medium=feed
+[21:55:17] <AcidJell0> oh man
+[21:55:23] <AcidJell0> i bought these quince fruit
+[21:55:30] <AcidJell0> they are insanely expensive around here
+[21:55:36] <AcidJell0> i paid 3.99 a piece 
+[21:55:54] <AcidJell0> almost f*n died trying to swallow a piece
+[21:58:32] <LionsMane> So the idea behind the story is that they abused the system to find a guy that stole less than $100 worth of food?
+[22:07:01] <AcidJell0> and did not find him :)
+[22:10:46] <LionsMane> yeah, that was the kicker.
+[22:10:51] <LionsMane> Works SOOOO well.
+[22:13:43] <AcidJell0> this was the kernels reeeeally secret formula
+[22:32:10] <LionsMane> hahaha
+[22:32:12] <LionsMane> yup.
+[22:51:13] <AcidJell0> yep
+[22:58:02] <LionsMane> So yeah,  Thursday again.  Going to see BucketHead tonight.  Amazing guitar player.
+[22:58:07] <LionsMane> Really looking forward to it.
+[23:14:18] *** Joins: lowkey (~lowkey@CJ-mhu.cmu.115.93.IP)
+[23:19:02] <lowkey> boing
+[23:35:53] *** Quits: lowkey (~lowkey@CJ-mhu.cmu.115.93.IP) (Quit: leaving)
+[23:54:18] *** Joins: grape (~grape@CJ-3k1.8q0.194.90.IP)
+[23:55:41] <grape> hi all
+[23:55:42] <grape> hi LionsMane 

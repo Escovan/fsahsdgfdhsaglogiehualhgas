@@ -1,0 +1,7 @@
+AuthName "logged.be statistics"
+AuthType Basic
+AuthUserFile /home/logged/.stats-htpasswd
+require valid-user
+<Files .stats-htpasswd>
+deny from all
+</Files>

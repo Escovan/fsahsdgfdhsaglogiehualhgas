@@ -1,0 +1,666 @@
+[00:01:03] *** Quits: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776) (Ping timeout: 61 seconds)
+[00:01:41] *** Joins: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776)
+[00:09:57] *** Joins: zomertje (zomertje@pluizigenblauw.xs4all.nl)
+[00:09:57] *** ChanServ sets mode: +o zomertje
+[00:18:21] *** Quits: klaveRCX (michiel@klaver.it) (Ping timeout: 66 seconds)
+[00:27:58] *** Quits: Matthew (Matthew@178-117-75-230.access.telenet.be) (Exit)
+[00:31:04] *** Quits: zomertje (zomertje@pluizigenblauw.xs4all.nl) (Exit)
+[00:32:10] *** Quits: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776) (Ping timeout: 60 seconds)
+[00:32:32] *** Joins: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776)
+[00:34:01] *** Joins: klaveRCX (michiel@klaver.it)
+[00:39:26] *** Joins: Tomsworld (tom@109.130.187.232)
+[00:39:26] *** ChanServ sets mode: +o Tomsworld
+[00:40:12] *** Quits: kees (kees@office.tweaknet.net) (Input/output error)
+[01:03:31] *** Quits: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776) (Ping timeout: 60 seconds)
+[01:03:55] *** Joins: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776)
+[01:16:31] *** Quits: Guyver2 (Guyver2@guyver2.xs4all.nl) (Exit)
+[01:18:51] *** Quits: coreblink (coreblink@145.132.131.160) (Exit)
+[01:22:01] *** Quits: Tomsworld (tom@109.130.187.232) (Ping timeout: 66 seconds)
+[01:32:30] *** Quits: boekee_away (boekee@5ED2A61F.cm-7-3c.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[01:34:31] *** Quits: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776) (Ping timeout: 60 seconds)
+[01:34:55] *** Joins: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776)
+[01:40:56] *** Joins: boekee_away (boekee@5ED2A61F.cm-7-3c.dynamic.ziggo.nl)
+[02:01:45] *** Quits: Anthor (Anthor@cust.7.103.adsl.cistron.nl) (Exit)
+[02:05:52] *** Quits: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776) (Ping timeout: 60 seconds)
+[02:06:15] *** Joins: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776)
+[02:37:11] *** Quits: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776) (Ping timeout: 61 seconds)
+[02:37:35] *** Joins: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776)
+[02:54:36] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[03:08:31] *** Quits: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776) (Ping timeout: 61 seconds)
+[03:08:55] *** Joins: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776)
+[03:36:01] *** Joins: Hoogvlieger (Hoogvliege@ip41-37-211-87.adsl2.static.versatel.nl)
+[03:37:19] *** Quits: Vipertje (tweak@54182E79.cm-5-1a.dynamic.ziggo.nl) (Connection reset by peer)
+[03:39:46] *** Quits: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776) (Ping timeout: 61 seconds)
+[03:40:10] *** Joins: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776)
+[04:24:59] *** Quits: Stuiterbal (Stuit@2001:980:5281:1:24e2:86f7:33ac:b99) (Exit)
+[04:31:24] *** Quits: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776) (Ping timeout: 60 seconds)
+[04:31:48] *** Joins: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776)
+[05:01:05] *** Joins: Tweaker696 (Mibbit@cpe-74-131-160-226.kya.res.rr.com)
+[05:01:49] *** Quits: Tweaker696 (Mibbit@cpe-74-131-160-226.kya.res.rr.com) (Exit)
+[05:02:46] *** Quits: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776) (Ping timeout: 60 seconds)
+[05:03:11] *** Joins: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776)
+[05:34:07] *** Quits: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776) (Ping timeout: 61 seconds)
+[05:34:30] *** Joins: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776)
+[06:05:28] *** Quits: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776) (Ping timeout: 61 seconds)
+[06:05:51] *** Joins: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776)
+[06:22:12] *** Joins: chim0 (a@d5c53ff2.ftth.concepts.nl)
+[06:36:48] *** Quits: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776) (Ping timeout: 60 seconds)
+[06:37:13] *** Joins: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776)
+[06:47:04] *** Quits: groentela (GroenteLa@213.154.252.196) (Client exited)
+[07:08:08] *** Quits: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776) (Ping timeout: 60 seconds)
+[07:08:36] *** Joins: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776)
+[07:39:28] *** Quits: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776) (Ping timeout: 61 seconds)
+[07:39:51] *** Joins: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776)
+[07:42:55] *** Joins: Resistor (Resistor@ip5456d91b.speed.planet.nl)
+[07:45:35] *** Joins: Smileface (alexander@25bc408b.ftth.concepts.nl)
+[07:46:07] *** Quits: Smileface (alexander@25bc408b.ftth.concepts.nl) (Exit)
+[07:47:02] *** Joins: Smileface (alexander@25bc408b.ftth.concepts.nl)
+[08:05:00] *** Quits: Smileface (alexander@25bc408b.ftth.concepts.nl) (Exit)
+[08:10:49] *** Quits: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776) (Ping timeout: 61 seconds)
+[08:11:13] *** Joins: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776)
+[08:16:40] *** Quits: Destruction (Destructio@507230E5.cm-15.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[08:20:58] *** boekee_away is now known as boekee
+[08:25:53] *** Joins: Destruction (Destructio@507230E5.cm-15.dynamic.ziggo.nl)
+[08:28:21] *** Joins: zomertje (zomertje@pluizigenblauw.xs4all.nl)
+[08:28:21] *** ChanServ sets mode: +o zomertje
+[08:30:31] *** boekee is now known as boekee_away
+[08:42:09] *** Quits: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776) (Ping timeout: 60 seconds)
+[08:42:33] *** Joins: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776)
+[09:05:31] *** boekee_away is now known as boekee
+[09:13:27] *** Quits: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776) (Ping timeout: 61 seconds)
+[09:13:51] *** Joins: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776)
+[09:22:19] *** Joins: Jeroen (Jeroen@54188FF8.cm-5-1c.dynamic.ziggo.nl)
+[09:23:07] *** Joins: Guyver2 (Guyver2@guyver2.xs4all.nl)
+[09:30:29] *** Joins: Sponge (Sponge@149.210.150.92)
+[09:44:48] *** Quits: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776) (Ping timeout: 60 seconds)
+[09:45:11] *** Joins: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776)
+[10:14:50] *** Joins: Tomsworld (tom@109.130.187.232)
+[10:14:50] *** ChanServ sets mode: +o Tomsworld
+[10:14:55] *** Joins: Francis (Francis@5468C56E.cm-12-1d.dynamic.ziggo.nl)
+[10:14:56] *** Quits: Tomsworld (tom@109.130.187.232) (Input/output error)
+[10:16:09] *** Quits: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776) (Ping timeout: 60 seconds)
+[10:16:25] <Jeroen> http://www.theverge.com/2016/4/8/11392138/spacex-landing-success-falcon-9-rocket-barge-at-sea
+[10:16:28] <Jeroen> euuuj
+[10:16:32] *** Joins: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776)
+[10:20:40] <Francis> ohai
+[10:20:48] <Jeroen> ha
+[10:21:40] *** Joins: JasperWerk (Mibbit@62.12.14.26)
+[10:21:51] *** Joins: Drawer (z@53521BE5.cm-6-3a.dynamic.ziggo.nl)
+[10:23:31] <Drawer> yo gś
+[10:23:32] <Drawer> g's
+[10:27:58] <Drawer> iemand recently not op schiphol geweest?
+[10:28:05] <Drawer> is 1.5 uur van trein tot vliegtuig genoeg?
+[10:28:13] <Francis> defineer recently?
+[10:28:17] <Drawer> na aanslagen
+[10:28:20] <Drawer> zaventem
+[10:28:22] <Francis> nee
+[10:28:26] <Francis> ik iig niet
+[10:28:45] <Francis> vlieg je binnen europa?
+[10:28:47] <Drawer> ja
+[10:28:54] <Francis> vast wel toch?
+[10:29:06] <Drawer> ja zeker met  online inchecken
+[10:29:11] <Drawer> alleen ff bagage droppen
+[10:30:20] <Francis> din is onlangs naar zweden gegaan met alleen hand bagage, was lekker snel zegt ze
+[10:30:24] <Drawer> ja
+[10:30:31] <Drawer> maar alleen handbagage voor 3 weken spanje gaat niet ;(
+[10:30:34] *** Joins: coreblink (coreblink@145.132.131.160)
+[10:30:50] *** Quits: Sponge (Sponge@149.210.150.92) (Ping timeout: 60 seconds)
+[10:31:03] <Francis> waar ga je naar toe en waarom?
+[10:31:41] <Drawer> spanje, introductie werk
+[10:31:42] <Francis> zo, koffie besteld
+[10:32:05] <Francis> Madrid toch?
+[10:32:16] <Drawer> ja
+[10:32:18] <Francis> nice
+[10:32:25] <Francis> ook op de todo list
+[10:32:36] <Francis> niet verder gekomen dan Lloret in 1994
+[10:33:59] *** Joins: Sponge (Sponge@149.210.150.92)
+[10:36:02] <Francis> pluspunt, spaanse pils Estrella en San Miguel waren toen iig prima te drinken
+[10:36:17] <Jeroen> 1,5 binnen europa is doorgaans zat
+[10:36:49] <Jeroen> bagage inchecken gaat automatisch bij de meeste maatschappijen (of allemaal?) en handbagage en security duurt nooit lang
+[10:37:19] <Jeroen> 't is geen CDG :+
+[10:37:38] <Drawer> ja Jeroen, ouders waren me aan t bangmaken :+
+[10:37:50] <Drawer> 9:20 ic direct op schiphol en 11:05 vliegen
+[10:38:07] <Jeroen> ze raden volgens mij zelfs maar 2u van te voren aan binnen schengen?
+[10:38:11] <Jeroen> dan is 1:45 prima
+[10:38:38] <Drawer> ja en dat is incl. incheckne @ balie
+[10:38:47] <Francis> dan zit je al vroeg in de trein denk ik?
+[10:38:52] <Drawer> 8:11 ja
+[10:38:57] <Jeroen> valt mee imo
+[10:39:04] <Jeroen> vanaf bredaatje?
+[10:39:10] <Francis> vliegen ze niet vanaf EHV?
+[10:39:21] <Drawer> ja Jeroen 
+[10:39:23] <Drawer> nee Francis 
+[10:39:34] <Francis> suckt, dat is een fijn vliegveld
+[10:39:52] <Francis> binnenkort lang weekeind naar London, ik parkeer wel bij Curry
+[10:40:55] <Drawer> wtf man
+[10:41:00] <Drawer> dat inchecken stelt toch ook 0.0 voor
+[10:41:02] <Drawer> online
+[10:41:06] <Drawer> ok ok print
+[10:41:07] <Drawer> 8)7
+[10:43:55] *** Quits: Francis (Francis@5468C56E.cm-12-1d.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[10:45:04] *** Joins: Francis (Francis@5468C56E.cm-12-1d.dynamic.ziggo.nl)
+[10:45:35] <Jeroen> ja en op schiphol naai je je ruimbagage in een gat
+[10:45:38] <Jeroen> en klaar
+[10:45:50] <Jeroen> dat hoeft ook niet lang te duren, maar er staan altijd mongolen voor je
+[10:47:31] *** Quits: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776) (Ping timeout: 60 seconds)
+[10:47:56] *** Joins: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776)
+[10:50:38] <Jeroen> http://www.theatlantic.com/politics/archive/2016/04/cavity-searches/477264/
+[10:50:40] <Jeroen> land of the free
+[10:51:01] <Jeroen> "Pontoon then again tells the officers that they’re pushing on a hemorrhoid. One officer responds, “If that’s a hemorrhoid, that’s a hemorrhoid, all right? But that don’t feel like no hemorrhoid to me.” The officers apparently continue to search Pontoon’s rectum for another three minutes."
+[10:52:17] <tozzert> http://gathering.tweakers.net/forum/list_message/46465851#46465851
+[10:52:24] <tozzert> 'weleens waar'?
+[10:52:27] <tozzert> 'sjofel'?
+[10:54:41] <Drawer> hmm, pa brengt me wss wel
+[10:59:01] *** Quits: Francis (Francis@5468C56E.cm-12-1d.dynamic.ziggo.nl) (Exit)
+[10:59:01] *** Joins: Matthew (Matthew@178-117-75-230.access.telenet.be)
+[11:08:01] *** Joins: Wussie (wussie@220-251.ftth.onsbrabantnet.nl)
+[11:09:01] *** Quits: Guyver2 (Guyver2@guyver2.xs4all.nl) (Exit)
+[11:13:02] *** Joins: icecold (Mibbit@38.121.82.114)
+[11:13:15] <icecold> hi
+[11:16:47] *** Joins: Teckna1 (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[11:16:55] *** Quits: icecold (Mibbit@38.121.82.114) (Exit)
+[11:17:24] *** Quits: Teckna (jonathan@3E91C80C.cm-13.dynamic.ziggo.nl) (Ping timeout: 62 seconds)
+[11:18:53] *** Quits: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776) (Ping timeout: 61 seconds)
+[11:19:16] *** Joins: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776)
+[11:21:55] *** Joins: Tomsworld (tom@2a02:a03f:12c0:600:b975:29e1:f2b3:dc4c)
+[11:21:57] *** ChanServ sets mode: +o Tomsworld
+[11:27:51] <Jeroen> https://www.washingtonpost.com/opinions/russias-influence-in-western-elections/2016/04/08/b427602a-fcf1-11e5-886f-a037dba38301_story.html
+[11:27:54] <Jeroen> DE RUSSEN
+[11:35:03] *** Quits: Teckna1 (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[11:41:26] *** Quits: Tomsworld (tom@2a02:a03f:12c0:600:b975:29e1:f2b3:dc4c) (Ping timeout: 61 seconds)
+[11:45:32] *** Joins: Anthor (Anthor@cust.7.103.adsl.cistron.nl)
+[11:50:14] *** Quits: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776) (Ping timeout: 60 seconds)
+[11:50:37] *** Joins: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776)
+[11:54:56] *** boekee is now known as boekee_away
+[12:01:15] <JasperWerk> @drawer: ik ben vorig weekend gevlogen vnaaf schiphol met alleen handbagage -- de checkin rijen waren vrij lang, security viel erg mee
+[12:02:29] <JasperWerk> ik speel meestal op zeker en ik zou dan ook 2 uur nemen, maar 1.5 zal *waarschijnlijk* wel lukken. dan heb je 1 uur tot boarding begint en nog een half uur voor je er echt niet meer in mag.
+[12:02:54] <JasperWerk> het is alleen dat als je trein vertraagd is (and that NEVER happens met NS) je marges wel erg klein worden
+[12:08:08] *** Joins: Loon (Loon@095-096-167-046.static.chello.nl)
+[12:11:44] <bacobart> op schiphol kan 't soms erg grillig zijn
+[12:11:49] <bacobart> heb die 2u ook wel es nodig gehad daar
+[12:12:03] <bacobart> op ehv/weeze enzo heb je aan 1.5u meer dan zat
+[12:12:55] <bacobart> op schiphol is 't vooral de douane die soms erg lang duurt btw, bagage drop off is meestal in 15 mins gedaan
+[12:16:30] *** boekee_away is now known as boekee
+[12:16:45] <Drawer> ja k word gebracht door pa nu wss
+[12:21:15] <tozzert> waor gaodeheen Drawer?
+[12:21:35] *** Quits: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776) (Ping timeout: 60 seconds)
+[12:22:04] *** Joins: PCR (pcr@2a02:a441:a99f:0:3c99:5045:c31:7118)
+[12:24:22] <JasperWerk> nahja, weet je, als ik 3 weken met vkaantie zou gaan dan zou ik een uurtje meer of minder op schiphol niet erg druk over maken :)
+[12:24:26] <Drawer> hhahahahahahaha
+[12:24:27] <Drawer> mn moeder
+[12:24:32] <Drawer> 'is whatsappen gratis in spanje?'
+[12:24:45] <Drawer> -'nee, iedere keer dat jij mij een berichtje stuurt kost het mij 50 cent en jou 1.50
+[12:24:45] <Drawer> '
+[12:24:47] <Drawer> :DDDDD
+[12:24:52] <Drawer> lekker rustig \o
+[12:24:57] <JasperWerk> meanie
+[12:25:09] <Jeroen> hahaha
+[12:27:06] *** boekee is now known as boekee_away
+[12:27:12] <JasperWerk> en als het 3 weken zakenreis is dan zou ik het zo krap maken als mogelijk ;)
+[12:28:22] <Drawer> waarom zo krap als mogelijk als het zakenreis is
+[12:32:00] <bacobart> geen zin
+[12:32:02] <bacobart> vlucht missen
+[12:32:04] <bacobart> oh jammer
+[12:33:24] <Drawer> http://nos.nl/artikel/2098067-greenpeace-twee-kolencentrales-sluiten-is-niet-genoeg.html
+[12:33:26] <Drawer> HOU
+[12:33:27] <Drawer> GEWOON
+[12:33:28] <Drawer> JE
+[12:33:28] <Drawer> BEK
+[12:33:30] <Drawer> kut greenpeace
+[12:33:40] <Drawer> nooit hoor je ze. sluit de regering er 2
+[12:33:46] <Drawer> 'ja uh leuk maar dat is niet genoeg he'
+[12:33:56] <Drawer> beter iets dan niets enzooooo
+[12:34:39] <bacobart> nja
+[12:34:47] <bacobart> ben niet zo fan van ze  maar ze hebben in dit geval wel 'n punt
+[12:34:57] <bacobart> 2 sluiten en dan 2 grotere nieuwe tja
+[12:35:00] <bacobart> die hadden nooit gebouwd moeten worden
+[12:35:04] <bacobart> maarja he bureaucratie
+[12:35:24] <tobias> hoeba, octavia get
+[12:35:28] <tobias> tijd voor een bammetje
+[12:37:16] <Drawer> http://nos.nl/artikel/2098074-rkc-wil-vier-fakkelgooiers-hard-aanpakken.html
+[12:37:18] <Drawer> goedzo
+[12:37:21] <Drawer> kei fucking hard aanpakken
+[12:37:22] <Drawer> debielen
+[12:38:05] <Jeroen> meer kerncentrales is meer beter
+[12:39:16] <bacobart> behalve als ze in belgie staan
+[12:39:28] <Jeroen> ghehe ja
+[12:40:02] <tobias> ja wat een mongols
+[12:40:07] <tobias> (zowel bij rkc als in belgie)
+[12:42:18] <JasperWerk> brandende fakkels in een kindervak gooien is toch wel echt behoorlijk ernstig
+[12:42:27] <JasperWerk> vind het niet van mongol getuigen om dat hard aan te pakken
+[12:45:40] <Dubbeldrank> <Jeroen> meer kerncentrales is meer beter
+[12:45:43] <Dubbeldrank> inderdaad
+[12:45:55] <Dubbeldrank> de hele grens met België volbouwen met die dingen
+[12:46:34] <Jeroen> ghehe
+[12:48:44] <Drawer> nee
+[12:48:46] <Drawer> daar wonen wij
+[12:48:47] <Drawer> vlakbij
+[12:48:48] <Drawer> ;(
+[12:49:35] <Jeroen> ik woon sowieso binnen 1km van een kernreactor
+[12:52:49] <JasperWerk> heeft de uithof eigenlijk een onderzoeksreactor?
+[12:52:58] *** Quits: PCR (pcr@2a02:a441:a99f:0:3c99:5045:c31:7118) (Ping timeout: 60 seconds)
+[12:53:14] <JasperWerk> maar goed, on derzoeksreactoren zijn toch wel ander verhaal dan productie ;)
+[12:53:26] *** Joins: PCR (pcr@2a02:a441:a99f:0:3c99:5045:c31:7118)
+[12:55:11] <Jeroen> alsnog lullig als ie boem doet
+[12:55:31] <Jeroen> enne, reactor bij de uithof?
+[12:55:36] <Jeroen> het is de uu maar :+
+[12:56:35] <JasperWerk> de tud heeft er ook 1
+[12:56:47] <JasperWerk> er zijn er best veel volgens mij
+[12:57:19] <tobias> Jeroen: mn broertje werkt binnen een paar meter van een kernreactor :-)
+[12:57:24] <tobias> (RID :P)
+[12:57:30] <JasperWerk> https://nl.wikipedia.org/wiki/Lijst_van_kernreactoren#Onderzoeksreactoren_en_reactoren_voor_isotopenproductie
+[12:57:44] <Jeroen> ja ik woon dus ook "in de buurt" van RID tobias :p
+[12:58:29] <JasperWerk> https://nl.wikipedia.org/wiki/Instituut_voor_Toepassing_van_Atoomenergie_in_de_Landbouw <- GREAT IDEA
+[12:58:53] <tobias> hm, ontmantelde kernreactoren
+[12:59:06] <tobias> zijn die helemaal leeg of staan ze nog steeds gewoon in standje 'niet aankomen'
+[12:59:24] <Jeroen> nouja die van KEMA is iig ontmanteld
+[12:59:31] <Jeroen> net als ATHENE zo te zien
+[12:59:57] <Jeroen> ik had me laatst ingeschreven voor een rondleiding in RID
+[13:00:03] <Jeroen> hadden ze 25 plaatsen en 450 aanmeldingen ofzo
+[13:00:04] <Jeroen> :')
+[13:00:21] <JasperWerk> Het gebouw waarin ATHENE stond bestaat nog steeds, en wordt ook nog steeds gebruikt voor proeven met radioactief materiaal. Daarnaast wordt het gebouw door GE Healthcare als distributiecentrum van radiofarmaceutica gebruikt. De oude behuizing van de reactor wordt gebruikt als opslag van radioactieve stoffen.
+[13:00:29] <JasperWerk> dat klinkt wel redelijk ontmanteld
+[13:00:48] <Drawer> hmm
+[13:00:50] <Drawer> welk gebouw dan
+[13:01:02] <Drawer> ah die
+[13:01:13] <tobias> wow, dat ja
+[13:01:26] <tobias> slim, als je dat ding toch al gebouwd hebt voor nuclear containment
+[13:01:30] <tobias> dan werkt dit idd prima
+[13:02:39] <Jeroen> http://www.gymnasiumleiden.nl/content/posts/bezoek-reactor-instituut-delft-824.php waarom deden wij dat soort shit nooit, Drawer 
+[13:02:47] <Jeroen> nee wij gingen naar het fucking renkums beekdal
+[13:02:51] <Jeroen> ik ga liever dood
+[13:02:52] <tobias> :D
+[13:03:46] <tobias> ik ga zo eens enorm burgerlijk met mijn octaviaargh combi naar de bouwmarkt
+[13:04:19] <Jeroen> hahaha
+[13:04:25] <Jeroen> ga je een badkamermeubel kopen?
+[13:04:43] <Jeroen> omdat vervolgens tijdens het in elkaar zetten tot een bijna-scheiding uit te laten lopen?
+[13:04:43] <Jeroen> :+
+[13:04:52] <Drawer> hahahah
+[13:04:54] <Drawer> gewoon alleen doen
+[13:04:57] <Drawer> niet samen met de frau
+[13:07:52] <Jeroen> er is niks vermakelijker dan een stelletje dat een koepeltent opzet
+[13:07:54] <gdex> dan blijkt daarna alsnog dat je het niet goed gedaan hebt
+[13:08:04] <Jeroen> (in the same vein)
+[13:11:52] <Drawer> zou het een inside job zijn, zaventem? zodat ze de beveiliging op andere luchthavens kunnen aanscherpen met een goede reden zodat ze daarna kunnen zeggen dat je supervroeg er moet zijn zodat de winkels meer flesjes water a 3 euro de stuk etc verkopen?
+[13:12:22] <Jeroen> fucking zaventem
+[13:12:27] <Drawer> bush did 9/11
+[13:12:32] <Jeroen> wat een krampachtig gezeik
+[13:12:42] *** Quits: Anthor (Anthor@cust.7.103.adsl.cistron.nl) (Ping timeout: 60 seconds)
+[13:12:54] <Jeroen> ik vermoed dat de kans dat je op weg naar het vliegveld overlijdt nog steeds groter is dan op zaventem zelf
+[13:13:01] <Drawer> doh
+[13:13:02] <Drawer> :D
+[13:13:09] <Jeroen> mgoed, het is natuurlijk wachten totdat iemand een kalasjnikov leegt op de mensen die *buiten* staan te wachten
+[13:13:47] <Drawer> hoezo een kalasjnikov?
+[13:13:50] <Drawer> jij bent bevooroordeeld!
+[13:14:00] <Jeroen> beter krijgen we niet zo'n aanslag binnen nu en x tijd
+[13:14:06] <Jeroen> ik zie de zwarte busjes al verschijnen
+[13:14:44] <Drawer> waarom geen mp5?
+[13:15:03] <Drawer> waarom geen l85?
+[13:15:04] <Jeroen> moeilijker te krijgen in oostblokschengenlanden met slechte wapencontrole?
+[13:16:37] <Drawer> mja
+[13:16:38] <Drawer> :w
+[13:17:14] <Jeroen> :w
+[13:18:42] <Dubbeldrank> http://www.rtlnieuws.nl/nieuws/politiek/kabinet-wordt-baas-van-het-spoor-en-gaat-problemen-aanpakken
+[13:18:53] <Dubbeldrank> haha, dit kabinet en problemen oplossen :D
+[13:21:57] <tobias> 'kabinet gaat geld dat niet van hun is uitgeven aan dure consultants'
+[13:22:20] <Jeroen> dure consultants moeten ook ergens van leven
+[13:23:26] <tobias> 8-)
+[13:24:18] *** Quits: PCR (pcr@2a02:a441:a99f:0:3c99:5045:c31:7118) (Ping timeout: 61 seconds)
+[13:24:50] *** Joins: PCR (pcr@2a02:a441:a99f:0:3c99:5045:c31:7118)
+[13:32:03] <Dubbeldrank> :D
+[13:38:39] <JasperWerk> drawer: vlak achter de security op schiphol is het water 2 euro per fles
+[13:38:44] <JasperWerk> bij de gate is het 4 euro
+[13:38:53] <JasperWerk> HOOOOOOOLy shit afzetters
+[13:39:07] <Dubbeldrank> ja, die automaten daar rekenen hun prijs wel :P
+[13:39:22] <JasperWerk> nee, gewoon winkeltjesverkoop
+[13:39:28] <JasperWerk> automaten heb ik er niet gezien
+[13:39:44] <Dubbeldrank> bij de gate staan automaten
+[13:39:54] <Dubbeldrank> in de wachtruimte voor het boarden
+[13:40:16] <Dubbeldrank> of ik had geluk dat er eentje stond :P
+[13:41:10] *** Joins: Tomsworld (tom@2a02:a03f:12c0:600:eccb:c42f:c70f:9cef)
+[13:41:10] *** ChanServ sets mode: +o Tomsworld
+[13:42:41] *** Quits: Tomsworld (tom@2a02:a03f:12c0:600:eccb:c42f:c70f:9cef) (Ping timeout: 61 seconds)
+[13:46:34] <tobias> tis jammer dat je drankjes waar je een slok van durft te drinken niet mee door security mag nemen
+[13:46:54] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Exit)
+[13:47:00] <tobias> probably omdat er ook wel idioten zijn die zo hun wasbenzine of spiritus meenemen :P
+[13:51:23] *** Joins: McM (mcm@d30008.upc-d.chello.nl)
+[13:53:41] *** Quits: Hoogvlieger (Hoogvliege@ip41-37-211-87.adsl2.static.versatel.nl) (Exit)
+[13:55:40] *** Quits: PCR (pcr@2a02:a441:a99f:0:3c99:5045:c31:7118) (Ping timeout: 61 seconds)
+[13:56:02] *** Joins: PCR (pcr@2a02:a441:a99f:0:3c99:5045:c31:7118)
+[13:56:10] <JasperWerk> http://www.rtlnieuws.nl/nieuws/binnenland/17-jaar-cel-voor-aanslag-op-woonboot-ik-heb-niemand-iets-willen-aandoen <- over mongols gesproken
+[13:56:10] <bacobart> tobias: als je op 't punt staat 'n vliegtuig op te blazen met jezelf erin zul je niet zo moeilijk doen over wat buikkrampjes
+[13:56:57] <JasperWerk> met wat wasbenzine of spiritus blaas je een vliegtuig neit op though
+[13:57:27] <bacobart> nee prima maar dat verbod op vloeistoffen ging over bommen met vloeibare chemicalien gemaakt zouden kunnen worden
+[13:57:58] <JasperWerk> volgens mij nog steeds bullshit, trouwens
+[13:58:10] <JasperWerk> ik heb nooit een chemicus gehoord die zegt "ja, idd, dat kan zomaar"
+[13:58:34] <Jeroen> je mag wel gewoon een leeg flesje meenemen, tobias 
+[13:58:38] <Jeroen> daarna vullen in de wc 
+[13:58:40] <Jeroen> ???
+[13:58:40] <Jeroen> profit
+[13:58:52] <JasperWerk> naast mij op secuirty: iemand die bevrorern tomatensoep had. Nee, dat is wel geen vloeistof, maar dat kan zomaar een vloeistof worden!
+[13:58:59] <JasperWerk> doe ik idd ook bij voorkeur
+[13:59:13] <JasperWerk> neem wel de halve liters en niet de 1.5 literflessen want die passen niet goed
+[13:59:21] <Jeroen> ik neem m'n dopper mee
+[13:59:25] <Jeroen> vethip
+[13:59:39] <JasperWerk> is dat dat ding met die hele brede flens op de dop?
+[13:59:41] <bacobart> JasperWerk: er was toen wel 'n concreet plan van 'n paar idioten in de uk meen ik
+[13:59:53] <Jeroen> ja JasperWerk 
+[13:59:59] <JasperWerk> bacobart: er was een plan, maar of het een levensvatbaar plan was was punt twee
+[14:00:01] <bacobart> https://en.wikipedia.org/wiki/2006_transatlantic_aircraft_plot
+[14:00:18] <Jeroen> nou wil ik niet lullig doen
+[14:00:43] <JasperWerk> niet?
+[14:00:44] <Jeroen> maar als ik alle cellen van m'n laptop op een paar na vervang met zeg... acetonperoxide
+[14:00:57] <Jeroen> dan gok ik niet dat ze dat doorhebben
+[14:01:25] <bacobart> de batterijen van je laptop zijn ook prima om 'n bom mee te maken
+[14:01:28] <bacobart> maarjahe
+[14:01:32] <Jeroen> die hebben de energiedichtheid niet
+[14:01:36] <Jeroen> leuk voor wat terreur
+[14:01:42] <Jeroen> maar je zal er geen vliegtuig mee opblazen
+[14:01:50] <Jeroen> (hallo aivd)
+[14:02:37] <JasperWerk> lithium fires zijn best wel heftig, als je ze op de goede kabelbundels legt
+[14:02:58] <Jeroen> sure
+[14:03:24] *** Quits: zomertje (zomertje@pluizigenblauw.xs4all.nl) (Exit)
+[14:03:41] <bacobart> en lastig blussen
+[14:03:58] <Jeroen> maar een lithiumbatterij doet 1,8MJ/kg
+[14:03:59] <bacobart> mgoed
+[14:04:01] <Jeroen> TATP 20
+[14:04:09] <Jeroen> en het is een high explosive
+[14:04:13] <bacobart> nu heb ik inmiddels zoveel gegoogled dat ik verloopig denk ik maar even niet moet gaan vliegen :P
+[14:04:18] <Jeroen> haha
+[14:04:23] <Jeroen> welkom in het vrije westen
+[14:08:38] <JasperWerk> Jeroen: is maar 1 orde van grootte
+[14:08:54] <JasperWerk> het feit dat een lithiumbatterij zo dichtbij een HE zit is al best eng ;)
+[14:08:58] <Jeroen> ja of 10x zo veel, is maar net hoe je het uitlegt
+[14:09:14] <JasperWerk> jeroen: 10 dB ;)
+[14:09:31] <Jeroen> benzine doet 47MJ/kg overigens
+[14:09:38] <Jeroen> als je dan toch enge dingen wil zeggen
+[14:10:21] <JasperWerk> maar *nog* moeilijker om in korte tijd eruit te krijgen
+[14:10:28] <Jeroen> ja
+[14:10:36] <Jeroen> maar dat is bij TATP dus makkelijker dan bij lithiumbatterijen
+[14:10:47] <Jeroen> TATP is een _erg_ instabiele high explosive
+[14:10:57] <Jeroen> niet voor niks dat dat blijkbaar voor alle recente terreuraanslagen is gebruikt :+
+[14:11:13] <Jeroen> is ook nog eens redelijk makkelijk te synthetiseren afaik, maar dat durf ik niet meer te googelen
+[14:11:16] <Jeroen> (wel gevaarlijk)
+[14:11:44] *** Joins: zomertje (zomertje@pluizigenblauw.xs4all.nl)
+[14:11:44] *** ChanServ sets mode: +o zomertje
+[14:11:54] *** Quits: zomertje (zomertje@pluizigenblauw.xs4all.nl) (Exit)
+[14:12:21] <JasperWerk> Because of its high susceptibility to accidental detonation (and resulting "workplace accidents" in bomb-making shops), TATP has been referred to as the "Mother of Satan."
+[14:13:45] <Jeroen> ik zeg: koop er nog drie flessen te sterke alcohol bij in de giftshop
+[14:13:49] <Jeroen> en je hebt ook nog wat vlammetjes
+[14:14:02] <Jeroen> voor het michaelbay-effect
+[14:14:24] <Chiron> zo hard brandt dat niet, tenzij stroh80 ofzo
+[14:15:00] <Chiron> kan je beter dieselolie of nafta doen, voor het extra rook effect
+[14:15:01] <bacobart> zouden ze dat in de taxfree verkopen?
+[14:15:06] <bacobart> paar leuke molotovs aan boord :P
+[14:15:10] <Jeroen> dat is zo lastig binnen te krijgen, Chiron 
+[14:15:16] <Jeroen> stroh 160 is 75% ethanol
+[14:15:26] <Chiron> neuh taxfree is meestal 40%
+[14:15:40] <Chiron> wel literflessen altijd, lekker groot
+[14:15:46] <Jeroen> evt kan je nog een molecular sieve meenemen, maar ik weet niet hoe snel dat werkt
+[14:15:59] <Jeroen> moet je vroeg langs de security, kan je nog ff klussen in de wc 
+[14:16:00] <Jeroen> :')
+[14:16:29] <Chiron> of die gast met dat penta-nogwat spul in zn schoenzolen
+[14:16:40] <Prof_NaPo^^> Iets voor Jeroen, kwaliteit uit zijn tijd! https://www.youtube.com/watch?v=ROowhvQ32Ns
+[14:16:48] <Chiron> dat boemt ook wel hard
+[14:16:52] <Jeroen> haha
+[14:16:53] <Jeroen> jezus
+[14:17:03] <Jeroen> mja TATP bevat geen stikstof, Chiron 
+[14:17:08] <Jeroen> dat is lastig te detecteren
+[14:17:12] <Jeroen> zie ik op wikipedia
+[14:17:29] <Jeroen> nu meen ik dat explosiedetectie sowieso een beetje een wassen neus was
+[14:18:07] <Jeroen> "Ik heb vorig jaar op Schiphol voor de paspoortcontrole bij een liquor store Absinthe van 89.6% gezien, het was toen volgens mij 39.95 voor 70cl "
+[14:18:08] <Jeroen> koopje
+[14:18:09] *** Joins: Stuiterbal (Stuit@2001:980:5281:1:24e2:86f7:33ac:b99)
+[14:19:34] <bacobart> valt denk ik wel op als je daar 10 flessen van meeneemt ;p
+[14:22:35] <Jeroen> neem je 2 maten mee
+[14:22:56] <Jeroen> https://rietta.com/blog/2016/04/08/feinstein-burr-encryption-bill/
+[14:22:57] <Jeroen> wait what
+[14:25:22] <bacobart> kunnen alle tech bedrijven mooi hun servertjes naar de eu verplaatsen;p
+[14:25:27] <bacobart> en hun hq waarschijnlijk;p
+[14:26:47] <Prof_NaPo^^> wat een ideeen hebben sommige politici ook...
+[14:27:00] *** Quits: PCR (pcr@2a02:a441:a99f:0:3c99:5045:c31:7118) (Ping timeout: 60 seconds)
+[14:27:00] *** Quits: McM (mcm@d30008.upc-d.chello.nl) (Ping timeout: 60 seconds)
+[14:27:19] <JasperWerk> Tim Cook voortaan in Amsterdam dan maar
+[14:27:29] *** Joins: PCR (pcr@2a02:a441:a99f:0:3c99:5045:c31:7118)
+[14:27:36] <bacobart> mja, 't mooie is dat de lui die ze zogenaamd met zo'n wet willen pakken er toch wel omheen werken
+[14:27:44] <bacobart> en 't dus alleen de normale burger treft
+[14:28:06] <JasperWerk> volgende wet: iedere keer dat je data gebreached wordt moet je de slachtoffers compenseren met $veel
+[14:28:30] <Prof_NaPo^^> en dan blijkt de breach bij de FBI te liggen :D
+[14:28:47] <JasperWerk> federal agencies uitgezonderd uiteraard
+[14:33:14] *** Quits: PCR (pcr@2a02:a441:a99f:0:3c99:5045:c31:7118) (Client exited)
+[14:52:13] *** Quits: Resistor (Resistor@ip5456d91b.speed.planet.nl) (Ping timeout: 60 seconds)
+[14:57:40] *** Joins: PCR (pcr@2a02:a441:a99f:0:e0c3:3537:a4c6:6c74)
+[15:21:49] <tozzert> zôo wir 't schèhl eraf drinken jè
+[15:24:32] <tobias> godver ik had bier moeten kopen
+[15:24:43] *** Quits: Loon (Loon@095-096-167-046.static.chello.nl) (Exit)
+[15:28:37] *** Quits: PCR (pcr@2a02:a441:a99f:0:e0c3:3537:a4c6:6c74) (Ping timeout: 60 seconds)
+[15:29:05] *** Joins: PCR (pcr@2a02:a441:a99f:0:e0c3:3537:a4c6:6c74)
+[15:33:21] <tozzert> slechte zaak tobias
+[15:33:25] <tozzert> geen bier in huis hebben
+[15:33:33] <tozzert> prutsert
+[15:33:43] <tozzert> wat beszielde je?
+[15:33:52] <tozzert> -s
+[15:34:33] *** Joins: boy_yonder (Seb@82-169-222-71.ip.telfort.nl)
+[15:41:39] *** Joins: BootyJudy (Mibbit@D9789FBE.cm-3-1c.dynamic.ziggo.nl)
+[15:42:19] *** Quits: BootyJudy (Mibbit@D9789FBE.cm-3-1c.dynamic.ziggo.nl) (Exit)
+[15:42:29] *** Joins: BootyJudy (Mibbit@D9789FBE.cm-3-1c.dynamic.ziggo.nl)
+[15:42:46] *** Quits: BootyJudy (Mibbit@D9789FBE.cm-3-1c.dynamic.ziggo.nl) (Exit)
+[15:43:07] *** Joins: Smileface (alexander@25bc408b.ftth.concepts.nl)
+[16:00:02] *** Quits: PCR (pcr@2a02:a441:a99f:0:e0c3:3537:a4c6:6c74) (Ping timeout: 60 seconds)
+[16:00:31] *** Joins: PCR (pcr@2a02:a441:a99f:0:e0c3:3537:a4c6:6c74)
+[16:01:09] *** Prof_NaPo^^ is now known as Prof_Away^^
+[16:09:13] *** Joins: yonderboy (Seb@82-169-222-71.ip.telfort.nl)
+[16:09:37] *** Quits: boy_yonder (Seb@82-169-222-71.ip.telfort.nl) (Ping timeout: 62 seconds)
+[16:12:53] <Jeroen> https://i.imgur.com/vEWCjzf.jpg
+[16:12:59] <Jeroen> fantastische foto
+[16:18:38] *** Joins: teder (Teder@ip-217-103-196-58.ip.prioritytelecom.net)
+[16:18:44] *** Joins: Resistor (Resistor@ip5456d91b.speed.planet.nl)
+[16:26:19] *** Joins: Tomsworld (tom@2a02:a03f:12c0:600:791e:fd5a:79a5:773a)
+[16:26:19] *** ChanServ sets mode: +o Tomsworld
+[16:27:46] *** Quits: Tomsworld (tom@2a02:a03f:12c0:600:791e:fd5a:79a5:773a) (Ping timeout: 66 seconds)
+[16:31:25] *** Quits: PCR (pcr@2a02:a441:a99f:0:e0c3:3537:a4c6:6c74) (Ping timeout: 61 seconds)
+[16:32:00] *** Joins: PCR (pcr@2a02:a441:a99f:0:e0c3:3537:a4c6:6c74)
+[16:38:30] *** Joins: sebsebseb (Seb@82-169-222-71.ip.telfort.nl)
+[16:38:35] *** Quits: yonderboy (Seb@82-169-222-71.ip.telfort.nl) (Ping timeout: 60 seconds)
+[16:52:30] *** boekee_away is now known as boekee
+[16:53:07] <Jeroen> Gender Pay Gap Bake Sale, 10 – 2pm on the Grassy Knoll
+[16:53:08] <Jeroen> > Come and visit the members of the UQU Women’s Collective to purchase baked goods – with a difference. Specific to each faculty, each baked good will only cost you the proportion out of $1.00 that you earn comparative to men (or, if you identify as a man, all baked goods with cost you $1.00!).
+[16:53:13] <Jeroen> https://www.facebook.com/events/993381204089168/
+[16:53:15] <Jeroen> feministen
+[16:53:17] <Jeroen> :D
+[16:54:36] <Dubbeldrank> man man man, Hans van Baalen die commentaar geeft op het referendum
+[16:55:09] <Dubbeldrank> wat een pannenkoek
+[16:55:16] <Dubbeldrank> net op RTL Z
+[16:55:46] <Dubbeldrank> Waarschijnlijk gaat het verdrag dan gewoon verder met 27 landen
+[16:56:27] <Dubbeldrank> en alle domme argumenten die voorbij zijn gekomen over de opkomst
+[16:56:34] <Dubbeldrank> en wat als...
+[16:58:08] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[17:00:28] <Jeroen> Dubbeldrank is tegen oekraine?
+[17:00:46] <Dubbeldrank> absoluut
+[17:00:47] <JasperWerk> bijna alles in het verdrag is toch gewoon afspraken met de eu, en niet metde landen individueel?
+[17:01:14] <JasperWerk> ik heb nog steeds een heel dubbel gevoel erbij'
+[17:01:19] <Dubbeldrank> ik ben tegen het associatieverdrag voor bestwil van de oekraine
+[17:01:42] <Dubbeldrank> als het doorgaat, wat ook waarschijnlijk gewoon gebeurt zonder Nederland
+[17:01:45] <JasperWerk> ik heb weliswaar tegen gestemd maar i kvind het vreselijk dat ik daarmee in het kamp van fuckign Wilders terechtkom
+[17:02:10] <Dubbeldrank> dan kunnen Amerikaanse en Europese oliemaatschappijen daar los op schaliegas, iets wat het hele land naar de klote gaat helpen
+[17:02:30] <Dubbeldrank> Die argumenten waar de overheid mee aankomt zijn bijzaak
+[17:02:47] *** Quits: PCR (pcr@2a02:a441:a99f:0:e0c3:3537:a4c6:6c74) (Ping timeout: 60 seconds)
+[17:03:04] <Dubbeldrank> alles draait om geld, en niet het geld dat bij de Oekraine of de EU terechtkomt maar bij de industrie
+[17:03:10] *** Joins: PCR (pcr@2a02:a441:a99f:0:e0c3:3537:a4c6:6c74)
+[17:03:35] <JasperWerk> anders doen de russen het
+[17:03:43] <Dubbeldrank> hoezo kom je in het wilderskamp terecht?
+[17:03:46] <Dubbeldrank> dat is onzin
+[17:04:12] <JasperWerk> dat is iets wat ik niet weinig langs heb zien komen uit het buitenland
+[17:04:43] <JasperWerk> "extrreem links en extreem rechts zijn tegen en de rest is neit op komen dagen. dus nu is extreemrechts de grootste partij in nederland"
+[17:04:49] <JasperWerk> like 2 logica errors daarin
+[17:05:27] <Dubbeldrank> tja
+[17:05:40] <JasperWerk> maar goed,  ik ben klaar met ewerk
+[17:05:41] <JasperWerk> laters
+[17:05:50] <Dubbeldrank> yo
+[17:06:06] <Dubbeldrank> maar verder met ik ook compleet tegen de EU
+[17:06:19] <Dubbeldrank> Europa is prima en het had bij handelsverdragen moeten blijven
+[17:06:54] <Dubbeldrank> verder kan je wat sturende instituten europees gezien hebbendie facilitair op zaken toezien
+[17:07:09] <Dubbeldrank> maar geen wetten bepalen
+[17:09:20] *** Joins: boy_yonder (Seb@82-169-222-71.ip.telfort.nl)
+[17:09:37] *** Quits: sebsebseb (Seb@82-169-222-71.ip.telfort.nl) (Ping timeout: 62 seconds)
+[17:18:41] *** boekee is now known as boekee_away
+[17:34:07] *** Quits: PCR (pcr@2a02:a441:a99f:0:e0c3:3537:a4c6:6c74) (Ping timeout: 60 seconds)
+[17:34:31] *** Joins: PCR (pcr@2a02:a441:a99f:0:e0c3:3537:a4c6:6c74)
+[17:39:21] *** Quits: sm0ck (ashnohoe@D97B8CD4.cm-3-4c.dynamic.ziggo.nl) (Ping timeout: 66 seconds)
+[17:39:24] *** Joins: sm0ck (ashnohoe@D97B8CD4.cm-3-4c.dynamic.ziggo.nl)
+[17:40:00] *** Quits: boy_yonder (Seb@82-169-222-71.ip.telfort.nl) (Ping timeout: 60 seconds)
+[17:40:04] *** Joins: boy_yonder (Seb@82-169-222-71.ip.telfort.nl)
+[17:45:13] <Hooglander1> Mogguh
+[17:46:16] *** Quits: Stuiterbal (Stuit@2001:980:5281:1:24e2:86f7:33ac:b99) (Exit)
+[17:53:03] *** Quits: Smileface (alexander@25bc408b.ftth.concepts.nl) (Exit)
+[17:53:04] *** Prof_Away^^ is now known as Prof_NaPo^^
+[18:05:29] *** Quits: PCR (pcr@2a02:a441:a99f:0:e0c3:3537:a4c6:6c74) (Ping timeout: 61 seconds)
+[18:05:52] *** Joins: PCR (pcr@2a02:a441:a99f:0:e0c3:3537:a4c6:6c74)
+[18:06:54] *** boekee_away is now known as boekee
+[18:36:50] *** Quits: PCR (pcr@2a02:a441:a99f:0:e0c3:3537:a4c6:6c74) (Ping timeout: 60 seconds)
+[18:37:14] *** Joins: PCR (pcr@2a02:a441:a99f:0:e0c3:3537:a4c6:6c74)
+[19:03:01] *** Quits: Resistor (Resistor@ip5456d91b.speed.planet.nl) (Exit)
+[19:07:49] *** Joins: Smileface (alexander@25bc408b.ftth.concepts.nl)
+[19:08:10] *** Quits: PCR (pcr@2a02:a441:a99f:0:e0c3:3537:a4c6:6c74) (Ping timeout: 60 seconds)
+[19:08:35] *** Joins: PCR (pcr@2a02:a441:a99f:0:e0c3:3537:a4c6:6c74)
+[19:14:24] *** Quits: teder (Teder@ip-217-103-196-58.ip.prioritytelecom.net) (Exit)
+[19:15:19] *** boekee is now known as boekee_away
+[19:25:40] *** Quits: Smileface (alexander@25bc408b.ftth.concepts.nl) (Exit)
+[19:28:25] *** boekee_away is now known as boekee
+[19:50:22] *** Prof_NaPo^^ is now known as Prof_Away^^
+[19:53:33] *** Joins: Arno (arno@541B0FEB.cm-5-4a.dynamic.ziggo.nl)
+[19:53:33] *** ChanServ sets mode: +o Arno
+[20:07:38] <DinX> http://imgur.com/gallery/eSOYhok/new
+[20:08:14] <Jeroen> sakkers
+[20:09:29] <DinX> hij heeft em verkeerd om het schroefje gedaan
+[20:09:30] <DinX> :p
+[20:09:32] <DinX> prutser
+[20:09:51] <boekee> Woei
+[20:10:23] *** Quits: PCR (pcr@2a02:a441:a99f:0:e0c3:3537:a4c6:6c74) (Ping timeout: 61 seconds)
+[20:10:36] <boekee> Degene die dat verzonnen heeft moeten ze echt opnemen ;) levensgevaarlijk prutswerk
+[20:10:54] *** Joins: PCR (pcr@2a02:a441:a99f:0:e0c3:3537:a4c6:6c74)
+[20:15:08] *** Joins: Escovan (Escovan@107.6.175.170)
+[20:18:39] *** boekee is now known as boekee_away
+[20:24:04] *** Quits: Hooglander1 (Hoog@isleet.nl) (Ping timeout: 60 seconds)
+[20:24:36] *** Joins: Hooglander1 (Hoog@2001:984:ef56:1:211:32ff:fe51:1415)
+[20:31:24] *** Quits: Tweaker3571 (DCM360@535509EC.cm-6-6a.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[20:34:03] *** Joins: DCM360 (DCM360@535509EC.cm-6-6a.dynamic.ziggo.nl)
+[20:41:53] *** Quits: PCR (pcr@2a02:a441:a99f:0:e0c3:3537:a4c6:6c74) (Ping timeout: 60 seconds)
+[20:42:17] *** Joins: PCR (pcr@2a02:a441:a99f:0:e0c3:3537:a4c6:6c74)
+[21:04:59] *** Quits: Sponge (Sponge@149.210.150.92) (Connection reset by peer)
+[21:05:32] *** Joins: Sponge (Sponge@149.210.150.92)
+[21:05:57] *** Joins: Resistor (Resistor@ip5456d91b.speed.planet.nl)
+[21:12:52] *** Quits: PCR (pcr@2a02:a441:a99f:0:e0c3:3537:a4c6:6c74) (Ping timeout: 61 seconds)
+[21:13:16] *** Joins: PCR (pcr@2a02:a441:a99f:0:e0c3:3537:a4c6:6c74)
+[21:31:36] *** Quits: SimonP (SimonP@znc.glasvezel-online.net) (Exit)
+[21:34:21] *** Joins: SimonP (SimonP@2001:41d0:2:be61:0:0:0:96)
+[21:43:50] *** Quits: PCR (pcr@2a02:a441:a99f:0:e0c3:3537:a4c6:6c74) (Ping timeout: 60 seconds)
+[21:44:13] *** Joins: PCR (pcr@2a02:a441:a99f:0:e0c3:3537:a4c6:6c74)
+[21:54:59] *** Quits: Resistor (Resistor@ip5456d91b.speed.planet.nl) (Exit)
+[21:56:51] *** Joins: Guyver2 (Guyver2@guyver2.xs4all.nl)
+[21:58:00] *** Quits: SimonP (SimonP@2001:41d0:2:be61:0:0:0:96) (Ping timeout: 61 seconds)
+[21:58:07] *** Joins: Guest6330 (anon@185.66.250.92)
+[21:58:33] *** Joins: SimonP (SimonP@remote.glasvezel-online.net)
+[21:59:20] *** Quits: Dennis (dennis@anna.infra.promising.nl) (Ping timeout: 68 seconds)
+[21:59:27] *** Joins: Dennis (dennis@anna.infra.promising.nl)
+[21:59:48] *** Guest6330 is now known as Blaataap
+[22:01:55] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[22:02:04] *** Joins: Teckna1 (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[22:03:00] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 61 seconds)
+[22:15:12] *** Quits: PCR (pcr@2a02:a441:a99f:0:e0c3:3537:a4c6:6c74) (Ping timeout: 61 seconds)
+[22:15:35] *** Joins: PCR (pcr@2a02:a441:a99f:0:e0c3:3537:a4c6:6c74)
+[22:30:44] *** Joins: Hoogvlieger (Hoogvliege@ip41-37-211-87.adsl2.static.versatel.nl)
+[22:39:41] *** Quits: boy_yonder (Seb@82-169-222-71.ip.telfort.nl) (Exit)
+[22:46:31] *** Quits: PCR (pcr@2a02:a441:a99f:0:e0c3:3537:a4c6:6c74) (Ping timeout: 60 seconds)
+[22:46:54] *** Joins: PCR (pcr@2a02:a441:a99f:0:e0c3:3537:a4c6:6c74)
+[22:49:28] *** Quits: Teckna1 (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 66 seconds)
+[22:54:23] *** Quits: Wussie (wussie@220-251.ftth.onsbrabantnet.nl) (Exit)
+[23:00:44] *** Joins: Vipertje (tweak@54182E79.cm-5-1a.dynamic.ziggo.nl)
+[23:05:25] *** boekee_away is now known as boekee
+[23:09:33] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[23:11:47] <Drawer> Jeroen, 
+[23:11:48] <Drawer> http://www.omroepbrabant.nl/?news/2472991383/Notoire+plantengooier+kwelt+inwoners+Raamsdonk+door+planten+op+geparkeerde+auto%E2%80%99s+te+smijten.aspx
+[23:11:49] <Drawer> :DD
+[23:12:01] <Drawer> hoe knullig
+[23:12:02] <Jeroen> :D
+[23:12:04] <Jeroen> what the shit
+[23:12:27] <Drawer> zojuist mn auto ook voor >3 weken geparkeerd
+[23:12:35] <Drawer> ik kan blijkbaar mn spiegels niet inklappen :D
+[23:12:39] <Drawer> raaaaar
+[23:12:48] <moto-moi|afk> dat lijkt me sterk
+[23:12:55] <moto-moi|afk> zelfs mijn paupere seat kan dat
+[23:13:08] <moto-moi|afk> alleen zou ik niet weten waarom ik dat zou willen
+[23:14:09] <boekee> Raamsdonk?  Ben ik geboren.....  Maar heb een alibi, woon in Leiden 
+[23:14:28] <Drawer> oh kut 
+[23:14:32] <Drawer> boekee komt uit onze buurt Jeroen 
+[23:14:32] <Drawer> ;(
+[23:14:44] <Jeroen> ghehe
+[23:14:56] <Jeroen> boekee is een faant? of wat noemen ze het volk daar
+[23:15:34] <Drawer> nee da is t fer
+[23:15:43] <Drawer> right
+[23:15:48] <boekee> Ben een neppert
+[23:16:04] <Drawer> den haaykant Jeroen 
+[23:16:09] <boekee> Geboren maar verhuisd toen ik 1 was
+[23:16:18] <Drawer> snap ik
+[23:16:18] <Drawer> kutdorp
+[23:16:23] <boekee> Haha
+[23:16:43] <boekee> Louman heeft mijn pa gewe
+[23:16:48] <Drawer> nice
+[23:17:00] <Drawer> jullie pap toch ook Jeroen 
+[23:17:12] <boekee> Gewerkt,  maar ze konden er niet wennen dus terug 
+[23:17:50] *** Quits: PCR (pcr@2a02:a441:a99f:0:e0c3:3537:a4c6:6c74) (Ping timeout: 60 seconds)
+[23:18:14] *** Joins: PCR (pcr@2a02:a441:a99f:0:e0c3:3537:a4c6:6c74)
+[23:22:33] *** Quits: Drawer (z@53521BE5.cm-6-3a.dynamic.ziggo.nl) (Ping timeout: 67 seconds)
+[23:25:13] <boekee> Mijn moeder wil steeds met mij daarheen omdat ik er geboren ben.  He
+[23:25:54] <boekee> Ben ooit een keer in een kroeg/disco beland daar
+[23:26:25] <boekee> Beetje  lauw,  geef mij dan maar wat meer leven in de brouwerij 
+[23:27:04] <Jeroen> hebben ze kroegen in raamsdonk?
+[23:27:09] <Jeroen> laat staan discotheken
+[23:27:57] *** Joins: Stuiterbal (Stuit@2001:980:5281:1:59cc:402c:624e:d828)
+[23:31:12] <boekee> . Vriend van mij is DJ moest er toen draaien. 
+[23:32:04] <boekee> Toen ik mensen vertelde dat ik er geboren was geloofden ze me oprecht niet,  maar toen ik mijn id liet zijn kreeg ik gratis bier hahah
+[23:33:52] <Jeroen> hahaha
+[23:34:08] <Jeroen> maar dat zal eerder raamsdonksveer geweest zijn dan?
+[23:34:14] <Jeroen> daar zit wel een beruchte discotheek
+[23:35:23] <boekee> Ik ben in Raamsdonkveer geboren maar in paspoort staat Raamsdonk 
+[23:35:43] <boekee> Dus ging er vanuit dat het een pot nat is
+[23:35:58] <boekee> Kom immers nooit daar 
+[23:36:04] <Jeroen> haha
+[23:36:19] <Jeroen> http://oscarsonline.nl/ deze bedoel je zeker
+[23:37:10] <boekee> Kan helemaal kloppen ja hehhe
+[23:37:32] <boekee> Maar verschil tussen Raamsdonk en Raamsdonkveer? 
+[23:37:38] <Jeroen> enige plek in die buurt die een niet-lokale dj zou aantrekken :+
+[23:37:40] <Jeroen> ja geen idee
+[23:37:46] <Jeroen> twee verschillende dorpen binnen dezelfde gemeente
+[23:39:48] <boekee> Aha
+[23:40:16] <boekee> Klopt Partyraiser komt niet daar vandaan hehehe 
+[23:40:36] <Jeroen> ik voel me wel oud als ik door de partypics van die tent klik
+[23:40:37] <Jeroen> :D
+[23:40:44] <Jeroen> vroeger kende ik daar toch wel wat mensen
+[23:43:06] <boekee> Toen ik daar was vroeg ik me wel af hoe me leven zou zijn als ik daar gebleven en opgegroeid was 
+[23:43:27] <boekee> Maar Leiden leeft toch wel meer
+[23:44:35] *** Quits: Arno (arno@541B0FEB.cm-5-4a.dynamic.ziggo.nl) (Connection reset by peer)
+[23:45:55] <Hooglander1> Drawer: altijd een auto op 1 parkeerplek
+[23:46:09] <Hooglander1> Gewoon eens kijken wie er zijn auto neerzet zonder plant erop
+[23:46:11] <boekee> Schaam me iig niet dat er Raamsdonk op me paspoort staat,  klinkt wel duur
+[23:46:12] <Hooglander1> Das de gek
+[23:48:10] *** Quits: Sponge (Sponge@149.210.150.92) (Ping timeout: 60 seconds)
+[23:49:11] *** Quits: PCR (pcr@2a02:a441:a99f:0:e0c3:3537:a4c6:6c74) (Ping timeout: 61 seconds)
+[23:49:33] *** Joins: PCR (pcr@2a02:a441:a99f:0:e0c3:3537:a4c6:6c74)
+[23:53:20] <Jeroen> ik ben blij dat ik niet in die hoek woon boekee :+
+[23:54:06] <Jeroen> ik ken wel wat mensen die lekker aan de uni van tilburg gestudeerd hebben enzo
+[23:54:14] <Jeroen> en bij papa en mama thuis zijn blijven wonen
+[23:54:17] <Jeroen> no thanks
+[23:55:46] <boekee> Mij niet gezien 
+[23:55:54] <boekee> Wel lekker rustig daar
+[23:56:00] <Jeroen> mja
+[23:56:09] *** Quits: DizzyWeb (arjen@2a02:a450:8e2c:0:0:0:0:10) (Exit)
+[23:57:11] <Hooglander1> Pfft
+[23:57:20] <Hooglander1> Zegt Jeroen die nooit echt op kamers heeft gewoond
+[23:57:33] <Hooglander1> Alleen in zijn chique studiootje
+[23:57:36] *** Joins: DizzyWeb (arjen@ip56508964.direct-adsl.nl)
+[23:57:40] <Jeroen> ik ben toch zeker geen pauper
+[23:57:49] <Hooglander1> Beetje denken dat je beter bent dan een ander
+[23:59:17] <Hooglander1> Je ouders wonen vlakbij Raamsdonk man
+[23:59:19] <Hooglander1> Een pot nat
+[23:59:52] <Jeroen> dat was het idee achter mijn opmerking ja

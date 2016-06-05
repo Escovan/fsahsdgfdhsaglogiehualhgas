@@ -1,0 +1,286 @@
+[00:00:26] <lowkey> well I've only seen one IPv6 so far and this host is on an IPv4 link so I haven't spent much time looking
+[00:04:43] <grape> I had a discussion here about the move to IPv6.... now.. given I done a webmaster course back in 2001 and given then it was hailed as: that is the future... it is still not here...
+[00:06:26] <lowkey> NAT has proven good enough that we haven't had to upgrade yet
+[00:06:43] <lowkey> but now that we have the IoT, that may soon change
+[00:08:27] <grape> IoT?
+[00:08:34] <grape> Institut of Technology?
+[00:09:12] <lowkey> internet of things
+[00:09:39] <grape> oh that nonsens....
+[00:09:43] <lowkey> now that we're connecting our fridges and thermostats to be able to configure them, it will take IPs
+[00:14:55] <grape> why would I need that?
+[00:32:45] <lowkey> so your fridge knows when to order things for your sandwiches!
+[00:36:49] <grape> but does it prepare my sandwiches as well? and does it know what I want to eat in that week?
+[00:37:09] <lowkey> we have to wait for that upgrade
+[00:40:15] <grape> we always have to wait for something :D
+[00:40:34] <lowkey> ain't that the truth
+[00:41:10] <grape> I guess so...
+[00:41:15] <grape> anyhow... you had a good day?
+[00:41:57] <lowkey> pretty good.  installed PTF into a Qubes VM
+[00:42:26] <grape> PIF?
+[00:42:36] <grape> somehow today is national acronym day it seems
+[00:42:54] <lowkey> Penetration Testing Framework
+[00:42:58] <grape> ok
+[00:43:06] <grape> I planted my dahials... in pots
+[00:43:25] <lowkey> that kind of work is good for the soul
+[00:43:32] <grape> true
+[00:43:46] <grape> talking about which... my stomach problems seem to get better
+[00:44:53] <lowkey> thats good
+[00:46:43] <grape> yep... I hope it will stay like that...
+[00:46:44] <lowkey> its always good to have hobbies that allow you to decompress
+[00:47:36] <grape> yes... that is the reason why I got the garden... and my workshop
+[00:47:53] <grape> so I am looking forward to get rid off the cold.. and proper spring... 
+[00:47:58] <grape> with more than 15 °C
+[00:48:19] <lowkey> that maybe were I make my mistake.  I get away from computers by going to play with my own computers
+[00:50:20] <grape> no... not in the non-winter seasons
+[00:51:36] <lowkey> yeah, I need a hobby
+[00:52:25] <lowkey> and maybe to get below 6 cups of coffee a day
+[00:56:14] <grape> I only got 2 cups... one filter coffee at 11:00 and one espresso for dinner
+[00:56:18] <grape> well.. after dinner really
+[00:57:19] <lowkey> I got a french press for xmas and I love it.
+[00:57:19] <lowkey> mmmmmmmm lagtastic
+[01:00:11] <grape> what is a french press?
+[01:00:55] <lowkey> http://ecx.images-amazon.com/images/I/41gBSNXd2VL._SY300_.jpg
+[01:01:32] <lowkey> its very simple but it makes a great cup of coffee
+[01:01:38] <grape> oh... that one
+[01:01:44] <lowkey> yep
+[01:01:49] <grape> I think it has a different name here
+[01:02:04] <lowkey> a bolun ?  isn't that the french?
+[01:02:43] <grape> I think so.... 
+[01:02:52] <lowkey> or is it le creuset
+[01:02:59] <grape> no
+[01:03:07] <lowkey> and bialetti in italian
+[01:03:10] <grape> the British would not know how to pronounce it...
+[01:03:13] <lowkey> google knows all!
+[01:03:47] <grape> lol
+[01:05:58] <lowkey> all I know is it makes good coffee.  well it does once you figure out what size to grind the coffee to
+[01:06:53] <grape> I guess that is the tricky bit here...
+[01:07:16] <grape> i got one of these octagonal little espresso machines... the ones you put on a hot plate
+[01:07:32] <lowkey> those make pretty good coffee too.
+[01:07:40] <lowkey> simple old tech but it works
+[01:08:44] <lowkey> I need a new kettle with better control on water temp.  right now I have one that has two settings.  A - room temp,  B - boiling
+[01:09:35] <grape> mine is digital :-)
+[01:09:59] <lowkey> that would be nice.
+[01:11:48] <grape> it is working quite well... it even got an blue LED to show the status: blue = 1, not blue = 0
+[01:11:50] <grape> :-)
+[01:12:04] <lowkey> LOL
+[01:12:48] <grape> why?
+[01:13:01] <grape> it is digital.. exactly two states!
+[01:13:15] <lowkey> what more do you need?
+[01:14:13] <grape> less chalcy water
+[01:14:16] <grape> i.e. soft water
+[01:14:30] <lowkey> our water here is pretty good
+[01:16:43] <grape> lucky you...
+[01:16:51] <grape> ours is not bad... but quite hard...
+[01:17:03] <grape> right.. bedtime...
+[01:17:11] <grape> I hope I can sleep.. and I hope I feel better tomorrow
+[01:17:21] <lowkey> sleep well!  and feel better!
+[01:17:41] <grape> thanks
+[01:17:47] <grape> if not I will work from home tomorrow
+[01:18:32] <lowkey> that works too!
+[01:19:18] <lowkey> g'nite grape
+[01:19:18] <lowkey> nite all
+[01:19:21] <grape> well.. it is better doing that for a day... than travelling in..
+[01:19:23] <grape> night lowkey 
+[01:19:24] <grape> ttfn
+[01:19:26] *** Quits: grape (~grape@CJ-tf3.bbc.216.2.IP) (Quit: Verlassend)
+[01:19:29] *** Quits: lowkey (~lowkey@CJ-44j.afk.87.192.IP) (Quit: leaving)
+[02:25:51] *** Quits: Jae (~Jley@CJ-q2u.5mn.59.24.IP) (Connection closed)
+[15:36:25] *** andre_000_ is now known as AcidJello
+[16:19:07] *** Quits: synic (~squish@CJ-iiv0am.members.linode.com) (Quit: WeeChat 1.3)
+[16:19:55] *** Joins: synic (~squish@CJ-iiv0am.members.linode.com)
+[16:39:39] <AcidJello>  hello
+[17:18:37] *** Joins: LionsMane (~don@tower.lionsmane.org)
+[17:19:14] <LionsMane> quack dammit!
+[17:52:59] <AcidJello> pheeew
+[17:53:06] <AcidJello> just finished the time sheets
+[17:53:14] <AcidJello> 8 minutes to absolute deadline :D
+[18:19:12] <LionsMane> Good enough, I suppose.
+[18:22:27] <AcidJello> well
+[18:22:40] <AcidJello> its the deadline so anything before it should be ok
+[18:23:14] <AcidJello> now, if the people that come up with these deadlines dont give themselves enough time ... thats their fault
+[18:24:40] <LionsMane> Yup, I totally agree.
+[18:25:21] <LionsMane> So do you know dnsmasq at all?  I am trying to figure out where the logging for dnsmasq is going.  I want to turn on the debbugging level logging, but it doesn't seem to be terrible verbose.
+[18:37:24] <AcidJello> hmm cant say i do
+[18:37:35] <AcidJello> never really got the hang of masquarading
+[18:37:40] <AcidJello> or however you spell it
+[18:38:22] <AcidJello> ugh
+[18:38:37] <AcidJello> i forget now ... there was a tool i used for querying dns that you could use to troubleshoot
+[18:38:56] <AcidJello> dig
+[18:39:02] <AcidJello> dig digity
+[18:39:15] <AcidJello> great tool, does reverse dns lookups as well
+[18:40:14] *** Joins: grape (~grape@CJ-tf3.bbc.216.2.IP)
+[18:41:32] <grape> hi all
+[18:41:33] <grape> hi LionsMane 
+[18:41:37] <grape> how was your weekend LionsMane ?
+[18:42:38] <LionsMane> it was ok; didn't suck.
+[18:43:15] <LionsMane> Put a friend in the ground this weekend.
+[18:43:45] <grape> I am sorry to hear that LionsMane 
+[18:43:53] <LionsMane> Decided getting black out drunk wasn't good enough.  He started mixing in heroine.  And now he is taking the big dirt nap.
+[18:45:06] <grape> :-(
+[18:45:43] <grape> one of the reasons I stay away from drugs in general... and even my alcohol consume is low... compared to other peoples here...
+[18:45:52] <grape> a bottle of wine easily goes for 4 weeks here...
+[18:46:16] <LionsMane> ~shrug~  In my mind, it is not so much the quantity, it is how you hold your choices.
+[18:46:22] <LionsMane> He couldn't help but to drink.
+[18:46:40] <LionsMane> I drikn, sometimes to excess, but it is a choice I make before I pick up a drink.
+[18:47:45] <grape> ok
+[18:49:23] <LionsMane> Anyway,  I got a good motorcycle ride in up to New Hampshire.
+[18:49:59] <LionsMane> About and hour and a half each way.  A little closer than the place you went down in Rhode Island that time you came to Boston.
+[18:51:51] <grape> ok
+[18:51:57] <AcidJello> hmmm heroine in booze ... that sounds like a mix
+[18:52:09] <grape> not sure if that should be recommended AcidJello 
+[18:52:12] <AcidJello> always wondered how pot flavoured liquor would taste like
+[18:52:35] <AcidJello> yes ... aparently not FDA approved
+[18:53:24] <AcidJello> LionsMane, seems youre getting some shovel loads of shitty times 
+[18:54:05] <AcidJello> gotta look forward to that yang at the end of the tunnel
+[18:54:53] <LionsMane> Heh, "I thought I was seeing the light at the end of the tunnel, but it was the signal of an oncoming train"
+[18:55:48] <grape> lol
+[19:02:03] <LionsMane> Anyway, about dnsmasq logging.  Any takers?
+[19:03:37] <grape> what do you want to log?
+[19:08:06] <LionsMane> I want to see all the accesses to the service.
+[19:08:26] <grape> I am only using it as a DNS cache...
+[19:08:44] <LionsMane> There is a debug mode where it doesn't fork into the background, but it has scant little logging.  Like when I change wifi AP's it reports that it is changing DNS servers.
+[19:08:59] <LionsMane> Yeah, I am using to do DNS redirects.
+[19:11:18] <grape> redirects or caching?
+[19:22:58] <LionsMane> Redirects.  We are trying to unwrap SSL web calls between the Unity client and the backend.
+[19:23:28] <LionsMane> We got the SSL certs for the QA environment, so we can actually sign the requests just as if we were the legit QA environment.
+[19:25:47] <grape> ok... that is beyond my knowledge here
+[19:27:51] <LionsMane> Bah, I unendorse you on LinkedIn!! 
+[19:28:04] * LionsMane grins like an idiot.
+[19:29:36] <AcidJello> oh speaking of linked in
+[19:30:40] <AcidJello> you guys should look me up too. im acidjello on linked in
+[19:30:59] <grape> ok
+[19:31:31] <grape> LionsMane: what do you mean by unwrap SSL web calls?
+[19:31:46] <AcidJello> :)
+[19:31:47] <AcidJello> jk
+[19:32:05] <AcidJello> i always get concious when people request me to add them to my network and i take too long
+[19:41:48] <AcidJello> well im going to step outside with my laptop
+[19:41:57] <AcidJello> enjoy one of the perks of my job
+[19:42:05] <AcidJello> get some vitamin D
+[19:47:45] <grape> sounds like a god plan to me AcidJello 
+[19:49:21] <LionsMane> So it is a multi step process, grape.
+[19:50:09] <LionsMane> First you create a dns server that "mis-reports" the IP address of a web service.  Then point the client at that DNS server.  In our case, that is an iPhone/iPad.
+[19:50:55] <LionsMane> Next create an apache instance that contains the SSL cert of the environment you want to mimick.  Most places keep the SSL and private key locked away in different safe places.
+[19:51:14] <LionsMane> Once the SSL Cert is correctly signed, you don't need the private key any longer.
+[19:51:36] <LionsMane> So the web calls all get redirected to this "fake web server".
+[19:52:51] <LionsMane> Next is to forward the http request.  Since the fake web service apache was able to decrypt the request, the mod_proxy module in apache forwards the request as http://blabla instead of https://blabla.
+[19:54:24] <LionsMane> The goal is to get the request into Charles Proxy (a proxy server application) another bit of software, proxytunnel,  picks up the http (not s) request and wraps in a proxy request and sends it to Charles Proxy
+[19:55:10] <LionsMane> From there, like any good proxy, Charles forwards the request onto the "real service", logging the request as it goes.  And the return data is also logged.  
+[19:55:19] <LionsMane> Does that make sense, grape?
+[19:56:33] <grape> LionsMane: is that not called man-in-the-middle attack? basically you spoof the DNS request and give out the wrong IP..... if I understood you correctly... and then you do something with the html-data...
+[20:06:19] *** Quits: LionsMane (~don@tower.lionsmane.org) (Quit: Leaving.)
+[20:09:42] *** Joins: LionsMane (~don@tower.lionsmane.org)
+[20:11:28] <LionsMane> Well, it is far worse than a typical man-in-the-middle attack.
+[20:12:05] <LionsMane> You see, the 'fake' web service that I am creating on my laptop is indisquishable from the 'real' web service.
+[20:17:49] <AcidJello> so ... what is the point of decrypting the request and sending it opentext ?
+[20:19:33] <grape> ok... you are back
+[20:20:10] <LionsMane> AcidJello: The client requires a signed cert on the web service.  The client won't even accept a "self signed" cert.
+[20:20:23] <AcidJello> came in to get some more tea :)
+[20:20:51] <grape> LionsMane: usually clients don't accept self-signed cert...  
+[20:21:02] <AcidJello> lol
+[20:21:02] <LionsMane> The idea is to unwrap the web call in QA and Dev environments so we can see what the payloads are when trying to debug integration issues.
+[20:21:03] <grape> at least firefox does not per se... you need to tell it to do it
+[20:21:36] <grape> ok
+[20:21:41] <LionsMane> So the "client" is actually the .NET code in a Unity-based iOS application
+[20:21:47] <AcidJello> wouldnt it be easier to just disable ssl for dev and qa ?
+[20:21:56] <LionsMane> It is compiled code, AcidJello
+[20:22:25] <grape> and all of that is in a mobile phone... the client I mean, right?
+[20:22:35] <AcidJello> i mean dont get me wrong, i would of gone with the way youre doing it too :)
+[20:22:46] <AcidJello> i am curious tho
+[20:22:58] <AcidJello> most browsers can warn you of this sort of thing
+[20:23:30] <LionsMane> No browser is involved in this stack, AcidJello
+[20:23:33] <grape> one of the issues I see is: if that is leaked to the outside world... I mean the certs being used, there is a problem
+[20:23:57] <AcidJello> i mean going from blabla.com:443 to blabla.come:80 is still a redirect (says me before reading your last message )
+[20:24:11] <AcidJello> ok
+[20:24:22] <AcidJello> so this is some other kindof application
+[20:25:20] <LionsMane> AcidJello: There is no redirect, either.  The web request goes into apache directly.  From the client standpoint, it continues down the pipe.  Inside apache, it creates a new http request into proxytunnel.
+[20:25:32] <LionsMane> There are no 300-class return codes.
+[20:25:55] <LionsMane> There might be a 502, gateway timeout, if proxytunnel or charles proxy is down.
+[20:26:37] <LionsMane> But from the client, it is a simple https request to a server with a CA signed cert and it gets data back.
+[20:27:30] <grape> LionsMane: dnsmasq is actually reading localhost first... and then upstream... you can configure that
+[20:27:45] <grape> I think that was one of your questions... indirectly
+[20:28:59] <LionsMane> So dnsmask can set hosts via config file / command line.  So there is a pattern match of *.arenadev.gsngames.com that returns the IP address of the laptop with the apache server.
+[20:30:04] <grape> yes.. if you know the * then you just add it to /etc/hosts... and make sure it does not get read upstream..  or upstream comes later...
+[20:30:07] <LionsMane> Because of the way mod_proxy works, the ultimate hostname is preserved.  The Charles Proxy app is pointing at a correct dns server, so it does a hostname lookup an gets the IP address of the QA servers.
+[20:30:26] <grape> I do that on my clusters...  node1.sassy.local will never be read upstream but from /etc/hosts
+[20:30:33] <LionsMane> grape: Don't need to add it ot the hosts file if it is on the command line / config file in dnsmasq
+[20:30:45] <grape> ok
+[20:31:30] <LionsMane> I don't have the edit in front of me, but I can forward it when I am back at my desk.
+[20:32:04] <grape> ok
+[20:32:17] <grape> right... food time... I am hungry... I will think about the problem LionsMane ...
+[20:32:18] <grape> bbl
+[20:34:39] <LionsMane> What is the "problem?"
+[20:56:28] <AcidJello> anybody else insanely staticky ?
+[20:56:35] <AcidJello> im getting shocked like nuts
+[21:34:05] <LionsMane> You are nuts, AcidJello.  Question answered.  Next!
+[21:34:44] <LionsMane> My next answer, if you didn't like the first one, is you are dragging your feet and collecting stray electrons.
+[21:35:02] <LionsMane> Don't shuffle when you walk.  Question Answered.  NEXT!
+[21:58:15] *** Joins: lowkey (~lowkey@CJ-sfl.451.50.198.IP)
+[21:58:58] <lowkey> boing
+[21:59:03] <lowkey> hi grape
+[22:01:11] <grape> hi lowkey 
+[22:01:35] <grape> lowkey: LionsMane wants to do some SSL hacking... maybe you know how to do that?
+[22:02:33] <lowkey> depends on what type of ssl hacking he needs
+[22:03:34] <LionsMane> afternoon, grape
+[22:03:44] <grape> some kind of proxy stuff... in a nutshell: man-in-the-middle attack
+[22:04:03] <lowkey> soo sslstrip?
+[22:06:21] <lowkey> I assume he's trying to crack a session on his local network?   because the kicker to sslstrip is you have to arpspoof to get the connection to route through you
+[22:07:07] <LionsMane> grape: man-in-the-middle attack suggests a foriegn agent trying to hijack the request.
+[22:07:29] <LionsMane> That is not the case here.  We have the legit SSL signed certs.
+[22:08:00] <LionsMane> lowkey: It is easy if you create your own dns server and then point the iphone at the special dns server.
+[22:08:06] <LionsMane> That is the easy part.
+[22:08:55] <lowkey> what is the ultimate goal?
+[22:16:58] <grape> LionsMane: but it is more or less the same principle if I got your right: you intercept a SSL communication...
+[22:20:10] <lowkey> https://www.youtube.com/watch?v=MFol6IMbZ7Y
+[22:24:45] <lowkey> that might be a little longer video than you have time for
+[22:30:16] <lowkey> https://www.youtube.com/watch?v=LnbLRX83dzU  <-- this video is 9m  
+[22:40:59] <grape> bbl
+[22:41:22] <lowkey> boing
+[23:17:56] <lowkey> http://arstechnica.com/tech-policy/2016/04/i-wrote-isis-beer-funds-in-a-venmo-memo-and-the-feds-detained-my-42/
+[23:21:27] <lowkey> I think all tax checks should be electronic submitted with the tag "For ISIS Issues."
+[23:24:15] <grape> ping
+[23:24:52] <grape> lol
+[23:27:50] <LionsMane> pong
+[23:28:44] <LionsMane> grape: So the idea behind the man-in-the-middle is that the guy trying to intercept the data is UNable to provide exactly the same cert as the legit server can provide.
+[23:29:07] <LionsMane> And the idea behind the certs is that they can be tied to specific hostnames AND/OR specific IP addresses.
+[23:29:49] <lowkey> thats a general rule for man-in-the-middle but not necessarily required
+[23:31:56] <LionsMane> yes.
+[23:31:57] <lowkey> while it is extreme hard to get the certificates to make a man-in-the-middle look legit, it is also true that people are stupid and without basic browser settings would accept any certificate you gave them
+[23:32:09] <LionsMane> EXACTLY
+[23:32:35] <LionsMane> An because GSN is running both the servers and the clients, the clients already have the server signature loaded.
+[23:32:51] <LionsMane> Quite literally, the client's will connect to "nothing else".
+[23:33:00] <lowkey> I will admit to being annoyed that I have to manually accept the self-signed certificate every time I use it on my server
+[23:33:32] <lowkey> that sounds like a good design for software
+[23:33:42] <LionsMane> None of this "do you trust this server you are connecting to" bull crap.  If the client asks the question, then it is an automatic "No, don't trust, don't connect, do not pass go"
+[23:34:41] <LionsMane> lowkey: you *can* create your own Certificate Authority (CA) server and then add that  CA to each browser that you want to have connect to your server
+[23:34:48] <LionsMane> Just a thing, yanno.
+[23:34:57] <lowkey> that sounds like it would take effort
+[23:35:17] <LionsMane> I don't recommend that path, but it is an option if the asking is so troublesome.
+[23:36:02] <lowkey> the asking every time is annoying.  firefox would remember that I OK'd a self-signed for this site.  
+[23:36:12] <lowkey> Google Chrome asks every time
+[23:36:32] <lowkey> but Chrome is more secure these days.  so I deal with the inconvenience
+[23:39:11] <lowkey> one of these days I may try using Let's Encrypt to see if it takes care of the issue
+[23:39:11] <lowkey> mmmmmmmm lagtastic
+[23:39:11] <lowkey> silly tor
+[23:39:11] *** Quits: lowkey (~lowkey@CJ-sfl.451.50.198.IP) (Quit: leaving)
+[23:40:07] *** Joins: lowkey (~lowkey@CJ-1e0.ihq.231.197.IP)
+[23:40:17] <lowkey> boing
+[23:40:19] <lowkey> silly tor
+[23:44:12] <LionsMane> haha
+[23:44:13] <LionsMane> ok, I am off.
+[23:44:57] <LionsMane> Going to take my ex-girlfriend out for dinner.  Don't get me wrong, we are on good terms.  I would think that would be some other guy's job now.
+[23:45:05] <LionsMane> Anyway, I will live in the wonder.
+[23:45:11] <LionsMane> Have a good evening, ya'all.
+[23:45:13] *** Quits: LionsMane (~don@tower.lionsmane.org) (Quit: Leaving.)
+[23:45:22] <lowkey> lol
+[23:50:58] <grape> sorry... did not watch the room
+[23:51:25] <grape> there is a hitch: IF you get hold of the root certificate, you can generate a new certificate.. for the man-in-the-middle attack
+[23:51:55] <grape> so here you can fake the hostname and IP address
+[23:52:13] <lowkey> well and certain browsers were slow to remove questionable certificates from their collections.
+[23:53:10] <grape> yes
+[23:54:12] <lowkey> and you dont necessarily need the right root certificate, just any one to sign the one you're making will be enough to get past most browser checks
+[23:56:58] <AcidJello> hello
+[23:57:07] <lowkey> hiyo
+[23:57:15] <AcidJello> my outdoors experience has been effectively ruined by loud children
+[23:57:45] <lowkey> sometimes you just have to go postal
+[23:59:16] <grape> hi AcidJello ... back from the vitamine D session?
+[23:59:45] <AcidJello> yes

@@ -1,0 +1,152 @@
+[00:01:56] <grape> I think I am off to bed... I am knackered...
+[00:02:07] <lowkey> sleep well!
+[00:05:30] <AcidJell0> sup lowkey 
+[00:05:39] <AcidJell0> bye lowkey 
+[00:05:40] <AcidJell0> :)
+[00:05:42] <lowkey> bye
+[00:05:54] <lowkey> I'm just schooling a user
+[00:07:58] <AcidJell0> with a stick ?
+[00:08:05] <AcidJell0> over the head ? :)
+[00:08:55] <lowkey> I should.
+[00:09:10] <lowkey> basically he wants a new feature and he wants it now.
+[00:09:13] <grape> I am off....
+[00:09:16] <grape> ttfn
+[00:09:21] <lowkey> g'nite grape
+[00:09:23] <lowkey> :-)
+[00:09:24] <grape> :-)
+[00:09:25] *** Quits: grape (~grape@CJ-3k1.8q0.194.90.IP) (Quit: Verlassend)
+[00:47:07] <lowkey> ok basic implementation of the feature in place.
+[01:19:47] <lowkey> and a little more learning teaches us that this will be insanely difficult to create.
+[02:48:32] *** Quits: chalcedony (~llhull@adsl-72-152-76-192.asm.bellsouth.net) (Ping timeout: 121 seconds)
+[03:37:08] *** Joins: chalcedony (~llhull@adsl-72-152-76-192.asm.bellsouth.net)
+[04:04:48] *** Quits: lowkey (~lowkey@CJ-9q9.okf.255.5.IP) (Quit: leaving)
+[04:32:15] *** Quits: Bonq (~bonkers@CJ-v64.4g4.251.162.IP) (Ping timeout: 121 seconds)
+[04:39:49] *** Joins: Bonkers (~bonkers@CJ-v64.4g4.251.162.IP)
+[04:39:49] *** *.chatjunkies.org sets mode: +y Bonkers
+[04:40:05] *** Bonkers is now known as Bonq
+[05:23:11] *** Quits: Bonq (~bonkers@CJ-v64.4g4.251.162.IP) (Ping timeout: 121 seconds)
+[05:24:23] *** Joins: Bonkers (~bonkers@CJ-v64.4g4.251.162.IP)
+[05:24:23] *** *.chatjunkies.org sets mode: +y Bonkers
+[05:24:33] *** Bonkers is now known as Bonq
+[16:51:25] *** Joins: LionsMane (~don@CJ-ipmqdb.lionsmane.org)
+[17:41:27] *** Quits: LionsMane (~don@CJ-ipmqdb.lionsmane.org) (Ping timeout: 121 seconds)
+[17:41:43] *** Joins: LionsMane (~don@CJ-ipmqdb.lionsmane.org)
+[17:52:39] <AcidJell0> hey
+[17:52:46] <AcidJell0> ole grumpy f*er is back :D
+[17:56:11] <LionsMane> sniff it, jackhandle
+[17:56:29] * LionsMane makes muttering noises about "Ikillyouall"
+[17:57:40] <AcidJell0> wrong person, i wouldnt sniff jack chronic sinus issues render my sense of smell inexistant
+[18:12:06] <LionsMane> The stink is optional.
+[18:12:10] <LionsMane> Anyway.
+[18:12:22] <LionsMane> Yeah, maybe I'll try to NOT be a jackass today.
+[18:12:29] <LionsMane> Not sure anything will come of it.
+[18:16:55] <AcidJell0> im just busting your balls
+[18:17:09] <AcidJell0> nothing else of substance to talk about ...
+[18:17:21] <AcidJell0> im having 2 weeks of vacation in july
+[18:17:27] <AcidJell0> sort of stressed out about that
+[18:18:25] <LionsMane> You are stressed about taking a vacation?  Am I reading that right?
+[18:27:36] <AcidJell0> yah
+[18:27:42] <AcidJell0> i gotta get all this shit ready 
+[18:27:53] <AcidJell0> since i have another kid now i need more room in the car
+[18:28:02] <AcidJell0> got 2 kids 2 adults and a dog
+[18:28:18] <AcidJell0> cant stuff the cur with all the camping gear and the people
+[18:28:23] <AcidJell0> so i need to get a trailer
+[18:28:46] <AcidJell0> was also hoping to get a canoe but ...
+[18:30:02] <AcidJell0> not to mention the weather has been super cold so far
+[18:30:06] <AcidJell0> and im not going south :)
+[18:30:18] <AcidJell0> so, im sorta worried it will be too cold
+[18:31:18] <LionsMane> Ah
+[18:31:48] <LionsMane> yeah, I see the logistics being a bit of a thing.  At least, going out into the wild, the girlfriend won't have too many opportunities to go shopping and spend money.
+[18:31:50] <LionsMane> :D
+[18:32:02] <AcidJell0> haha yes
+[18:32:17] <AcidJell0> funny thing is were going through michigan 
+[18:32:24] <LionsMane> maybe she can fall off something.
+[18:32:28] <AcidJell0> were thinking of staying a night somewhere on the way
+[18:32:30] <LionsMane> I dunno.  Just spamming ideas.
+[18:33:01] <LionsMane> So putting the girlfriend in the crate and sharing the bed with the dog, not so much of a good idea?
+[18:33:21] <AcidJell0> well theres also the two kids
+[18:33:28] <AcidJell0> so im hoping shell at least babysit
+[18:34:11] <AcidJell0> while i go fishing in the woods and get eaten by a bear ... move to another province and start life as a new person
+[18:34:19] <AcidJell0> maybe illegally imigrate to the US
+[18:34:24] <AcidJell0> seems to be easy enough :)
+[18:35:38] <LionsMane> There are people that fall down the grand canyon every year, very few questions asked.
+[18:35:49] <LionsMane> ok, I am off to get some lunch, bbl
+[18:36:09] *** Quits: LionsMane (~don@CJ-ipmqdb.lionsmane.org) (Quit: Leaving.)
+[20:15:16] *** Joins: LionsMane (~don@CJ-ifj.kbt.9.173.IP)
+[20:17:10] <LionsMane> back again.
+[20:17:42] <LionsMane> Lunch procured, consumed, scrum stand up stood for, irc link required, Don present in channel once again.
+[20:17:57] <LionsMane> …. aaaaaand I need ice cream.  Well, not NEED.  But want really bad.
+[20:25:09] <AcidJell0> hmm
+[20:25:17] <AcidJell0> im trying to go sugarfree as much as possible
+[20:25:24] <AcidJell0> i managed pretty well these last 3 days
+[20:25:34] <AcidJell0> exceptions being fruit ... just couldnt help myself
+[20:25:44] <AcidJell0> today i had 2 coke zeros
+[20:28:54] <AcidJell0> good news is i might have sourced a trailer
+[20:28:59] <AcidJell0> perfect size too
+[20:29:04] <AcidJell0> 3.5 by 5
+[20:31:41] *** Joins: grape (~grape@CJ-3k1.8q0.194.90.IP)
+[20:31:52] <grape> hi all
+[20:31:54] <grape> hi LionsMane 
+[20:34:31] *** Quits: Bonq (~bonkers@CJ-v64.4g4.251.162.IP) (Ping timeout: 121 seconds)
+[20:35:39] <grape> bbl
+[20:36:51] <AcidJell0> hi graper
+[20:41:06] <grape> hi AcidJell0 
+[20:41:13] <grape> I am about to cook my food.... 
+[20:45:48] <AcidJell0> good
+[20:45:51] <AcidJell0> dont eat it raw
+[20:52:53] <LionsMane> Howdy grape
+[20:53:24] <LionsMane> Good to hear your travel plans are coming together, AcidJell0
+[20:53:36] <LionsMane> I am looking at trips that I can do from the moto.
+[20:53:52] <LionsMane> But I don't have kids and a dog to carry on the moto.
+[20:58:40] *** Joins: Bonkers (~bonkers@CJ-v64.4g4.251.162.IP)
+[20:58:40] *** *.chatjunkies.org sets mode: +y Bonkers
+[20:58:50] *** Bonkers is now known as Bonq
+[21:01:28] *** Quits: LionsMane (~don@CJ-ifj.kbt.9.173.IP) (Connection closed)
+[21:04:40] *** Joins: LionsMane (~don@CJ-ipmqdb.lionsmane.org)
+[21:25:06] <AcidJell0> quitter
+[21:29:17] <LionsMane> yes, thank you.
+[21:34:34] <AcidJell0> :D
+[21:34:46] <AcidJell0> so thinking about going for the iron butt award this year ?
+[21:34:56] <AcidJell0> why not come up to canada
+[21:35:06] <AcidJell0> where our liberal government can tax the sh*t out of you too
+[21:42:27] <LionsMane> Oh that sounds utterly delightful.
+[21:42:28] <LionsMane> Not
+[21:55:27] <AcidJell0> itchy nutsack
+[21:55:50] <LionsMane> Yeah, something more like that.
+[21:56:06] <LionsMane> How far are you, measured in hours, from Boston?
+[21:56:28] <AcidJell0> hmm
+[21:56:42] <LionsMane> Google is your pal.
+[21:57:47] <AcidJell0> google saiz 8h
+[21:58:56] <LionsMane> hmm
+[21:59:07] <LionsMane> So a weekend trip…
+[21:59:28] <LionsMane> I can do 10hrs a day pretty easily.  13hrs is a stretch.
+[22:27:17] <grape> hi LionsMane 
+[22:29:54] <LionsMane> Hi there grape
+[22:33:48] <AcidJell0> hmm
+[22:33:56] <AcidJell0> depends on what kindof riding you do
+[22:34:02] <AcidJell0> and how the roads are too
+[22:35:05] <AcidJell0> i remember when i used to own a motorcycle i used to go for rides just for the hell of it
+[22:35:19] <AcidJell0> sometimes id end up in some nice areas, i would turn around and do it again :)
+[22:35:54] <AcidJell0> funny i picked a random spot in boston
+[22:36:00] <AcidJell0> 19-21 hooker st
+[22:38:03] <grape> bbl
+[22:40:35] <LionsMane> AcidJell0: I used to live on hooker st.
+[22:41:05] <AcidJell0> haha
+[22:41:19] * AcidJell0 mind is in the gutter
+[22:41:27] <LionsMane> I used to live at 112 Hooker St, Allston, MA
+[22:41:50] <LionsMane> It was an AWESOME place to live, but a bit away from public transportation.
+[22:42:09] <LionsMane> I mean the 66 ran continuously, but traffic made it unreliable.
+[22:42:41] <LionsMane> Something like every 6 minutes during rush hour and 12 minutes off peak.  
+[22:43:06] <LionsMane> Problem was, if traffic was bad, three or four buses would stack up and I'd have to wait 30 minutes for a bus to show up.
+[22:51:11] <AcidJell0> is boston where they have that bus that goes in the water too ?
+[22:55:12] <LionsMane> Yes, the ducks.
+[22:55:40] <LionsMane> It is basically a duce and a half with a boat body as a mix in.
+[22:56:21] <LionsMane> The things are barely buoyant.  
+[23:01:56] <AcidJell0> lol
+[23:02:13] <AcidJell0> are they a novelty item or they are daily use items ?
+[23:05:53] <LionsMane> hahaah well, the military contracted to use them in WWII
+[23:06:04] <LionsMane> They were not ready before the end of the war.
+[23:08:05] <LionsMane> As for daily use… well… A Duck sank in a lake near San Antonio TX.  It sank so fast, everyone drowned
+[23:08:18] <LionsMane> So… maybe not so much for the everyday use...
+[23:09:55] <LionsMane> ok, I need to run.  Grab a car out of the car wash.  Chat tomorrow.
+[23:09:57] *** Quits: LionsMane (~don@CJ-ipmqdb.lionsmane.org) (Quit: Leaving.)

@@ -1,0 +1,50 @@
+[00:13:00] *** Quits: Tomsworld (tom@2a02:a03f:2698:3700:c90:e42a:4d09:1059) (Ping timeout: 60 seconds)
+[00:15:10] *** Joins: Tomsworld (tom@251.168-66-87.adsl-dyn.isp.belgacom.be)
+[00:35:55] *** Quits: LuckY (LuckY@37-97-143-105.colo.transip.net) (Ping timeout: 60 seconds)
+[00:38:25] *** Joins: LuckY (LuckY@0x13.nl)
+[00:53:21] *** Quits: Tomsworld (tom@251.168-66-87.adsl-dyn.isp.belgacom.be) (Ping timeout: 66 seconds)
+[00:59:52] *** Quits: LuckY (LuckY@0x13.nl) (Ping timeout: 60 seconds)
+[01:03:52] *** Joins: LuckY (LuckY@0x13.nl)
+[08:03:26] *** Joins: Tomsworld (tom@2a02:a03f:2698:3700:da:ccb4:a54e:8148)
+[08:05:50] *** Quits: Tomsworld (tom@2a02:a03f:2698:3700:da:ccb4:a54e:8148) (Ping timeout: 65 seconds)
+[08:59:02] *** Joins: tbosua (tbosua@office.hostnetbv.nl)
+[09:16:19] *** Joins: kees (kees@office.tweaknet.net)
+[09:47:53] *** Joins: McM (mcm@31.161.157.248)
+[09:52:03] *** Quits: McM (mcm@31.161.157.248) (Ping timeout: 61 seconds)
+[09:56:25] *** Joins: McM (mcm@31.161.157.248)
+[10:00:29] *** Quits: McM (mcm@31.161.157.248) (Ping timeout: 60 seconds)
+[10:05:42] *** Joins: McM (mcm@31.161.157.248)
+[10:17:14] *** Joins: TNO (TNO@52D9D0A2.cm-11-1d.dynamic.ziggo.nl)
+[10:27:54] *** Quits: McM (mcm@31.161.157.248) (Ping timeout: 66 seconds)
+[10:30:20] *** Joins: McM (mcm@31.161.157.248)
+[10:39:06] <Escovan> Slimme mensen, mijn uptime is al 51 dagen op server1.escovan.net ... maar toch zie ik dit in de weekgrafiek: http://i.imgur.com/EjhY7SZ.png Watskebeurt?
+[10:42:58] <AlBundy> lijkt erop dat er even geen meting was
+[10:43:18] <AlBundy> snmp weg, of server onbereikbaar
+[10:43:59] *** Quits: McM (mcm@31.161.157.248) (Ping timeout: 67 seconds)
+[10:45:13] *** Joins: McM (mcm@31.161.157.248)
+[10:46:06] <Escovan> hij meet zichzelf :?
+[10:46:14] <Escovan> Dit zijn lokale logs dus ?
+[10:46:35] <Escovan> snmp kan dat ook voor dezelfde host weg zijn?
+[10:50:46] <Escovan> Ik ben eigenlijk aan het uitvogelen waarom die elke ochtend iets na 5 uur de melding geeft dat 2 van de 9 virtual hosts niet bereikbaar zijn. Terwijl dat simpele WP pagina´s zijn, geen zware applicaties.
+[10:51:47] <AlBundy> dan moet je om 5 uur 's ochtends wakker zijn en kjiken wat er gebeurt
+[10:51:58] <Escovan> juh, top en ntop open enzo :P
+[10:52:06] <AlBundy> kijken of ze echt weg zijn, of dat er iets niet draait
+[10:54:28] <Escovan> ik heb nu ook zo´n AWS servertje draaien op server3.escovan.net ... Maar dat gaat echt 10x sneller dan zo´n low end box ... snap wel waarom het normaal zo duur is.
+[10:57:55] *** Quits: McM (mcm@31.161.157.248) (Ping timeout: 67 seconds)
+[11:16:51] <AlBundy> ghe mja
+[11:24:31] *** Quits: tbosua (tbosua@office.hostnetbv.nl) (Exit)
+[11:43:29] *** Joins: McM (mcm@31.161.157.248)
+[12:03:17] *** Quits: McM (mcm@31.161.157.248) (Ping timeout: 60 seconds)
+[12:08:49] *** Joins: tbosua (tbosua@office.hostnetbv.nl)
+[12:25:08] *** Quits: t4rt4rus (t4rt4rus@s559686af.adsl.online.nl) (Client exited)
+[12:27:33] *** Joins: t4rt4rus (t4rt4rus@s559686af.adsl.online.nl)
+[12:54:43] *** Joins: JGC (JGC@46.44.132.142)
+[13:21:58] *** Quits: kees (kees@office.tweaknet.net) (Input/output error)
+[14:28:28] *** Joins: McM (mcm@193.173.193.100)
+[14:29:37] *** Quits: lmd (lmd@5ED7EC48.cm-7-8d.dynamic.ziggo.nl) (Ping timeout: 61 seconds)
+[15:51:26] *** Quits: jk-5 (jk-5@D549D0E1.cm-10-1b.dynamic.ziggo.nl) (Ping timeout: 66 seconds)
+[15:52:37] *** Joins: jk-5 (jk-5@D549D0E1.cm-10-1b.dynamic.ziggo.nl)
+[16:02:58] *** Quits: jk-5 (jk-5@D549D0E1.cm-10-1b.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[16:08:51] *** Joins: kees (kees@office.tweaknet.net)
+[16:18:18] *** Joins: jk-5 (jk-5@D549D0E1.cm-10-1b.dynamic.ziggo.nl)
+[16:32:19] *** Quits: JGC (JGC@46.44.132.142) (Connection reset by peer)

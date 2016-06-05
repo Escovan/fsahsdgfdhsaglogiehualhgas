@@ -1,0 +1,157 @@
+[01:40:16] *** Quits: Sein (random@sorcery-b13.7s6.81.73.IP) (Ping timeout: 121 seconds)
+[01:53:55] *** Joins: Sein (random@sorcery-b13.7s6.81.73.IP)
+[04:53:17] *** Quits: tycel (tycel2004@sorcery-7ktaf7.fidnet.com) (Connection closed)
+[08:27:40] *** Joins: sheenobu (sheenobu@sorcery-jsddm4.hs.gigamonster.net)
+[13:40:23] *** Quits: Sein (random@sorcery-b13.7s6.81.73.IP) (Ping timeout: 121 seconds)
+[13:53:14] *** Joins: Sein (random@sorcery-fqm.llb.81.73.IP)
+[14:32:57] *** Joins: tycel (tycel2004@sorcery-7ktaf7.fidnet.com)
+[14:32:57] *** ChanServ sets mode: +v tycel
+[14:48:18] *** Quits: sheenobu (sheenobu@sorcery-jsddm4.hs.gigamonster.net) (Ping timeout: 121 seconds)
+[15:02:47] *** Joins: sheenobu (sheenobu@sorcery-jsddm4.hs.gigamonster.net)
+[16:14:29] * StarThorn discovers the '-v' option to bash's printf and realizes that this is probably the best way of cleanly embedding newlines in strings that he's found.
+[16:14:35] <StarThorn> (for shell scripts)
+[17:28:39] *** Quits: Aethysius (Aethysius@Heywood.Jablome) (Quit: I am exiting this session of multiplayer Notepad.)
+[17:42:17] <ankh> better than using echo?
+[17:42:56] <StarThorn> For this case, yes.
+[17:43:12] <ankh> ok
+[17:43:18] <StarThorn> Need to build a shell script string with embedded newlines that can be passed as an argument to something else.
+[17:43:49] <StarThorn> So, echo isn't easily usable for this.
+[17:44:04] <ankh> true
+[17:46:28] <ankh> and easier than using sed or tr :)
+[17:47:05] <ankh> although i don't like it - it's clean in one sense, avoiding shell quoting hacks, and not clean in that it's functionally impure
+[17:50:21] <StarThorn> printf?
+[17:51:08] <StarThorn> The one and only downside I've seen with it is that the feature I'm using (the '-v' option) is a bashism.
+[17:51:46] <StarThorn> But, bash is available and usable on every platform I need this script on, so that's a non-issue, from a practical standpoint.
+[17:59:58] <ankh> i'd say, 1 it's a bashism, and 2 you have a command indirectly modifying a variable, which is the impure aspect
+[18:00:12] <ankh> and is easy to miss when reading a script to fix a problem
+[18:00:55] <ankh> i'd probably comment it in scripts, for that reason, perhaps making a single NL newline variable at the start with a comment to draw attention to it being set
+[18:09:52] <StarThorn> The -v option directly modifies the variable . . .
+[18:10:16] <StarThorn> printf -v FOO "%s\n%s\n" "bar" "baz"
+[18:10:39] <StarThorn> (The '-v' option is the bashism, using the bash printf built-in.)
+[18:11:18] <StarThorn> Basically turns printf into sprintf for bash.
+[18:11:54] * StarThorn shrugs.
+[18:12:14] <StarThorn> I haven't found anything else that handles this case as cleanly and reliably. ;-)
+[18:55:11] <ankh> yes, I know what it does :)
+[18:57:31] <ankh> nl='
+[18:57:32] <ankh> '
+[18:57:34] <ankh> also works
+[20:34:40] <StarThorn> Yeah, that's what I was using before I discovered the '-v' option to printf.  It makes for more cluttered, more fragile scripts, IMO, though.  Especially when you're combining multiple things together across multiple lines.
+[20:35:56] <ankh> echo "$a${NL}$b${NL}" seems not much harder to read than printf '%s\n%s\n' "$a" "$b"
+[20:36:09] <ankh> but whatever works is good :)
+[20:40:32] <StarThorn> Yep.  I'll keep using that for sh, but I like printf for bash.
+[20:40:39] <StarThorn> Hopefully this current script won't be around too much longer, anyway.
+[20:41:00] <StarThorn> It's for a Big Brother (monitoring tool) module, and that pile of junk system should have been replaced years ago.
+[20:41:28] <ankh> and in a decade from now maybeit will be!
+[20:43:35] <StarThorn> I seriously hope so. ;-)
+[20:44:25] * StarThorn offered to take on the project twice, but his management would currently rather sweep it under the rug and pretend it isn't an ancient, unsupported, poorly deployed, mostly un- maintained, setup.
+[20:47:17] <ankh> infrastructure costs are always hated
+[20:48:18] <StarThorn> Yeah.  We're supposed to be the infrastructure team, though. ;-)
+[20:48:46] <StarThorn> Oh, well.  One of those cases where I disagree with my immediate management on what our project priorities should be.  The joys of the corporate world.
+[21:26:04] *** Quits: ankh (liam@sorcery-sbu.1mf.35.174.IP) (Ping timeout: 121 seconds)
+[21:26:20] *** Joins: ankh (liam@sorcery-sbu.1mf.35.174.IP)
+[22:23:37] <Quickshot> Wb
+[22:24:07] <ankh> tx
+[22:27:43] <Kar> hello
+[22:27:48] <Quickshot> Hey
+[22:28:20] <Kar> I still really want to switch to linux as main os
+[22:28:41] <Quickshot> Ok, so what's stopping you?
+[22:29:02] * Quickshot thought most early users tried out Ubuntu or Mint Linux
+[22:29:18] <Kar> well
+[22:29:23] <ankh> or Mageia! :-)
+[22:29:33] <Kar> I got no computer
+[22:29:49] <ankh> on here using a 'phone?
+[22:29:50] <Quickshot> ankh, Isn't that a rather obscure all source built linux distro with lots of hands on text file configuration? ^^;
+[22:29:57] <ankh> Quickshot, no :)
+[22:30:07] <ankh> you're thinking of gentoo :)
+[22:30:09] <Quickshot> Kar, Not having a computer would be a limiting factor, yes
+[22:30:19] <Quickshot> ankh, It's been trying to get a bit better about that!
+[22:30:41] <ankh> Kar, and, why don't you have a computer?
+[22:30:50] <ankh> sell your shoes and buy a computer!
+[22:30:59] <Kar> because no money = no computer
+[22:31:22] <Quickshot> Unfortunate
+[22:31:37] <Quickshot> Any hopes on getting more money in the future? Or is it pretty tight?
+[22:31:48] <Kar> probably
+[22:32:16] <ankh> (I admit most computers cost more than most shoes.)
+[22:34:29] <Kar> also, i am no good with pipeline stuff
+[22:34:52] <ankh> pipeline stuff?
+[22:35:01] <ankh> you're in the oil industry?
+[22:35:11] <Kar> no
+[22:35:33] <Kar> i mean | in bash
+[22:36:08] <ankh> I suspect most Linux desktop users aren't either, although it can be learned if you want to, fairly easily, andhaving a computer might be motivating ;)
+[22:36:23] <Kar> well
+[22:36:35] <Kar> I got access to computer
+[22:36:54] <Kar> but none are really mibe
+[22:37:02] <Kar> mine*
+[22:37:28] <ankh> couldyou boot off a live Linux USB drive or CD?
+[22:38:11] <Kar> I have installed Ubuntu next to wibdows on my parents pc
+[22:38:38] * Quickshot rarely uses pipe, except for small things like sending an output to say grep to get a specific type of line from a large list
+[22:39:36] <Kar> i used pipe to pipe video data from avcon to avplay
+[22:39:49] <Quickshot> Well that works, yeah
+[22:40:36] <Quickshot> Bash is seemingly very extensive if one gets in to its internal details. Though most people don't need to, so it's usually mostly programmers that call up obscure bash commands and programs, and I've heard that every programmer knows a bit different set.
+[22:40:38] <Kar> like I had to add - at end of commands to work with pipe
+[22:40:54] * Quickshot supposes that over time bash got added to by everyone, and in the end it got bigger then any one person knows. ^^;;
+[22:41:11] <Kar> ow
+[22:41:13] <Quickshot> What does - do?
+[22:41:29] <Quickshot> It's not really an issue, programmers like us just use the set they know
+[22:41:36] <Quickshot> There's basically just many ways to do the same thing
+[22:41:40] <Kar> it is used yo pass parameters ussually
+[22:41:49] <Quickshot> If you happen to know the right obscure program and its options, it just might be easier and quicker
+[22:41:51] <Kar> like ls -lah
+[22:41:55] <Quickshot> Else you'll have to go through more
+[22:42:00] <Quickshot> Oh, just an option call, I see
+[22:42:34] <Kar> that is my favourite command "ls -lah"
+[22:42:46] <Quickshot> But for regular users you only really need to know about the programs you use. :)
+[22:43:12] <Kar> well
+[22:43:16] <Quickshot> Let me think, l is to list it in a single line I think, h is to use human readable file sizes 
+[22:43:28] <Quickshot> And a was for some kind of special files?
+[22:43:40] <Kar> close
+[22:43:41] <Quickshot> Ah right, the config files.
+[22:43:50] * Quickshot says looking in to the man page for ls
+[22:43:54] <Kar> l for a list view
+[22:44:14] <Kar> a for all filea
+[22:44:18] <Kar> files
+[22:44:28] <Quickshot> I just remember l as the one that gives you extra info
+[22:44:36] <Kar> and h you got rigth
+[22:44:47] <Quickshot> I also use ls -rt at times
+[22:44:56] <Quickshot> t is for sort on time, and r to reverse the order
+[22:45:09] <Kar> hmm
+[22:45:12] <Quickshot> Which means most recent files are at the bottom
+[22:45:55] <Kar> does linux support hybernation?
+[22:46:01] <Quickshot> In principle, yes
+[22:46:14] <Kar> nice
+[22:46:16] <Quickshot> Though in practise it might depend a bit on your hardware and such
+[22:46:45] <Kar> now I will go in to hyvernation state, so called sleeping
+[22:46:48] <Quickshot> It turns out not all hardware makers keep to official specs for such things as well
+[22:47:05] <Quickshot> And thus you at times need to know the correct fixes to still make it work
+[22:47:12] <Quickshot> Also it's spelled hibernation. 
+[22:47:22] <Quickshot> And sleep well then Kar 
+[22:47:33] <Kar> typing on 5 cm keyboard is hard
+[22:47:45] <Quickshot> Ah
+[22:47:49] <Kar> like I am on phone
+[22:47:56] <Kar> on tiny phone
+[22:48:16] <Quickshot> It's just because it happened twice in a row, how wasn't I supposed to notice!
+[22:48:19] <Quickshot> ^^;
+[22:48:28] <Kar> well
+[22:48:39] <Kar> y was my mistake
+[22:49:18] <Quickshot> To be fair, the English language could use a spelling reform
+[22:49:27] <Kar> heh
+[22:49:39] <Quickshot> Things aren't pronounced the same way anymore after all
+[22:50:02] <Quickshot> Most other languages based on latin alphabets occasionally modify their spellings a bit, makes it easier to get your spellings right
+[23:17:18] * StarThorn glances at scrollback.
+[23:17:56] <StarThorn> A team I was on a few years ago used to have a weekly "one-liner" contest.  Everyone would e-mail out their best/coolest/longest/most interesting/most convoluted one-liner and we'd pick the best each week.
+[23:18:13] <StarThorn> I remember some of them being 4-5 lines long (wrapped).
+[23:19:34] <Quickshot> Heh. ^^;
+[23:23:11] <StarThorn> It can be really handy and powerful for text mangling.  I still do it regularly.
+[23:23:49] <StarThorn> The unix/linux command line offers a wealth of powerful tools for text manipulation.  Combine the simple tools with grep, sed, awk, perl, etc., and you can do some amazing things.
+[23:28:34] <StarThorn> Hehe, a quick e-mail search came up with this crazy monstrosity:
+[23:28:37] <StarThorn> ssh -o StrictHostKeyChecking=no root@$host 'if (egrep -q "lbmoon|afprovost|cpcashell" /root/.ssh/authorized_keys) ; then echo "authorized_keys is valid." ; else echo "Problem with authorized_keys, exiting." ; exit ; fi ; cp /etc/shadow /etc/shadow.pre-pssword ; perl -pi -e "s/^root:.*?:/root:\\\$1\\\$iWzcfewl\\\$SryvCadfadIsiPG9KwoA1:/" /etc/shadow ; grep "SryvCnfLasdfasdfaasdfaPG9KwoA1" /etc/shadow ; if 
+[23:28:43] <StarThorn> [ $? == 0 ] ; then echo "Completed." ; exit ...
+[23:28:46] <StarThorn> ... ; else echo "Failed." ; echo "Current encrypted root password:" ; grep "root" /etc/shadow ; echo "Attempting to revert changes . . . " ; cp /etc/shadow.pre-pssword /etc/shadow ; echo "Password after reverting changes:" ; grep "root" /etc/shadow ; /bin/bash -i ; fi'
+[23:29:08] <StarThorn> (ssh's to a remote host and attempts to "safely" update the root password without breaking anything.)
+[23:29:47] <Quickshot> Oh dear, cramming a lot in one command
+[23:30:20] <StarThorn> Yeah.  I wouldn't recommend doing something like that these days. ;-)
+[23:30:33] <StarThorn> At least, not unless it was a last resort.
+[23:50:23] <ankh> Quickshot, a lot of programs interpret - by itself to mean standard input or standard output
+[23:50:48] <ankh> someone I interviewed once said he really liked writing long one-liners in the shell
+[23:51:07] <ankh> some time after he didn't get the job he realised it had been a bad thing to mention in an interview :)
+[23:52:06] <Quickshot> Oh dear.

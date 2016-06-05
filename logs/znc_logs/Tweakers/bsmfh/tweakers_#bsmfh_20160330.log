@@ -1,0 +1,50 @@
+[02:48:36] *** Quits: Muddy|weg (pi@ip51cfdc0b.direct-adsl.nl) (Ping timeout: 60 seconds)
+[03:04:56] *** Joins: Muddy|weg (pi@ip51cfdc0b.direct-adsl.nl)
+[03:14:40] *** Quits: DinX (DinX___@d54C120B6.access.telenet.be) (Ping timeout: 66 seconds)
+[04:11:07] *** Joins: DinX (DinX___@d54c120b6.access.telenet.be)
+[07:42:27] <Escovan> LuckY, ha
+[07:44:07] <Escovan> Volgens mij kost het voor ISP´s en grote sites wel iets meer dan alleen een recente build van BIND en een AAAA record. ... Managed switches en routers die dat verkeer aankunnen enzo. Denk dat daarom Ziggo nog steeds niet zo ver is, al die kastjes bij klanten ondersteunen het nog niet. En dat kost duur, en levert niet direct beter internet op zichtbaar.
+[07:47:13] <LuckY> Misschien had ik sarcasme tags moeten toevoegen
+[07:52:09] *** Joins: Escovan (Escovan@test.prutsplek.nl)
+[07:59:32] <Escovan> Mijn VPS werd ook van gezegd dat het binnenkort wel IPv6 zou ondersteunen. Wat krijg ik? Een centos bak in openVZ met een venet0:0 adapter. Die krengen hebben geen MAC-adres dus IPv6 is helemaal moeilijk lastig.
+[08:00:09] <Escovan> Ik kan niet eens een tunnel opzetten.
+[08:07:05] *** Joins: DinX_Werk (DinX@out.helics.leuven.be)
+[08:43:14] *** Joins: kees (kees@kees.tweakers.net)
+[09:04:21] *** Joins: tbosua (tbosua@office.hostnetbv.nl)
+[09:34:40] *** Joins: McM (mcm@31.161.159.77)
+[10:17:52] *** Joins: JGC (JGC@46.44.132.142)
+[11:00:36] *** Quits: McM (mcm@31.161.159.77) (Ping timeout: 60 seconds)
+[11:20:42] <Escovan> GIVE: Support the helpless victims of computer error. 
+[11:23:10] <JGC> heerlijk die exceptions van webservices.. ¨Something went wrong¨
+[12:06:32] *** Joins: Aherin (Aherin@092-111-239-066.static.chello.nl)
+[12:29:58] *** Quits: DinX_Werk (DinX@out.helics.leuven.be) (Connection reset by peer)
+[13:42:12] *** Quits: PvOESJE (sid108727@id-108727.brockwell.irccloud.com) (Exit)
+[14:21:30] *** Joins: PvOESJE (sid108727@id-108727.brockwell.irccloud.com)
+[14:28:16] *** Quits: kees (kees@kees.tweakers.net) (Ping timeout: 66 seconds)
+[14:28:49] *** Joins: kees (kees@kees.tweakers.net)
+[14:31:53] *** Muddy|weg is now known as MuddyMagical
+[16:04:03] *** Joins: McM (mcm@d30008.upc-d.chello.nl)
+[16:21:38] *** Parts: JGC (JGC@46.44.132.142) ()
+[16:21:50] *** MuddyMagical is now known as Muddy|weg
+[16:31:53] *** Quits: kees (kees@kees.tweakers.net) (Input/output error)
+[16:32:35] *** Quits: McM (mcm@d30008.upc-d.chello.nl) (Ping timeout: 66 seconds)
+[16:33:03] *** Joins: McM (mcm@d30008.upc-d.chello.nl)
+[17:04:12] *** Quits: tbosua (tbosua@office.hostnetbv.nl) (Exit)
+[17:04:31] *** Joins: tbosua (tbosua@office.hostnetbv.nl)
+[17:07:21] *** Joins: Skalton (Skalton@541971C3.cm-5-2b.dynamic.ziggo.nl)
+[17:30:15] *** Quits: tbosua (tbosua@office.hostnetbv.nl) (Exit)
+[17:38:35] *** Joins: kees (kees@office.tweaknet.net)
+[17:50:39] *** Quits: McM (mcm@d30008.upc-d.chello.nl) (Ping timeout: 60 seconds)
+[20:37:07] *** Joins: JGC (jgc@D97862D0.cm-3-1b.dynamic.ziggo.nl)
+[21:10:48] *** Quits: jk-5 (jk-5@D549D0E1.cm-10-1b.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[21:12:38] *** Joins: jk-5 (jk-5@D549D0E1.cm-10-1b.dynamic.ziggo.nl)
+[21:16:05] *** Quits: jk-5 (jk-5@D549D0E1.cm-10-1b.dynamic.ziggo.nl) (Ping timeout: 63 seconds)
+[21:31:10] *** Quits: jback (quassel@212.47.254.155) (Client exited)
+[21:45:10] *** Joins: jback (quassel@hubble.milkyway.cloud)
+[21:47:42] *** Joins: jbck (quassel@kepler.milkyway.cloud)
+[22:01:51] *** Quits: JGC (jgc@D97862D0.cm-3-1b.dynamic.ziggo.nl) (Exit)
+[22:05:36] *** Quits: jbck (quassel@kepler.milkyway.cloud) (Ping timeout: 61 seconds)
+[22:09:18] *** Joins: jk-5 (jk-5@D549D0E1.cm-10-1b.dynamic.ziggo.nl)
+[22:18:59] *** Quits: jk-5 (jk-5@D549D0E1.cm-10-1b.dynamic.ziggo.nl) (Exit)
+[22:21:38] *** Joins: jk-5 (jk-5@D549D0E1.cm-10-1b.dynamic.ziggo.nl)
+[23:19:34] *** Quits: kees (kees@office.tweaknet.net) (Input/output error)

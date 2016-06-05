@@ -1,0 +1,31 @@
+[01:37:38] <Thunderguy> "As President, I'll scare everyone the world over into thinking we will default on our debt, which we won't because of course we print the reserve currency, and other countries will hand over their savings and bail us out, Its gonna be a great big deal and america will be great again "
+[01:38:02] <Quickshot> ^^;
+[01:38:40] <Thunderguy> ^ Well Trump didnt say that exactly.... but thats exactly what he meant to say, I said it for him
+[01:38:58] <Thunderguy> he basically said that tho...
+[01:40:29] *** Quits: Issy (random@sorcery-oei.ilt.81.73.IP) (Ping timeout: 121 seconds)
+[01:40:55] <Thunderguy> What he actually said is America can't default because it prints money, but I see his evil plan
+[01:43:16] * Quickshot nods
+[01:43:19] <Thunderguy> We need to invest in xanax if Trump becomes oresident, its going to be the #1 market, everyones gonna have to take that stuff
+[01:43:22] <Quickshot> Just like with Mexico, of course!
+[01:44:04] <Thunderguy> lol, yep, he is .... like .... he threatens people to make deals
+[01:44:48] <Thunderguy> like North Korea :o
+[01:44:52] <Quickshot> Can't that backfire horribly on national scale at times?
+[01:45:46] <Thunderguy> Yep, it backfires on Trump all the time but ppl bail him out lol
+[01:48:32] <Thunderguy> hes bankrupted 4 times over
+[01:49:48] <Thunderguy> "Trump says that every bankruptcy filing was strategic. He even goes further to expand his strategy to the business community, in saying that every high-level business man should take advantageous of the laws, including the laws of bankruptcy."
+[01:53:58] *** Joins: Issy (random@sorcery-oei.ilt.81.73.IP)
+[02:00:41] <Quickshot> Thunderguy, Ahah, sure...
+[02:03:55] <ankh> i use memcached on www.fromoldbooks.org fwiw :)
+[02:08:07] <ankh> last week Trump said he'd default on loans; this week he's reversed that and made up some new stupid story. you cant in practice get out of debt by printing money because it reduces the value of the currency => inflation
+[02:09:47] <Quickshot> Well he's a populist after all, he'll say what ever he thinks will work
+[02:10:13] <Quickshot> Sadly not the most trustworthy of people thus though
+[02:30:38] *** Quits: sheenobu (sheenobu@sorcery-jsddm4.hs.gigamonster.net) (Connection closed)
+[04:25:16] *** Quits: Issy (random@sorcery-oei.ilt.81.73.IP) (Ping timeout: 121 seconds)
+[11:05:12] <Ikarus> oh, right, forgot that Redis is also awesome for being used as a basic pub/sub service instead of just a key/value storage
+[16:23:02] * StarThorn has had good experiences with both memcached and redis, and for most common uses, would be fine with either.
+[16:35:08] <Ikarus> yep
+[16:35:16] <Ikarus> well, memcached is literally a fire and forget solution
+[16:35:36] <Ikarus> I am talking to an API that I can't do more then x requests to per time span, so just cache it in memcached in the most mundane way possible
+[19:53:55] *** Joins: sheenobu (sheenobu@sorcery-jsddm4.hs.gigamonster.net)
+[23:02:14] *** Quits: sheenobu (sheenobu@sorcery-jsddm4.hs.gigamonster.net) (Ping timeout: 121 seconds)
+[23:14:15] *** Joins: sheenobu (sheenobu@sorcery-jsddm4.hs.gigamonster.net)

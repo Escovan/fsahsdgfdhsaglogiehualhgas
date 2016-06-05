@@ -1,0 +1,2294 @@
+[00:03:06] *** Quits: Guyver2 (Guyver2@guyver2.xs4all.nl) (Exit)
+[00:22:28] <Metalfrost> hey d
+[00:22:29] <Metalfrost> doei
+[00:24:33] *** Joins: Beer`_ (beer@193.172.46.138)
+[00:35:22] <Metalfrost> nn
+[00:35:24] *** Quits: Metalfrost (Metalfrost@46.166.188.224) (Connection reset by peer)
+[00:36:48] *** Quits: Punnik (Punnik@h103151.upc-h.chello.nl) (Ping timeout: 61 seconds)
+[00:36:54] *** Joins: Punnik (Punnik@h103151.upc-h.chello.nl)
+[00:36:57] *** Quits: MueR (MueR@is.hier) (Ping timeout: 61 seconds)
+[00:37:16] *** Quits: rawplayer (rawplayer@mail.myguard.nl) (Ping timeout: 62 seconds)
+[00:37:27] *** Quits: Spacecowboy (znc@149-210-165-180.colo.transip.net) (Ping timeout: 60 seconds)
+[00:37:27] *** Quits: SJ (bas@muse.kill-9.nl) (Ping timeout: 60 seconds)
+[00:37:38] *** Joins: MueR (MueR@is.hier)
+[00:37:47] *** Quits: t4rt4rus (t4rt4rus@s559686af.adsl.online.nl) (Ping timeout: 61 seconds)
+[00:37:49] *** Quits: Redhead (redhead@mail.myguard.nl) (Ping timeout: 60 seconds)
+[00:38:10] *** Joins: Spacecowboy (znc@149-210-165-180.colo.transip.net)
+[00:39:09] *** Joins: digiweed (supybot@solar.opperschaap.net)
+[00:39:09] *** ChanServ sets mode: +b digiweed!*@*opperschaap.net
+[00:39:09] *** digiweed was kicked by ChanServ (Dag digiweed skatjuh!)
+[00:39:11] *** Spacecowboy is now known as Tweaker331
+[00:41:13] *** Joins: rawplayer (rawplayer@mail.myguard.nl)
+[00:41:22] *** Joins: SJ (bas@muse.kill-9.nl)
+[00:41:50] *** Joins: Redhead (redhead@mail.myguard.nl)
+[00:41:50] *** Joins: t4rt4rus (t4rt4rus@s559686af.adsl.online.nl)
+[00:42:13] *** Redhead is now known as Tweaker54912
+[00:42:13] *** rawplayer is now known as Tweaker64336
+[00:51:04] *** Quits: Fiebel (PrincessCo@d77048.upc-d.chello.nl) (Exit)
+[00:56:42] *** Quits: SCHAPiE (dorian@dhcp-077-249-247-124.chello.nl) (Exit)
+[01:02:07] *** Quits: Bertone (Bertone@classics.xs4all.nl) (Ping timeout: 60 seconds)
+[01:02:07] *** Quits: Bliksem (Tweaki7@a82-161-41-5.adsl.xs4all.nl) (Ping timeout: 60 seconds)
+[01:02:07] *** Quits: Stuiterbal (Stuit@2001:980:5281:1:49a1:d04e:4b96:167a) (Ping timeout: 60 seconds)
+[01:02:18] *** Quits: Hooglander1 (Hoog@2001:984:ef56:1:211:32ff:fe51:1415) (Ping timeout: 66 seconds)
+[01:03:22] *** Joins: Bertone (Bertone@classics.xs4all.nl)
+[01:04:00] *** Joins: Bliksem (Tweaki7@a82-161-41-5.adsl.xs4all.nl)
+[01:07:59] *** Quits: Bertone (Bertone@classics.xs4all.nl) (Ping timeout: 60 seconds)
+[01:09:33] *** Joins: Bertone (Bertone@classics.xs4all.nl)
+[01:10:12] *** Joins: Hooglander1 (Hoog@isleet.nl)
+[01:17:05] *** Quits: Aprogas (aprogas@enki.aprogas.net) (Ping timeout: 61 seconds)
+[01:17:18] <nomadz> gaat lekker man
+[01:19:38] *** Joins: BeerWerk`_ (beer@193.172.46.138)
+[01:20:09] *** Quits: BeerWerk`_ (beer@193.172.46.138) (Exit)
+[01:27:59] *** Joins: Aprogas (aprogas@enki.aprogas.net)
+[01:32:38] *** Quits: Bliksem (Tweaki7@a82-161-41-5.adsl.xs4all.nl) (Ping timeout: 68 seconds)
+[01:32:38] *** Quits: Bertone (Bertone@classics.xs4all.nl) (Ping timeout: 68 seconds)
+[01:32:38] *** Quits: Hooglander1 (Hoog@isleet.nl) (Ping timeout: 68 seconds)
+[01:32:53] *** Quits: Boots (boots@0011110000110011.nl) (Ping timeout: 60 seconds)
+[01:33:08] *** Joins: Boots (boots@2001:980:93ad:1:ba27:ebff:fea0:b2a)
+[01:33:39] *** Joins: Bertone (Bertone@classics.xs4all.nl)
+[01:34:11] *** Joins: Bliksem (Tweaki7@a82-161-41-5.adsl.xs4all.nl)
+[01:40:29] *** Joins: Hooglander1 (Hoog@isleet.nl)
+[01:41:30] <nomadz> hooglander1 islate
+[02:26:54] *** Joins: Fokker_4686 (Mibbit@145.132.225.140)
+[02:27:07] *** Quits: Fokker_4686 (Mibbit@145.132.225.140) (Exit)
+[03:36:34] *** Joins: Salvad0R (asdfer@524BFA43.cm-4-4d.dynamic.ziggo.nl)
+[04:28:14] <Salvad0R> https://www.youtube.com/watch?v=Yqg3Aiq1B4A
+[04:28:16] <digibot> Title: 50 cent Bad News Mixtape Version - YouTube (at www.youtube.com)
+[06:08:32] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[06:09:02] <wirky> sup fokkens
+[06:42:00] <Tweaker64336> ja
+[06:45:07] *** Quits: Salvad0R (asdfer@524BFA43.cm-4-4d.dynamic.ziggo.nl) (Exit)
+[06:50:47] <wirky> okee
+[06:57:52] <zovty> Hoi.
+[07:00:55] <Tweaker64336> ik heb koffie
+[07:01:02] <Tweaker64336> heee zovty 
+[07:01:19] <Tweaker64336> kom je hier vaker?
+[07:02:29] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Ping timeout: 60 seconds)
+[07:02:56] <Tweaker64336> :|
+[07:04:19] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[07:05:12] <wirky> hoi Tweaken32012
+[07:06:26] <wirky> hoi Tweaken64336
+[07:06:45] <wirky> sub
+[07:17:12] <Tweaker64336> hoi
+[07:17:21] <Tweaker64336> ik kook eitjes
+[07:17:24] <Tweaker64336> en rest van eten ook al klaar
+[07:17:25] <Tweaker64336> voor vandaag
+[07:25:43] <Tweaker64336> zo
+[07:25:45] <Tweaker64336> al het eten klaar
+[07:25:47] <Tweaker64336> voor mijn buikje
+[07:31:39] *** Quits: Beer`_ (beer@193.172.46.138) (Connection reset by peer)
+[07:33:38] *** Joins: Smileface (smile@25bc408b.ftth.concepts.nl)
+[07:36:28] <Tweaker64336> och jonges
+[07:39:16] <zovty> Hoi.
+[07:39:21] <zovty> Ik ben er weer.
+[07:40:44] <zovty> Ik heb ook eitjes.
+[07:40:47] <zovty> Maar verder eigenlijk niks.
+[07:40:48] <zovty> Ja, noten.
+[07:40:51] <zovty> Maar dat is ook niks.
+[07:40:58] <zovty> Ik heb er geen kut zin in jongens.
+[07:41:01] <zovty> Ik voel me kut.
+[07:41:04] <zovty> Ik ben verdrietig.
+[07:41:11] <zovty> Wat een kutzooi allemaal.
+[07:41:18] <zovty> Ik ben zon domme megeul.
+[07:41:38] <Smileface> Klinkt positief zeg...
+[07:42:01] <Smileface> Gm maar?
+[07:42:22] <Smileface> Koffie er bij begint je ochtend al beter
+[07:42:23] <Tweaker54912> morning
+[07:42:36] <Tweaker54912> huh
+[07:43:08] *** Tweaker54912 is now known as Redhead
+[07:43:28] *** Redhead is now known as Tweaker16843
+[07:43:35] <Tweaker16843> te laat
+[07:43:43] <Tweaker16843> te vroeg
+[07:44:23] *** Tweaker16843 is now known as Redjesloom
+[07:46:20] <zovty> Goeimrogne reddie.
+[07:47:11] <Escovan> mogguh ... ik ben al sinds 2.30 wakker
+[07:47:34] <zovty> Zo, da's lekker lang.
+[07:47:46] <Escovan> Niets lekker. Zo ziek als een hond.
+[07:48:00] <Escovan> En mijn alcoholtherapie werkt niet meer.
+[07:48:12] *** Tweaker331 is now known as Spacecowboy
+[07:48:32] <Smileface> Morgen Escovan laat goede er maar vanaf?
+[07:48:59] <Escovan> Nou ik wens iedereen een beter morgen dan die van mij.
+[07:49:37] <Escovan> +e
+[07:49:58] <Redjesloom> morrie zovtelie
+[07:50:28] *** Redjesloom is now known as Redhead
+[07:50:50] *** Redhead is now known as Tweaker23602
+[07:50:55] <Tweaker23602> naja zeg
+[07:51:14] <Tweaker23602> dan maar later
+[07:51:20] *** Tweaker23602 is now known as Redje
+[07:51:23] <Redje> zo
+[08:02:54] <Smileface> Hehe
+[08:03:09] <zovty> Hoi Smileface.
+[08:03:12] <zovty> Ben jij nieuw hier?
+[08:03:13] <Smileface> Als niet goed schiks gaat dan maar kwaadschiks
+[08:03:16] <Smileface> Neuh
+[08:03:19] <zovty> Ok.
+[08:03:22] <Smileface> Kom hier al enige jaren
+[08:03:24] <zovty> Welkom.
+[08:03:27] <Smileface> Maar niet altijd actief
+[08:03:28] <zovty> Welkom in #fok.
+[08:03:36] <Smileface> Dank je
+[08:03:40] <zovty> Heb je de newbie tour al gehad?
+[08:03:48] <Smileface> Iemand die me iig welkom heet :p
+[08:03:52] <Smileface> Na jaren
+[08:03:54] <Smileface> Ghe
+[08:03:57] <zovty> Jajoh.
+[08:03:59] <zovty> Zo ben ik.
+[08:04:12] <zovty> Als je een vriendelijk woord nodig hebt dan hoef je mij maar aan ate spreken.
+[08:04:45] <Redje> morrie Smileface 
+[08:05:03] <zovty> Rond 9 uur komt Fiebel, en die doet vandaag de newbietour.
+[08:05:05] <Smileface> Hehhe
+[08:05:10] <Smileface> Zal het onthouden
+[08:05:16] <zovty> Neemt ze je even mee langs alle belangrijke en interessante plekjes.
+[08:05:21] <Smileface> :o
+[08:05:21] <zovty> Stelt ze je voor aan de juiste mensen.
+[08:05:30] <zovty> En leeft je gewoon de kneepjes van het vak.
+[08:05:37] <zovty> leert
+[08:05:38] <Smileface> Klinkt wel heel spannend hoor ^^
+[08:05:44] <zovty> Is ook heel spannend.
+[08:05:48] <Smileface> Hehe
+[08:05:49] <zovty> Want als je het niet goed doet.....
+[08:05:54] <Smileface> Nou nou
+[08:06:07] <Smileface> Wat dannn
+[08:06:14] <zovty> Ja.......
+[08:06:20] <zovty> Dat is juist het spannende.
+[08:07:14] <Smileface> ajj
+[08:08:18] <Smileface> Najah daar komen we na eeh onder deze Nick eeh 2jaar achter en als wildvreemde nicks wel zo 5 tot 10 jaar :p
+[08:08:34] <zovty> Dat is al een hele poos.
+[08:08:38] <Smileface> Maar meestal ben ik er in de avond en nacht hoor
+[08:08:53] <Smileface> Zeker op dagen dat ik vrij heb
+[08:09:22] <Redje> zal ik nog s n poging doen ?
+[08:09:28] *** Redje is now known as Redhead
+[08:09:43] <Smileface> Je kan het red
+[08:09:50] *** Redhead is now known as Tweaker60571
+[08:09:53] <Tweaker60571> nope
+[08:09:55] <Tweaker60571> hahahahha
+[08:10:36] <Tweaker60571> zonder typos naar nickserv tikken is wel handig
+[08:10:45] <Tweaker60571> maar jaaaaaaaaaaaaaaa
+[08:11:39] <Tweaker60571> beter doen  we nog n bakkie
+[08:11:42] <Smileface> Is toch niet zo moeilijk...
+[08:11:51] <Tweaker60571> blijkbaar wel ;)
+[08:11:57] <Smileface> Nick server in je cliënt stoppen
+[08:12:18] <Smileface> Nickserv*
+[08:12:54] <Tweaker60571> och
+[08:12:55] <Tweaker60571> :)
+[08:13:05] *** Tweaker60571 is now known as Redhead
+[08:13:15] *** ChanServ sets mode: +v Redhead
+[08:13:21] <Redhead> tadaa
+[08:13:23] <Redhead> ;)
+[08:13:32] <Smileface> Jeujj
+[08:13:33] <zovty> In 3 keer goed!
+[08:13:38] <Redhead> 3 times a charm
+[08:13:45] <Redhead> \o/
+[08:13:48] <Smileface> 3 keer is scheepsrecht
+[08:14:58] <wirky> ja
+[08:15:07] <wirky> en de 4e voor de knecht
+[08:15:08] <Redhead> morrie wirky 
+[08:15:18] <zovty> Morguh willem.
+[08:15:19] <wirky> morges red
+[08:15:31] <wirky> hoi zovty
+[08:15:51] <Smileface> Morgen
+[08:16:07] <wirky> hoi Smileface
+[08:17:12] <Smileface> Hoi wirky
+[08:17:14] <wirky> mijn moedertje zei mij vroeger haal die lach van je gezicht als ze me weer eens toesprak na dit of dat
+[08:17:27] <wirky> of haal die lach van je kop ofzo
+[08:18:00] * Smileface puts only a smile on your face ^^
+[08:18:19] <wirky> Smileface
+[08:18:24] <wirky> a/s/l
+[08:18:31] <Smileface> :o
+[08:19:26] <Smileface> 33 man amersfoort
+[08:19:29] <Smileface> Jij
+[08:19:51] <wirky> 45 den haag man
+[08:20:13] <Smileface> Ohw kijk aan gezellig
+[08:21:40] <Smileface> Kom vanaf 2006 of 7 ofzo op tweakers
+[08:21:52] <Smileface> En fok irc kwam er vanzelf bij
+[08:24:17] <wirky> ik 2,5 jaar 
+[08:24:49] <Redhead> welke nicks gebruik(te)je nog meer Smileface ?
+[08:27:50] <Smileface> Ohw divers of stond helemaal niet ingelogd
+[08:28:20] <Smileface> Nightking tijdje gebruikt maar ook alexamder82
+[08:28:26] <Smileface> N IP m
+[08:28:39] <Smileface> Maar dat is wel jaren terug
+[08:28:53] <Smileface> Alexander82*
+[08:29:05] <Smileface> Dat is trouwens ook me tweakers account
+[08:31:49] <Redhead> ah ja , forum bedoel je 
+[08:32:38] <Smileface> Idd
+[08:32:45] <Redhead> t is alweer hobbel tijd , hasta la pasta maar weer!
+[08:32:45] <Smileface> Niet echt actief meer hoor
+[08:32:52] <Redhead> hf!
+[08:32:52] <Smileface> Lol
+[08:36:40] <zovty> Ja.
+[08:36:44] <zovty> Och jongens toch.
+[08:36:47] <zovty> Wat een dag he, wat een dag.
+[08:36:57] <Smileface> Hem This al half 9 :o
+[08:38:55] <zovty> Ja.
+[08:39:22] <Smileface> Beetje jammer weer :p
+[08:39:44] <Smileface> Slapen wordt weer niets meer het al
+[08:40:10] <zovty> Hoeft toh ook niet.
+[08:40:36] <Smileface> Nou
+[08:40:49] <Smileface> Was 7 uur thuis van werk
+[08:42:58] <zovty> Oh, ok.
+[08:43:05] <zovty> ga ja straks nog ff leggen.
+[08:43:10] <zovty> Na de rondleiding.
+[08:44:02] <Smileface> Daar haperen we een half uur in al ghe
+[08:44:28] <Smileface> Lig al wel, maar niet moe zijn..
+[08:44:58] <Smileface> Dus het is eerder rond 10 11 uur er weer uit als ik dan nog nietslaap
+[08:45:12] <zovty> Maar je moet toch rusten.
+[08:45:15] <zovty> Rusten is belangrijk.
+[08:47:52] <Smileface> Klopt ook zeker, gelukkig heb ik nu wel weekend... maar vind niet handig als ik vanavond 7 uur op apengapen lig
+[08:48:21] <zovty> Het is dinsdag.
+[08:49:52] <Smileface> uhu
+[08:50:14] <Smileface> Ik werk van donderdag tot maandag
+[08:50:33] <Smileface> Er zijn malloten op deze wereld
+[08:50:40] <Smileface> Ik zeg het zelf maar
+[08:53:27] <zovty> Oh beter.
+[08:55:29] <Smileface> Van het weekend moet ik het hebben daar wordt er verdient
+[08:55:46] <Smileface> Door de week ook wel, maar dat is alleen maar dat goedkope contract spul
+[09:00:02] <zovty> Hmja
+[09:00:29] <zovty> Ik verdien in het weekend helemaal niks.
+[09:00:52] <Smileface> Plus nachten en avond is her gewoon relaxter
+[09:01:03] <Smileface> Dan geef je het uit wss
+[09:01:10] <Smileface> Heb ik ook he
+[09:01:19] <Smileface> Alleen valt op andere dagen alleen
+[09:01:21] <zovty> Nee, ik geef het ook niet uit.
+[09:01:26] <zovty> Doe vrijdag de boodschappen.
+[09:01:30] <Smileface> Of moet nog wat klusjes krijgen ja ok..
+[09:01:37] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Exit)
+[09:01:37] *** Joins: Jeroen (Jeroen@ip82-139-124-155.lijbrandt.net)
+[09:01:41] <Smileface> Ja maar wel na het werk wss?
+[09:01:47] <zovty> Ja.
+[09:01:57] <Smileface> Dan heb je al weekend :p
+[09:02:03] <zovty> Ja, daar heb je wel een punt.
+[09:02:22] <zovty> :|
+[09:02:32] <zovty> Ik haat het als andere mensen ook wel eens gelijk hebben.
+[09:02:36] <Smileface> Om rond half 6 bij een supermarkt te staan vink minder goed plan
+[09:02:38] <Smileface> Ghe
+[09:02:46] <Smileface> Ken het
+[09:02:48] <zovty> Ik snap dat niet hoor.
+[09:03:10] <Smileface> Nou ga niet wachten tot die open is :p
+[09:03:13] <zovty> Wat zitten die mensen nou te zeiken over de inzet van de F16s.
+[09:03:19] <zovty> Is toch goedkoop en veilig?
+[09:03:23] <zovty> Haal ze anders maar terug.
+[09:03:28] <zovty> Geen ruziemaken in buitenlanden.
+[09:03:29] <Smileface> Volgens mij wel
+[09:03:38] <Smileface> Andere bak er in en klaar
+[09:03:46] <zovty> Niks.
+[09:03:51] <zovty> Gewoon geen bommen gooien.
+[09:03:54] <zovty> Is kei gevaarlijk.
+[09:04:02] <zovty> Straks dood je nog iemand.
+[09:04:08] <zovty> ZOnder enige vorm van proces of wat dan ook.
+[09:04:19] <zovty> Het is 2016 en we zijn geen apenland.
+[09:04:25] <zovty> Dat soort dingen horen we niet te doen.
+[09:05:46] *** Joins: Fiebel (PrincessCo@d77048.upc-d.chello.nl)
+[09:05:48] <Fiebel> kbener
+[09:06:00] <Smileface> True maar niets doen is ook geen optie
+[09:06:12] <Fiebel> oooooooooooh jhaaaaaaaaawheeeeeeeeeel
+[09:06:13] <zovty> Jahoor.
+[09:06:16] <zovty> We kunnen gewoon niks doen.
+[09:06:16] <Fiebel> ghghghihiggi
+[09:06:18] <zovty> Zieje.
+[09:06:22] <zovty> Fabis doet het wel even voor.
+[09:06:24] <Fiebel> #teamniksdoen
+[09:06:26] <Smileface> Kan zeggen hun probleem ... maar dan komt er nog meer volk naar de eu
+[09:06:28] <Fiebel> HNGGGGGGGGGGGGGGGGGGGGGGGGGGG
+[09:06:37] <Smileface> Morgen
+[09:06:42] <zovty> Dat volk komt toch wel.
+[09:06:47] <zovty> Juist als we gaan bombarderen.
+[09:06:51] <zovty> Een kat in het nauw....
+[09:06:57] <zovty> Maar fabis.
+[09:07:00] <zovty> Wwat is de scoe?
+[09:07:02] <zovty> Score.
+[09:07:04] <Smileface> Ja zo als het nu gaat wel der is niet eens een veilige haven daar
+[09:07:05] <zovty> Wat is de stand?
+[09:07:07] <Fiebel> MINDER MINDER MINDER!!!!
+[09:07:08] <Fiebel> *O*
+[09:07:09] <zovty> Blij :) Of nurks :(
+[09:07:14] <Fiebel> BLIJBLIJ
+[09:07:14] <zovty> Goedzo mop :*
+[09:07:16] <zovty> Haske goed gedaan!
+[09:07:17] <Fiebel> MN HARTJE IS ZO BLIJ!!!
+[09:07:20] <Fiebel> dank je wel zovty
+[09:07:22] <zovty> Och och och.
+[09:07:25] <zovty> Jouw kleine hartje.
+[09:07:27] <Fiebel> ja
+[09:07:34] <Fiebel> mijn minder vervette hartje
+[09:07:41] <zovty> Aww.
+[09:07:46] <zovty> Zo'n lekker vetrandje om je hartje heen.
+[09:07:49] <zovty> Mjammjam.
+[09:07:54] <zovty> Goed dooraderde hartje.
+[09:07:55] <Fiebel> smeksmeksmeksmek
+[09:08:06] <Fiebel> ja
+[09:08:08] <zovty> Dat zou ik dan als eerst bakken, dat randje.
+[09:08:13] <Fiebel> ik heb het er nog even met rawplayer over gehad
+[09:08:19] <zovty> Waarover?
+[09:08:20] <Fiebel> en we gaan jouw mededeling zo opnieuw doen
+[09:08:24] <Fiebel> ik voelde mij er niet content mee
+[09:08:29] <zovty> Mijn mededling?
+[09:08:29] <Fiebel> dus als rawplayer er weer is
+[09:08:35] <Fiebel> moet je het nog een keer mededelen
+[09:08:40] <Fiebel> en doen we of dat voor het eerst is
+[09:08:41] <zovty> Wat?
+[09:09:03] <Fiebel> (maar doe het dan wel in 1 keer goed. Anders weet ik niet of ik mij kan inhouden. het is sterkerder dan ikzelf vaak)
+[09:09:13] <zovty> Ik weet niet zo goed wat je bedoelt.
+[09:09:23] <Fiebel> jouw blije aankondiging
+[09:09:33] <zovty> Dat ik de vader van de tweeling van Kirsten ben?
+[09:09:36] <Fiebel> nee
+[09:09:39] <zovty> O.
+[09:10:01] <Fiebel> dat wordt zo'n sappige gate joh
+[09:10:02] <zovty> O!
+[09:10:05] <zovty> Ja?
+[09:10:13] <Fiebel> denk het wel
+[09:10:18] <zovty> Denk het niet.
+[09:10:22] <Fiebel> o
+[09:10:25] <zovty> Relinerd is beflikkerd door ze lilleke wijf.
+[09:10:28] <zovty> Who cares.
+[09:10:34] <Fiebel> hij is niet de relinerd
+[09:10:36] <Fiebel> SHO does
+[09:10:36] <zovty> Oh.
+[09:10:40] <zovty> Ja, SHO.
+[09:10:46] <zovty> Die 3 users die daar maar niet weggaan.
+[09:10:50] <Fiebel> :W
+[09:11:07] <zovty> Anyway.
+[09:11:15] <zovty> Welke aankondiging?
+[09:11:24] <Fiebel> ja nou ja
+[09:11:31] <Fiebel> wacht nou maar tot rawplayer is ontwaakt
+[09:11:39] <zovty> Liever niet.
+[09:11:44] <zovty> Als je het allemaal zo brengt.
+[09:12:04] <Fiebel> ik bedoel het goed
+[09:12:06] <Fiebel> vertrouw mij maar
+[09:12:22] <zovty> Hm.
+[09:12:35] <zovty> Dat is wel een van mijn problemen.
+[09:12:42] <zovty> Ik vertrouw werkelijk helemaal niemand.
+[09:12:46] <zovty> Behalve jou dan.
+[09:12:47] <zovty> En player.
+[09:12:48] <Fiebel> ik ben toch lief
+[09:12:53] <zovty> Ja, is ook.
+[09:13:06] <Fiebel> als k iets van je wil
+[09:13:11] <Fiebel> zeg ik dat recht in je smoel
+[09:13:19] <Fiebel> in plaats van het je afhandig te maken
+[09:13:20] <Fiebel> op slinkse wijze
+[09:13:25] <Fiebel> ik wil graag
+[09:13:28] <Fiebel> je wii-u
+[09:13:30] <Fiebel> alle spellen
+[09:13:32] <Fiebel> bierbie
+[09:13:33] <zovty> Ja, dat is wel zo eerlijk.
+[09:13:45] <Fiebel> en als je iets lekkers hebt gekookt pik ik dat ook met liefde in
+[09:13:50] <Fiebel> padaaaaaaaaaa!
+[09:13:53] <Fiebel> o en geld
+[09:13:53] <zovty> De eerlijkheid gebied me te zeggen dat je je verzoek voor Bierbie misschien beter kunt heroverwegen.
+[09:13:57] <Fiebel> geld zou ik ook wel willen
+[09:13:58] <Fiebel> mja
+[09:14:01] <zovty> Geld hek nie.
+[09:14:04] <zovty> Ammal op.
+[09:14:13] <Fiebel> ja maar je hebt je belasting net gdaan
+[09:14:15] <Fiebel> wel te laat
+[09:14:16] <Tweaker64336> och jonges
+[09:14:16] <Fiebel> maar toch
+[09:14:16] <Tweaker64336> al druk
+[09:14:18] <Tweaker64336> zo druk vandaag
+[09:14:20] <Tweaker64336> druk druk druk
+[09:14:20] <Fiebel> en vakantiegeld komt bijna
+[09:14:24] <Tweaker64336> druk druk druk druk druk
+[09:14:25] <Fiebel> o
+[09:14:25] <zovty> Ja, dat wel.
+[09:14:27] <Fiebel> ja rawplayer
+[09:14:28] <zovty> Player.
+[09:14:30] <zovty> Doe eens rustig.
+[09:14:30] <Fiebel> kom toch even zitten
+[09:14:33] <zovty> Met je drukke gedoe.
+[09:14:38] <Fiebel> zovty heeft namelijk een heugelijke mededeling!!!
+[09:14:41] *** Tweaker64336 is now known as rawplayer
+[09:14:46] <rawplayer> ja joh
+[09:14:46] <Fiebel> waar we gepast op gaan reageren!!!
+[09:14:48] <rawplayer> geloof er niks van
+[09:14:49] <rawplayer> geen snars
+[09:14:55] <Fiebel> (van je vedriet zovty! zegma!)
+[09:15:02] <zovty> Oh.
+[09:15:06] <zovty> Misschien was ik wat voorbarig.
+[09:15:13] <zovty> Want ik merk dat ik toch nog wat naverdriet hebt.
+[09:15:16] <zovty> Maar.
+[09:15:17] <rawplayer> GODVERDOMME
+[09:15:17] <Fiebel> :|
+[09:15:17] <Pandora> !8 mondspoeling voor rawplayer?
+[09:15:18] <digibot> Pandora: NO.
+[09:15:20] <zovty> De bron van de ellende is weg.
+[09:15:23] <rawplayer> ik ga een banaan lezen
+[09:15:29] <Fiebel> heb je iemand omgelegd?
+[09:15:31] <Fiebel> :o
+[09:15:35] <zovty> Zoiets.
+[09:15:42] <Fiebel> mysterieus
+[09:15:51] <zovty> Wat bedoelt hij daarmee?
+[09:15:56] <zovty> Een banaan lezen?
+[09:16:03] <Fiebel> geen idee
+[09:16:07] <zovty> Hij zegt dat steeds maar wil niet uitleggen wat hij daar nou mee bedoelt.
+[09:16:12] <Fiebel> maar ik dek dat hij al weken hoopt dat iemand het vraagt
+[09:16:12] <Fiebel> o
+[09:16:16] <Fiebel> dan weet ik het ook niet
+[09:16:37] <zovty> Ja, eh.
+[09:16:40] <zovty> Hij is femmie niet.
+[09:16:42] <Fiebel> och jonges
+[09:16:47] <zovty> Als player iets wil zeggen dan doet hij dat gewoon.
+[09:16:50] <Fiebel> peppie doet even dr bedremmelde koppie opzetten
+[09:16:50] <zovty> Geen gevis voor nodig.
+[09:16:54] <Fiebel> nee is
+[09:16:55] <Fiebel> is ook zo
+[09:16:56] <zovty> Lekker dremelen.
+[09:17:00] <Fiebel> zouden meer mensen iets van kunnen leren
+[09:17:00] <zovty> Oh, radiohead.
+[09:17:41] <zovty> Wat wou ik zeggen?
+[09:17:51] <zovty> Niks eigenlijk.
+[09:17:59] <Fiebel> hoeft toch ook niks
+[09:18:01] <Fiebel> niet
+[09:18:09] <zovty> Nee.
+[09:18:21] <zovty> Ik snap dat niet zo goed hoor.
+[09:18:35] <zovty> Waarom denken sommige mensen dat skype een goed alternatief is voor een 2kanaals isdn verbinding?
+[09:18:42] <zovty> Dat klinkt tochgewoon voor geen meter?
+[09:18:57] <rawplayer> zo
+[09:18:58] <rawplayer> meerk ofiee
+[09:18:59] <Fiebel> ik toch ook niet
+[09:19:04] <rawplayer> das geen meerk oet
+[09:19:06] <rawplayer> Hahahahahahahhahahaa.
+[09:19:11] <Fiebel> ...
+[09:19:11] <zovty> :|
+[09:19:17] <zovty> VAn meerkoeten word ik verdrietig.
+[09:19:26] <rawplayer> :|
+[09:19:35] <Smileface> Goede morgen rawplayer
+[09:19:40] <zovty> Oh!
+[09:19:42] <zovty> FAbis!
+[09:19:45] <Fiebel> ik weet het ook niet met ze
+[09:19:46] <Fiebel> jaa?
+[09:19:48] <Smileface> Extra koffie nodig?
+[09:19:48] <zovty> Smileface hier moet nog een newbie rondleiding.
+[09:19:51] <Fiebel> o 
+[09:19:52] <Fiebel> ok
+[09:19:55] <Fiebel> ik heb jouw naam genoteerd
+[09:19:56] <rawplayer> Smileface: o/
+[09:19:57] <Fiebel> doe je ding!
+[09:19:58] <Smileface> Al weer?
+[09:20:01] <zovty> Ja, nee, ja.
+[09:20:04] <zovty> Ik had beloofd dat hij met jou mocht.
+[09:20:08] <Fiebel> ja nee ja
+[09:20:10] <Fiebel> ik doe lekker niks
+[09:20:10] <zovty> Wildie graag.
+[09:20:10] <Smileface> \o
+[09:20:11] <Fiebel> dat zei jij
+[09:20:13] <Fiebel> dus dan oe ik dat
+[09:20:22] <zovty> Wat?
+[09:20:39] <Fiebel> jij zei kijk maar naar haar
+[09:20:41] <Smileface> Ja mag je wel id beginnen dan ^^
+[09:20:44] <Fiebel> zij doet wel even niks doen voor
+[09:20:53] <rawplayer> stoere praat
+[09:20:53] <zovty> :|
+[09:20:54] <Smileface> Is*
+[09:20:57] <rawplayer> stoererere praat
+[09:20:57] <zovty> Jahoor.
+[09:21:03] <Fiebel> eenw*
+[09:21:05] <Fiebel> eens*
+[09:21:05] <zovty> Lekker stoer doen tegen zovty.
+[09:21:13] <zovty> Lekker inhakken op een man die al op de grond ligt.
+[09:21:13] <Fiebel> ik kan jou toch aan
+[09:21:18] <zovty> Jajoh.
+[09:21:18] * Fiebel hakt
+[09:21:20] <zovty> Makkelijk.
+[09:21:28] <Fiebel> rawplayer
+[09:21:30] <Fiebel> ben je op je werkje?
+[09:21:35] * Smileface geeft mesje door
+[09:21:51] <zovty> Wat?
+[09:21:53] <Fiebel> jezusmina
+[09:22:01] <Fiebel> volgens mij moet ik gewoon alweer kakken
+[09:22:03] <Fiebel> het is echt ongehoord
+[09:22:08] <rawplayer> ja Fiebel 
+[09:22:08] <zovty> Ik heb al gekakt.
+[09:22:11] <Smileface> Ohw god
+[09:22:11] <zovty> Na het douchen.
+[09:22:13] <zovty> :(
+[09:22:15] <Fiebel> :<
+[09:22:25] <Fiebel> hele dag verziekt
+[09:22:33] <Fiebel> lekker met de crusties tussen je billies op kantor
+[09:22:34] <Smileface> Niet stiekem iets laxeermiddel op?
+[09:22:36] <zovty> Och och.
+[09:22:37] <Fiebel> neut
+[09:22:39] <Fiebel> neeut
+[09:22:50] *** Joins: WvdL (uid21241@id-21241.ealing.irccloud.com)
+[09:22:52] <Fiebel> och heerlijk
+[09:22:53] <Fiebel> een neutje
+[09:22:57] <zovty> Proost.
+[09:23:41] <Smileface> Hehe
+[09:24:03] <Fiebel> ik had een nare droom...
+[09:24:08] <zovty> Wattan?
+[09:24:09] <Fiebel> er was van alles aan de hand
+[09:24:12] <Fiebel> met een bevalling
+[09:24:16] <Fiebel> die geheim moest blijven
+[09:24:17] <Fiebel> :s
+[09:24:21] <zovty> Van kirsten?
+[09:24:27] <Fiebel> en toen had ikeen straalkacheltje bij het oud vuil weggepakt
+[09:24:38] <Fiebel> maar de champagneglazen waren ook nog in de aanbieding
+[09:24:51] <Fiebel> en mijn nichtje had haar paasontbijtsnacks verpest
+[09:24:57] <Fiebel> dus moest ik snel een alternatief regelen
+[09:25:06] <zovty> Je nichtje?
+[09:25:10] <Fiebel> maar ik was mijn portomonee vergeten
+[09:25:20] <Fiebel> maar ik had op magische wijze wel 6 eieren
+[09:25:27] <Fiebel> voor gevulde eitjes te maken
+[09:25:28] <Fiebel> lekker pittig
+[09:25:31] <Fiebel> maar ik had geen doosje
+[09:25:38] <Fiebel> us ze vielen steeds bijna
+[09:25:51] <Fiebel> en toen kon ik het huis met de keuken niet meer vinden
+[09:25:59] <Fiebel> en de dirk was ineens een jumbo
+[09:26:01] <Fiebel> en de lift was weg
+[09:26:04] <Fiebel> e toen viel er 1
+[09:26:13] <Fiebel> en toen ben ik omgelopen
+[09:26:15] <Fiebel> en werd ik wakker
+[09:26:20] <zovty> Oh. raar.
+[09:26:21] <zovty> En naar.
+[09:26:23] <Fiebel> j
+[09:26:25] <Fiebel> a
+[09:26:30] <zovty> Maar heb je een nichtje?
+[09:26:31] <Fiebel> en ja
+[09:26:32] <rawplayer> ik trek de bak met havermout open
+[09:26:32] <Fiebel> mijn nichtje
+[09:26:34] <Fiebel> god kind
+[09:26:37] <Fiebel> hele bakken
+[09:26:38] <zovty> Ok.
+[09:26:42] <Fiebel> o heerlijk rawpy
+[09:26:43] <zovty> :)
+[09:26:45] <Fiebel> ik ben dol op havermout
+[09:26:52] <zovty> Van je broer?
+[09:26:57] <rawplayer> een knuffel van een piemel in een poes?
+[09:26:57] <Fiebel> met besjes
+[09:26:59] <Fiebel> en kaneel
+[09:27:01] <rawplayer> + ook
+[09:27:03] <Fiebel> :|
+[09:27:05] <rawplayer> :|
+[09:27:06] <Fiebel> nee van mijn ooms en tants
+[09:27:11] <zovty> Oh, ok.
+[09:27:19] <rawplayer> :|
+[09:27:23] <zovty> :|
+[09:27:29] <rawplayer> och jonges
+[09:27:31] <rawplayer> bijna weekend
+[09:27:33] <rawplayer> vandaag nog
+[09:27:34] <rawplayer> morgen nog
+[09:27:38] <zovty> God nou.
+[09:27:43] <zovty> En dan donerdag en vrijdga helemala niks.
+[09:27:48] <zovty> Vrijdag komt er een mannetje smorgens.
+[09:27:50] <rawplayer> vrijdag ga ik shoppen
+[09:27:58] * Smileface viert al weekend :$
+[09:27:59] <rawplayer> ik wil een wit hemd
+[09:27:59] <rawplayer> met giletje
+[09:28:10] <rawplayer> maar goed
+[09:28:14] <rawplayer> daar ga ik jullie niet mee lastig vallen
+[09:28:14] <Fiebel> och heerlijk
+[09:28:16] <rawplayer> met mijn vrouwenstreken
+[09:28:19] <Fiebel> ghighihighghighighghi
+[09:28:23] <Fiebel> lekker paraderen
+[09:28:26] <Fiebel> in je leren giletje
+[09:28:26] <rawplayer> zoals pep
+[09:28:31] <rawplayer> neus in del ucht
+[09:28:40] <Fiebel> niemands bestaan erkennen
+[09:28:40] <Fiebel> gighighiihg
+[09:28:43] <rawplayer> mggihgighgihgg
+[09:28:43] <rawplayer> idd
+[09:28:46] <rawplayer> allen die van jou
+[09:28:47] <rawplayer> <3
+[09:29:15] <zovty> En die van mij dan?
+[09:29:23] <Fiebel> omdat ik de GROTE BREKKIESBRENGER ben he
+[09:29:32] <rawplayer> ijsje nee.
+[09:29:39] <rawplayer> ik draag Fiebel op handen en voeten
+[09:29:39] <zovty> :|
+[09:29:44] <Fiebel> O+
+[09:29:45] <zovty> Vanaf nu ben je lucht voor me.
+[09:29:45] <rawplayer> ze zit dan op mijn rug
+[09:29:51] <rawplayer> en doet hopsehops
+[09:29:51] <zovty> Vieze muffe stinkerige puflucht.
+[09:29:52] <Fiebel> jongesjongesjonges
+[09:29:52] <rawplayer> mgighgihgihg
+[09:29:55] <Fiebel> hou toch eens op
+[09:29:59] <rawplayer> en jij bent een vettige padlarf
+[09:30:02] <rawplayer> met een lillike baard
+[09:30:04] <rawplayer> :|
+[09:30:06] <Fiebel> vertel elkaar gewoon eerlijk hoeveel jullie van elkaar houden
+[09:30:08] <Fiebel> dt is toch veel liever
+[09:30:09] <zovty> Ik praat niet meer met jou.
+[09:30:10] <Fiebel> en zachter
+[09:30:11] <Fiebel> en warmer
+[09:30:12] <zovty> Ik praat niet meer met hem.
+[09:30:15] <rawplayer> ik hou 15cm van zovty 
+[09:30:16] <zovty> Ben zo klaar met hem.
+[09:30:16] <rawplayer> mgighighgihgigh
+[09:30:20] <zovty> :|
+[09:30:23] <zovty> Ordinair mannetje.
+[09:30:26] <rawplayer> mgihighgihg
+[09:30:41] <rawplayer> :|
+[09:30:46] <rawplayer> och jonges
+[09:30:47] <zovty> :|
+[09:30:50] <rawplayer> was ik maar een turk
+[09:30:56] <rawplayer> dan kon ik morgen visumvrij reizen in europa
+[09:31:06] <zovty> Ja :').
+[09:31:12] <zovty> Is ook zo wat.
+[09:31:19] <zovty> Maken we ons anno 2016 druk om een stempeltje.
+[09:31:22] <zovty> Jezus christus zeg.
+[09:32:03] *** Quits: TooL (x@ip172-92-210-87.adsl2.static.versatel.nl) (Ping timeout: 65 seconds)
+[09:32:15] <rawplayer> ja joh
+[09:32:17] <rawplayer> jaaaa joh
+[09:32:18] <rawplayer> stempelen
+[09:32:23] <rawplayer> met poezenstempels
+[09:32:24] <rawplayer> ooo fi
+[09:32:25] <rawplayer> Fiebel: 
+[09:32:26] <Smileface> Gfi maar weet niet of het wel juist is.. nu nog meer volk...
+[09:32:31] <Fiebel> ja?
+[09:32:33] <rawplayer> kunnen we van de pootjes van pep stempeltjes maken?
+[09:32:43] <Fiebel> ik heb het even gevraagd
+[09:32:45] <Fiebel> ze zegt van niet
+[09:32:48] <rawplayer> o
+[09:32:51] <rawplayer> mgighgihgihggi
+[09:32:58] <rawplayer> bummer
+[09:33:01] <Fiebel> ja
+[09:33:03] <rawplayer> dan ga ik even mijn banaan verder lezen
+[09:33:07] <Fiebel> altijd als ik aar nageltjes knip
+[09:33:13] <Fiebel> wordt ze een beetje woestig
+[09:33:15] <Fiebel> maar niet heel erg
+[09:33:18] <rawplayer> WRAAHRWAAH
+[09:33:21] <rawplayer> WRAAAAAAHHHH
+[09:33:21] <zovty> Waarom knip je haar nagels zo vaak?
+[09:33:22] <Fiebel> maar als het er 12 geweest zouden zijn
+[09:33:26] <rawplayer> WRAAHWRAAHH
+[09:33:28] <rawplayer> ijsje
+[09:33:29] <Fiebel> zou ze wel woest worden denk ik
+[09:33:32] <Fiebel> 10 gaat nog net
+[09:33:32] <rawplayer> hoe gaat het met die crossfit box
+[09:33:34] <rawplayer> tegenover jou
+[09:33:34] <Fiebel> WRAAHWRAAAH
+[09:33:37] <zovty> Ja, goed.
+[09:33:40] <zovty> Die is wel open.
+[09:33:40] <rawplayer> ah.
+[09:33:42] <Fiebel> om ze minder scherp te houden
+[09:33:43] <rawplayer> leuk.
+[09:33:45] <zovty> Ja.
+[09:33:46] <rawplayer> al wezen kijken?
+[09:33:48] <zovty> Nee.
+[09:33:50] <zovty> Want weet je.
+[09:33:59] <Fiebel> we kunnen beter samenwonen als haar nagels wat minder scherp zijn
+[09:34:01] <zovty> Als je nou eens naar me luisterde als ik je wat vertelde....
+[09:34:02] <Fiebel> want ze bedoelt het nooit kwaad
+[09:34:06] <Fiebel> maar zo voelt het vaak wel
+[09:34:08] <rawplayer> als jij nu eens niet zo naief bent
+[09:34:11] <Fiebel> als ze me van top tot teen openraspt
+[09:34:11] <rawplayer> en gewoon naar binnenstapt
+[09:34:13] <rawplayer> en hun verhaal aanhoord
+[09:34:15] <zovty> Dan had je geweten dat er 1 crossfit training in de week is, om 10:30.
+[09:34:17] <rawplayer> ookal is het officieel geen crossfit
+[09:34:31] <rawplayer> ja hoor en jij hebt dan zeker iets anders te doen
+[09:34:35] <zovty> Ja.
+[09:34:46] <rawplayer> ja hoor
+[09:34:49] <rawplayer> praat maar naar mijn mond
+[09:34:57] <zovty> Wat?
+[09:38:14] <zovty> Ik kan al een tijdje mijn rechterbeen niet goed gebriken.
+[09:38:20] <zovty> Ik krijg m'n tenen niet gebogen.
+[09:38:22] <zovty> Ik mis kracht.
+[09:38:39] <rawplayer> en je linker?
+[09:38:52] <zovty> Niks aan het handje.
+[09:38:58] <zovty> Beentje.
+[09:38:59] <rawplayer> raar
+[09:39:00] <zovty> Hahahahah.
+[09:39:01] <zovty> Ja.
+[09:39:02] <rawplayer> terwijl die even oud is
+[09:39:04] <rawplayer> :|
+[09:39:05] <zovty> Ja.
+[09:39:15] <zovty> Komt door het afvallen.
+[09:39:21] <zovty> Eigenlij moet ik daar mee naar de dokter.
+[09:39:27] <zovty> Ik ben ondervoed denk ik.
+[09:39:43] <rawplayer> je zeurt
+[09:39:47] <rawplayer> echt jonge
+[09:39:49] <rawplayer> wat kan jij zeuren
+[09:39:50] <rawplayer> en klagen
+[09:39:52] <rawplayer> en kuchen
+[09:39:54] <rawplayer> en puffen
+[09:39:56] <rawplayer> en steunen
+[09:39:59] <rawplayer> en kreunen
+[09:40:21] <zovty> Oh nou.
+[09:40:23] <zovty> Dat heb ik zeker :D.
+[09:40:35] <Fiebel> zovty
+[09:40:45] <zovty> Yup.
+[09:40:46] *** Joins: TooL (x@ip172-92-210-87.adsl2.static.versatel.nl)
+[09:40:52] <Fiebel> je kan toch weer eten?
+[09:41:08] <zovty> Mwoah.
+[09:41:12] <rawplayer> negeer je mi jnu?
+[09:41:13] <rawplayer> ijsje
+[09:41:13] <zovty> Soms gaat het best redelijk.
+[09:41:18] <zovty> Sup.
+[09:41:20] <Fiebel> hm
+[09:41:40] <Fiebel> zou het helpen als ik 3 keer per dag en voor tussendoortjes bij je langskwam?
+[09:41:41] <Fiebel> met bekens?
+[09:41:44] <Fiebel> en roltoeters?
+[09:41:53] *** Joins: coreblink (coreblink@145.132.131.160)
+[09:41:54] <Fiebel> om kabaal te maken en te stampen totdat je bordje leeg is?
+[09:42:00] <zovty> Neuh.
+[09:42:04] <Fiebel> o
+[09:42:05] <zovty> Dat werkt niet zo.
+[09:42:10] <Fiebel> maar zou wel irritant zijn he?
+[09:42:10] <zovty> Maar vriendelijk aanbod.
+[09:42:32] <rawplayer> mag ik dan vliegtuigje spelen
+[09:42:34] <rawplayer> met een lepel
+[09:42:37] <rawplayer> die dan naar je mond vliegt
+[09:42:42] <Fiebel> brrrrrrrrrrrrrrrrrrrrrrrrrrbrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrbrbrrrrrrrrrrrrrrrrrrrrrroem
+[09:42:44] <rawplayer> en jij dan *HAP* doet en begint te schaterlachen
+[09:42:55] <Fiebel> jammer dat vliegtuigen geen toeter hebben alleen
+[09:42:58] <rawplayer> en dan doe ik *BLBLBLLBBLBLBLBPRPFPPFPFPPRPR* op je buikje
+[09:43:07] <Fiebel> en dan zo lekker de bananenprak over je hele smoelwerk smeren
+[09:43:08] <zovty> :|
+[09:43:35] <Smileface> Arme zovty
+[09:44:19] <rawplayer> Fiebel: denk je dat deze technieken gaan werken?
+[09:44:38] <Fiebel> welneut
+[09:44:46] <Fiebel> als die eenmaal in zn kop heb IKGAATNIETETEN
+[09:44:50] <Fiebel> dan heb die het niet in zn kont
+[09:44:51] <Fiebel> of nou ja
+[09:44:52] <Fiebel> onderrug
+[09:45:25] <rawplayer> rebels joch is het he
+[09:45:34] <Punnik> goeiesmorgens allemaal !!
+[09:46:14] <zovty> Ja.
+[09:46:15] <zovty> Zo is dat.
+[09:46:20] <zovty> En dat is precies het punt.
+[09:46:22] <Fiebel> wraaaaaaaaaaawr
+[09:46:24] <zovty> Ik ben te eigenwijs voor mezelf.
+[09:46:26] <rawplayer> WRAAHWRAAH
+[09:46:28] <Smileface> Morgen
+[09:46:31] <rawplayer> STRONTEIGENWIJS
+[09:46:34] <zovty> Ja.
+[09:46:35] <rawplayer> hoi Smileface 
+[09:46:38] <rawplayer> wat leuk dat je er bent
+[09:46:49] <Smileface> Was er al ff :)
+[09:46:51] <rawplayer> ik ben opzoek naar een minder eigenwijze zovty 
+[09:46:57] <rawplayer> misschien ben jij geschikt
+[09:47:01] <Smileface> Lol
+[09:47:26] <rawplayer> god wat is dit lekker
+[09:47:27] <rawplayer> die havermout
+[09:47:32] <Smileface> Eigenwijs ben ik wel, maar heb geen dilemma's
+[09:47:48] <rawplayer> lol
+[09:48:05] <Smileface> Kan makkelijk zijn, maar dat merk je vanzeluf wel :p
+[09:48:20] <Smileface> Maar je kent me langer dan vandaag :o
+[09:48:27] <zovty> Ik heb nu 950 kcal op.
+[09:48:38] <Fiebel> is toch keurig
+[09:48:40] <Smileface> Hou hé het bij :o?
+[09:48:53] <zovty> Ja.
+[09:48:54] <Smileface> Hé is je*
+[09:49:01] <Smileface> Damn... why
+[09:49:02] <rawplayer> kcals tellen
+[09:49:04] <rawplayer> :')
+[09:49:06] <zovty> Ik heb het nu even ingevoerd.
+[09:49:06] <rawplayer> echt jonge
+[09:49:09] <rawplayer> leer dat af
+[09:49:15] <Smileface> Ga leven
+[09:49:16] <rawplayer> en snel ook
+[09:49:17] <Fiebel> dat is een prima leidraad
+[09:49:20] <rawplayer> NEE
+[09:49:22] <Fiebel> wel
+[09:49:23] <rawplayer> is het niet
+[09:49:32] <rawplayer> ja joh 950 kcal aan coca cola
+[09:49:37] <Fiebel> heerlijk
+[09:49:38] <zovty> Player.
+[09:49:40] <bReChThOu> :O
+[09:49:43] <Fiebel> niks zou zovty gelukiger maken
+[09:49:44] <rawplayer> ja joh 950 kcal aan biefstuk en broccoli
+[09:49:45] <Fiebel> hallo breggie
+[09:49:46] <zovty> Ik heb toch geen 950 kcal aan coca cola op.
+[09:49:48] <rawplayer> wat een leidraad
+[09:49:49] <rawplayer> :')
+[09:49:51] <bReChThOu> uj Fiebel
+[09:49:54] <Fiebel> lekker cola vanieje
+[09:49:57] <zovty> Brechtjen.
+[09:52:23] <rawplayer> echt he
+[09:52:32] <rawplayer> ik denk dat ik vandaag een blikje cherry cola ga kopen
+[09:52:34] <rawplayer> vanavond
+[09:52:42] <rawplayer> en dan aan iedereen in de jumbo vertel waarom ik dit koop
+[09:52:44] <rawplayer> en hoe speciaal dat is
+[09:52:46] <rawplayer> dat ik zoiets koop
+[09:52:49] <rawplayer> en dat normaal niet drink
+[09:53:00] <zovty> Ok.
+[09:53:55] <Fiebel> och jonges
+[09:53:58] <Fiebel> die scheten
+[09:54:04] <Fiebel> zou het kunnen dat er in mij iets lekt?
+[09:54:09] <Fiebel> een vat zwavelzuur ofzo
+[09:54:14] *** Joins: Fem_LittleLady (Mibbit@a82-161-112-138.adsl.xs4all.nl)
+[09:54:46] <Fem_LittleLady> Een hele goedemorgen
+[09:54:57] <zovty> He fem.
+[09:55:15] <Punnik> morguh !
+[09:55:58] <Fem_LittleLady> Wat een regen vanacht he
+[09:56:21] <zovty> Niks van gemerkt eigenlijk.
+[09:57:18] <Fem_LittleLady> Nou ik wel
+[09:57:31] <Fem_LittleLady> liep vanacht om half 4 de container aan de straat te zetten
+[09:58:28] <WvdL> welke regen?
+[09:58:41] <Fem_LittleLady> hahaha ben ik de enige die iets meekrijgt
+[09:58:45] <Fiebel> och jonges
+[09:58:45] <Fiebel> die pep
+[09:58:49] <Fiebel> die ken zo lekker knorre
+[09:58:51] <Fiebel> en zo keurig zitte
+[09:58:52] <Fiebel> ha fem!
+[09:59:00] <Fiebel> jeetje
+[09:59:00] <WvdL> of de enige die ff hip wil doend at ie 4 uur snachts butien was :+
+[09:59:07] <Fiebel> snachts hou je jezelf ook al zo bezig
+[09:59:10] <Fiebel> pfoeeeeeeee
+[09:59:20] <Fem_LittleLady> hahaha hoi Fiebel
+[09:59:37] <Fem_LittleLady> Nee was wakker geworden en denk ooohhhhh ben de container vergeten
+[09:59:46] <Fem_LittleLady> tja die moet wel voor half 8 aan de straat
+[10:00:00] <Fiebel> dan doe e dat toch 5 voor halff 8?
+[10:00:11] <Fem_LittleLady> Nee soms zijn ze hier snel
+[10:00:55] <Fem_LittleLady> Gister weer bij de tattoo shop geweest
+[10:01:54] *** Quits: Smileface (smile@25bc408b.ftth.concepts.nl) (No route to host)
+[10:01:55] *** Joins: Smileface (smile@25bc408b.ftth.concepts.nl)
+[10:02:28] <zovty> Tattooes zijn verslavend he.
+[10:02:31] <zovty> Ik wil er ook een.
+[10:02:35] <zovty> Ik wil er 2.
+[10:02:36] <Fiebel> doe maar lekker
+[10:02:36] <zovty> Eigenlijk.
+[10:02:39] <Fiebel> doe maar gwoon
+[10:02:48] <zovty> Ik wil het hackersymbool. (ZO'n life walker)
+[10:02:57] <zovty> En een encrypted sleuteltot mijn hart.
+[10:03:03] <zovty> Maar ik weet nog niet zo goed hoe ik dat vorm moet geven.
+[10:03:09] *** Joins: Guyver2 (Guyver2@guyver2.xs4all.nl)
+[10:03:50] <zovty> Heb jij een tattoo fabis?
+[10:04:01] <Fiebel> god nee
+[10:04:07] <Fiebel> ik heb er niks tegen
+[10:04:14] <Fiebel> al vind ik ze wel vaak lelijk
+[10:04:19] <zovty> Ex heb me naam op d'r vinger.
+[10:04:21] <zovty> :').
+[10:04:31] <Fiebel> maar dat heeft gewoon met de general lack of taste te maken van de wereld
+[10:04:32] <Fiebel> a
+[10:04:35] <Fiebel> exemplarisch
+[10:04:41] <Fiebel> mijn naam
+[10:04:42] <zovty> Juistems.
+[10:04:47] <zovty> Nounee.
+[10:04:47] <Fiebel> maar verder heb ik er dus niks tegen
+[10:04:49] <zovty> gewoon Dennis! hoor.
+[10:04:52] <zovty> Inclusief !
+[10:04:58] <Fiebel> met een hoofdletter?
+[10:05:01] <zovty> Yup.
+[10:05:05] <Fiebel> ook nog ens fout!!!!!!!!
+[10:05:11] <Fiebel> stoch ook raar
+[10:05:12] <zovty> Ne, dat is aleen bij zovty zo.
+[10:05:20] <Fiebel> dat als ze een andere prostaat masseert
+[10:05:27] <Fiebel> dat jij dan in een andere mannenhol zit?
+[10:05:32] <zovty> Ik toch niet zelf.
+[10:05:34] <Fiebel> of is het niet dr prostaat vinger?
+[10:05:41] <zovty> Eh.
+[10:05:44] <Fiebel> maar wat ik dus wou zeggen
+[10:05:45] <zovty> Ringvinger.
+[10:05:47] <zovty> Dus ja.
+[10:05:54] <Fiebel> op mijn eigen pillsbury dough girl huid
+[10:05:59] <Fiebel> zie ik dat gewoon niet zo zitten
+[10:06:01] <Fiebel> maar zovty
+[10:06:13] <Fiebel> toen zij zo zei van oeeeeeeh ik ga jouw naam op mijn ringvinger laten zette
+[10:06:14] <zovty> Ja.
+[10:06:15] <Fiebel> wat zei jij toen?
+[10:06:27] <zovty> Haha, nou, dat is misschie nneit zo goed idee, want als het fout gaat en dit en dat.
+[10:06:35] <Fiebel> :')
+[10:06:40] <Fiebel> :D
+[10:06:40] <rawplayer> ups
+[10:06:43] <zovty> Maar ze wilde het toch, want ik was zo belangrijk voor d'r en die tijd wilde ze altijd herinneren en blablablabla.
+[10:06:52] <rawplayer> grote pakketten
+[10:07:10] <rawplayer> kilo knallers
+[10:07:10] <zovty> Dus helemaal naar eh.
+[10:07:13] <zovty> Die zaak in roffa.
+[10:07:15] <zovty> Tattoo bob?
+[10:07:32] <Fiebel> :')
+[10:07:34] <Fiebel> de tiefus
+[10:07:34] <zovty> Want kennlijk kon dat niet in breda of tilburg.
+[10:07:36] <Fiebel> sorry hoor
+[10:07:37] <Fiebel> :')
+[10:07:38] <Fiebel> maar
+[10:07:39] <Fiebel> :')
+[10:07:41] <zovty> Geeft toch niks.
+[10:07:46] <Fiebel> ik vraag mij wel eens af
+[10:07:57] <Fiebel> hoe de afgelopen jaren van jouw leventje er toch uitzagen kleine zovty
+[10:08:03] <Fiebel> en ik kan me daar maar lastig een voorstelling bij maken
+[10:08:03] <Fem_LittleLady> Och mag de 12e weer
+[10:08:05] <zovty> Ja, anders he.
+[10:08:07] <zovty> Andes.
+[10:08:09] <zovty> anders.
+[10:08:12] <Fiebel> andesgebergte
+[10:08:33] <zovty> Maja.
+[10:08:46] <zovty> De dagen dat ik gewoon op me laptopje zat en zij gtst zat te kijken, dat vertel ik niet he.
+[10:08:50] <zovty> Dus alleen de gekke dingen.
+[10:08:50] <Fem_LittleLady> https://scontent.xx.fbcdn.net/v/t34.0-12/13022311_553335721519717_12421350_n.jpg?oh=c1b9148e6e717e121486af6e3029e334&oe=572A146D
+[10:08:55] <Fiebel> de mallegeitjes
+[10:08:55] <Fem_LittleLady> Deze laat ik dan zetten
+[10:08:57] <zovty> In in 5 jaar maak je wel eens wat mee.
+[10:08:57] <rawplayer> hoinfemmie
+[10:09:04] <Fem_LittleLady> Hoi rawplayer
+[10:09:20] <zovty> Is het enhousiasme tussen jullie wat bekoeld?
+[10:09:46] <Fem_LittleLady> Mooi he die komt op mijn ribben
+[10:09:58] <Fem_LittleLady> vliegt hij zo van achter naar voren
+[10:09:59] <zovty> Omdat je zo'n wijze uil bent?
+[10:10:11] <Fiebel> roekoeeeeeeeeeeeeeeee
+[10:10:11] <Fem_LittleLady> Omdat ik uilen zo mooi vind
+[10:10:17] <zovty> Ja, die zijn ook mooi.
+[10:10:19] <zovty> En slim he.
+[10:10:26] <zovty> Zijn de slimste vogels.
+[10:10:34] <Fem_LittleLady> En je hoort ze eigenlijk niet vliegen
+[10:10:43] <zovty> Net als jij.
+[10:10:44] <zovty> :)
+[10:10:46] <Fem_LittleLady> hahahaha
+[10:11:18] <zovty> Is hoink dezelfde als tufkal?
+[10:11:30] <Fiebel> ik ga een webcam in de kattenbak hangen
+[10:11:37] <Fiebel> of een doorzichtige kattenbak kopen
+[10:11:39] <zovty> Choor.
+[10:11:46] <Fiebel> ik wil echt eens zien wat dat beest daar in hemelsnaam uitspookt
+[10:11:53] <Fem_LittleLady> hahaha
+[10:12:01] <Fiebel> serieus
+[10:12:06] <Fiebel> ze organiseert er volgens mij raves
+[10:12:07] <Fiebel> met al haar vrienden
+[10:12:09] <Fiebel> druks
+[10:12:10] <Fiebel> drank
+[10:12:12] <Fiebel> blote tieten
+[10:12:16] <Fiebel> HONKHONK
+[10:12:38] <Fiebel> ik denk dat als ik mijn best doe
+[10:12:42] <Fiebel> ik best weer zou kunnen kakken
+[10:12:49] <Fiebel> ondanks de totale ontruiming van gisteren
+[10:13:03] <zovty> Och kind.
+[10:13:05] <zovty> Blote tieten.
+[10:13:09] <zovty> Dat is toch het lekkerste wat er is he.
+[10:13:15] <zovty> Ze hoeven niet eens bloot te zijn.
+[10:13:20] <zovty> Als je er maar aan kan zitten.
+[10:13:36] <zovty> Volgens mij snappen jullie vrouwen niet zo goed wat tieten met ons doen.
+[10:13:41] <rawplayer> klopt
+[10:13:43] <zovty> Jullie zien de symptomen.
+[10:13:49] <zovty> Maar niet echt de kracht.
+[10:14:27] <Fem_LittleLady> Ohw dat is niet zo moeilijk
+[10:14:59] <Fiebel> hm
+[10:15:00] <Fiebel> nou
+[10:15:05] <Fiebel> ik hoefde niet eens echt mijn best te doen
+[10:15:17] <Fiebel> weer een keurige drol
+[10:15:19] <Fiebel> keurig formaat
+[10:15:21] <zovty> Goedzo.
+[10:15:24] <Fiebel> stevige flinke drol
+[10:15:25] <zovty> Mooie tijd ook.
+[10:15:27] <Fiebel> niks vergeleken met gisteren
+[10:15:32] <zovty> Als je nou iedere dag een kwartiertje eerder gaat.
+[10:15:34] <Fiebel> gisteren was echt 3 tot 4 keer dit
+[10:15:38] <Fiebel> maar op zichzelf staand
+[10:15:41] <Fiebel> prima drol
+[10:15:41] <Fiebel> ja
+[10:15:41] <zovty> Kun je over 4 dagen jezelf inhalen.
+[10:15:44] <Fiebel> wel weer waardeloos getimed
+[10:15:51] <Fiebel> maar ik had gelukkig nog niet gedoucht!
+[10:16:53] <zovty> Goedzo kind.
+[10:17:02] <Fiebel> maar helaas hen ik al wel een sloot water en een sloot koffie en een krakker op
+[10:17:02] <zovty> Lekker met poepbillen op de stoel zitten.
+[10:17:07] <Fiebel> ik ben in bed
+[10:17:25] <zovty> Ok.
+[10:17:32] <Fiebel> vanmorgen was ik dus terug op het laagste fiebel punt ooit
+[10:17:35] <Fiebel> waar ik vorige week ook was
+[10:17:39] <Fem_LittleLady> https://scontent.xx.fbcdn.net/v/t1.0-9/13119112_559044017615554_2535100500634937767_n.jpg?oh=3658f6bb946d51d733713f448040a7d0&oe=57AFE9D4
+[10:17:40] <Fem_LittleLady> tadaa
+[10:17:50] <Fiebel> maar toen kwam mijn eetlust beetje terug en ging ik sjippies en katjang eten en kwam koningsdag
+[10:17:56] <Fem_LittleLady> https://scontent.xx.fbcdn.net/v/t1.0-9/13164280_559044007615555_3773466443754267387_n.jpg?oh=dc6213628df323d5e27ca534c0c7562d&oe=57BA7F0C
+[10:17:59] <Fiebel> dus vandaag was ik weer terug op dat gewicht
+[10:18:06] <Fiebel> maar als ik nou EERST had gekakt had ik er misschien wel ONDER gezeten
+[10:18:12] <Fiebel> dat was pas echt gers geweest
+[10:18:14] <Fiebel> maar wie weet morgen
+[10:18:19] <Fiebel> wie weet!
+[10:18:47] <zovty> Gers.
+[10:19:06] <Fiebel> ja
+[10:19:12] <Fiebel> het is toch een beetje verslavend
+[10:19:14] <Fiebel> dat is wel genant
+[10:19:15] <Fiebel> maar wel leuk
+[10:19:22] <zovty> Wat?
+[10:19:26] <Fiebel> fvallen
+[10:19:42] <Fem_LittleLady> Mja nee is niet zo mijn ding
+[10:19:49] <zovty> Oh, pas daar mee op he.
+[10:19:55] <zovty> Zo ontstaat anorexia.
+[10:20:04] <Fiebel> och heerlijk
+[10:20:07] <Fiebel> dat is mijn grootste droom
+[10:20:09] <Fiebel> nee dat is niet waar
+[10:20:14] <Fiebel> een lintworm is mijn grootste droom
+[10:20:15] <zovty> Ja, pas er maar mee op.
+[10:20:17] <Fiebel> wel de lusten
+[10:20:19] <Fiebel> niet de lasten
+[10:20:25] <zovty> Ik denk al een jaar of 15 dat ik een lintworm heb.
+[10:20:29] <Fiebel> maar op 2 staat anorexia
+[10:20:29] <zovty> Maar heb ik niet.
+[10:20:31] <zovty> Denk ik.
+[10:20:33] <Fiebel> weet je hoe je dat oplost?
+[10:20:39] <zovty> Ja, met pillen.
+[10:20:43] <Fiebel> nee
+[10:20:46] <Fiebel> veel mkkelijker!
+[10:21:03] <zovty> Oh.
+[10:21:05] <zovty> Doodgaan?
+[10:21:11] <Fiebel> nog makkelijker!
+[10:21:17] <zovty> Niks eten.
+[10:21:21] <Fiebel> neeehee
+[10:21:24] <zovty> :|
+[10:21:26] <rawplayer> hoi
+[10:21:27] <zovty> Waar wil je heen kind.
+[10:21:30] <Fiebel> je gaat naar de ah
+[10:21:33] <Fiebel> je koopt een komkommer 
+[10:21:35] <Fiebel> en een ei
+[10:21:35] <rawplayer> ik durf niet door te trekken
+[10:21:39] <Fiebel> (jumbo mag ook)
+[10:21:42] <Fiebel> dan ga je naar huis
+[10:21:48] <Fiebel> dan duw je de komkommer in je kont
+[10:21:53] <Fiebel> nee
+[10:21:57] <Fiebel> eerst kook en pel je het ei
+[10:22:03] <Fiebel> dan duw je de komkommer in je kont
+[10:22:06] <Fiebel> en het gekookte ei ook
+[10:22:13] <Fiebel> dat herhaal je 13 dagen
+[10:22:21] <Fiebel> en op de 14e dag koop je alleen ei
+[10:22:25] <Fiebel> dan ga je naar huis
+[10:22:28] <Fiebel> kook en pel je dat ei
+[10:22:32] <Fiebel> en stopt dat in je poephol
+[10:22:36] <zovty> Dit noem je makkelijker dan doodgaan?
+[10:22:45] <Fiebel> na een minuut komt dan de lintworm naar buiten
+[10:22:49] <Fiebel> WAAR BLIJFT MIJN KOMKOMMER!!!!!!!!!!
+[10:22:53] <Fiebel> en dan trek je hem dr zo uit
+[10:23:00] <zovty> Ok.
+[10:23:05] <zovty> Ik ga wel gewoon dood.
+[10:23:07] <zovty> Lijkt me toch makkelijker.
+[10:23:14] <Fiebel> och heerlijk
+[10:23:20] <Fiebel> ik ben nu al jaloers op je
+[10:23:22] <Fiebel> zeg ik eerlijk
+[10:24:06] <zovty> Jajoh.
+[10:24:08] <zovty> Ben maar lekker jaloers.
+[10:24:13] <zovty> Want ik ga bijna dood.
+[10:24:23] <Fiebel> hNGGGGGGGGGGGGGGGGGGGGGGGG
+[10:24:27] <zovty> Dus ik had een keertje zo'n antiwormen kuur.
+[10:24:30] <zovty> 3 dagen 3 pillen.
+[10:24:33] <zovty> GNANGNGANG!
+[10:24:33] <Fiebel> ...
+[10:24:37] <zovty> Geen lintworm in me poep.
+[10:24:50] <zovty> Blijken die pillen alleen maar te helpen tegen varkenslitnworm wat toch nooit vookromt.
+[10:24:57] <Fiebel> ...
+[10:25:00] <Fiebel> mijn poep
+[10:25:18] <zovty> Jahoor ja.
+[10:25:24] <zovty> Me lintworm in jouw poep.
+[10:25:25] <zovty> :').
+[10:25:27] <zovty> Gek kind.
+[10:25:34] <Fiebel> zou wel gek zijn
+[10:25:38] <Fiebel> er zijn wel therpietes
+[10:25:42] <Fiebel> ik weet even nit meer goed waarvoor
+[10:25:53] <Fiebel> maar waarbij je dus gemalen poep van iemand anders in je darmpjes krijgt
+[10:26:26] <zovty> Ja.
+[10:26:30] <zovty> Yakult is dat in weze.
+[10:26:43] <zovty> Die biocultuur die er in zit is de gewoon de verdunde poep van meneer yakult.
+[10:26:46] <zovty> (Simpel gezegd.)
+[10:26:54] <Fiebel> och heerlijk
+[10:27:36] <zovty> Maar poeptransplanties worden vaker ingezet voor vage darmklachten. Of naar zware operaties.
+[10:27:42] <Fiebel> ja
+[10:27:46] <zovty> Vaaka de poep van een aaste omdat die culturen het beste matchen.
+[10:27:55] <Fiebel> laatst las ik ook iets over muizen en overgewicht ofzo
+[10:27:56] <Fiebel> ja
+[10:27:57] <Fiebel> :')
+[10:28:18] <zovty> Goed verhaal.
+[10:28:31] <Fiebel> was wel lekker kort toch?
+[10:28:48] <zovty> Jawel.
+[10:28:58] <zovty> Samenvatting: Fabis las.
+[10:29:05] <Fiebel> :|
+[10:30:52] <zovty> :\
+[10:32:27] <rawplayer> ik heb t
+[10:32:41] <zovty> Wat heb je?
+[10:32:44] <rawplayer> t
+[10:32:49] <zovty> Wat?
+[10:32:51] <rawplayer> t
+[10:33:00] <zovty> Zeg dan niks he.
+[10:33:03] <zovty> Zeg dan gewoon niks.
+[10:33:15] <zovty> Kom binnen, type niks, druk niet op enter en val ons niet lastig.
+[10:34:16] <zovty> :|
+[10:35:14] <Fem_LittleLady> :D
+[10:36:42] *** Quits: Smileface (smile@25bc408b.ftth.concepts.nl) (Exit)
+[10:40:16] *** Joins: jeroen44 (Mibbit@37.152.15.141)
+[10:40:29] <jeroen44> iemand een date?
+[10:40:37] <zovty> Ja.
+[10:40:41] <zovty> Player wil graag een date.
+[10:40:48] <zovty> Maakt niet uit met wat.
+[10:40:53] <zovty> Als er maar een gat in zit.
+[10:41:11] <zovty> Oh maar.
+[10:41:18] <zovty> jeroen44, mag ik eens wat vragen.
+[10:41:22] <zovty> uit interesse?
+[10:41:50] <zovty> Is je dat nou ooit wel eens gelukt; ergens binnen stormen, zeggen: iemand een date, en dat iemand dan zou: nouwe, eh, misschien wel.
+[10:42:01] <zovty> Endat je er dan ook daadwerklijke een date aan over hebt gehouden.
+[10:42:10] <zovty> En wat voor type vrouwen zijn dat dan in hemelsnaam?
+[10:42:52] <Fem_LittleLady> Och ze zijn er hoor
+[10:45:51] <zovty> Fem?
+[10:45:52] <zovty> Daten?
+[10:46:08] <zovty> Gewoon bakkie koffie, beetje zoene, beetje voelen, en dan kijken we wel hoe het gaat.
+[10:47:26] <Fem_LittleLady> Mag mijn vriend mee
+[10:47:36] <Fem_LittleLady> hahaha
+[10:47:48] <zovty> Ja, tuurlijk.
+[10:48:01] <zovty> De kleine laten we nog even thuis hoor.
+[10:48:10] <zovty> Daar zou ik me nog even ongemakkeljk bij voelen.
+[10:48:36] <Fem_LittleLady> heb het ooit een keer gedaan iemand uit Assen, zo mee afgesproken, heb een poorje een raltie mee gehad
+[10:49:05] <Fem_LittleLady> was erg leuk, tot ik erachter kwam dat hij zijn kinderen verzweeg en ook had verzwegen dat hij deze alleen onder toezicht mocht zien
+[10:49:53] <Fem_LittleLady> Toen hij geen reden kon geven ging het uit, heb ook een kind en wil die niet in gevaar brengen
+[10:50:12] <jeroen44> ja hoor werkt prima
+[10:52:12] *** Quits: jeroen44 (Mibbit@37.152.15.141) (Exit)
+[10:53:32] <Jeroen> lol
+[10:57:42] <zovty> No.
+[10:57:49] <zovty> En dat is nou precies de reden edat je zoiets niet moet doen.
+[10:58:13] <Fiebel> zijn ook meisjes die zo bij een snotjong in de auto stappen
+[10:58:19] <Fiebel> om naar het buitenland te gaan
+[10:58:30] <Fem_LittleLady> de man was verder heel lief hoor, heb nooit iets raars kunnen zien
+[10:58:39] <Fem_LittleLady> in gedrag of agressie helemaal niets
+[10:59:29] <zovty> Misschien wel het wel een pedo.
+[10:59:43] <Fem_LittleLady> Ik weet niet, kwamen hem laatst nog tegen
+[10:59:53] <Fem_LittleLady> altijd nog even vriendelijk
+[11:00:03] <rawplayer> femmie zou jij bij mij in de auto stappen?
+[11:00:06] <Fem_LittleLady> maar goed, ik ben van mening je kinderen verzwijgen, dan is er iets
+[11:00:08] <zovty> Ja, rancune heb je ook niks aan.
+[11:00:13] <zovty> Player, zou jij bij mij in de auto stappen?
+[11:00:18] <rawplayer> nee.
+[11:00:24] <Fiebel> sleuk hoor
+[11:00:25] <rawplayer> misschien zonder baard
+[11:00:26] <zovty> In mijn zwarte geblindeerde busje zonder kenteken plaat.
+[11:00:29] <Fiebel> je mag zelfs je eigen cd opzetten
+[11:00:32] <Fiebel> in het begin dan
+[11:00:33] <Fem_LittleLady> Hahaha nee ik ben nu wel wat ouder en wijzer dat zou ik niet meer zo doen
+[11:00:38] <rawplayer> :|
+[11:00:47] <Fem_LittleLady> Ben wel zomaar met een vreemde een week mee geweest op de vrachtwagen
+[11:00:56] <Fem_LittleLady> daar ben ik uiteindelijk ook mee getrouwd
+[11:01:11] <zovty> Raar hoor :D.
+[11:01:34] <Escovan> http://www.uwv.nl/overuwv/pers/nieuwsberichten/2016/helft-wajongers-verliest-baan-binnen-een-jaar.aspx
+[11:01:36] <digibot> Title: Helft Wajongers verliest baan binnen een jaar - UWV - Over UWV (at www.uwv.nl)
+[11:01:47] <rawplayer> gaan we weer :')
+[11:01:53] <Fem_LittleLady> ach was wel erg leuk
+[11:02:01] <zovty> Ja, is ook.
+[11:02:05] <zovty> Als je toch niks te verliezen hebt.
+[11:02:10] <zovty> DAN MAAR KAPOT!!!!!!!!!!!!!!!!
+[11:02:43] <Escovan> ik deel het alleen... don´t shoot the messenger. Ik zie het als mijn missie draagvlak te creëren voor de onderklasse van de samenleving.
+[11:04:23] <zovty> Het zou een mooiere missie zijn om de onderklasse omhoog te trekken.
+[11:04:29] <Fiebel> hihihihihihihihihiihih
+[11:04:29] <zovty> Jij als voorbeeld van hoe het ook kan.
+[11:04:32] <Fiebel> trekken
+[11:04:37] <zovty> HOe je toch een volwaardig lid van de maatschappij kan zijn.
+[11:04:54] <zovty> We betalen bewust zo weinig om de mensen gemotiveerd te houden.
+[11:05:00] <Escovan> dat zovty ... psies dat. Wil jij mijn PR doen? Want zoals je ziet ben ik daar niet zo goed in.
+[11:05:00] <zovty> Je moet geen draagvlak creeeren voor hun situatie.
+[11:05:06] <zovty> Je moet ze motiveren om te ontsnappen.
+[11:05:14] <zovty> Oh, dan moet je fabis vragen.
+[11:05:27] <Fiebel> ik wil niet
+[11:05:27] <zovty> Die is afgestudeerd propagandist.
+[11:05:29] <zovty> Oh.
+[11:06:30] <Escovan> maar zovty wat is er eigenlijk mis met mensen die zo ziek zijn dat ze het gezeur wel genoeg vinden en genoegen nemen met 75% minimumloon?
+[11:06:45] <Fem_LittleLady> maar goed hoeveel mannen gaan mee als een vrouw zegt, stap in de auto
+[11:07:33] <zovty> Omdat je altijd moet streven naar meer.
+[11:07:36] <zovty> En niet je handje ophouden.
+[11:07:39] <zovty> Dat is zwak en slap.
+[11:07:44] <zovty> En eigenlijk ook wel een beetje gemeen.
+[11:07:57] <zovty> Maar nu moet ik weg.
+[11:08:00] <zovty> Geld verdienen.
+[11:08:04] <Escovan> right
+[11:08:07] <Fem_LittleLady> hele fijne dag
+[11:08:27] *** Quits: Jeroen (Jeroen@ip82-139-124-155.lijbrandt.net) (Exit)
+[11:08:29] *** Quits: Fem_LittleLady (Mibbit@a82-161-112-138.adsl.xs4all.nl) (Exit)
+[11:09:00] <Escovan> De grootste denkers in de geschiedenis werden verguisd en pas ver na hun dood geschat op hun waarde.
+[11:10:17] <Escovan> Je beste recensie is een rouwadvertentie, zullen we maar zeggen.
+[11:18:35] <Fiebel> god ik hoop niet dat iemand zo debiel iets in de krant te zetten als ik eindelijk het hoekje om ben hoor
+[11:29:54] *** Joins: Guest (textual@76-14-185-84.wsac.wavecable.com)
+[11:30:21] <Fiebel> nhooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooh
+[11:30:29] <rawplayer> O+ O+ O+
+[11:30:32] <rawplayer> zou het milky zijn?
+[11:32:14] <Fiebel> ze is wel onmilkies stil...
+[11:32:37] <rawplayer> ja ze is hot e
+[11:32:38] <rawplayer> h
+[11:33:00] <Fiebel> ooooooch jonges
+[11:33:01] <Fiebel> die pep
+[11:33:04] <Fiebel> zo knorre
+[11:33:06] <Fiebel> zo enthousiast
+[11:33:10] <Fiebel> knorreknorrekorre
+[11:33:14] <Fiebel> als je dr maar naar wijst
+[11:33:45] <rawplayer> ooo wat lief
+[11:33:47] <rawplayer> zooooo lief
+[11:33:50] <rawplayer> zooooooooooooooooooo lief
+[11:34:01] <Escovan> enig
+[11:34:28] <Escovan> Wie betaalt jullie eigenlijk om hier 12/7 te hangen?
+[11:34:51] <Escovan> beetje zinloze opmerkingen maken
+[11:34:55] <Escovan> nul verdieping
+[11:35:09] <SJ> Escovan: doe er iets aan!
+[11:35:56] <nomadz> escovan, volgens mij is de functie van zovty al 10 jaar geleden opgeheven maar is iemand vergeten hem dat te vertellen
+[11:36:59] <Escovan> ahja, dat hebben ze me bij de belastingdienst uitgelegd: de raamambtenaar.
+[11:37:45] <SJ> de 'raamfokker' 
+[11:37:53] <SJ> dat klinkt .... verkeerd 
+[11:38:04] <Escovan> klinkt als hoer idd
+[11:38:15] <SJ> Nuja
+[11:38:31] * SJ is al jaren werkzaam in de technoprostitutie 
+[11:41:23] <nomadz> mentale prostitutie
+[11:41:46] <nomadz> ik zit nu al meer dan een minuut te denken hoe ik mijn situatie "verhoer"
+[11:42:37] <nomadz> maar kom er niet op
+[11:51:54] <Fiebel> och jonges
+[11:51:55] <Fiebel> heerlijk
+[11:51:59] <Fiebel> een lekker bakkie troost
+[11:52:24] <rawplayer> Escovan: tegenwoordig werk je niet meer op tijd zoals in de jaren 80
+[11:52:29] <rawplayer> maar wat je opleverd
+[11:52:37] <Fiebel> ik krijg gewoon 1800 euro nette er maand
+[11:52:40] <Fiebel> van mij goede vriend
+[11:52:41] <Fiebel> Udo
+[11:52:43] <rawplayer> TITS
+[11:52:50] <Fiebel> Udo Waldorf Valderama
+[11:52:54] <rawplayer> ja joh
+[11:52:54] <rawplayer> jij wel
+[11:52:57] <rawplayer> jij krijgt weer iets
+[11:52:59] <Fiebel> gihghighi
+[11:53:00] <rawplayer> wrijft het maar er in
+[11:53:03] <rawplayer> lekker wrijven
+[11:53:07] <Fiebel> och heerlijk
+[11:53:11] <Fiebel> lichte druk
+[11:53:18] <Fiebel> in cirkelende bewegingkjes
+[12:02:25] *** Quits: coreblink (coreblink@145.132.131.160) (Exit)
+[12:02:30] <rawplayer> kom hier
+[12:10:21] *** Quits: Guyver2 (Guyver2@guyver2.xs4all.nl) (Ping timeout: 66 seconds)
+[12:10:56] *** Joins: Guyver2 (Guyver2@guyver2.xs4all.nl)
+[12:12:03] <Fiebel> och jonges
+[12:12:06] <Fiebel> mijn belasting is er ook!
+[12:12:09] <Fiebel> bedankt vadertje staat!
+[12:12:23] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[12:13:33] *** Joins: Fem_LittleLady (Mibbit@a82-161-112-138.adsl.xs4all.nl)
+[12:13:41] <Fem_LittleLady> :D
+[12:13:57] <nomadz> :D
+[12:14:08] <Fem_LittleLady> Lekker weertje is het he
+[12:14:17] <Fem_LittleLady> worden mensen blij van
+[12:14:35] <nomadz> geen idee, heb geen klimaat hierbinnen :(
+[12:14:56] <Fem_LittleLady> Tsss
+[12:14:59] <Fem_LittleLady> balen ja
+[12:15:48] <nomadz> heb wel een certificaat gekregen vandaag, met een datum van januari en 1 jaar geldig. dus eerste 5 maanden zijn al naar de klote lol
+[12:16:21] <Fem_LittleLady> och
+[12:16:53] <Fem_LittleLady> dat is echt irritant
+[12:16:54] <bReChThOu> bij microsoft werkt dat andersom
+[12:16:56] *** Quits: TooL (x@ip172-92-210-87.adsl2.static.versatel.nl) (Ping timeout: 67 seconds)
+[12:17:25] *** Quits: Guyver2 (Guyver2@guyver2.xs4all.nl) (Ping timeout: 63 seconds)
+[12:17:25] <bReChThOu> vandaag halen met 1 jaar geldigheid zou t/m 31/12/2017 gelden
+[12:18:13] *** Joins: Guyver2 (Guyver2@2001:985:f3f:1:800:4c1f:aa57:1471)
+[12:20:42] <Fem_LittleLady> Zal straks de bar schoonmaken
+[12:21:36] *** Quits: BarthezZ (bart@monitoring.deheij-ict.nl) (Ping timeout: 60 seconds)
+[12:25:13] *** Joins: TooL (x@ip172-92-210-87.adsl2.static.versatel.nl)
+[12:26:44] *** Quits: Fem_LittleLady (Mibbit@a82-161-112-138.adsl.xs4all.nl) (Exit)
+[12:28:17] *** Joins: NBS (NBS4@ip5657cc38.direct-adsl.nl)
+[12:37:33] <rawplayer> och jonges
+[12:37:33] <rawplayer> ik heb gegeten
+[12:37:35] <rawplayer> salade
+[12:37:37] <rawplayer> 2 eitjes
+[12:37:39] <rawplayer> aspergesoep
+[12:37:45] <Fiebel> ooooooooooooooooooooooooooooooooooooooooooh
+[12:37:46] <rawplayer> Fiebel: je teruggave
+[12:37:48] <Fiebel> was ik maar jou
+[12:45:42] <Fiebel> och jonges
+[12:45:46] <Fiebel> wat is havermout met bessen toch lekker
+[12:47:09] <Fiebel> en sinds ik weer lekker havermout eet schijt ik als een bizon
+[12:47:39] <Fiebel> ik lijk rawplayer wel
+[12:52:15] <Punnik> pakketje besteld, word meestal door mn vaste bezorger van postnl gebracht (op vaste tijd enzo) en nu komt het met DHL... ergens tussen 12:00 en 18:00 
+[12:52:27] <Punnik> spannend leven ;P 
+[12:52:48] *** Quits: TooL (x@ip172-92-210-87.adsl2.static.versatel.nl) (Ping timeout: 66 seconds)
+[12:52:54] <Fiebel> and they say the thrill is gone!
+[12:53:28] <Punnik> hier niet hoor :)  
+[12:54:11] <Fiebel> nee dat blijkt wel weer!!
+[12:54:47] <nomadz> als je de code van dhl weet kun je aangeven dat ie m "in de struiken naast de schuur" kan zetten. (op eigen risico)
+[12:55:05] <Boots> gheheh ja dat zag ik gisteren inderdaad
+[12:55:05] <Boots> :D
+[12:55:24] <Boots> Linker achterdeur
+[12:55:26] <Boots> Rechter achterdeur
+[12:55:27] <Boots> etc
+[12:55:30] <Boots> Anders
+[12:55:52] <Punnik> ik zie hem wel aankomen via mn buitencamera's :)
+[12:55:56] <Boots> :P
+[12:56:06] <nomadz> explosieven bestellen, "zet maar naast de ingang van de tweede kamer"
+[12:56:15] <Boots> hehehe
+[12:56:21] <Boots> Ja je kan ook random ander adres geven
+[12:56:41] <Punnik> of gewoon zo'n ouderwetse tikkende wekker en laten bezorgen op het station 
+[12:57:36] <nomadz> ik las laatst een artikel over een wifi ssid met "Wireless Bomb Detonator" op een vliegveld
+[12:57:59] <Punnik> toen was je later thuis ? :)
+[13:01:13] *** Joins: TooL (x@ip172-92-210-87.adsl2.static.versatel.nl)
+[13:02:22] *** Joins: Jeroen (Jeroen@ip82-139-124-155.lijbrandt.net)
+[13:03:01] <Fiebel> why is the lippenbalsem always gone
+[13:03:56] <Fiebel> weet ik wel hoor
+[13:03:59] <Fiebel> het antwoord is: pep
+[13:14:59] <Fiebel> och jonges
+[13:15:02] <Fiebel> nu is mijn pinpas weer kwijt
+[13:15:18] <Fiebel> o ik heb hem
+[13:15:20] <Fiebel> GEEN PANIEK
+[13:15:26] <Fiebel> BLIJF ALLEMAAL KALM!!!!!
+[13:15:26] <Fiebel> IK HEB HEM AL
+[13:17:28] <rawplayer> hoi
+[13:17:34] <Fiebel> hallo rawp
+[13:17:35] <Fiebel> y
+[13:17:37] <Fiebel> ik ga zo tippelen he
+[13:17:39] <Fiebel> #sb17
+[13:18:27] <rawplayer> goedzo
+[13:18:29] <rawplayer> goeeeedzo
+[13:18:34] <Fiebel> gighigihihghig
+[13:18:39] <Fiebel> ik hoop op morgen minder fiebel dan ooi
+[13:18:40] <Fiebel> gighigihghihig
+[13:18:40] <Fiebel> t
+[13:18:41] <Fiebel> gighigihhighighig
+[13:18:47] *** Joins: coreblink (coreblink@145.132.131.160)
+[13:18:47] <rawplayer> ja ik ook
+[13:18:51] <rawplayer> swel zo lekker
+[13:18:53] <rawplayer> mgihgighgihgihgihgihgigh
+[13:18:57] <Fiebel> hohhgihigihghig
+[13:33:27] <Fiebel> ikgaweg
+[13:33:27] <Fiebel> dag
+[13:33:28] *** Quits: Fiebel (PrincessCo@d77048.upc-d.chello.nl) (Exit)
+[13:44:34] <wirky> sup
+[13:44:59] <wirky> ik zeg je 1 ding
+[13:45:10] <wirky> ajje paaj je maaj niet had genaaj
+[13:45:17] <bReChThOu> lol
+[13:45:55] <wirky> thee hier chillu meej ne ene
+[13:46:00] <wirky> daar 
+[13:52:02] <wirky> raapie sup met je ufokapitein
+[13:56:43] <rawplayer> dik het snot
+[13:56:44] <rawplayer> in mijn kop
+[13:56:46] <rawplayer> alles dicht
+[13:56:49] <rawplayer> kop op slot
+[13:56:50] <rawplayer> hond in de pot
+[13:57:59] <wirky> ----raapie`s gedicht
+[13:58:14] <wirky> wie gaat jou nu eruit slammen
+[13:59:18] <rawplayer> ik ga koffie zetten
+[13:59:19] <rawplayer> erm
+[13:59:20] <rawplayer> tee
+[13:59:33] <wirky> ik heb gunpowder meej munt
+[13:59:41] <wirky> dat is dus wel de bomba
+[14:00:24] <wirky> heej rawplayer
+[14:00:47] <wirky> heb jij in zo`n excellentklasje gezeten of had je die toen niet
+[14:01:15] <wirky> in usa en de en ned schijnt dat te bestaan
+[14:01:26] <wirky> in t regulier onderwijs 
+[14:03:52] <wirky> of Jeroen misschien
+[14:03:58] <wirky> of wie dan ook
+[14:04:11] <wirky> wie
+[14:04:14] <wirky> dan
+[14:04:15] <wirky> ook
+[14:04:20] <Jeroen> pourquoi
+[14:04:40] <wirky> is interessant
+[14:06:08] <bReChThOu> Jerre o/
+[14:06:24] <rawplayer> niet nodig
+[14:06:33] <rawplayer> ik was al geniaal van mijzelf
+[14:06:57] <Jeroen> brechie o/
+[14:07:05] <Jeroen> maar die klasjes komen er steeds meer, wirky 
+[14:07:09] <Jeroen> op zich wel een goede ontwikkeling
+[14:07:15] *** Joins: pvdz (pvdz@55-201-ftth.onsbrabantnet.nl)
+[14:10:31] <wirky> dat vonden ze bij t ministerie van ocw ook
+[14:10:51] <wirky> die stoppen er in 2017 37 miljoen in dat soort onderwijs
+[14:11:03] <wirky> en dit jaar iets van 26 
+[14:11:38] <Jeroen> geen slecht idee
+[14:12:53] <wirky> ja en t creeert daarnaast nog ervaring en werk 
+[14:21:22] <Escovan> Zo, nou ik heb mijn middagdutje weer gedaan, ik stink naar pis, en het bier is goor vandaag, nog effe kijken wat er nu zo weer uitkomt en uit welk gat. #gezellie !
+[14:22:19] <nomadz> tmi met escovan 
+[14:22:25] <zovty> Hoi.
+[14:22:49] <nomadz> excellentklasjes had je in 1992 toch ook
+[14:22:56] <Escovan> a daar is noest arbeider zovty ... de PvdA zou hem als boegbeeld willen
+[14:23:42] <zovty> Dat denk ik niet.
+[14:23:48] <zovty> Ik ben namelijk niet zo noest als je misschien zou denken.
+[14:24:22] <Escovan> goh
+[14:24:25] <Escovan> rly?
+[14:24:31] <zovty> En sowieso zou ik alleen maar het boegbeeld van D66 zijn.
+[14:24:34] <zovty> Ja, really.
+[14:24:36] <zovty> Zou je niet zeggen he/
+[14:24:54] <nomadz> niet van de bond van vergeten ambtenaren?
+[14:25:02] <zovty> Je denkt natuurlijk dat is een noesten havenarbeider die voor de lol een zeekontainer vol gooit met kinderkopjes (de stenen) met z'n blote handen.
+[14:25:08] <zovty> Nee.
+[14:25:17] <Escovan> HELP de rijken!! Ze hebben het niet makkelijk! Heeeeeeelp de rijken! Ze zijn met niet begonnen!
+[14:25:25] <Escovan> =s
+[14:25:31] <zovty> Maar eigenljk ben ik een slanke bleke computer nerd.
+[14:25:38] <nomadz> heb je ook een zolder?
+[14:25:43] <nomadz> waar je dan op zit 
+[14:25:43] <zovty> Nee.
+[14:26:18] <Escovan> ik een dikke vadsige nerd, waar ondemand tv betekent porno streamen in HD van de NS
+[14:26:26] <Escovan> *NAS
+[14:26:42] <Escovan> he toetsenbord es afspuiten
+[14:28:41] <Escovan> Zeau. Dat is misschien wel een half pakje shag
+[14:28:50] <Escovan> En wat tikt het weer fijn
+[14:29:57] * Escovan streept af op things to do list: Onderhoud randapparatuur
+[14:34:41] <zovty> Waarom maak je een lijstje?
+[14:34:43] <zovty> Je hoeft toch niks.
+[14:35:01] <zovty> Als jij vandaag aan het einde vand e dag helemaal NIKS hebt gedaan dan maakt SJ met evenveel liefde als altijd je uitkering over.
+[14:36:17] *** Joins: chasingrainbows (Mibbit@541F9A6E.cm-5-8c.dynamic.ziggo.nl)
+[14:37:47] <nomadz> hey rainbows
+[14:37:54] *** Quits: TooL (x@ip172-92-210-87.adsl2.static.versatel.nl) (Ping timeout: 66 seconds)
+[14:39:45] <zovty> Rainbows.
+[14:39:48] <zovty> Dat is lang geleden.
+[14:40:00] <zovty> Ik was eigenlijk bang dat je vermoord en opgehakt was door je dinnerdate.
+[14:40:44] <rawplayer> erm.. ze was er gister
+[14:40:50] <rawplayer> en dat heb ik je ook laten weten
+[14:41:12] <zovty> Echt?
+[14:41:20] <rawplayer> nee, ik zit te liegen
+[14:41:22] <rawplayer> natuurlijk echt
+[14:41:23] <zovty> Ojajoh.
+[14:41:28] <zovty> Ik had dat gemist.
+[14:41:32] <zovty> Waarom app je dan ook niet even?
+[14:41:35] <zovty> je hebt me nummer.
+[14:41:45] <rawplayer> zat je weer met je druivenpitolie te spelen zeker
+[14:41:47] <nomadz> !seen chasingrainbows
+[14:41:47] <digibot> nomadz: chasingrainbows was last seen in #fok 15h 31m 19s ago: <chasingrainbows> haha ja
+[14:41:50] <rawplayer> ik heb je nummer niet
+[14:41:53] <zovty> Wel.
+[14:41:56] <rawplayer> niet.
+[14:42:00] <zovty> Ik heb het wel gegegeven.
+[14:42:05] <zovty> Maar jij geloofde niet dat dat mijn nummer was.
+[14:42:17] <nomadz> 12345 ?
+[14:42:22] <zovty> :|
+[14:43:08] <rawplayer> :|
+[14:43:27] <nomadz> nou
+[14:43:30] <pvdz> we hebben allemaal het nummer van zovty's moeder toch? Die kun je toch bellen en dan naar 'm vragen...
+[14:43:32] <nomadz> ik ga even de spv'er uithangen
+[14:43:33] <nomadz> toedels
+[14:44:03] <rawplayer> pvdz: gedraaag je
+[14:44:10] <rawplayer> waarom moet je nu je moeder grapjes maken
+[14:44:22] <rawplayer> wat heeft zovty jou misdaan?
+[14:44:25] <rawplayer> stuk bemoeial
+[14:44:31] <pvdz> :|
+[14:44:33] <zovty> :|
+[14:44:36] <Escovan> Ik denk dat ik dit geuren aroma van in bed plassen en kater en alles wat ik zojuist beschreef, ook maar mee doe als ik voor gesprek moet op mijn arbeidsbeoordeling. Ze moeten wel een realistisch beeld krijgen.
+[14:45:17] <rawplayer> kan je niet een perkje vegen op straat
+[14:45:18] <rawplayer> ipv te irc'en
+[14:45:26] <Escovan> Ja, begin maar vast
+[14:45:31] <rawplayer> krijg je w ellicht nog aandacht van de sociale dienst
+[14:45:32] <nomadz> of dit soort tmi voor je houden
+[14:45:35] <rawplayer> idd
+[14:45:54] <Escovan> hmm
+[14:46:02] *** Joins: TooL (x@ip172-92-210-87.adsl2.static.versatel.nl)
+[14:46:04] <Escovan> Alleen jullie grapjes zijn hilarisch zeker.
+[14:46:30] <zovty> Ja.
+[14:46:33] <zovty> Dankje.
+[14:46:54] <pvdz> ik moet meestal juist lachen wanneer mensen hier serieus beginnen te doen :/
+[14:47:28] <zovty> Dankje.
+[14:47:33] <nomadz> bij de bullshit die zovty uitslaat krijg ik geen aroma van verlopen urine in mijn gedachten
+[14:47:51] <nomadz> maar anyway ik ging
+[14:47:53] <nomadz> toedels
+[14:47:56] <Escovan> :w
+[14:47:58] <zovty> Ik zal beter me best doen.
+[14:53:40] *** Quits: Jeroen (Jeroen@ip82-139-124-155.lijbrandt.net) (Exit)
+[14:58:30] <rawplayer> loop maar weer weg
+[14:58:45] <zovty> Wie?
+[15:03:13] *** Quits: chasingrainbows (Mibbit@541F9A6E.cm-5-8c.dynamic.ziggo.nl) (Exit)
+[15:04:23] *** Joins: najtreve (najtreve@shell.xs4all.nl)
+[15:05:49] *** Quits: najtreve (najtreve@shell.xs4all.nl) (Exit)
+[15:19:59] <Escovan> ECHT HE
+[15:20:09] <Escovan> Waarom heeft dat TUIG vakantie!
+[15:20:19] <Escovan> Stel ze te werk in de mijnen!
+[15:20:29] <Escovan> In plaats van hier herrie te lopen maken
+[15:21:05] <wirky> heb jij een suikertekort
+[15:21:33] <Escovan> lijkt me sterk, ik heb net nog gegeten.
+[15:21:47] <wirky> ow lkkr
+[15:22:34] <Escovan> gewoon plakje worst op een bolletje gepleurd. Omdat ik niet de energie heb echt lekker eten voor mezelf te maken.
+[15:24:30] <Escovan> nog ff fles drank halen, ik heb meeer meeer meeer verdoving nodig.
+[15:25:01] <wirky> en die akineton dan is dat niet wat
+[15:25:32] <Escovan> dat doet het tegenovergestelde van mijn medicijnen, dat is nu niet handig
+[15:26:37] <Escovan> akineton is voor als mijn spieren stijf zijn en mijn kaken gespannen van de AP meds
+[15:33:53] *** Quits: NBS (NBS4@ip5657cc38.direct-adsl.nl) (Exit)
+[15:41:42] *** Joins: NBS (NBS4@ip5657cc38.direct-adsl.nl)
+[15:48:26] <wirky> http://ichef-1.bbci.co.uk/news/640/cpsprodpb/89DA/production/_89109253_glyph1920.jpg
+[15:48:29] <wirky> sup
+[15:48:54] <wirky> https://65.media.tumblr.com/59c14eb813ddc03c336fe079efc5ee67/tumblr_o2s7oe6o2w1r7vwruo1_500.jpg
+[15:48:57] <wirky> sup
+[15:50:34] <Escovan> HA HA HA HA LOL
+[15:50:39] <Escovan> Pak wijn 3 Liter
+[15:50:51] <Escovan> Staat op: Na opening 4 weken houdbaar
+[15:50:55] <Escovan> WEDDEN VAN NIET!
+[15:51:55] <zovty> Hoi.
+[15:51:57] <zovty> Ik ben er weer.
+[15:53:10] <pvdz> ohnoes
+[15:55:49] *** Quits: NBS (NBS4@ip5657cc38.direct-adsl.nl) (Connection reset by peer)
+[16:03:58] <Escovan> http://demonitor.ncrv.nl/uitzendingen
+[16:05:50] *** Joins: NBS (NBS4@ip5657cc38.direct-adsl.nl)
+[16:10:30] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Exit)
+[16:15:31] *** Joins: Fem_LittleLady (Mibbit@a82-161-112-138.adsl.xs4all.nl)
+[16:15:49] <Fem_LittleLady> :D
+[16:21:20] <Boots> :s
+[16:23:30] <Fem_LittleLady> hoi
+[16:33:19] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[16:49:31] *** Joins: Fiebel (PrincessCo@d77048.upc-d.chello.nl)
+[16:49:40] <Fiebel> kbener
+[16:49:44] <rawplayer> hoi
+[16:49:44] <rawplayer> ik ook
+[16:49:49] <Fiebel> OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO+
+[16:49:51] <Fiebel> hhhhhhhhhhhhhhhhhhhhhheerlijk
+[16:50:21] *** Quits: Henkie94 (Henkie94@hammetjus.nl) (Ping timeout: 66 seconds)
+[16:50:37] <Fiebel> och jonges
+[16:50:41] <Fiebel> jullie zullen vast denken
+[16:50:43] <Fiebel> die Fiebel
+[16:50:47] <Fiebel> die heb het helemaal voor elkaar
+[16:50:50] <rawplayer> ja
+[16:50:51] <Fiebel> die zit er bovenop
+[16:50:52] <rawplayer> ja
+[16:50:56] <rawplayer> dat denk ik idd ja
+[16:50:57] <Fiebel> maar ik heb dus helemaal nog niet goed gedronken he
+[16:50:57] <Fiebel> vandaag
+[16:52:26] *** Joins: Henkie94 (Henkie94@hammetjus.nl)
+[16:53:53] <Fiebel> ik neem nu een banaan
+[16:53:54] <Fiebel> en heel veel water
+[16:53:58] <Fiebel> ik probeer deze dag te redden
+[16:54:09] <Fem_LittleLady> Lekker ja, ik ga zo tikka marsala maken
+[16:54:15] <rawplayer> probeer eens te lezen
+[16:54:17] <rawplayer> die banaan
+[16:54:18] <rawplayer> erg chill
+[16:54:22] <Fiebel> nee
+[16:54:27] <rawplayer> nou dan niet
+[16:54:31] <rawplayer> dan lees je toch lekker geen banaan
+[16:54:32] <Fiebel> ooooooooooo mijn oudertjes eten ook tikka marsale
+[16:54:34] <rawplayer> kan jou het wat schelen
+[16:55:14] <Fem_LittleLady> Ik vind dat zoooo lekker he
+[16:55:18] <Fem_LittleLady> met witte rijst
+[16:55:19] <Fem_LittleLady> hmmmm
+[16:55:41] <Fem_LittleLady> Heb net een nieuw luchtje gehaald
+[16:55:50] <Fem_LittleLady> die ruikt echt zoooooo lekker
+[16:55:56] <Fem_LittleLady> en het is zowel voor mannen als vrouwen
+[16:56:07] * rawplayer bespringt femmie
+[16:56:18] <Fem_LittleLady> Hahaha
+[16:56:29] <Fem_LittleLady> bespringen nog wel
+[17:02:33] <Fiebel> och jonges
+[17:02:35] <Fiebel> lekker een banaantje
+[17:02:38] <Fiebel> goed kauwe
+[17:02:41] <Fiebel> goed kauwe
+[17:02:44] <Fiebel> kauwe is belangrijk
+[17:05:00] *** Joins: Jeroen (Jeroen@ip82-139-124-155.lijbrandt.net)
+[17:05:48] <Fiebel> best lekker hoor
+[17:05:50] <Fiebel> maar het is geen kroket
+[17:05:55] <Fiebel> met grote klodders mayo
+[17:07:18] <rawplayer> idd
+[17:07:21] <rawplayer> zo jammer altijd
+[17:08:11] <Fiebel> gihghighigiihgihgihgih
+[17:08:13] <Fiebel> kleine pep
+[17:08:24] <Fiebel> zit echt als zo'n bemoeizuchtig omaatje de straat in de gaten te houden
+[17:08:25] <Fiebel> gihghighgihhighgi
+[17:17:51] *** Joins: devennen (Mibbit@3.red-83-36-132.dynamicip.rima-tde.net)
+[17:18:13] *** Quits: devennen (Mibbit@3.red-83-36-132.dynamicip.rima-tde.net) (Exit)
+[17:18:39] <Fiebel> ging goed
+[17:18:40] <Fiebel> keurig
+[17:18:53] <rawplayer> ooo devennen boom ohhhhh devennen boom
+[17:18:58] <Fiebel> gihihihihi
+[17:21:57] *** Quits: pvdz (pvdz@55-201-ftth.onsbrabantnet.nl) (Exit)
+[17:32:03] *** Quits: Fem_LittleLady (Mibbit@a82-161-112-138.adsl.xs4all.nl) (Exit)
+[17:32:12] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Exit)
+[17:35:43] *** Joins: Fem_LittleLady (Mibbit@a82-161-112-138.adsl.xs4all.nl)
+[17:36:31] <Fiebel> ik neem nog een glas
+[17:36:32] <rawplayer> zouden giftige dieren weten dat ze giftig zijn?
+[17:36:36] <Fiebel> dan zit ik weer on track
+[17:36:39] <Fiebel> weet ik niet
+[17:36:41] <Fiebel> weet ik gewqoon niet
+[17:36:49] <Fem_LittleLady> hebben pinguins knieen?
+[17:36:50] <rawplayer> ok
+[17:36:57] <Fiebel> weet ik ook nit
+[17:36:59] <Fiebel> weet ik ook gewoon niet
+[17:37:12] <Fem_LittleLady> Is een zebra wit met zwarte strepen of zwart met witte strepen
+[17:37:22] <rawplayer> ja
+[17:37:28] <rawplayer> pinguins hebben knieen
+[17:37:42] <rawplayer> wit met zwart strepen
+[17:37:54] <rawplayer> zou dat lekker zijn eigenlijk
+[17:37:56] <rawplayer> een zebra
+[17:38:04] <Fiebel> net kip
+[17:38:07] <rawplayer> zal ik morgen gaan crossfitten?
+[17:38:12] <bReChThOu> nee
+[17:38:22] <rawplayer> ik heb net slagroomsoesjes gegeten
+[17:38:24] <rawplayer> en tony chocolonley
+[17:38:26] <Fiebel> :|
+[17:38:29] <rawplayer> housop
+[17:38:32] <Fem_LittleLady> Weet niet afrikaanse springbok is wel lekker
+[17:38:36] <Fiebel> SKWIEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE SKWIEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE SKWIEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+[17:38:38] <Fiebel> #SB18
+[17:38:40] <rawplayer> :|
+[17:39:33] <Fem_LittleLady> zo heb de cavia's weer allemaal schoon hokje gedaan
+[17:39:56] <rawplayer> goedzo
+[17:40:27] <Fiebel> och jonges
+[17:40:32] <Fiebel> pep mauwt zo klaaglijk
+[17:40:33] <Fiebel> :|
+[17:40:40] <Fiebel> ik weet niet of het gewoon een aandachtshoertje is
+[17:40:44] <Fiebel> of dat er iets is
+[17:41:01] <Jeroen> schop het een keer, dan weet je dat er iets aan de hand is
+[17:41:16] <Fem_LittleLady> oohh
+[17:42:37] <Fiebel> er zat eens een man in een aflevering van sex and the city
+[17:42:41] <Fiebel> die zijn eten kauwde
+[17:42:46] <Fiebel> en daarna in een servetje moffelde
+[17:42:53] <Fiebel> zullen wij dat doen rawpy
+[17:42:56] <Fiebel> als we samenwonen?
+[17:43:06] <Fiebel> dan nemen we lekker krokettten bij het ontbijt
+[17:43:09] <Fiebel> bij de lunch
+[17:43:12] <Fiebel> en bij het avondeten
+[17:43:23] <Fiebel> en vn voor het slapengaan een flinke beker joylent
+[17:47:53] <Fem_LittleLady> pfff altijd kroketten
+[17:48:00] <Fem_LittleLady> volgens mij groei je dan uit je voegen
+[17:50:19] <Fiebel> ja daarom spugen we het dus in ons servet
+[17:50:44] <rawplayer> smaakt eten lekkerder als je doorslikt?
+[17:50:51] <rawplayer> anders kunnen we gewoon havermout etne
+[17:50:51] <Fiebel> och kind weet ik dat
+[17:50:52] <rawplayer> om te vullen
+[17:50:55] <rawplayer> en kauwen we kroketten
+[17:50:56] *** Joins: NBS2 (NBS4@ip5657cc38.direct-adsl.nl)
+[17:50:58] <rawplayer> en spuwen we het uit
+[17:51:02] <Fiebel> sommige dingen zijn wel beter als je het uitspuugt
+[17:51:15] <rawplayer> zoals?
+[17:51:18] <Fiebel> want als je het doorslikt proef je het 5 uur later nog achter in je keel
+[17:51:20] <Fiebel> sperma
+[17:51:26] <rawplayer> mggihgighgihgihgihg
+[17:51:28] *** Quits: NBS (NBS4@ip5657cc38.direct-adsl.nl) (Ping timeout: 60 seconds)
+[17:51:32] <rawplayer> wat zeg je allemaal
+[17:51:51] <Fiebel> geen ideeeeeee
+[17:52:01] <rawplayer> gekke snep
+[17:52:05] <rawplayer> geeeeeeeeeekke snep
+[17:52:14] <rawplayer> wat doe je toch allemaal
+[17:53:29] <Fem_LittleLady> bah
+[17:54:10] <Fiebel> hou je niet van sperma slikken fem?
+[17:55:03] <Fem_LittleLady> Al die kroketten
+[17:55:19] *** Joins: BarthezZ (bart@monitoring.deheij-ict.nl)
+[17:57:18] <Fiebel> dus liever sperma dan kroketten?
+[17:57:22] <Fiebel> begrijp ik dat goed?
+[17:57:50] <Fiebel> och jonges
+[17:57:53] <Fiebel> laatste glas leeg
+[17:57:55] <Fiebel> op de valreep
+[18:02:38] <Fem_LittleLady> Mja heb liever mijn vriend dan een kroketje
+[18:08:02] <Fiebel> en is dat omdat je zo dol bent op zijn sperma?
+[18:08:09] <Fiebel> of meer omdat je niet zo'n kroketjesfan bent
+[18:08:10] <Fiebel> ?
+[18:14:42] <Fem_LittleLady> Ik ben geen kroketjes fan
+[18:14:55] <Fem_LittleLady> brrr heel soms lekker, maar liever niet
+[18:15:25] <Fiebel> sperma?
+[18:15:28] <Fiebel> of de kroketjes?
+[18:16:21] <Fem_LittleLady> kroketjes
+[18:16:31] <Fiebel> k
+[18:18:42] *** Quits: Bertone (Bertone@classics.xs4all.nl) (Exit)
+[18:19:36] *** Joins: Staatsveiligheidsser (werken@ip503c7f23.speed.planet.nl)
+[18:19:55] *** Staatsveiligheidsser is now known as wirky
+[18:20:43] *** Joins: mijk (mijk@218-245-144-85.ftth.glasoperator.nl)
+[18:22:39] <wirky> mijk
+[18:23:09] <wirky> ouwe gekke mooie moskeeinfiltrant
+[18:27:21] *** Joins: Bertone (Bertone@classics.xs4all.nl)
+[18:47:37] <Fiebel> ochheere
+[18:53:05] *** Joins: Stuiterbal (Stuit@2001:980:5281:1:a126:6c0:a5d7:2938)
+[18:55:04] <Fem_LittleLady> pffff 
+[19:12:50] <zovty> Hoi.
+[19:13:12] *** Quits: TooL (x@ip172-92-210-87.adsl2.static.versatel.nl) (Ping timeout: 68 seconds)
+[19:13:12] <Fem_LittleLady> hoi
+[19:13:14] <Fem_LittleLady> :D
+[19:13:18] <zovty> Fem.
+[19:13:22] <zovty> Sup dawg.
+[19:13:38] <Fem_LittleLady> ja goed
+[19:13:57] <Fem_LittleLady> en met jou
+[19:14:07] <zovty> Ja, ook wel goed.
+[19:14:12] <zovty> Ik was net bij mijn moeder.
+[19:14:17] <zovty> Om fotos om te draaien en te eten.
+[19:15:53] <Fiebel> och jonges
+[19:15:56] <Fiebel> ullie zijn er
+[19:16:06] <Fiebel> wat gezellig
+[19:16:06] <Fiebel> waarom moest je die foto's omdraaien?
+[19:16:09] <Fiebel> stonden er familieleden op waar fittie mee is?
+[19:16:24] <Fiebel> en was je vader er niet?
+[19:16:26] <zovty> Nee.
+[19:16:26] <Fiebel> en wat heb je gegeten?
+[19:16:29] <zovty> Kip.
+[19:16:31] <Fiebel> jemig wat een hoop vragen he?
+[19:16:33] <Fiebel> och heerlijk
+[19:16:34] <zovty> Met rijst.
+[19:16:36] <zovty> En boontjes.
+[19:16:41] <Fiebel> smaakte het als krokodil?
+[19:16:44] <Fiebel> sajoer boontjes?
+[19:16:51] <zovty> Dat denk ik ja.
+[19:16:58] <zovty> En.
+[19:16:59] <Fiebel> och herlijk
+[19:17:02] <zovty> De fotos moesten omgedraaid.
+[19:17:04] <zovty> Omdat.
+[19:17:06] <Fiebel> OMDAT!
+[19:17:12] <zovty> Ze anders opsekop op marktplaats kwamen.
+[19:17:18] <Fiebel> gihihghigiighigihgihg
+[19:17:19] <Fiebel> :')
+[19:17:21] <Fiebel> ghigihgihihghigighghigih
+[19:17:22] <Fiebel> ach ja
+[19:17:25] <Fiebel> #freemeal
+[19:17:27] <Fiebel> gihghghiihgihghhighighihg
+[19:17:34] <zovty> Jatoch :)
+[19:17:42] <Fiebel> was er een toet?
+[19:17:46] <zovty> Nee1
+[19:17:55] <Fiebel> hm
+[19:17:57] <zovty> Ja, bevroren flensjes maar dat was toch niks.
+[19:18:02] <zovty> Dus die kreeg ik niet.
+[19:18:04] <Fiebel> :|
+[19:18:06] <Fiebel> ok
+[19:18:08] <Fiebel> raar verhaal
+[19:18:10] <Fiebel> maar goed!
+[19:18:11] <zovty> Ja, is ook.
+[19:18:20] <zovty> Ja, zijn van die lidle flensjes met ijs ofzo.
+[19:18:25] <zovty> En moet je dan ff opwarmen en dan lekker.
+[19:18:30] <zovty> Maar niet.
+[19:18:32] <zovty> Ik weet het ook niet.
+[19:18:39] <Fiebel> god lastig zeg 
+[19:18:40] <Fiebel> allemaal
+[19:18:41] <zovty> En mijn vader is met mijn broer op vakantie... naar ergens.
+[19:18:45] <zovty> Met vogels.
+[19:18:49] <zovty> Maar ze hadden slecht weer.
+[19:18:50] <Fiebel> TJIEPTJIEP
+[19:18:53] <Fiebel> j
+[19:18:54] <Fiebel> a
+[19:18:58] <Fiebel> dan denken die vogels ook
+[19:19:00] <Fem_LittleLady> Dat is wel jammer dan
+[19:19:00] <Fiebel> fuck jou
+[19:19:13] <zovty> Janaja.
+[19:19:31] <zovty> Zijn ze er toch even uit.
+[19:19:39] <Fiebel> even lekker uitwaaien
+[19:19:52] <Fiebel> mocht je niet mee ofzo?
+[19:19:55] <zovty> Ik weet alleen niet meer waar ze zijn.
+[19:19:57] <zovty> Ja, mocht wel.
+[19:19:57] <zovty> Maarja.
+[19:20:04] <Fiebel> dan zit je daar
+[19:20:05] <Fiebel> in de zeikregen
+[19:20:07] <Fiebel> met hullie
+[19:20:09] <zovty> Kheb ook helemaal geen geld.
+[19:20:12] <Fiebel> naar vogels te kijken
+[19:20:13] <Fiebel> och kind
+[19:20:17] <Fiebel> je krijgt toch je belasting
+[19:20:23] <Fiebel> en vakantiegeld kompdran
+[19:20:25] <zovty> En ik ken een een kippenpoot nog niet avn een kipvleugel onderscheiden.
+[19:20:30] <Fiebel> wel
+[19:20:31] <zovty> Ja, strakjes.
+[19:20:32] <Fiebel> nu jok jij
+[19:20:40] <zovty> Jawel.
+[19:20:48] <zovty> Maar ik overdrijf om m'n punt over te brengen.
+[19:20:51] <zovty> En dan mag het.
+[19:20:53] <Fiebel> jawel
+[19:20:54] <Fiebel> jawel
+[19:20:55] <Fiebel> is ook
+[19:20:57] <Fiebel> is ook zo
+[19:20:59] <Fiebel> is ook wel zo
+[19:21:01] <Fiebel> is ook gewoon wel zo
+[19:21:02] <zovty> Ja, is ook gewoon zo.
+[19:21:29] <Fiebel> ik kijk ieet
+[19:21:30] <Fiebel> s
+[19:21:35] <zovty> Ok.
+[19:21:36] <Fiebel> op bnn
+[19:21:40] <zovty> Ah, ok.
+[19:21:43] <Fiebel> nou ja npo gemist
+[19:21:47] <zovty> Ah, zo.
+[19:21:48] <Fiebel> duidelijk die welle
+[19:21:48] *** Joins: TooL (x@ip172-92-210-87.adsl2.static.versatel.nl)
+[19:21:55] <Fiebel> alleen heet het dan dictator
+[19:22:01] <Fiebel> en iemand is zo overduidelijk een acteur
+[19:22:02] <zovty> Oh, dat.
+[19:22:04] <Fiebel> dat is wel heel erg jammer
+[19:22:16] <zovty> Jajoh.
+[19:22:18] <zovty> Weet je.
+[19:22:19] <Fiebel> want verder ben ik dol op dit soort dingen
+[19:22:22] <Fiebel> NIET SPOILEN
+[19:22:25] <zovty> Ik kijk alleen nog maar porno, en al dat andere mis ik niet hoor.
+[19:22:34] <zovty> Al dat nieuws, en shows, en spelletjes en spanning en sensatie.
+[19:22:34] <Fiebel> jammer
+[19:22:39] <Fiebel> want als je andere dingen zou kijken
+[19:22:48] <Fiebel> zou ik nog wel een lieve mooie ontroerende docu voor je weten
+[19:22:53] <zovty> Jajoh.
+[19:22:55] <zovty> Zit ik weer te janken.
+[19:22:59] <zovty> Gisteren ook he.
+[19:23:01] <zovty> Van dat stuk.
+[19:23:03] <Fiebel> och heerlijk
+[19:23:06] <zovty> Zit ik gewoon te tranen en te lezen.
+[19:23:07] <Fiebel> dat pornostuk?
+[19:23:11] <zovty> Is gewoon irritant.
+[19:23:15] <Fiebel> mja
+[19:23:16] <zovty> Nee, over dat mens en d'r monster.
+[19:23:19] <Fiebel> mj
+[19:23:20] <Fiebel> a
+[19:23:24] <Fiebel> mja
+[19:23:30] <Fiebel> luister zovty
+[19:23:35] <Fiebel> ik ken je nu een maand of 5 ofzo
+[19:23:45] <Fiebel> en al die 5 maanden zit je alleen maar te griepen
+[19:23:50] <Fiebel> en dat is gewoon niet zo gezond
+[19:23:54] <Fiebel> daar moet je misschien iets mee
+[19:24:06] <Fiebel> aanpakken
+[19:25:25] <Fiebel> deal with it
+[19:25:28] <Fiebel> het een plaatsje geven
+[19:25:32] <Fiebel> zodat je verder kunt
+[19:25:32] <Fiebel> en komt
+[19:25:34] <Fiebel> och
+[19:25:35] <Fiebel> och
+[19:25:35] <Fiebel> och
+[19:25:36] <Fiebel> och
+[19:25:36] *** Fiebel was kicked by Pandora (Stop repeating yourself!)
+[19:25:36] *** Joins: Fiebel (PrincessCo@d77048.upc-d.chello.nl)
+[19:25:39] <zovty> https://www.youtube.com/watch?v=B_57YRRdcZg
+[19:25:40] <digibot> Title: 3D Animation Studios NMTrix | Jenny Lane - Whoopsy Daisy - YouTube (at www.youtube.com)
+[19:26:02] <zovty> Ja.
+[19:26:05] <zovty> Is ook zo.
+[19:26:38] <Fiebel> gewoon es een fijne psycholoog ofzo
+[19:26:44] <Fiebel> die dan even de boel ordent
+[19:26:47] <zovty> Welneut.
+[19:27:02] <zovty> Ik weet pursies wat er aan de hand is.
+[19:27:07] <Fiebel> wat dan?
+[19:27:08] <zovty> En komt ook goed.
+[19:27:51] <zovty> Oh!
+[19:28:01] <zovty> Zometeen is het weer tijd voor De Stuitermop.
+[19:28:06] <zovty> Ben je er al klaar voor Stuiterbal?
+[19:28:09] <Fiebel> o ja!
+[19:28:17] * Fiebel gaat er eens even lekker voor zitten
+[19:28:27] <zovty> Het is nog niet echt heel druk.
+[19:28:33] <zovty> Maar ze zullen zo wel komen.
+[19:28:43] <Fiebel> het event moet ook nog groeien he
+[19:28:47] <zovty> Jajoh.
+[19:28:59] <zovty> Maar ik heb al met de makers en shakers gesproken hoor.
+[19:29:07] <zovty> Ze gaat het binnenkort echt vol gas shaken en maken.
+[19:29:19] <Fiebel> sst!!!
+[19:30:18] <zovty> Komt er maar in Stuiterbal. The Floor is yours.
+[19:30:28] <Stuiterbal> ?
+[19:30:56] <zovty> JA!
+[19:31:00] <zovty> *O* *O* *O*.
+[19:31:07] <zovty> GO!
+[19:31:25] <zovty> (plankenkoorts denk ik. Gaat wel over.)
+[19:31:45] *** Quits: AjDuLion (sid50412@id-50412.charlton.irccloud.com) (Ping timeout: 60 seconds)
+[19:32:58] *** Joins: AjDuLion (sid50412@id-50412.charlton.irccloud.com)
+[19:33:08] <zovty> Hm.
+[19:33:13] <zovty> Ik vond het niet zo'n heel sterke mop deze keer.
+[19:33:18] <zovty> Dus daarom maar een leuk vrolijk liedje.
+[19:33:20] <zovty> https://www.youtube.com/watch?v=i3Jv9fNPjgk
+[19:33:22] <digibot> Title: AZEALIA BANKS - 212 FT. LAZY JAY - YouTube (at www.youtube.com)
+[19:33:40] *** Joins: SCHAPiE (dorian@dhcp-077-249-247-124.chello.nl)
+[19:34:05] *** Quits: AjDuLion (sid50412@id-50412.charlton.irccloud.com) (Ping timeout: 65 seconds)
+[19:36:30] <Fem_LittleLady> :D
+[19:39:07] *** Joins: AjDuLion (sid50412@id-50412.charlton.irccloud.com)
+[19:41:46] *** Quits: WvdL (uid21241@id-21241.ealing.irccloud.com) (Exit)
+[19:42:22] *** Quits: Ou-Tannu (Ou-Tannu@5249248B.cm-4-2a.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[19:44:12] *** Joins: Ou-Tannu (Ou-Tannu@5249248B.cm-4-2a.dynamic.ziggo.nl)
+[19:53:35] *** Joins: Fe2O3 (Fe2O3@h70248.upc-h.chello.nl)
+[19:53:35] *** ChanServ sets mode: +o Fe2O3
+[19:53:55] <nomadz> stuiterbal, 
+[19:57:45] <nomadz> wie gaat er morgen dodenherdenking boycotten?
+[19:57:55] <zovty> Ik niet.
+[19:58:07] <zovty> Ik snap hun punt, maar ik vind de uitvoering verkeerd.
+[19:59:10] <Stuiterbal> lulz
+[19:59:13] <Stuiterbal> Je snapt het punt?
+[19:59:14] <nomadz> ik vind de uitvoering uitmuntend, het geeft blijk dat je totaal geen besef hebt
+[19:59:49] <nomadz> en daarmee ook het punt ontkracht
+[19:59:54] <nomadz> geniaal
+[20:09:23] *** Joins: Fokker_9331 (Mibbit@195-240-99-18.ip.telfort.nl)
+[20:09:31] *** Quits: Fokker_9331 (Mibbit@195-240-99-18.ip.telfort.nl) (Exit)
+[20:27:51] <wirky> is de damschreeuwer al in t nieuws
+[20:29:01] *** Joins: Fokker_1002 (Mibbit@d54C214E0.access.telenet.be)
+[20:29:08] *** Quits: Fokker_1002 (Mibbit@d54C214E0.access.telenet.be) (Exit)
+[20:31:56] <Fiebel> och jee
+[20:32:06] <Fe2O3> Dafuq, dodenherkening boycotten?
+[20:36:01] <Fiebel> stomme kutdooien!
+[20:36:05] <Fiebel> STERF MAA-
+[20:36:05] <Fiebel> oh
+[20:36:07] <Fiebel> wacht
+[20:36:10] <Fiebel> }:{
+[20:36:48] <SCHAPiE> dude
+[20:37:37] <SCHAPiE> mja, 't is wel zo, de doden die je zelf kent (kende?), herdenk je eigenlijk continu
+[20:37:57] <SCHAPiE> dit's meer bedoeld als gezamenlijk deel-herdenk moment voor alle dooien bij elkaar
+[20:38:07] <Fiebel> nou
+[20:38:08] <Fiebel> eh nee
+[20:38:19] <Fiebel> je verkeersdoden herdenk je maar op een ander moment
+[20:38:22] <Fiebel> en je ziektedoden ook
+[20:38:26] <Fiebel> en je ouderdomsdoden ook!
+[20:38:33] <Fiebel> potverdullemes
+[20:38:49] <Fem_LittleLady> Tja weet je het staat inmiddels zover van elkaar af
+[20:38:50] <SCHAPiE> true, dit is voor de WO2 doden
+[20:38:56] <Fiebel> nee
+[20:38:57] <Fiebel> ook niet
+[20:39:00] <Fem_LittleLady> onze generatie en de generatie die de oorlog heeft meegemaakt
+[20:39:11] <Fem_LittleLady> de grootste ramp die wij kennen is als whats app eruit ligt
+[20:39:27] <SCHAPiE> Brazilië heeft weer 72 uur geen WhatsApp toch
+[20:40:02] <SCHAPiE> ook zuur, maar idd, van een andere orde
+[20:40:22] <Fem_LittleLady> En vind het heel erg wat er detijds is gebeurd, absoluut, maar ik maak mij drukker om wat we nu gaan krijgen
+[20:40:59] <SCHAPiE> er zitten ongetwijfeld nare tijden aan te komen
+[20:41:12] <SCHAPiE> the question is not if, but when
+[20:41:16] <Fem_LittleLady> Ja hele enge tijden
+[20:41:33] <Fiebel> ja
+[20:41:37] <Fiebel> lekker elkaars angst voeren
+[20:41:43] <Fiebel> en roepen dat het vast verschrikkelijk gaat worden
+[20:41:47] <Jeroen> ja
+[20:41:51] <Jeroen> de wereld is nog nooit zo vredig geweest
+[20:41:59] <Jeroen> maar iedereen die het concept van bias niet kent denkt dat de wereld vergaat
+[20:42:00] <Jeroen> good god
+[20:42:35] <Fem_LittleLady> Och dat niet, maar denk dat onze vrijheid wel beperkter gaat worden
+[20:43:27] <Fiebel> nou en
+[20:43:29] <SCHAPiE> het aantal conflicten en de intensiteit van de conflicten, wereldwijd, over tientallen jaren gemeten, daalt al vrij lang
+[20:43:31] <SCHAPiE> dat is wel zo
+[20:43:32] <Fiebel> ach nee 
+[20:43:34] <Fiebel> niet nou en
+[20:43:42] <SCHAPiE> de conflicten die er zijn, worden dan ook meer uitvergroot in de media
+[20:43:49] <Fiebel> maar we eten er geen boterham minder om
+[20:43:54] <Fiebel> en we drinken er geen pintje minder om
+[20:43:58] <Fiebel> en pep is er niet mindr lief om
+[20:44:04] <Fiebel> tegenwoordig mastubeer ik maar gewoon voor het open raam
+[20:44:09] <Fem_LittleLady> Ohw ik volg die dingen al niet eens meer
+[20:44:11] <Spacecowboy> pics
+[20:44:12] <Fiebel> en staat min pincode op mijn pas
+[20:44:25] <Fiebel> hoef ik niet meer bang te zijnd at dat geexposed wordt
+[20:44:51] <SCHAPiE> straks als we geen cash meer mogen gebruiken van de banken, is dat wel het enige wat je hebt
+[20:45:09] <Fiebel> dan ga ik mijn pepers verkopen
+[20:45:15] <Fiebel> en misschien ook wel mijn poentje
+[20:45:37] <Fem_LittleLady> Nou ja we zullen zien
+[20:45:49] <SCHAPiE> benieuwd hoe die bitcoin zich verder zal ontwikkelen
+[20:47:17] <Fiebel> was ht maar vast morgen
+[20:48:00] <Jeroen> https://www.youtube.com/watch?v=dP9Wp6QVbsk
+[20:48:01] <digibot> Title: Die Woodys - Fichtls Lied - YouTube (at www.youtube.com)
+[20:49:36] <Fem_LittleLady> Morgen weer drukke dag
+[20:50:29] <zovty> Ja, ik ook.
+[20:50:41] <Fiebel> ik heeeeeleeemaaaaaal niet
+[20:50:52] <zovty> Och kind was ik maar jou.
+[20:50:58] <Fiebel> ja
+[20:51:02] <Fiebel> ik heb net mijn tietjes bevrijd
+[20:51:06] <Fiebel> en ze even gemasseerd
+[20:51:20] <zovty> Och kind was ik nu maar jou.
+[20:51:24] <Fiebel> jja
+[20:51:30] <zovty> Ik wilde nog even wachten tot morgen, maar wat mij betreft mag het nu al.
+[20:51:32] <Fem_LittleLady> Hahaha
+[20:52:10] <Fem_LittleLady> Morgen 11 uur in Hoogkerk
+[20:52:24] <zovty> Ik meot ergens in Heerlen zijn. Weet niet zo goed hoelaat.
+[20:52:35] <Fiebel> iechmiechmiechiechiech
+[20:52:41] <zovty> Jajoh hou op schei uit.
+[20:52:42] <Fiebel> hou reekning met het tijdsverschil he
+[20:52:50] <Fiebel> centjes wisselen
+[20:52:52] <Fiebel> paspoortje mee
+[20:52:52] <zovty> Ik hou nergens meer rekening mee.
+[20:52:57] <zovty> Ze houden maar rekening met mij.
+[20:53:21] <Fiebel> doen ze toch niet kid
+[20:53:23] <Fiebel> doen ze toch niet
+[20:53:28] <Fem_LittleLady> Zo even een oude film in de dvd speler
+[20:53:28] <zovty> Nee.
+[20:53:49] <Fem_LittleLady> Natural born killers
+[20:53:56] <zovty> Oh dat is een toffe film.
+[20:54:03] <Fiebel> och heerlijk
+[20:54:13] <Fiebel> ik vind hem altijd seksie
+[20:54:14] <Fiebel> woodie
+[20:54:17] <zovty> Shit man, i'm a natural born killer.
+[20:54:27] <zovty> Ik wou dat ik woody was.
+[20:54:28] <Fem_LittleLady> Ja vind het ook een geweldige vent om te zien
+[20:54:44] <zovty> Die heb ook een mooie carriere.
+[20:55:03] <Fem_LittleLady> Ja heb laatst zombieland van hem gezien
+[20:55:06] <Fem_LittleLady> die is ook leuk
+[20:56:22] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[20:57:00] <Guest> oh 
+[20:57:05] *** Guest is now known as milkshake
+[20:57:08] <milkshake> half mooi raam hoor
+[20:57:12] <Fiebel> nhooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooh
+[20:57:23] <Fiebel> nhooooooooooooooooooohoooooooooooooooooooooooooooooooooooooooooooooohooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooh
+[20:57:26] <Fiebel> IS ZHEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+[20:57:35] <Fiebel> IHHHHHS ZHEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+[20:57:42] <Fiebel> hallo hotjes
+[20:57:43] <Fiebel> hotje
+[20:57:46] <Fiebel> kisskiss
+[20:57:53] <milkshake> hgihgihgighigh 
+[20:57:56] <milkshake> hotje hotje hotje 
+[20:58:13] <Fiebel> gihghghighig
+[20:58:16] <Fiebel> zo hot zo hot
+[20:58:22] <Fiebel> hoe is het hotje
+[20:58:29] <Boots> º
+[21:09:55] *** Quits: NBS2 (NBS4@ip5657cc38.direct-adsl.nl) (Exit)
+[21:11:18] <wirky>  ^º.º^
+[21:11:27] <wirky>   -
+[21:12:25] <zovty> Wirky.
+[21:12:53] <wirky> ik ben van de Nationale Staatveiligheid
+[21:13:05] <zovty> Ok.
+[21:13:11] <zovty> Dat stelt me gerust.
+[21:13:17] <zovty> Zeg meneer van de staatsveiligheid.
+[21:13:27] <zovty> Ik deed net toevallit /list
+[21:13:37] <zovty> En ik zag daar een kanaal met een (omgekeerd) hakenkruis.
+[21:13:48] <zovty> Is dat nu echt nodig, zoveel vrijheid van meningsuiting?
+[21:14:20] <wirky> er zijn beperkingen meen ik
+[21:14:34] <zovty> Ja, nee, ja.
+[21:14:40] <zovty> In het openbaar.
+[21:14:45] <zovty> Maar gewoon op iemand z'n eigenste server?
+[21:14:50] <zovty> Als het mijn servert was dan ging het weg.
+[21:15:48] <Fiebel> goedzo!
+[21:16:11] <wirky> ik kijk net list maar zie geen omgekeerd hakenkruis
+[21:17:14] <zovty> Hmja, bij mij staat hij tussen #zomer en #nuttelozetroep, vrijwel aan het einde van de lijst. Maar ik heb geen idee hoe dit gesorteerd is.
+[21:18:08] <wirky> ja zag het nu
+[21:18:34] <wirky> geen idee wat de ged8e daarachter is
+[21:18:47] <zovty> Ik ook niet.
+[21:21:30] <Fiebel> ga het vragen
+[21:24:24] <Fiebel> :')
+[21:24:26] <Fiebel> godverdomme
+[21:24:26] <Pandora> !8 mondspoeling voor Fiebel?
+[21:24:27] <digibot> Pandora: No.
+[21:24:28] <Fiebel> zovty
+[21:24:30] <Fiebel> zet netflix aan
+[21:24:40] <Fiebel> zoek en start particle fever
+[21:25:18] <Fiebel> en start het op 33.30
+[21:30:13] <Fiebel> och jonges
+[21:30:20] <Fiebel> de aapjes zijn zo onrustig vandaag
+[21:31:39] <Fiebel> och
+[21:31:39] <Fiebel> och
+[21:31:40] <Fiebel> och
+[21:31:41] <Fiebel> och
+[21:31:41] *** Fiebel was kicked by Pandora (Stop repeating yourself!)
+[21:31:42] *** Joins: Fiebel (PrincessCo@d77048.upc-d.chello.nl)
+[21:31:42] <Fiebel> och
+[21:32:24] <Fem_LittleLady> Gaat weer lekker
+[21:36:05] *** Quits: welly7 (willy@ip503c7f23.speed.planet.nl) (Ping timeout: 61 seconds)
+[21:36:25] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Ping timeout: 66 seconds)
+[21:37:09] *** Joins: welly7 (willy@ip503c7f23.speed.planet.nl)
+[21:37:21] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[21:39:35] <Fiebel> aan welke kant zit je appendix?
+[21:41:00] <zovty> http://www.blindedarm.org/locatie/
+[21:41:02] <digibot> Title: Waar zit je blinde darm? Is de locatie blindedarm links of rechts? (at www.blindedarm.org)
+[21:41:36] <Fiebel> o
+[21:41:41] <Fiebel> ik dacht dat ik er nu aan aan het overlijden was
+[21:41:46] <Fiebel> mar bij mij begon de pijn rechtsonderin
+[21:41:51] <Fiebel> dus dan is dat het gelukkig niet
+[21:41:53] <Fiebel> zovty
+[21:41:58] <Fiebel> heb je geluisterd naar mij?
+[21:41:58] <zovty> Als je no kan typen dan is dat het niet.
+[21:42:01] <Fiebel> zou je echt moeten doen
+[21:42:06] <zovty> De hele tijd kind, de hele tijd.
+[21:42:09] <zovty> Oh.
+[21:42:10] <zovty> Dat.
+[21:42:13] <Fiebel> ma heb je ook mijn bevelen opgevolgd?
+[21:42:17] <zovty> Nee, dat heb ik nog niet gedaan.
+[21:42:20] <Fiebel> moet je echt even doen
+[21:42:30] <zovty> Die heb ik al gezien denk ik.
+[21:42:34] <zovty> Waar doel je op?
+[21:42:39] <Fiebel> rapje
+[21:42:52] <zovty> Oh, zo'n nerdrapje?
+[21:42:56] <zovty> Nerdcore.
+[21:42:57] <Fiebel> gihghghighigihghihigihghighihig
+[21:43:00] <Fiebel> ihgihgihgihgihgighighighi
+[21:43:01] <Fiebel> ochochochoch
+[21:43:04] <Fiebel> gihghihgiighighighighigihgighigihgi
+[21:43:11] <Fiebel> kmoest er zo hard om gieberen
+[21:43:14] <zovty> Sommigen van die stukjes zijn zo typisch.
+[21:43:17] <Fiebel> eeeeeeecht hoor
+[21:43:19] <Fiebel> gighighihigihgihg
+[21:43:20] <zovty> Maar die eerste is nog wel ok.
+[21:43:25] <Fiebel> welke erste?
+[21:43:27] <Fiebel> de eerste wat?
+[21:43:31] <zovty> If memory serves.
+[21:43:38] <zovty> Ja, ze hebben toch zo'n bonte avond.
+[21:43:42] <zovty> Of dat is op het einde pas.
+[21:43:46] <Fiebel> heb je nou de rapjes uit je hoofd geleerd?
+[21:43:51] <Fiebel> ik heb dat nog niet gezien
+[21:43:56] <zovty> Oh, nou.
+[21:43:59] <zovty> Ga er dan maar vast voor zitten.
+[21:44:04] <zovty> Strek je teentjes nog maar eens goed.
+[21:44:05] <Fiebel> och heerlijk
+[21:44:10] <zovty> Want dat is me een partij tenenkrommend.
+[21:44:11] <Fiebel> ik ga eerst nog even plassen
+[21:44:15] <Fiebel> mijn pyjamatje aandoen
+[21:44:19] <Fiebel> mijn dekentjes opschuden
+[21:44:23] <Fiebel> en peppie voeren
+[21:44:25] <zovty> Och kind was ik maar jou.
+[21:44:26] <zovty> Jezus.
+[21:44:27] <Fiebel> en dan doe ik dt allemaal
+[21:44:30] <zovty> Was ik over 10 minuten maar jou.
+[21:44:39] <Fiebel> ik ga niet meer aan mijn tietjes zitten hoor
+[21:44:40] <Fiebel> vandaag
+[21:44:41] <Fiebel> alhoewel
+[21:44:45] <Fiebel> ik dnek het niet
+[21:44:47] <Fiebel> je weet het nooit
+[21:44:50] <zovty> ??
+[21:45:05] <zovty> -ERROR- DOES NOT COMPUTE.
+[21:45:20] <zovty> ILLOGICAL. ILLOGICAL. ILLOGICAL.
+[21:46:30] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[21:46:43] <zovty> Totzo teckna.
+[21:48:57] <Fiebel> hehe
+[21:49:02] <Fiebel> die kleine peppie
+[21:49:12] <Fiebel> ammaal nog brekkies in dr bakkie
+[21:49:19] <zovty> Zuunig.
+[21:49:22] <Fiebel> maar toch als een klein kindje zo blij als dr nieuwe brekkies bij komen
+[21:49:26] <Fiebel> IEEEEEEEEEPIEEEEEEEEEEEEEEEEEEEPIEEEEEEEEEEEEEP
+[21:49:30] <Fiebel> zo
+[21:49:35] <zovty> Blij hoor.
+[21:49:37] <Fiebel> ga ik nog even 3 minuten aan mijn tietjes zitten
+[21:49:43] <zovty> Ja, toch wel.
+[21:51:55] <zovty> Neem rustig de tijd hoor.
+[21:52:04] <zovty> Kot toch niks.
+[21:52:08] <zovty> Kost.
+[21:53:05] <Fiebel> zo
+[21:53:08] <Fiebel> nu ben ik er klaar mee voor vandag
+[21:53:18] <Fiebel> ben jij klaar om het stokje over te nemen?
+[21:53:22] <Fiebel> dan doe ik even pep
+[21:53:27] <zovty> Hihihhiihhihihi.
+[21:53:29] <zovty> Stokje.
+[21:53:33] <Fiebel> :|
+[21:53:40] <zovty> :|
+[21:53:45] <Fiebel> ik maak mij zorgen
+[21:53:47] <Fiebel> om rawplayer
+[21:53:52] <Fiebel> er staat niks in rawpy.cal
+[21:53:52] <zovty> Ja, die is stil he?
+[21:53:57] <Fiebel> ik heb geen verlofbriefje getekend
+[21:54:03] <Fiebel> en toch absent 
+[21:54:08] <zovty> Die is gewoon ziekjes, en druk.
+[21:54:21] <zovty> Maar na morgen heeft hij weer lang weeknd.
+[21:54:31] <zovty> En de week daarop is ook niet zo lang geloof ik.
+[21:54:38] <zovty> Of daarop.
+[21:54:46] <zovty> Komt wel weer goed.
+[21:54:58] <Fiebel> och heerlijk
+[21:55:04] <Fiebel> kan hij zijn welverdiende rust pakke
+[21:55:07] <zovty> Ja.
+[21:55:17] <zovty> Dat verdient hij ook wel.
+[21:55:20] <zovty> Hij doet zo z'n best.
+[21:55:23] <Fiebel> zeker!!
+[21:55:25] <Fiebel> op alles
+[21:55:25] <Fiebel> zn sommen
+[21:55:28] <zovty> Zo goed sporten, zo goed eten.
+[21:55:29] <Fiebel> en zn schrijven
+[21:55:34] <zovty> Mensen helpen met verhuizen.
+[21:55:34] <Fiebel> en
+[21:55:35] <Fiebel> euh
+[21:55:38] <Fiebel> ja
+[21:55:39] <Fiebel> ook zo lief
+[21:55:44] <zovty> Ja, is lief toch.
+[21:55:45] <Fiebel> ook zo ontzettend lief
+[21:55:55] <Fiebel> zo'n gever is het
+[21:55:57] <Fiebel> en nooit nemen
+[21:55:59] <Fiebel> nooooit nemen
+[21:56:02] <Fiebel> altijd maar geeeve
+[21:56:07] <zovty> Jupjup.
+[21:56:19] <Fiebel> niet zoals ik
+[21:56:23] <Fiebel> graaiengraaienhebbenhebben
+[21:56:36] <zovty> Ik heb alles al.
+[21:56:54] <Fiebel> door het graaie?
+[21:57:00] <zovty> Nee.
+[21:57:14] <zovty> Is eigenlijk een beetje aankomen waaien zo allemaal.
+[21:57:21] <Fiebel> och heerlijk
+[21:57:31] <SOFIE> urh
+[21:57:36] <zovty> Dag sofie.
+[21:57:39] <SOFIE> wat een kutdag
+[21:57:46] <zovty> Waarom?
+[21:57:52] <SOFIE> werk
+[21:57:58] <zovty> Jah.
+[21:58:00] <SOFIE> 2 uur bewakingsbeelden doorkijken
+[21:58:05] <zovty> Dat maakt het er niet beter op.
+[21:58:06] <Fiebel> hllo sofie
+[21:58:12] <zovty> Oh, spannend.
+[21:58:14] <zovty> Heb je de dader gevonden?
+[21:58:35] <SOFIE> omdat een kut een skimmer op ons betalingsterminal geplakt heeft
+[21:59:01] <zovty> Beter een skimmer die een kut op de terminal plakt.
+[21:59:02] <zovty> Lebleb.
+[21:59:21] <Fiebel> :|
+[21:59:25] <zovty> :|
+[21:59:27] <zovty> Zo ordinair.
+[21:59:31] <zovty> Niet eens.
+[21:59:33] <zovty> Gewoon vulgair.
+[21:59:52] <zovty> Echt nergens voor nodig.
+[22:00:23] <SOFIE> maar, dader gevonden \o/
+[22:00:29] <Fiebel> *O*
+[22:00:33] <zovty> Jeuh!
+[22:01:31] *** Joins: ijscoboer (voerboer@143.176.121.24)
+[22:01:41] <zovty> Dag ijscobeer.
+[22:01:48] *** Quits: ijscoboer (voerboer@143.176.121.24) (Exit)
+[22:01:54] <zovty> Ok.
+[22:02:29] <Fiebel> ook weer uidelijk
+[22:02:30] <Fiebel> duidelijk
+[22:02:41] <zovty> Wat?
+[22:02:49] <Fiebel> hij mot jou niet
+[22:02:53] <Fiebel> en hij moet altijd iedereen
+[22:02:54] <zovty> Tja.
+[22:02:56] <Fiebel> dus dat is wel frappant
+[22:03:05] <zovty> Och welnee.
+[22:03:11] <zovty> Bijna niemand mot mij.
+[22:03:28] <Fiebel> o
+[22:03:43] <zovty> En.
+[22:03:48] <zovty> Er wonen 2 motten.
+[22:03:50] <zovty> In een oude jas.
+[22:03:53] <zovty> En die 2 motten.
+[22:03:56] <Fiebel> doe weg kind
+[22:03:56] <zovty> Die wonen er pas.
+[22:03:57] <Fiebel> doe lekker weg
+[22:04:00] <Fiebel> breng naar de kringloop
+[22:04:03] <Fiebel> dan heb alles het daar
+[22:04:07] <Fiebel> maar dan liever nit die in breda
+[22:04:14] <Fiebel> daar haal ik nog wel eens schone kleedjes weg
+[22:04:36] <zovty> Waaarvoor?
+[22:05:36] <zovty> De ene mot heet trouwens Bas.
+[22:05:39] <Fiebel> hallo bas
+[22:05:39] <zovty> En de andere Charlotte.
+[22:05:44] <Fiebel> hallo charlotte
+[22:05:49] <Fiebel> welkom in de jas van zovty
+[22:06:03] <zovty> Ja, ze wonen er al 2,4 jaar.
+[22:06:07] <Fiebel> o
+[22:06:08] <zovty> Maar bedankt voor je welkom.
+[22:06:12] <Fiebel> dat zou ik niet echt pas noemen
+[22:06:12] <Fiebel> maar goed
+[22:06:13] <zovty> Waar zijn de kados?
+[22:06:35] <zovty> Daar heb jij dan wel weer gelijk in.
+[22:06:37] <zovty> Maar joh.
+[22:06:39] <zovty> Tis toch allmeaal onzin.
+[22:06:42] <zovty> Alles is onzin.
+[22:06:51] <zovty> Zelfs de onzin is onzin.
+[22:06:59] <Fiebel> i dont wanna die
+[22:07:02] <Fiebel> its just
+[22:07:04] <Fiebel> that sometimes
+[22:07:10] <Fiebel> i wish id never been born at all
+[22:07:24] <zovty> Ja.
+[22:07:35] <zovty> Mooi.
+[22:07:58] <zovty> Is het al te laat om nog Queen fan te worden?
+[22:08:17] <Fiebel> welnee kind
+[22:08:17] <Fiebel> voor jou niet
+[22:08:23] <zovty> Kan wel toch.
+[22:08:30] <Fiebel> turlijk
+[22:08:33] <Fiebel> het zou mongool zijn
+[22:08:35] <Fiebel> maar het kan best
+[22:08:44] *** Joins: mart (Mibbit@86.90.40.225)
+[22:10:05] <zovty> Ik ga het gewoon doen hoor.
+[22:10:11] <nomadz> pl
+[22:10:12] <nomadz> ok
+[22:10:18] <Fiebel> nomy
+[22:10:18] <zovty> Is toch gewoon een goeie band.
+[22:10:28] <nomadz> fieber
+[22:10:57] <Fiebel> miekrofieber
+[22:12:16] <zovty> Op tellsell heb je zo'n Mr T.
+[22:12:21] <zovty> Om ramen mee te wissen.
+[22:12:27] <Fiebel> IPITYTHEFOOLFOOL
+[22:12:28] <zovty> Zou dat wat zijn
+[22:12:33] <zovty> ?
+[22:12:47] <Fiebel> tuurlijk
+[22:12:51] <Fiebel> alleen maar kwaliteit
+[22:12:57] <zovty> Ja?
+[22:13:11] <Fiebel> tuurlijk
+[22:13:20] <zovty> Ik vertrouw jou niet.
+[22:13:28] <Fiebel> nooit problemen gehad met de tae bo videobanden die we er eens kochten
+[22:13:34] <Fiebel> waarom nou toch niet
+[22:13:43] <Fiebel> ik heb jou nooit reden gegeven mij niet te vertrouwen
+[22:13:51] <zovty> Is zo.
+[22:13:52] <zovty> Maar.
+[22:13:54] <zovty> Toch.
+[22:14:01] <Fiebel> :<
+[22:14:11] <zovty> Ja, jij bent sienis.
+[22:14:18] <Fiebel> jawel
+[22:14:24] <Fiebel> maar niet onvertrouwbaar
+[22:14:32] <zovty> Dat is zo.
+[22:14:46] <Fiebel> ALS ik al jok
+[22:14:53] <Fiebel> jok ik zo goed dat je er toch nooit achterkomt
+[22:14:58] <Fiebel> en dan is het eigenlijk gewoon waar
+[22:15:04] <zovty> Is ook zo.
+[22:15:11] <zovty> Ik heb nogal veel ramen weet je wel.
+[22:15:17] <zovty> En sommigen zijn nogal op kathoogte.
+[22:15:17] <Fiebel> o
+[22:15:20] <zovty> En die beest is choor.
+[22:15:21] <Fiebel> ik dacht dat je meer vn de appels was
+[22:15:24] <Fiebel> :|
+[22:15:32] <zovty> Jajoh.
+[22:15:39] <zovty> Ik hem tmux panes in m'n appels.
+[22:15:42] <zovty> Dat is hoe ik rol.
+[22:15:44] <zovty> Niks windows.
+[22:16:05] <zovty> Pfwrt, windows.
+[22:16:05] <Fiebel> zit ze te kontjekroelen met die ramen?
+[22:16:12] <zovty> Jajoh.
+[22:16:16] <zovty> En ik nies nog wel eens.
+[22:16:16] <Fiebel> vies
+[22:16:19] <Fiebel> bh
+[22:16:21] <Fiebel> bh
+[22:16:24] <Fiebel> NOU!!!!!!
+[22:16:25] <Fiebel> bah
+[22:16:26] <Fiebel> zo
+[22:16:27] <Fiebel> hehe
+[22:16:28] <zovty> Jajoh.
+[22:16:29] <Fiebel> jezusmina
+[22:17:21] <zovty> Maarja.
+[22:17:27] <zovty> Tis wel weer 60 pleuries.
+[22:17:34] <zovty> Voor zo'n heel pakket.
+[22:17:35] <Fiebel> wat?
+[22:17:37] <Fiebel> o
+[22:17:39] <Fiebel> ja
+[22:17:42] <Fiebel> ja
+[22:17:45] <zovty> Ja.
+[22:17:56] <Fem_LittleLady> :D
+[22:18:05] <zovty> Och och och.
+[22:18:11] *** Quits: mart (Mibbit@86.90.40.225) (Exit)
+[22:18:12] <Fiebel> laaagaaaan
+[22:24:09] *** Quits: Fem_LittleLady (Mibbit@a82-161-112-138.adsl.xs4all.nl) (Exit)
+[22:29:27] <mijk> LEKKER MET STUITERBAL
+[22:32:13] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[22:42:14] *** Quits: mijk (mijk@218-245-144-85.ftth.glasoperator.nl) (Ping timeout: 60 seconds)
+[22:42:15] *** Quits: Fe2O3 (Fe2O3@h70248.upc-h.chello.nl) (Exit)
+[22:52:48] <nomadz> hahahaaaaaaa stuiterbal 
+[22:53:00] <Stuiterbal> :|
+[23:05:24] *** Quits: Jeroen (Jeroen@ip82-139-124-155.lijbrandt.net) (Ping timeout: 66 seconds)
+[23:10:08] *** Joins: rhod (rhod@86.85.193.196)
+[23:16:06] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 66 seconds)
+[23:26:25] *** Quits: rhod (rhod@86.85.193.196) (Exit)
+[23:32:52] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[23:38:28] <Fiebel> had ik maar m&m'w
+[23:38:31] <Fiebel> m&m's
+[23:50:12] <rawplayer> ja
+[23:50:17] <rawplayer> ik heb een banaaan
+[23:50:21] <rawplayer> die overrijp is
+[23:50:25] <rawplayer> doch onbeschadigd
+[23:50:28] <rawplayer> dus mierzet
+[23:50:30] <rawplayer> mierzoet
+[23:56:07] *** Quits: coreblink (coreblink@145.132.131.160) (Exit)

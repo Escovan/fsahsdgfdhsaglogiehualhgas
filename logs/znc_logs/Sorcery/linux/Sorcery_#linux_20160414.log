@@ -1,0 +1,63 @@
+[00:39:31] *** Joins: RandomX45 (random@sorcery-j94.25n.153.50.IP)
+[00:39:37] *** RandomX45 is now known as Sein
+[00:47:24] *** Quits: ankh (liam@sorcery-jcvdlg.range86-136.btcentralplus.com) (Ping timeout: 121 seconds)
+[01:18:29] *** Aethysius is now known as Awaythysius
+[01:26:44] *** Fragmint is now known as GreekFrag
+[02:02:11] *** Quits: tycel (tycel2004@sorcery-7ktaf7.fidnet.com) (Quit: )
+[02:10:46] *** Joins: tycel (tycel2004@sorcery-7ktaf7.fidnet.com)
+[02:10:46] *** ChanServ sets mode: +v tycel
+[04:19:34] *** Joins: Aethysius (Aethysius@Heywood.Jablome)
+[04:19:34] *** ChanServ sets mode: +v Aethysius
+[04:20:29] *** Quits: Sein (random@sorcery-j94.25n.153.50.IP) (Quit: Leaving)
+[04:22:04] *** Quits: Awaythysius (Aethysius@Heywood.Jablome) (Ping timeout: 121 seconds)
+[05:51:10] *** Quits: sheenobu (sheenobu@sorcery-jsddm4.hs.gigamonster.net) (Ping timeout: 121 seconds)
+[05:51:22] *** Joins: sheenobu (sheenobu@sorcery-jsddm4.hs.gigamonster.net)
+[08:20:24] *** Joins: RandomX45 (random@sorcery-j94.25n.153.50.IP)
+[08:20:30] *** RandomX45 is now known as Sein
+[11:31:31] *** Quits: Sein (random@sorcery-j94.25n.153.50.IP) (Ping timeout: 121 seconds)
+[11:44:58] *** Joins: Sein (random@sorcery-63l.25n.153.50.IP)
+[13:05:05] <Escovan> What´s a ~/public_html/.well-known directory doing on my box? (CentOS 6.7/Virtualmin)
+[13:06:25] <Quickshot> I can't think of a reason right away...  my 'Gentoo' system doesn't have it
+[13:06:36] <Quickshot> Maybe its some particular program you're using?
+[13:06:50] <Quickshot> Anything recognizable about the content?
+[13:07:07] <Escovan> It might be the VirtualMin ... There´s nothing in it - appearantly. 
+[13:07:16] <Quickshot> And if one is willing to experiment a bit, what happens if you rename it?
+[13:08:00] <Escovan> there are also .virtualmin-src files in the parent directories ... Don´t want to mess up virtualmin
+[13:09:23] <Quickshot> Ok
+[13:10:47] <Escovan> Nothing happens to the site it belongs to when I rename it.
+[13:11:47] <Escovan> Nothing wrong in Virtualmin either.
+[13:12:41] <Escovan> hmmm
+[13:12:43] <Quickshot> Well it's probably cached though, you'd have to restart the thing to know for sure
+[13:15:43] <Escovan> Mweh, 2 days ago I made a full backup. If somethings gets fubar I can restore it.
+[13:16:18] <Escovan> http://fortune.prutsplek.nl/ <--- Fortune cookies :P A webpage made in BASH :P
+[15:30:45] <StarThorn> There used to be lots of web pages in bash.  Shell scripting was very common for CGI scripts.
+[15:54:04] * StarThorn remembers rewriting some bash cgi scripts into Perl and Java back in 2001 for a job.
+[15:55:00] <GreekFrag> oooh, cookies!
+[15:55:28] <Ikarus> StarThorn: I've written CGI C code....
+[15:56:00] <Ikarus> but that was for very long poll CGI stuff (before we had websocks, etc) that needed to minimize memory footprint
+[15:56:25] * StarThorn nods.
+[15:57:14] <StarThorn> CGI's in C were not uncommon in early days, too.  In fact, shell and C were among the most common options for a while, until the P languages came along (Perl, PHP, Python, Puby, and Pickle).
+[15:57:30] <Ikarus> StarThorn: well, I couldn't find a good CGI parameter parsing lib in C
+[15:57:36] <Ikarus> I ended up writing my own teensie tiny one
+[15:57:49] <Ikarus> that I've reused in a bunch of other projects (for various uses)
+[15:58:46] <StarThorn> Yeah, that happened a lot, too.  Things tended to be very manual back then, with a lot of reinventing the wheel for CGI related stuff.
+[15:59:04] <Ikarus> leading to "fun bugs"
+[15:59:08] <StarThorn> That, or lots of copy/paste from poorly written script archives, where most of the scripts were rife with security issues.
+[15:59:30] <Ikarus> StarThorn: well, running env in a CGI script leaves you open to exploits :)
+[15:59:33] <Ikarus> so eeeh
+[16:02:45] * StarThorn nods.
+[16:03:06] <Ikarus> been having some fun times recently
+[16:03:17] <Ikarus> writing a thttpd replacement in Haskell, although I might redo it in Erlang
+[16:03:21] <StarThorn> I have to admit, modern web frameworks make things so slick and easy these days, it's easy to forget how challenging it used to be to do simple CGI stuff sometimes.
+[16:03:31] <Ikarus> basic idea is to get something as light, but in a really robust, well structured language 
+[16:03:33] <StarThorn> Nice.  Erlang is a fun one to play with.
+[16:03:39] <Ikarus> Go/Rust need not apply
+[16:03:52] <StarThorn> Talk about a langauge that forces you to rethink your basic programming paradigms and assumptions.
+[16:03:56] <Ikarus> (the way HTTP requests work make functional programming almost an automatic choice)
+[16:08:32] <StarThorn> Yeah, REST and Functional are a good match.
+[16:09:05] <StarThorn> I played around with Erlang back like 6-7 years ago.  I've always wanted to play with it again.
+[16:37:36] * Escovan is an IT guy with an information processing disorder - His wife a chef with food allergies ... ironic :P
+[19:55:18] *** Quits: Sein (random@sorcery-63l.25n.153.50.IP) (Ping timeout: 121 seconds)
+[20:08:24] *** Joins: Sein (random@sorcery-nob.mi0.153.50.IP)
+[23:26:09] *** Joins: ankh (liam@sorcery-jcvdlg.range86-136.btcentralplus.com)
+[23:50:16] *** Quickshot changes topic to 'Have you tested linux 4.6-rc3 yet? Or gcc-5.3? - Have a question? Just ask - Paste: http://pastebin.com - <Broekie> Cue big flashing USER ERROR lights.'

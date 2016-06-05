@@ -1,0 +1,209 @@
+[00:01:39] <grape> one of my colleagues and I had a 'wonderful' experience today...
+[00:01:59] <grape> we decided to swap one half-size rack over to a full size one.. .which means we had to disable the UPS
+[00:02:01] <lowkey> oh
+[00:02:13] <grape> now.. that was ok... but the main network switch was hooked up to it...
+[00:02:17] <grape> which is fine... 
+[00:02:20] <grape> theoretically
+[00:02:24] <lowkey> lol
+[00:02:39] <lowkey> reality didn't match theory?
+[00:02:40] <grape> the switch should have rebooted and that is it.. nothing will happen as far as the users are concerned... right?
+[00:02:42] <grape> no
+[00:03:03] <grape> he got some channel bonding done... and it looks like the guys from central IT did not save it...
+[00:03:11] <grape> so... switch reboots to the old configuration
+[00:03:20] <lowkey> ouch
+[00:03:28] <grape> and of course: you cannot reach anybody from the central IT network team
+[00:03:48] <grape> the helpdesk is as the name implies: help-less
+[00:03:58] <grape> and the whole research group could not work
+[00:04:53] <lowkey> so no one tested a reboot of the switch after they made the changes?  They just assumed it would stay on forever?
+[00:05:34] <grape> correct
+[00:06:37] <lowkey> ok, well thats not a mistake you make many times 
+[00:07:00] <grape> no... because neither of us has access to the switch.. so we won't make it ever :D
+[00:07:33] <lowkey> no, I dont mean you.  I mean the people at central IT
+[00:08:13] <lowkey> they have to either A) test that the equipment can handle reboots or B) lock it away so only their users can do it.
+[00:10:30] <grape> well... there is always the risk of a power cut... and it is only because I put it on the UPS it is buffered ... at least for some time
+[00:10:45] <lowkey> and given that power-outages happen, choice A is out of their control
+[00:10:55] <lowkey> exactly
+[00:11:05] <lowkey> oops choice B
+[00:11:09] <grape> yep
+[00:11:20] <lowkey> choice A is the only valid choice
+[00:13:10] <grape> choice C would be: don't go for Cisco
+[00:13:11] <grape> :D
+[00:13:37] <lowkey> but in their defense.  everyone makes that mistake once.
+[00:13:53] <lowkey> even I've made that once.
+[00:14:32] <lowkey> so now they can never make it again
+[00:14:57] <grape> I don't blame them...
+[00:15:18] <lowkey> its easy to blame cisco
+[00:15:24] <grape> I don't understand the problem between my colleague and them to be honest
+[00:17:29] <lowkey> bad communication?
+[00:18:10] <lowkey> or no communication?
+[00:19:13] <grape> bad
+[00:19:23] <grape> as far as I can see it from my side
+[00:19:29] <grape> but I am not involved in that
+[00:19:52] <lowkey> that can be for the best
+[00:21:02] <grape> there is the chemistry department... and then there is this research group... housed in the department...
+[00:23:04] <lowkey> sounds like it could create turf wars
+[00:24:59] <grape> I stay out of that
+[00:25:37] <grape> ok... different question...
+[00:25:42] <lowkey> but turf wars need catapults and catapults are fun!
+[00:25:59] <grape> what would you understand under: Energy Business Disruptor
+[00:26:51] <lowkey> that sounds like a method to disrupt the sale and delivery of energy products (elec, gas or ..) to customers
+[00:27:34] <grape> that is what I thought as well...
+[00:29:04] <grape> a friend of mine is using this term in his linkedin profile...
+[00:29:35] <grape> and I am not sure whether that is a good idea...
+[00:30:06] <lowkey> well it might be positive if what is understood is that it is someone who can bring new ideas into the trade that will revolutionize it
+[00:30:09] *** Quits: AcidJell0 (~andre_000@CJ-51k.kgi.210.207.IP) (Connection closed)
+[00:30:53] <lowkey> but I'm not sure thats what most would take away from those three words.   now maybe the context surrounding them gives them some grounding in the good
+[00:31:16] <grape> he puts that in the job title
+[00:32:13] <lowkey> he better be famous for some new methods and ideas then
+[00:32:19] <lowkey> or aspiring to be
+[00:36:20] <grape> true
+[00:36:46] <lowkey> maybe I should add "Emperor" to mine.
+[00:37:05] <lowkey> or "God of all"
+[00:37:32] <lowkey> or "mad leet haxor"
+[00:38:46] <grape> I stick to: The Doctor
+[00:39:02] <lowkey> that is a good one.
+[00:39:47] <grape> true
+[00:41:27] <grape> right.. I am off
+[00:41:35] <grape> bedtime.. and I need to make my sandwiches...
+[00:41:49] <grape> nice chatting to you lowkey ... and I hope you manage to get your vim working...
+[00:41:54] <lowkey> ok, sleep well and make good sandwiches!
+[00:42:02] <grape> I try to... to both
+[00:42:03] <grape> ttfn
+[00:42:09] <lowkey> just want to remap enter and its fighting
+[00:42:50] <grape> good luck!
+[00:42:52] <grape> ttfn
+[00:42:53] *** Quits: grape (~grape@CJ-tf3.bbc.216.2.IP) (Quit: Verlassend)
+[01:00:44] *** Quits: chalcedony (~llhull@CJ-f7i.cvs.152.72.IP) (Ping timeout: 121 seconds)
+[01:17:45] *** Joins: chalcedony (~llhull@CJ-f7i.cvs.152.72.IP)
+[01:51:47] <lowkey> nite all
+[01:51:51] *** Quits: lowkey (~lowkey@CJ-ir3.doe.126.176.IP) (Quit: leaving)
+[05:06:15] *** Joins: lowkey (~lowkey@CJ-iun.cmu.115.93.IP)
+[05:26:31] *** Quits: lowkey (~lowkey@CJ-iun.cmu.115.93.IP) (Quit: leaving)
+[05:35:28] <opal> 1313♥13 W3C LOGS UNLEASHED TO THE WORLD http://krustykrab.restaurant/w3.htm13 13♥ [AMSG]
+[17:03:37] *** Joins: AcidJell0 (~andre_000@CJ-51k.kgi.210.207.IP)
+[17:04:01] <AcidJell0> welll
+[17:31:15] <Escovan> well
+[17:36:37] <AcidJell0> well what ?
+[17:37:06] <AcidJell0> or you mean, well like oh no theres a well in front of me im going to fall in it
+[17:59:57] *** Joins: LionsMane (~don@CJ-ifj.kbt.9.173.IP)
+[18:01:35] <LionsMane> yup
+[18:01:39] <AcidJell0> hey LionsMane 
+[18:33:42] <LionsMane> Afternoon.  bbl, getting some lunchiness.
+[18:53:16] <AcidJell0> i just finished mine
+[18:53:25] <AcidJell0> had some salad and fish eggs
+[18:53:30] <AcidJell0> now on to my afternoon tea
+[18:56:03] <AcidJell0> haaaaah
+[18:56:04] <AcidJell0> https://yro.slashdot.org/story/16/04/14/1450252/canadian-police-have-had-blackberrys-global-decryption-key-since-2010?utm_source=slashdot&utm_medium=facebook
+[19:01:18] <Escovan> well well
+[19:01:40] <AcidJell0> eexactly
+[19:01:45] <AcidJell0> surprise surprise
+[19:02:02] <Escovan> :P
+[19:26:05] <AcidJell0> http://www.zerohedge.com/news/2016-04-13/2016-year-americans-found-out-their-elections-are-rigged
+[19:26:15] <AcidJell0> lowkey would have a blast with that link
+[19:43:19] <LionsMane> yup
+[20:41:41] *** Joins: grape (~grape@CJ-tf3.bbc.216.2.IP)
+[20:41:58] <grape> hi all
+[20:42:00] <grape> hi LionsMane 
+[20:49:35] <LionsMane> Howdy grape
+[20:49:40] <LionsMane> Whats good with you?
+[20:51:05] <AcidJell0> hmm
+[20:51:09] <AcidJell0> cap and trade or carbon tax
+[20:52:08] <LionsMane> AcidJell0: Which conversation is this?
+[20:52:26] <AcidJell0> the one in my head :)
+[20:52:37] <AcidJell0> do you guys have a carbon tax or cap and trade system ?
+[20:52:44] <AcidJell0> didnt think so but im not american
+[20:52:53] <grape> LionsMane: I am good.. I got a new line manager
+[20:52:56] <grape> hi AcidJell0 
+[21:01:26] <AcidJell0> hi grape 
+[21:01:50] <AcidJell0> my government wants to force me to buy one of those crappy electric cars ... wtf
+[21:02:11] <AcidJell0> gas is going to cost 50$ a liter soon
+[21:02:28] <AcidJell0> so
+[21:02:46] <AcidJell0> give incentives to the poor to buy electric cars while i cant afford it so i have to pay the stupid tax
+[21:02:47] <AcidJell0> yaay
+[21:03:02] <AcidJell0> youll see
+[21:03:10] <AcidJell0> ill make my own cas
+[21:03:11] <AcidJell0> gas
+[21:04:01] <grape> AcidJell0: if you make gas you should go and see a GP... I doubt that is healthy... and probably not socially acceptable
+[21:04:02] <grape> :D
+[21:04:25] <AcidJell0> really ? i thought it is totally healthy to make gas
+[21:05:16] <grape> well.. you wanted to make enough gas to run a car... right?
+[21:06:31] <AcidJell0> well maybe a bicycle
+[21:07:04] * AcidJell0 wonders if thats how people end up spontanuosly combusting
+[21:09:54] <grape> lol
+[21:27:52] <LionsMane> Hmm setting people on fire.  Yummm.
+[21:31:42] <grape> LionsMane: I know there might be a BREXIT here... but I really hope that does not involved torches and forks any more
+[21:31:45] * grape shudders
+[21:33:11] *** Joins: lowkey (~lowkey@CJ-1e0.ihq.231.197.IP)
+[21:33:19] <lowkey> hi all
+[21:33:24] <lowkey> hi grape
+[21:37:21] <lowkey> netbios is about the dumbest protocol I've seen.
+[21:37:37] <grape> hi lowkey 
+[21:37:42] <lowkey> respond to a SYN packet on it with ACK-RST and it tries 6 more times
+[21:37:59] <lowkey> simple RJT and it tries 6 more times
+[21:38:21] <AcidJell0> sup lowkeeester
+[21:38:26] <lowkey> or if you simply DROP the packet and don't respond, it tries 6 more times.
+[21:38:41] <AcidJell0> so the blueberry is rooted from the start apparently
+[21:38:52] <lowkey> hey AcidJell0 
+[21:39:00] <lowkey> hey grape 
+[21:39:59] <grape> how are you?
+[21:40:11] <lowkey> who in their right mind designs a protocol so that common use of it will fill firewall logs up with garbage?
+[21:40:59] <lowkey> grape: I want to fly to Redmond, WA and teach their engineers that some packets shouldn't excessively retry.   By excessively slapping them 
+[21:41:49] <grape> lowkey: I just have the right tool for that... in fact: one tool with three different settings: soft, medium and hard
+[21:41:56] <lowkey> this creates a situation where you stop logging these ports and the fact that they are some of the most commonly exploited, well you might want to watch for scans....
+[21:41:58] <AcidJell0> lowkey, people that want to obscure important events
+[21:43:59] <lowkey> seriously if you get an ACK-RST back the remote system heard you and doesn't want to talk on that port.  give up trying.
+[21:44:10] <lowkey> especially every 5 minutes.
+[21:45:10] <lowkey> and why do you even attempt to do it IP by IP?   why not use the network broadcast address and anyone who cares can reply?
+[21:45:34] <grape> RST stands for?
+[21:45:39] <lowkey> reset
+[21:45:42] <grape> ok
+[21:46:35] <lowkey> the typical 3 way handshake for system connections is SYN ->   SYN,ACK <-  SYN,ACK ->
+[21:47:03] <lowkey> but if the second packet is a ACK,RST then its saying "I'm not open on this port"
+[21:47:13] <grape> ACK,RST
+[21:47:32] <lowkey> ACK == packet acknowledged
+[21:47:55] <lowkey> its part of saying "I heard what you said and this is a reply to it"
+[21:48:09] <grape> ACK,RST
+[21:48:14] <lowkey> lol
+[21:48:15] <grape> :D
+[21:49:13] <lowkey> this just really reminds me of the really needy kid in school begging people to be his friend
+[21:49:57] <grape> what do you mean?
+[21:50:25] <grape> me?
+[21:52:25] <lowkey> nope.
+[21:52:58] <lowkey> just this stupid session trying to reconnect every 5 minutes to a service that isn't running on this system
+[21:53:42] <lowkey> seriously its filling my email with a couple hundred messages a day warning about potential scans
+[21:53:44] <grape> oh right.. got you
+[21:54:21] <lowkey> hackers aren't this stupid.  a few tries and then they move on.
+[21:54:39] <lowkey> this is the kind of stupid only computers can be.
+[21:56:18] <grape> true
+[21:56:27] <grape> right... I am in the background.. want to watch a bit TV
+[22:00:34] <lowkey> enjoy!
+[22:01:07] <grape> thanks
+[22:19:31] <lowkey> ok I figure out its PID 4 System on the windows system that is behind the connections
+[22:19:43] <lowkey> s/figure/figured/
+[22:25:44] <lowkey> why is the default setting for so many windows service and applications set to "please come rape me"?
+[22:29:26] <lowkey> and why is it when you turn off default sharing the attempts to connect go from 6 attempts up to 9?
+[22:50:32] <lowkey> and why just one IP on the network?  if it had picked any IP other than mine, I doubt I would see it in the logs....well maybe on one or two other systems.   
+[22:57:02] <lowkey> and why is it when you reply to a netbios name query nbstat (UDP) with an icmp destination unreachable (port unreachable), it thinks "holy shiznat, I need to try this 3 more times?"
+[22:57:20] <LionsMane> hahah yes, I know what you mean.
+[22:57:47] <LionsMane> I wonder how much of that is leftover from netbios being a broadcast service.
+[22:57:55] <lowkey> is this all because I allow a single ICMP reply so it knows I'm alive?
+[23:00:16] <lowkey> ok, it might have the system name in some weird configuration file.  I see before this all starts there is a name query to 192.168.0.255  
+[23:00:25] <lowkey> so that starts with a broadcast.
+[23:06:20] <LionsMane> yup, that sounds about righ.
+[23:06:39] <LionsMane> What is supposed to happen is to completely use WINS to find other windows servers.
+[23:08:21] <lowkey> OK, a quick registry search shows this hostname exactly once.  it is set for the default WallpaperSource (\\hostname) which must be from years ago when this server was setup with basic file sharing
+[23:12:56] <LionsMane> maybe.
+[23:15:29] <lowkey> the question is what happens if I nuke this setting?
+[23:23:27] <lowkey> and why is it that in 2016 that windows still thinks "not responding" is a good answer for an application?
+[23:30:20] <LionsMane> Good questions to be sure.
+[23:30:31] <LionsMane> You are in the wrong channel with the wrong audience for that.
+[23:30:53] <LionsMane> Personally, I would simply uninstall the netbios clients from all the machines on the network, but that is just me.
+[23:30:58] <LionsMane> i am an asshat like that.
+[23:31:11] <lowkey> and who in their right mind ever set the default system wallpaper to a network address on a laptop that LEAVES THE LOCAL NETWORK!
+[23:34:46] <lowkey> and should I be surprised that windows will allow you to do something stupid but not hold your hand fixing it?
+[23:35:39] <lowkey> thats not quite true.  click the link and it takes you to an option to "get help from a friend"
+[23:37:26] <LionsMane> Wow, I don't know what you are accessing.  I don't run windows at all.  I have a Windows install in parallels installation so I can run windows if I need to, but just on a per use basis.
+[23:38:33] <lowkey> I just want to remove the default value for the system wallpaper so it stops filling my logs with garbage
+[23:39:09] <lowkey> google cant even tell me what the default value should be so I can just change it back
+[23:50:35] <grape> back
+[23:52:50] <lowkey> i now remember why I hate everything windows

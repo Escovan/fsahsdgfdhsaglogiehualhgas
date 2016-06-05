@@ -1,0 +1,25 @@
+[08:58:43] <Escovan> Hey systeemvolk, jullie zijn slim hè
+[09:01:08] <Escovan> Hoe kan het dat als je ¨Factory Reset¨ doet in Windows 10, dat die dan nog de hele schone image heeft liggen, zonder dat ze zich druk hoeven te maken dat evt malware daar aan komt? 
+[09:02:49] <Escovan> Is cyberwar ook maar gewoon gemeenschappelijk elkaar angst aanjagen evt ironisch of om er gewoon beter van te worden?
+[09:11:01] <LuckY> Welke optie gebruik je dan?
+[09:11:09] <LuckY> want als ik http://windows.microsoft.com/nl-nl/windows-10/windows-10-recovery-options lees
+[09:16:48] <Escovan> Je hebt idd Opnieuw Instellen, maar dan ook nog in 2 gradaties: Zo dat al je documenten er nog zijn maar het OS weer fris is, en zo dat hij alles weggooit (evt met overschrijven van schijf als je het apparaat weg doet) - Maar malware is dus geen issue voor die image die hij gebruikt voor opnieuw instellen? 
+[09:18:07] <Escovan> DISM is een mooie tool iig.
+[09:18:50] <LuckY> Klinkt een beetje als VSS?
+[09:22:32] <Escovan> Ja
+[09:22:45] <LuckY> Gebruik je daarna gewoon de standaard instalatie .wim?
+[09:23:56] <LuckY> Want malware kan volgens mij gewoon dism.exe /appendimage doen om persistence te krijgen?
+[09:24:21] <Escovan> hmmm
+[09:25:05] <LuckY> zelfde als dat veel cryptolockers de VSS allemaal deleten met vssadmin
+[09:27:57] <LuckY> hmm met een appx zie ik wel mogelijkheden, hooguit dat je nog signing tegenkomt oid
+[09:28:33] <Escovan> Sinds ik in het Insider Programma heb gezeten ben ik meer onder de indruk van wat Microsoft en partners met je computer doen, dan van cyberterroristjes.
+[09:33:59] <Escovan> Zo heb ik deze ochtend, op een schone machine, al de hele tijd het fenomeen dat hij mijn login kwijt is elke 5 minuten en elke site wat eerder in federatie dinges ging, terwijl ik met MS Account ben ingelogd. 
+[10:27:32] *** Joins: kees (kees@office.tweaknet.net)
+[10:45:51] *** Joins: McM (mcm@d30008.upc-d.chello.nl)
+[11:25:58] *** Quits: McM (mcm@d30008.upc-d.chello.nl) (Ping timeout: 67 seconds)
+[20:56:41] *** Joins: Tomsworld (tom@91.179.64.24)
+[21:30:10] *** Quits: kees (kees@office.tweaknet.net) (Input/output error)
+[22:34:04] *** Quits: lmd (lmd@5ED7EC48.cm-7-8d.dynamic.ziggo.nl) (Ping timeout: 61 seconds)
+[22:35:51] *** Joins: lmd (lmd@5ED7EC48.cm-7-8d.dynamic.ziggo.nl)
+[22:40:56] *** Quits: lmd (lmd@5ED7EC48.cm-7-8d.dynamic.ziggo.nl) (Ping timeout: 66 seconds)
+[22:42:39] *** Joins: lmd (lmd@5ED7EC48.cm-7-8d.dynamic.ziggo.nl)

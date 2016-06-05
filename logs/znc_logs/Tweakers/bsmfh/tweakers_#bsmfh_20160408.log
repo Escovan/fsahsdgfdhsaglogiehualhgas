@@ -1,0 +1,88 @@
+[00:26:44] *** Joins: McM (mcm@d30008.upc-d.chello.nl)
+[00:27:44] *** Quits: McM (mcm@d30008.upc-d.chello.nl) (Ping timeout: 60 seconds)
+[01:18:47] *** Quits: lmd (lmd@5ED7EC48.cm-7-8d.dynamic.ziggo.nl) (Ping timeout: 67 seconds)
+[01:20:23] *** Joins: lmd (lmd@5ED7EC48.cm-7-8d.dynamic.ziggo.nl)
+[01:31:56] *** Quits: Tomsworld (tom@109.130.187.232) (Ping timeout: 66 seconds)
+[02:42:38] *** Joins: Tomsworld (tom@2a02:a03f:12c0:600:c10b:c0f9:61a1:7fec)
+[02:45:48] *** Quits: Tomsworld (tom@2a02:a03f:12c0:600:c10b:c0f9:61a1:7fec) (Ping timeout: 60 seconds)
+[03:46:08] *** Joins: Tomsworld (tom@109.130.187.232)
+[03:47:48] *** Quits: Tomsworld (tom@109.130.187.232) (Ping timeout: 66 seconds)
+[05:50:46] <Escovan> hmmm, mijn mail doet raar. Domein toegevoegd aan Google Apps ... Elk mail adres doet het, behalve die van beheeradressen (webmaster@ hostmaster@ etc) ... Zodat ik nu geen SSL kan aanvragen :|
+[05:54:32] <Escovan> Ik zou ook mail op de server zelf kunnen inschakelen, en die laten doorsturen naar mij ... maar fuck it, net 5 MX records toegevoegd :|
+[06:05:46] <Escovan> Ah, fixored. Effe alias verwijderen en opnieuw toevoegen. En alle beheeradressen worden ineens aangemaakt. Gekke google.
+[06:16:04] <Escovan> You have successfully authenticated domain
+[06:16:07] <Escovan> :))
+[06:28:12] <Escovan> Yes, SSL certificaat werkt. Mooi. Tijd voor koffie.
+[06:48:50] *** Joins: Tomsworld (tom@109.130.187.232)
+[06:49:54] *** Quits: Tomsworld (tom@109.130.187.232) (Ping timeout: 60 seconds)
+[07:08:10] *** Quits: PvOESJE (sid108727@id-108727.brockwell.irccloud.com) (Ping timeout: 67 seconds)
+[07:08:10] *** Quits: AjDuLion (sid50412@id-50412.charlton.irccloud.com) (Ping timeout: 67 seconds)
+[07:08:23] *** Joins: PvOESJE (sid108727@id-108727.brockwell.irccloud.com)
+[07:08:42] *** Joins: AjDuLion (sid50412@id-50412.charlton.irccloud.com)
+[08:29:23] *** Parts: Samantha (Zementa@vps1.cluster.grephix.nl) ()
+[09:00:17] *** Joins: DinX_Werk (DinX@out.helics.leuven.be)
+[09:06:22] *** Joins: Tomsworld (tom@109.130.187.232)
+[09:09:26] *** Joins: kees (kees@kees.tweakers.net)
+[09:16:53] *** Quits: Tomsworld (tom@109.130.187.232) (Ping timeout: 66 seconds)
+[09:25:06] *** Joins: Tomsworld (tom@2a02:a03f:12c0:600:f434:d305:5113:5c24)
+[09:32:46] *** Quits: Tomsworld (tom@2a02:a03f:12c0:600:f434:d305:5113:5c24) (Ping timeout: 66 seconds)
+[10:27:11] *** Joins: McM (mcm@31.161.158.153)
+[11:00:08] <AjDuLion> iiemand een webdev hier ?
+[11:00:14] <AjDuLion> http://www.webdeveloper.com/forum/showthread.php?243055-RESOLVED-Display-all-images-in-a-set-directory 
+[11:00:22] <AjDuLion> ik probeer foto's uitmap ''albufeira'' te laden.. 
+[11:00:25] <AjDuLion> maar krijg een error
+[11:00:45] <AjDuLion> Image' . $dirArray[$index] . ''; }	} ?>
+[11:00:45] <AjDuLion> wie o wie weet wat ik fout doe :+
+[11:00:48] <AjDuLion> enige wat ik aangepast heb = images naar albufeira renamed
+[11:04:08] <AlBundy> werkte het daarvoor wel?
+[11:04:32] <AjDuLion> nee
+[11:04:35] <AjDuLion> compleet nieuw
+[11:04:46] <AjDuLion> ik wil in feite dus dat alle jpgs in 1 map uitgelezen worden en neergezet worden
+[11:04:49] <AjDuLion> maakt me niet uit hoe
+[11:04:54] <AlBundy> ja ik begrijp
+[11:05:04] <AjDuLion> tis nu dump.domein.nl/albufeira waar de foto's staan
+[11:05:06] <AjDuLion> maar 
+[11:05:09] <AjDuLion> ik wil dat als je daarheen gaat 
+[11:05:11] <AjDuLion> gewoon alle foto's ziet
+[11:05:23] <AjDuLion> zonder poespas :P
+[11:05:23] <AjDuLion> en het liefst dummy proof
+[11:06:12] <AlBundy> okee, dus in de root folder heb je dit script
+[11:06:17] <AlBundy> uh, parent van images
+[11:06:20] <AlBundy> albufeira, whatever
+[11:06:54] <AjDuLion> in dit geval wel ja
+[11:06:54] <AjDuLion> ja
+[11:06:54] <AjDuLion> yes
+[11:07:14] <AlBundy> en images op beide plekken aangepast?
+[11:12:25] <McM> AjDuLion zeker niks te doen?
+[11:12:36] <AjDuLion> zit foto's te uploaden
+[11:12:46] <AjDuLion> beid eplekken ? :P
+[11:12:47] <AjDuLion> wait
+[11:17:52] *** Quits: McM (mcm@31.161.158.153) (Ping timeout: 66 seconds)
+[11:20:49] *** Joins: McM (mcm@31.161.158.153)
+[11:38:35] *** Quits: McM (mcm@31.161.158.153) (Ping timeout: 61 seconds)
+[11:48:51] *** Joins: McM (mcm@145.131.136.58)
+[13:21:30] *** Joins: Tomsworld (tom@2a02:a03f:12c0:600:7c70:f06a:9573:e8e9)
+[13:56:46] *** Joins: JGC (JGC@46.44.132.142)
+[14:38:13] *** Quits: Tomsworld (tom@2a02:a03f:12c0:600:7c70:f06a:9573:e8e9) (Ping timeout: 66 seconds)
+[16:17:26] *** Quits: kees (kees@kees.tweakers.net) (Input/output error)
+[16:19:04] <JGC> voorraadlocatie: ¨Achter de spinnewebben en daar weer achter¨ :X
+[16:24:54] *** silverstorm changes topic to 'Welkom in #bsmfh ||'
+[16:25:17] <silverstorm> JGC daar staan de servers?
+[16:27:33] *** Quits: McM (mcm@145.131.136.58) (Ping timeout: 66 seconds)
+[16:37:11] *** Joins: McM (mcm@145.131.136.58)
+[17:05:28] *** Quits: McM (mcm@145.131.136.58) (Ping timeout: 67 seconds)
+[17:05:35] <JGC> silverstorm: mogelijk :P
+[17:08:06] *** Quits: DinX_Werk (DinX@out.helics.leuven.be) (Exit)
+[17:12:10] *** Parts: JGC (JGC@46.44.132.142) ()
+[17:13:55] *** Joins: kees (kees@office.tweaknet.net)
+[17:30:14] *** Joins: Tomsworld (tom@2a02:a03f:12c0:600:10c3:af46:480b:9e2)
+[18:31:50] *** Quits: Tomsworld (tom@2a02:a03f:12c0:600:10c3:af46:480b:9e2) (Ping timeout: 66 seconds)
+[20:12:43] *** Joins: Samantha (Zementa@vps1.cluster.grephix.nl)
+[21:51:15] *** Quits: kees (kees@office.tweaknet.net) (Ping timeout: 66 seconds)
+[21:52:19] *** Joins: kees (kees@office.tweaknet.net)
+[22:06:41] *** Joins: Diabolical (Diabolical@waltherligtvoet.nl)
+[23:20:08] *** Diabolical is now known as Diabolical|afk
+[23:38:47] *** Joins: Tomsworld (tom@2a02:a03f:12c0:600:d412:9642:324:8ea6)
+[23:41:30] *** Quits: Tomsworld (tom@2a02:a03f:12c0:600:d412:9642:324:8ea6) (Ping timeout: 60 seconds)
+[23:43:35] *** Joins: Tomsworld (tom@109.130.187.232)
+[23:44:41] *** Quits: Tomsworld (tom@109.130.187.232) (Ping timeout: 60 seconds)

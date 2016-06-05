@@ -1,0 +1,112 @@
+[00:31:04] <Matux> Is anyone alive here?
+[00:31:05] <Matux> ^^
+[00:31:24] <Matux> guys?
+[00:31:25] <Matux> pls
+[00:31:30] <Matux> I need someone
+[00:31:31] <Matux> to hold
+[00:31:32] <Matux> ;_;
+[00:31:41] <Matux> Lusi^ ?
+[00:31:45] <Matux> krux?
+[00:31:51] <Matux> djukon? 
+[00:35:20] <Matux> GUYS?
+[01:17:33] <Matux> aw cmoooon!
+[02:15:59] <krux> Matux: ?
+[02:16:10] <Matux> wow!
+[02:16:13] <Matux> you're awfully slow
+[02:16:14] <Matux> :D
+[02:16:20] <krux> LOL.
+[02:16:30] <Matux> I can't find any decent Deep Web sites
+[02:16:33] <Matux> any tips? :D
+[02:16:34] <krux> I was not home. Nor checking irc with my phone :)
+[02:17:44] <krux> Not really. 
+[02:18:00] <Matux> okay
+[02:19:22] <krux> isnt there like search engines for the darknet?
+[02:19:31] <Matux> yeah but
+[02:19:38] <Matux> they're full of dead links
+[02:19:47] <Matux> honestly
+[02:19:52] <Matux> I don't even know what I'm trying to find
+[02:19:53] <Matux> :D
+[02:20:03] <Matux> I'm in a mid-life crisis
+[02:20:05] <krux> Ah.
+[02:20:36] <Matux> no
+[02:20:37] <Matux> wait
+[02:20:41] <Matux> not mid-life crisis
+[02:20:45] <Matux> what's the earlier one called?
+[02:20:47] <Matux> ..
+[02:20:53] <krux> Silk Road was a good site back then. But I think it is shut down now.
+[02:22:08] <krux> Don't know? LOL beggining-life crisis?
+[02:23:34] <Matux> actually, maybe
+[02:24:37] <krux> midlife transition?
+[02:25:05] <krux> Discontentment or boredom with life or with the lifestyle (including people and things) that have provided fulfillment for a long time.
+[02:25:55] <Matux> Hey
+[02:26:04] <Matux> remember how we used to have a bot in here?
+[02:26:29] <krux> Yeah.
+[02:30:39] <Matux> it would be great to have it again
+[02:30:42] <Matux> but I mean
+[02:30:45] <Matux> since lsr isn't here
+[02:30:49] <Matux> no one would use it :D
+[02:30:52] <Matux> to play UNO cards
+[02:31:10] <krux> Let me see if I can set on up on the vps for you.
+[02:31:15] <krux> You can play uno with it.
+[02:31:17] <Matux> alright
+[02:31:22] <Matux> HOOK A BROTHA UP
+[02:31:41] <krux> The computer I had it on I took the hard drive off it is full. And right now that pc has windows only in there.
+[02:31:52] <Matux> and you hate windows
+[02:31:53] <Matux> I get it
+[02:31:53] <Matux> :D
+[02:32:02] <krux> Exactly.
+[02:32:09] <krux> SO I never turn it on.
+[02:32:12] <krux> :)
+[02:34:35] <krux> https://www.dropbox.com/s/3xbqfbetufoyq0x/Screenshot%202016-04-10%2014.46.14.png?dl=0 This is what I been using the past few months :)
+[02:35:13] <Matux> looks great
+[02:35:18] <Matux> and fabolous
+[02:37:04] <krux> :) lets see if I can get this eggdrop going.
+[02:52:49] <krux> Alright it is compiled. Now I gotta configure the config file. And download the Uno game
+[03:09:15] <krux> I forgot how long and annoying this config file is :).
+[03:32:06] *** Joins: LeFreak (~LeFreak@CJ-6bu.04s.210.192.IP)
+[03:34:35] <krux> !unocmds
+[03:34:50] <krux> Matux: there you go.
+[03:35:00] <krux> !uno
+[03:35:00] <LeFreak> 3U12N13O08! 0.98.9 by Marky
+[03:35:00] <LeFreak> 3U12N13O08! You have 1430s to join uno
+[03:35:19] <Matux> ayyyy
+[03:35:21] <Matux> nice work
+[03:35:29] <LeFreak> 3U12N13O08! no players, next game in 1430s
+[03:35:39] <krux> There are other games and scripts that can be added
+[03:36:00] <LeFreak> 3U12N13O08! 0.98.9 by Marky
+[03:36:00] <LeFreak> 3U12N13O08! You have 1430s to join uno
+[03:36:00] <krux> http://www.egghelp.org/tcl.htm
+[03:36:07] <krux> !stop
+[03:36:07] <LeFreak> 3U12N13O08! stopped by krux
+[03:36:22] <Matux> you named the bot LeFreak? :D
+[03:36:34] <krux> lol yeah.
+[03:38:15] <krux> !notes
+[03:38:39] <krux> !note Matux Testing
+[03:39:23] <Matux> what's that?
+[03:39:34] <Matux> !notes
+[03:39:45] <Matux> !note
+[03:40:25] <krux> There is a notes script already in there I guess to leave notes for users that are not here or away?
+[03:40:30] <krux> I just don't know how to use it.
+[03:42:30] <krux> !notes index
+[03:42:37] <krux> .notes index
+[03:42:47] <krux> !notes LeFreak index
+[03:43:11] <krux> !notes krux read all
+[03:44:11] <krux> LeFreak: notes read all
+[03:44:22] <krux> !notes2 help
+[03:45:33] <krux> !seen Matux 
+[03:45:55] <krux> LeFreak: !seen Matux 
+[03:46:01] <krux> :S
+[03:47:00] <Matux> HALP
+[04:10:53] *** Quits: LeFreak (~LeFreak@CJ-6bu.04s.210.192.IP) (Connection closed)
+[04:12:45] *** Joins: LeFreak (~LeFreak@192.210.212.173)
+[04:15:06] <krux> !ip krux
+[04:16:34] <krux> !chanset #freaks_united +ipcheck
+[04:17:00] <krux> !ip krux
+[04:19:05] <Guest90369> ?
+[08:07:37] *** Joins: Forrest (~Forrest@CJ-876.u7f.236.115.IP)
+[08:08:09] *** Quits: Forrest (~Forrest@CJ-876.u7f.236.115.IP) (Quit: Leaving)
+[08:08:15] *** Joins: Forrest (~Forrest@CJ-876.u7f.236.115.IP)
+[08:09:06] *** Quits: Forrest (~Forrest@CJ-876.u7f.236.115.IP) (Quit: Leaving)
+[20:48:59] *** Joins: root (~root@acdn117.neoplus.adsl.tpnet.pl)
+[20:49:20] <root> nice
+[20:49:49] *** Quits: root (~root@acdn117.neoplus.adsl.tpnet.pl) (Quit: Leaving)

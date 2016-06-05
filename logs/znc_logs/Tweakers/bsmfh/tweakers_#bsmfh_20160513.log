@@ -1,0 +1,31 @@
+[08:04:25] <Escovan> Zo, ik heb even zo´n Cloudhosting pakketje van Amazon voor een jaar gratis. Maar dat is echt gigantisch! Het is gelukkig wel gedocumenteerd, maar ik ben voorlopig nog wel aan het lezen. Eerste EC2 instance draait al, maar zit nog te twijfelen over een Windows bak. Die hebben ze ook, en als je wil kun je er 100 tegelijk starten :o
+[08:32:24] *** Joins: kees (kees@kees.tweakers.net)
+[08:36:30] <Escovan> kees!
+[08:36:44] <Escovan> Ik heb echt heel veel ijzer enzo.
+[08:36:58] <Escovan> Ik snap er alleen nog niet zoveel als jij van.
+[08:37:07] <Escovan> Amazon Cloud geval.
+[09:00:22] *** Joins: tbosua (tbosua@92-111-12-69.static.chello.nl)
+[09:06:35] *** Joins: DinX_Werk (DinX@213.224.57.66)
+[09:23:45] *** Joins: JGC (JGC@46.44.132.142)
+[10:50:42] *** Joins: McM (mcm@193.173.193.100)
+[10:59:46] *** Quits: Muddy|weg (pi@ip51cfdc0b.direct-adsl.nl) (Exit)
+[11:00:54] *** Joins: MuddyMagical (pi@ip51cfdc0b.direct-adsl.nl)
+[16:05:36] *** Quits: McM (mcm@193.173.193.100) (Ping timeout: 68 seconds)
+[16:22:09] *** Quits: kees (kees@kees.tweakers.net) (Input/output error)
+[17:09:46] *** Quits: DinX_Werk (DinX@213.224.57.66) (Connection reset by peer)
+[17:12:31] *** Quits: JGC (JGC@46.44.132.142) (Connection reset by peer)
+[17:22:54] *** Joins: kees (kees@office.tweaknet.net)
+[17:38:08] *** Quits: tbosua (tbosua@92-111-12-69.static.chello.nl) (Exit)
+[18:56:23] *** Quits: PvOESJE (sid108727@id-108727.brockwell.irccloud.com) (Client exited)
+[19:13:56] *** Joins: PvOESJE (sid108727@2604:8300:100:200b:6667:5:1:a8b7)
+[19:16:30] *** Quits: jk-5 (jk-5@D549D0E1.cm-10-1b.dynamic.ziggo.nl) (Ping timeout: 61 seconds)
+[19:25:23] *** Joins: jk-5 (jk-5@D549D0E1.cm-10-1b.dynamic.ziggo.nl)
+[19:27:05] <LuckY> amazon cloud is toch niet zo moeilijk
+[19:27:08] <LuckY> shit alla AMI's
+[19:27:17] <LuckY> api heb je echt alleen scripted nodig, interface soms wat lastig
+[19:27:20] <LuckY> lekker alles genat
+[21:38:14] *** Joins: Aherin (Aherin@092-111-239-066.static.chello.nl)
+[21:54:13] *** Quits: jk-5 (jk-5@D549D0E1.cm-10-1b.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[22:02:19] *** Joins: jk-5 (jk-5@D549D0E1.cm-10-1b.dynamic.ziggo.nl)
+[23:47:26] *** Quits: kees (kees@office.tweaknet.net) (Input/output error)
+[23:50:05] *** Joins: Xesxen (Xesxen@195-154-163-166.rev.poneytelecom.eu)

@@ -1,0 +1,7 @@
+====== Onderzoeken ======
+Hier worden onderzoeksgegevens en persoonlijke testresultaten gepubliceerd.
+
+===== Professioneel =====
+ [[onderzoek00001|Cognitie en Vaardigheden - Thalento]] in opdracht van Cardan Technobility, UWV, ESF.
+
+ [[onderzoek00002|ISTQB Certificering]] in opdracht van [[http://authentict.nl|AuthentICT]]

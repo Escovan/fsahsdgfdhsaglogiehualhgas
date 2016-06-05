@@ -1,0 +1,863 @@
+[00:00:02] *** Quits: Teckna1 (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[00:18:08] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[00:23:57] *** Quits: FADM|JLP (zoldertjeg@ip15-227-208-87.adsl2.static.versatel.nl) (Exit)
+[01:33:54] *** Quits: Tomsworld (tom@243.227-242-81.adsl-dyn.isp.belgacom.be) (Ping timeout: 66 seconds)
+[02:00:24] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[02:13:38] *** Quits: pasta (pasta@541E0197.cm-5-7a.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[02:22:38] *** Joins: Escovan (Escovan@test.prutsplek.nl)
+[02:25:35] *** Quits: pasta (pasta@541E0197.cm-5-7a.dynamic.ziggo.nl) (Connection reset by peer)
+[02:25:36] *** Joins: pasta_ (pasta@541E0197.cm-5-7a.dynamic.ziggo.nl)
+[02:49:07] *** Joins: grid (grid@dhcp-089-099-194-232.chello.nl)
+[02:50:21] *** Quits: grid (grid@dhcp-089-099-194-232.chello.nl) (Ping timeout: 66 seconds)
+[03:27:57] *** Quits: Matthew (Matthew@178-117-75-230.access.telenet.be) (Connection reset by peer)
+[03:30:38] *** Quits: pasta_ (pasta@541E0197.cm-5-7a.dynamic.ziggo.nl) (Ping timeout: 63 seconds)
+[03:30:42] *** Joins: pasta (pasta@541E0197.cm-5-7a.dynamic.ziggo.nl)
+[04:30:05] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[04:39:51] *** Quits: pasta (pasta@541E0197.cm-5-7a.dynamic.ziggo.nl) (Ping timeout: 66 seconds)
+[04:41:33] *** Joins: pasta (pasta@541E0197.cm-5-7a.dynamic.ziggo.nl)
+[07:08:24] *** Quits: pasta (pasta@541E0197.cm-5-7a.dynamic.ziggo.nl) (Ping timeout: 67 seconds)
+[07:08:29] *** Joins: pasta (pasta@541E0197.cm-5-7a.dynamic.ziggo.nl)
+[07:13:30] *** Quits: Destruction (Destructio@507230E5.cm-15.dynamic.ziggo.nl) (Ping timeout: 66 seconds)
+[07:13:43] *** Joins: Smileface (alexander@25bc408b.ftth.concepts.nl)
+[07:14:04] *** Joins: Destruction (Destructio@507230E5.cm-15.dynamic.ziggo.nl)
+[07:44:11] <Escovan> Zo. Dat was schrikken.
+[07:44:21] <Escovan> Computer wou niet aan.
+[07:44:37] <Escovan> Weet niet wat ik voor magic gedaan heb, maar hij doet het weer.
+[07:59:55] *** Quits: Smileface (alexander@25bc408b.ftth.concepts.nl) (Exit)
+[08:12:19] *** Quits: Destruction (Destructio@507230E5.cm-15.dynamic.ziggo.nl) (Ping timeout: 61 seconds)
+[08:12:55] *** Joins: Destruction (Destructio@507230E5.cm-15.dynamic.ziggo.nl)
+[08:14:03] *** Quits: Destruction (Destructio@507230E5.cm-15.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[08:14:09] *** Joins: Destruction (Destructio@507230E5.cm-15.dynamic.ziggo.nl)
+[08:15:39] *** Joins: Resistor (Resistor@ip5456d91b.speed.planet.nl)
+[08:31:08] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[08:49:23] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[09:28:16] *** Joins: Guyver2 (Guyver2@guyver2.xs4all.nl)
+[09:44:20] *** Joins: Jeroen (Jeroen@54188FF8.cm-5-1c.dynamic.ziggo.nl)
+[09:55:16] *** Quits: Tomcat_ha (user@a83-162-255-205.adsl.xs4all.nl) (Exit)
+[09:59:08] *** Joins: Tomsworld (tom@2a02:a03f:1254:ab00:3c16:e1ae:c9e8:571e)
+[09:59:08] *** ChanServ sets mode: +o Tomsworld
+[10:00:27] *** Quits: Guyver2 (Guyver2@guyver2.xs4all.nl) (Ping timeout: 60 seconds)
+[10:00:42] *** Joins: Guyver2 (Guyver2@guyver2.xs4all.nl)
+[10:01:37] *** Quits: Tomsworld (tom@2a02:a03f:1254:ab00:3c16:e1ae:c9e8:571e) (Ping timeout: 60 seconds)
+[10:13:41] *** Prof_Away^^ is now known as Prof_NaPo^^
+[10:15:53] *** Joins: Francis (Francis@5468C56E.cm-12-1d.dynamic.ziggo.nl)
+[10:16:09] <Francis> ohai
+[10:29:02] *** Quits: Bubbles (crap@roarnet.nl) (Ping timeout: 60 seconds)
+[10:31:37] *** Joins: Bubbles (crap@roarnet.nl)
+[10:38:25] *** Joins: Tomsworld (tom@2a02:a03f:1254:ab00:b088:9c21:b58c:33c2)
+[10:38:25] *** ChanServ sets mode: +o Tomsworld
+[10:46:21] *** Quits: Resistor (Resistor@ip5456d91b.speed.planet.nl) (Exit)
+[10:55:59] <tozzert> http://www.dumpert.nl/mediabase/6758401/bbaed974/de_epic_stem_van_boes.html
+[10:56:04] <tozzert> BOES BOES
+[10:56:05] <tozzert> BOES BOES
+[11:00:24] <Prof_NaPo^^> Boes is niet voor de poes
+[11:06:31] *** Joins: Mattie (Mattie@ftth-213-134-239-005.solcon.nl)
+[11:10:53] *** Quits: Jeroen (Jeroen@54188FF8.cm-5-1c.dynamic.ziggo.nl) (Exit)
+[11:14:19] *** Joins: Tordek (Tordek@D4787483.cm-1.dynamic.ziggo.nl)
+[11:16:11] *** Quits: Tordek (Tordek@D4787483.cm-1.dynamic.ziggo.nl) (Exit)
+[11:18:24] *** Joins: Tordek (Tordek@D4787483.cm-1.dynamic.ziggo.nl)
+[11:18:43] *** Quits: Guyver2 (Guyver2@guyver2.xs4all.nl) (Exit)
+[11:19:22] *** Joins: kees (kees@office.tweaknet.net)
+[11:24:01] *** Quits: Francis (Francis@5468C56E.cm-12-1d.dynamic.ziggo.nl) (Exit)
+[11:40:49] *** Quits: PerlinNoise (P@D97B0886.cm-3-4a.dynamic.ziggo.nl) (Exit)
+[11:42:08] <Escovan> http://www.nrc.nl/next/2016/04/23/vrijheid-1610457
+[11:43:07] <tozzert> godnondeju wè'n lap letters
+[11:48:23] *** Joins: FADM|JLP (zoldertjeg@ip15-227-208-87.adsl2.static.versatel.nl)
+[11:49:29] *** Quits: Tomsworld (tom@2a02:a03f:1254:ab00:b088:9c21:b58c:33c2) (Ping timeout: 67 seconds)
+[11:50:45] *** Joins: Tomsworld (tom@243.227-242-81.adsl-dyn.isp.belgacom.be)
+[11:50:45] *** ChanServ sets mode: +o Tomsworld
+[11:51:09] <Prof_NaPo^^> TL;DR
+[11:51:10] *** Joins: Sponge (Sponge@149.210.150.92)
+[11:51:13] <Prof_NaPo^^> is er niet een film van Escovan 
+[11:51:39] <Escovan> gheh, en ik dacht dat mijn aandachtsspanne kort was :P
+[11:53:16] <Prof_NaPo^^> :(
+[11:53:32] <Prof_NaPo^^> akelige eerste zin
+[11:55:20] <PCR> Jeroen, bedankt voor je antwoord!
+[11:55:29] <PCR> Ik ben 78 en 3 maanden
+[11:55:44] *** Joins: gakkethijs (gakkethijs@84-245-42-16.dsl.cambrium.nl)
+[11:56:27] <PCR> Oh, hij is er helemaal niet...
+[11:56:44] *** Joins: Resistor (Resistor@ip5456d91b.speed.planet.nl)
+[12:00:25] *** Joins: int3nz0r (int3nz0r@541A8E1B.cm-5-3c.dynamic.ziggo.nl)
+[12:09:19] *** Joins: Svardskampe (Svardskamp@198-14-ftth.onsnetstudenten.nl)
+[12:29:44] *** Quits: Mattie (Mattie@ftth-213-134-239-005.solcon.nl) (Exit)
+[12:30:36] *** Joins: Stuiterbal (Stuit@2001:980:5281:1:3506:9d4c:264c:bdd7)
+[12:34:25] *** Quits: FADM|JLP (zoldertjeg@ip15-227-208-87.adsl2.static.versatel.nl) (Connection reset by peer)
+[12:36:14] *** Joins: FADM|JLP (zoldertjeg@ip15-227-208-87.adsl2.static.versatel.nl)
+[12:41:20] <tozzert> kun je in excel, afhankelijk van of er in een cel ervoor iets staat, kolommen laten verbergen?
+[12:45:01] <FADM|JLP> Kolomen die je niet gebruikt kan je laten verbergen ja
+[12:45:01] <Prof_NaPo^^> ja
+[12:45:10] <Prof_NaPo^^> waarom zou dat niet kunnen tozzert?
+[12:45:29] <tozzert> dat is niet helemaal de bedoeling
+[12:45:32] <FADM|JLP> Stel je hebt iets in colom A staan, dan kan je colom B laten verbergen
+[12:45:35] <tozzert> @ FADM|JLP
+[12:45:49] <tozzert> dan wil ik juist B zichtbaar hebben
+[12:45:52] <tozzert> en als er in B iets staat
+[12:45:54] <tozzert> C zichtbaar
+[12:45:55] <tozzert> enz
+[12:46:00] <Prof_NaPo^^> kan toch ook gewoon :)
+[12:46:10] <tozzert> dat was mijn vraag
+[12:46:14] <tozzert> en dan nu mijn vervolgvraag
+[12:46:15] <tozzert> HOE?!
+[12:46:16] <tozzert> :+
+[12:46:17] <Prof_NaPo^^> VBA
+[12:46:20] <Prof_NaPo^^> enjoy
+[12:46:30] <tozzert> dè snap ik tochnieman
+[12:46:52] <tozzert> of is het makkelijker eerst te vragen naar een getal
+[12:46:57] <Prof_NaPo^^> LastCol = .Cells(1, .Columns.Count).End(xlToLeft).Column + 1
+[12:46:58] <tozzert> en dan zoveel kolommen beschikbaar maken
+[12:47:20] <tozzert> het gaat om een opzetje voor toegangscontrole
+[12:47:36] <tozzert> die we naar een klant kunnen sturen om in te laten vullen
+[12:47:50] <FADM|JLP> Als ik het goed heb (weet het niet zeker) rechtermuisknop op de gewenste colom, en dan verbergen kiezen dacht ik
+[12:47:57] <tozzert> mja
+[12:48:02] <Prof_NaPo^^> ja maar dat moet per keer FADM|JLP 
+[12:48:03] <tozzert> ik wil het dus automatiseren
+[12:48:06] <Prof_NaPo^^> kan je net zo goed een macro maken
+[12:48:08] <tozzert> als ze een deurnaam invoeren in een cel
+[12:48:13] <tozzert> dan moet er een kolom bijkomen
+[12:48:21] <tozzert> om de evt volgende deurnaam toe te voegen
+[12:48:22] <Prof_NaPo^^> laatst gebruikte kolom vinden sipeanuts
+[12:48:24] <FADM|JLP> Oh op die manier, daar ben ik hellaas minder goed in, sorry :(
+[12:49:01] <tozzert> mja.. maar het is niet de laatst gebruikte kolom Prof_NaPo^^
+[12:49:11] <Prof_NaPo^^> laatst gebruikte kolom + 1 dan
+[12:49:12] <tozzert> want erna komen nog een x aantal in te vullen kolommen
+[12:49:28] <tozzert> wat weer niet met die deuren te maken heeft
+[12:49:36] <Prof_NaPo^^> maak dan een pivot table...
+[12:49:43] <Prof_NaPo^^> deuren moet je niet in kolommen gooien maar in rijen
+[12:49:46] <Prof_NaPo^^> dat je die daarna pivot is prima
+[12:49:50] *** Quits: qlum (qlum@217.19.31.187) (Ping timeout: 60 seconds)
+[12:49:51] <tozzert> nee
+[12:49:59] <tozzert> want in rijen heb ik de machtigingsgroepen al
+[12:50:14] <Prof_NaPo^^> dan ga je power pivot gebruiken
+[12:50:29] <Prof_NaPo^^> of een Access DB met kek formpje
+[12:50:34] <tozzert> gast
+[12:50:38] <tozzert> wat denk je van mij
+[12:50:39] *** Joins: qlum (qlum@217.19.31.187)
+[12:50:41] <tozzert> ben geen nerd!
+[12:50:43] <Prof_NaPo^^> index match?
+[12:50:47] <tozzert> wat?
+[12:50:50] *** moto-moi|afk is now known as moto-moi
+[12:50:51] <Prof_NaPo^^> vlookups dan
+[12:50:53] <tozzert> wat?
+[12:50:58] <Prof_NaPo^^> anthonyt
+[12:50:59] <moto-moi> tozzert: als je geen nerd bent, waarom ben je dan zo lelijk?
+[12:51:13] <tozzert> niet alle lelijke mensen zijn nerds
+[12:51:14] <Prof_NaPo^^> Waarom vragen ze om die shit te maken aan jou
+[12:51:18] <tozzert> andersom wel
+[12:51:24] <moto-moi> :D
+[12:52:16] <Prof_NaPo^^> behalve bij vrouwen natuurlijk tozzert, je pakt een mokkel, geeft haar een bril  en TADA
+[12:52:17] <Prof_NaPo^^> nerd!
+[12:52:44] *** Joins: boy_yonder (Seb@82-169-222-71.ip.telfort.nl)
+[12:52:44] <tozzert> sommige vrouwen worden er alleen maar geiler ogend van
+[12:52:55] <gakkethijs> is ook voor de veiligheid
+[12:53:12] <Prof_NaPo^^> veiligheid waarvoor gakkethijs?
+[12:53:22] <Prof_NaPo^^> maar tozzert, laat iemand anders die shit bouwen als jij het niet kan
+[12:53:27] <moto-moi> rondvliegende kleinkinderen, Prof_NaPo^^ 
+[12:53:38] <tozzert> geen optie Prof_NaPo^^
+[12:53:43] <tozzert> want niemand anders kan het
+[12:53:47] <Prof_NaPo^^> en jij ook niet
+[12:53:50] <Prof_NaPo^^> dus niemand kan het
+[12:53:50] <tozzert> en niemand anders heeft er de interesse in
+[12:53:51] *** Quits: Resistor (Resistor@ip5456d91b.speed.planet.nl) (Connection reset by peer)
+[12:53:52] <tozzert> ik wel
+[12:53:56] <Prof_NaPo^^> nee jij kan het niet 
+[12:53:56] <tozzert> nog een beetje dan
+[12:54:00] <Prof_NaPo^^> jij weet geen eens wat een vlookup is
+[12:54:01] <tozzert> wel interesse!
+[12:54:06] <tozzert> ik geef jou gewoon de opdracht
+[12:54:07] <Prof_NaPo^^> of mja, vertikaal zoeken
+[12:54:07] <tozzert> hop
+[12:54:08] <tozzert> maken jij
+[12:54:10] <tozzert> en snel!
+[12:54:25] <Prof_NaPo^^> 140 ekkies de uur tozzert 
+[12:54:31] <gakkethijs> outsourcen naar india
+[12:54:33] <tozzert> en in 30 sec klaar
+[12:54:34] <tozzert> ok
+[12:54:38] <gakkethijs> die doen het voor 140e per maand
+[12:54:38] <Prof_NaPo^^> nee, niet 30 secs
+[12:54:51] <Prof_NaPo^^> eerste even requirement analyse
+[12:55:00] <Prof_NaPo^^> het hele verhaal
+[12:55:07] <Prof_NaPo^^> ik gok dat we op 20+ mandagen uitkomen
+[12:55:18] <Prof_NaPo^^> dus iets meer dan 20k is wel reeel
+[12:55:55] <tozzert> het moet uiteraard voor niets
+[12:55:57] <tozzert> ja
+[12:56:01] <tozzert> evt een appel
+[12:56:02] <tozzert> en een ei
+[12:56:03] <Prof_NaPo^^> oh
+[12:56:06] <Prof_NaPo^^> je bedoeld
+[12:56:09] <Prof_NaPo^^> als verrijking van mijn CV?
+[12:56:15] <tozzert> precies
+[12:56:19] <Prof_NaPo^^> :D
+[12:56:21] <tozzert> maar het document daarna wel vernietigen
+[12:56:25] <tozzert> na het aan mij gegeven te hebben
+[12:56:32] <Prof_NaPo^^> nah, dan moet je maar een media & design student gaan hosselen
+[12:56:58] <tozzert> wat doe jij moeilijk zeg
+[12:56:59] <tozzert> :/
+[12:57:24] <Prof_NaPo^^> 20k thijs
+[12:57:25] <Prof_NaPo^^> koopje
+[12:57:33] <Prof_NaPo^^> dan heb je de mooiste excel die je kan inbeelden
+[12:59:18] <Prof_NaPo^^> maar goed, dan niet tozzert 
+[12:59:18] *** Quits: qlum (qlum@217.19.31.187) (Exit)
+[12:59:27] <tozzert> correct
+[13:01:19] <Prof_NaPo^^> :(
+[13:01:20] <Prof_NaPo^^> zonde
+[13:01:33] <Prof_NaPo^^> denk eens aan de kleine freelancers van deze wereld tozzert 
+[13:02:33] *** Joins: qlum (qlum@217.19.31.187)
+[13:09:43] *** Joins: Jeroen (Jeroen@54188FF8.cm-5-1c.dynamic.ziggo.nl)
+[13:23:15] *** Quits: Winkey (Winkey@ip4da97a02.direct-adsl.nl) (Exit)
+[13:29:27] *** Joins: grid (grid@dhcp-089-099-194-232.chello.nl)
+[13:31:36] *** Quits: grid (grid@dhcp-089-099-194-232.chello.nl) (Ping timeout: 60 seconds)
+[13:34:33] *** Joins: grid (grid@dhcp-089-099-194-232.chello.nl)
+[13:35:45] *** Quits: grid (grid@dhcp-089-099-194-232.chello.nl) (Ping timeout: 66 seconds)
+[13:40:06] *** Joins: Resistor (Resistor@ip5456d91b.speed.planet.nl)
+[13:43:12] *** Quits: qlum (qlum@217.19.31.187) (Exit)
+[13:45:42] *** FADM|JLP is now known as FADM|JLP-afk
+[13:46:33] *** Joins: qlum (qlum@217.19.31.187)
+[13:54:19] *** Quits: qlum (qlum@217.19.31.187) (Exit)
+[13:55:08] *** Joins: qlum (qlum@217.19.31.187)
+[14:09:45] *** Quits: qlum (qlum@217.19.31.187) (Exit)
+[14:10:38] *** Joins: qlum (qlum@217.19.31.187)
+[14:15:02] *** Quits: qlum (qlum@217.19.31.187) (Exit)
+[14:16:23] *** Joins: qlum (qlum@217.19.31.187)
+[14:20:30] *** Quits: qlum (qlum@217.19.31.187) (Exit)
+[14:22:50] *** Joins: qlum (qlum@217.19.31.187)
+[14:25:24] *** Quits: boy_yonder (Seb@82-169-222-71.ip.telfort.nl) (Ping timeout: 66 seconds)
+[14:25:35] *** Joins: boy_yonder (Seb@82-169-222-71.ip.telfort.nl)
+[14:27:45] *** Joins: Matthew (Matthew@178-117-75-230.access.telenet.be)
+[14:31:54] *** Quits: qlum (qlum@217.19.31.187) (Exit)
+[14:33:45] *** Joins: qlum (qlum@217.19.31.187)
+[14:39:47] *** Quits: qlum (qlum@217.19.31.187) (Exit)
+[14:41:10] *** Joins: qlum (qlum@217.19.31.187)
+[14:44:37] *** Joins: Hoogvlieger (Hoogvliege@ip41-37-211-87.adsl2.static.versatel.nl)
+[14:52:03] *** Quits: int3nz0r (int3nz0r@541A8E1B.cm-5-3c.dynamic.ziggo.nl) (Exit)
+[14:54:56] *** Joins: int3nz0r (int3nz0r@541A8E1B.cm-5-3c.dynamic.ziggo.nl)
+[14:59:27] *** Quits: Sponge (Sponge@149.210.150.92) (Exit)
+[15:03:11] *** Joins: Kaastosti (Kaastosti@j192122.upc-j.chello.nl)
+[15:03:21] <Kaastosti> goedemiddag
+[15:05:15] <tozzert> DAG
+[15:06:30] <Prof_NaPo^^> tozzert, heb je al een gewillige student gevonden?
+[15:06:42] <tozzert> ben gewoon zelf bezig jonge
+[15:06:42] <tozzert> kut
+[15:06:43] <tozzert> !
+[15:07:01] <Prof_NaPo^^> en, lukt het?!
+[15:07:26] <tozzert> allicht
+[15:07:29] <tozzert> zij het op een andere manier
+[15:07:49] <Prof_NaPo^^> :O
+[15:07:52] <Prof_NaPo^^> vertel vertel
+[15:08:14] <tozzert> amehoela!
+[15:08:18] <tozzert> 180 euro/uur
+[15:09:17] <Prof_NaPo^^> :(
+[15:09:24] <Prof_NaPo^^> jij bent ook echt zo´n internetgekkie
+[15:09:33] <tozzert> ik?
+[15:09:34] <tozzert> IK?
+[15:09:35] <tozzert> IK?!
+[15:09:39] <Prof_NaPo^^> Jij ja
+[15:09:56] <tozzert> tsk
+[15:10:33] *** Joins: Winkey (Winkey@ip4da97a02.direct-adsl.nl)
+[15:18:00] <Kaastosti> zucht... NAS wil geen beeld meer geven, maar met de voeding van m'n desktop wel
+[15:18:16] <Kaastosti> voeding is over het algemeen toch niet iets wat spontaan anders gaat werken
+[15:23:15] <Jeroen> mwoh
+[15:23:19] <Jeroen> dat zeg jij :p
+[15:23:25] <Jeroen> een cap die de geest geeft ofzo
+[15:23:41] <Kaastosti> wel heel toevallig dat 'ie dat precies doet als ik de boel schoon heb gemaakt
+[15:23:49] *** tozzert is now known as tozzti
+[15:24:12] <Kaastosti> zo kwetsbaar is het nou ook weer niet
+[15:24:16] <tozzti> het is gewoon jouw lompheid geweest Prof_NaPo^^
+[15:24:27] <tozzti> eh
+[15:24:28] <tozzti> Kaastosti
+[15:24:31] *** Quits: boy_yonder (Seb@82-169-222-71.ip.telfort.nl) (Exit)
+[15:24:31] <Jeroen> je bent gewoon een prutser, Kaastosti 
+[15:24:34] <Jeroen> net als tozzti 
+[15:24:38] <Jeroen> en Prof_NaPo^^, for that matter
+[15:24:46] <Kaastosti> weet ik toch
+[15:24:50] <Kaastosti> maar dan nog...
+[15:24:53] <tozzti> heurt wie't zegt
+[15:25:01] <Prof_NaPo^^> :(
+[15:25:03] <Prof_NaPo^^> kut Jeroen 
+[15:25:07] <Prof_NaPo^^> eeuwige student dat je bent
+[15:27:23] <gakkethijs> Kaastosti,  veelal wel
+[15:27:30] <gakkethijs> stof kan goed de boel bijelkaar houden
+[15:27:50] <Jeroen> misschien heeft Kaastosti de rook eruit gelaten
+[15:28:11] <tozzti> opgezogen
+[15:29:03] <gakkethijs> afgetrokken denk ik eerder
+[15:31:37] <gakkethijs> tozzti, 
+[15:31:39] <gakkethijs> http://www.autowereld.nl/volkswagen/golf/2-0-tdi-highline-4motion-2006-18083998/details.html
+[15:31:43] <gakkethijs> voor een familycar
+[15:32:04] <gakkethijs> behalve die velgen :r
+[15:32:17] <tozzti> ga je geen ruimte tekort komen denk je?
+[15:32:35] <gakkethijs> nee joh
+[15:32:42] <tozzti> dat zeg je nu
+[15:32:42] <tozzti> ;p
+[15:32:51] <gakkethijs> heb geen 5 kids o
+[15:33:06] <tozzti> alle stelletjes met minimaal 1 kind in mijn kring hebben op z'n minst een station
+[15:33:18] <tozzti> en klagen nog over ruimtegebrek
+[15:33:48] <tozzti> ja... vroeger zaten wij wél in de opel kadett met 3 kinderen en paps en mams
+[15:33:58] <tozzti> maar tegenwoordig schijnt dat niet meer te kunnen
+[15:34:27] <tozzti> weinig mis met golfjes verder
+[15:35:01] <Prof_NaPo^^> nou
+[15:35:04] <Prof_NaPo^^> alles mis met golfjes
+[15:35:14] <Prof_NaPo^^> krijg je er een gratis petje bij gakkethijs?
+[15:35:33] <Kaastosti> @gakkethijs maar dan verwacht ik dat 'ie helemaal niks meer doet, maar de fan draait nog vrolijk en systeem gaat ook aan
+[15:36:20] <Kaastosti> dood is dood, dan is het duidelijk... maar hier zit gewoon nog leven in
+[15:37:18] <Prof_NaPo^^> dat kan je makkelijk zelf fixen Kaastosti 
+[15:37:21] <Prof_NaPo^^> met een plasmasnijder
+[15:38:53] <Kaastosti> daarmee krijg je alles d00d
+[15:39:02] <Prof_NaPo^^> zelfs zeehonden!
+[15:46:03] <Jeroen> >golf GT
+[15:46:08] <Jeroen> >2.0 TDI
+[15:46:08] <Kaastosti> ook
+[15:46:19] <Kaastosti> kost iets meer moeite, maar lukt zeker
+[15:58:53] <gakkethijs> Prof_NaPo^^,  ja 
+[15:59:29] <gakkethijs> ook dat tozzti  snap ook nie wat die moekes allemaal meenemen
+[16:00:08] <Prof_NaPo^^> meer is beter
+[16:00:13] <Jeroen> ben je zwanger, gakkethijs?
+[16:00:14] <Prof_NaPo^^> wat als je kind 4 broeken onderpoept
+[16:00:20] <Prof_NaPo^^> dan moet je wel een 5de broekje bij hebben
+[16:00:28] <gakkethijs> Jeroen,  zoiets
+[16:01:42] <Jeroen> nee maar is er een kleine op komst?
+[16:01:45] <gakkethijs> ja
+[16:01:54] <gakkethijs> al een tijdje
+[16:02:19] <Jeroen> oh
+[16:02:22] <Jeroen> gefeliciteerd
+[16:02:24] <Jeroen> :p
+[16:02:31] <gakkethijs> tnx
+[16:04:40] <gakkethijs> dus in de nabije toekomst heb ik een familyauto nodig :P
+[16:05:09] <Jeroen> waarom geen skoda octavia station
+[16:05:13] <Jeroen> zoals die andere burger hier
+[16:05:41] <gakkethijs> ik heb ze nog niet gezien
+[16:05:44] <gakkethijs> in de lijst
+[16:05:53] <gakkethijs> ik ga nie 100km rijden om een auto te bekijken
+[16:06:10] *** Joins: Metalfrost (Metalfrost@46.166.190.193)
+[16:06:18] <gakkethijs> ik wil hem bij een kennis van mij op de brug kunnen gooien vooradt ik koop
+[16:06:52] <gakkethijs> http://www.autowereld.nl/mercedes-benz/e-klasse/320-e320-cdi-aut-avantgarde-nap-leder-navi-vol-18038654/details.html :))
+[16:07:04] <gakkethijs> noem ik onze meid fatima en het mag 
+[16:07:13] *** Joins: Smileface (alexander@25bc408b.ftth.concepts.nl)
+[16:07:17] <Jeroen> ghehe
+[16:07:26] <Hooglander1> fabia combi kan ook nog gakkethijs
+[16:07:30] <gakkethijs> http://www.autowereld.nl/images/auto/640/654/mercedes-benz-e-klasse-320-e320-cdi-aut-avantgarde-nap-leder-navi-vol-18038654-26.jpg
+[16:07:40] <gakkethijs> die is afgekeurd van de vrouw Hooglander1 
+[16:08:00] <gakkethijs> de vrouw wil een mazda of volvo
+[16:08:11] <gakkethijs> maar fabia�s zijn verboden
+[16:08:22] <gakkethijs> en ik verbied de 1.2 tdi
+[16:10:37] <Jeroen> http://www.marktplaats.nl/a/auto-s/seat/m1041216185-seat-exeo-2-0-tdi-style-navigatie-pdc-bj-2009.html?c=efb2ef4dc323389c4f92ed10afa33e3a&previousPage=lr
+[16:10:45] <Jeroen> ouwe burger
+[16:11:27] <gakkethijs> mja die staan ook op de lijst ja
+[16:12:35] <gakkethijs> al is die bijna al weer te groot
+[16:12:45] <Jeroen> 't is ook niet gauw goed he
+[16:12:55] <Hooglander1> Je moet eens met Tobias gaan praten
+[16:13:04] <Hooglander1> Die kwam uit op een Octavia Combi :P
+[16:13:43] <Jeroen> Jeroen>
+[16:13:44] <Jeroen> waarom geen skoda octavia station
+[16:13:44] <Jeroen> [4:05pm] <Jeroen>
+[16:13:45] <Jeroen> zoals die andere burger hier
+[16:14:11] <gakkethijs> ^^
+[16:14:22] *** Joins: Mattie (Mattie@ftth-213-134-239-005.solcon.nl)
+[16:16:06] <gakkethijs> ach ja we snuffelen vrolijk verder
+[16:17:37] <Jeroen> hoe lang heb je nog tot je leven voorbij... err tot de heuglijke datum?
+[16:17:59] <rawplayer> scoda fabia was mijn eerste auto
+[16:18:00] <rawplayer> xD
+[16:18:05] <tozzti> euh
+[16:18:06] <rawplayer> skoda
+[16:18:12] <tozzti> hij heeft toch allang een kleine jeroen
+[16:18:17] <rawplayer> er na seat ibiza en er na vw polo
+[16:18:19] <tozzti> z'n hele leven al
+[16:18:35] *** tozzti is now known as tozzert
+[16:21:40] *** Quits: Metalfrost (Metalfrost@46.166.190.193) (Exit)
+[16:25:08] <gakkethijs> rawplayer,  ik heb nu een ibiza eco diesel ding geval
+[16:25:15] <gakkethijs> Jeroen,  als goed is 30juni
+[16:25:37] <rawplayer> gakkethijs: ah ja
+[16:25:42] <rawplayer> dat heb ik nu met mijn vw polo
+[16:25:43] <rawplayer> maar goed
+[16:25:45] <rawplayer> tis prima
+[16:25:50] <rawplayer> leasehok en ik rij vrij veel
+[16:26:47] <Prof_NaPo^^> en dat in een fucking polo rawplayer?
+[16:27:10] <rawplayer> Prof_NaPo^^: dat?
+[16:27:16] <rawplayer> eco
+[16:27:19] <rawplayer> bluemotion
+[16:27:20] <rawplayer> ;d
+[16:27:23] <Prof_NaPo^^> veel rijden in een polo : |
+[16:27:47] <rawplayer> ja jog
+[16:27:48] <rawplayer> joh
+[16:28:50] <gakkethijs> 1.2 is nie te doen
+[16:29:06] <Prof_NaPo^^> 1.4 erin!
+[16:29:25] <Prof_NaPo^^> dikkepower!
+[16:29:29] <Prof_NaPo^^> net zoveel als de 1.2, maar goed
+[16:30:26] <gakkethijs> die rijdt heel anders
+[16:30:36] <Prof_NaPo^^> mwa, koppel is anders
+[16:30:48] <Prof_NaPo^^> 1.4 is ook iets stiller
+[16:30:58] <Prof_NaPo^^> maar voor de rest zijn ze beide best wel ruk
+[16:31:07] <gakkethijs> mja
+[16:31:11] <jasper> maakt ook alleen maar uit als je ooit nog wel een keer een snelweg aandoet
+[16:31:25] <jasper> naar de appie en terug kan ookm prima met een 1.0 driepitter
+[16:31:50] <jasper> tenzij je heeeeeel graag stoer wil klinken bij het stoplicht
+[16:32:00] <jasper> maar dan moet je gewoon een opel manta halen
+[16:32:02] *** Joins: Vipertje (tweak@54182E79.cm-5-1a.dynamic.ziggo.nl)
+[16:32:45] <gakkethijs> Prof_NaPo^^,  het valt me wel enorm mee hoe lang ze heel blijven
+[16:32:54] <Prof_NaPo^^> mij ook :X
+[16:33:23] <gakkethijs> mijne heeft nu 270 gelopen
+[16:33:31] <gakkethijs> en is nog technisch perfecte staat
+[16:33:47] <Prof_NaPo^^> ligt er een beetje aan hoe men er mee omgaat
+[16:33:52] <jasper> 270 km ermee rijden is toch niet zo'n grote prestatie
+[16:34:07] <Prof_NaPo^^> de vorige polo begon er na de 120k km toch flink wat bijgeluidjes bij te krijgen :|
+[16:34:44] <jasper> wat zijn er nog voor leuke dingen die je bij amazon.de kan bestellen?
+[16:34:57] <jasper> als er toch een pakje komt
+[16:35:07] <Prof_NaPo^^> jasper http://www.amazon.com/Passion-Natural-Water-Based-Lubricant-Gallon/dp/B005MR3IVO
+[16:35:19] <jasper> amazon.*DE*
+[16:35:29] <gakkethijs> Prof_NaPo^^,  ik rij vrij vlot
+[16:36:16] <gakkethijs> maar goe ik ben wel lief voor de auto
+[16:38:49] <jasper> Prof_NaPo^^: BTW< ik ziocht eigenlijk ook iets goedkopers, maar dat terzijde
+[16:39:43] *** Joins: KingOfDos (irssi@84-245-27-134.dsl.cambrium.nl)
+[16:40:20] <Prof_NaPo^^> oh
+[16:40:21] <Prof_NaPo^^> hmmm
+[16:40:22] <Prof_NaPo^^> bijzonder
+[16:40:25] <Prof_NaPo^^> meer is beter toch?
+[16:42:37] *** Joins: Francis (Francis@5468C56E.cm-12-1d.dynamic.ziggo.nl)
+[16:43:44] <gakkethijs> zou je wel denken
+[16:43:57] <Resistor> Hebben ze geen suikervrije gummiberen? Leuk om uit te delen.
+[16:44:19] <Jeroen> ik vind 5 euro de liter niet duur, jasper 
+[16:44:31] <gakkethijs> begin een handeltje
+[16:45:09] <Francis> ohai
+[16:45:19] <Hooglander1> Prof_NaPo^^: heb je nog steeds een polo?
+[16:45:25] <Hooglander1> Hoe lang moet je nog met zo'n ding
+[16:45:38] <Francis> nee, hij heeft tegenwoordig overhemden
+[16:45:47] <Prof_NaPo^^> Ik mag al tijden iets anders halen Hooglander1 
+[16:46:00] <Hooglander1> Ow, nog lage bijtelling nu of zo dan
+[16:46:54] <Prof_NaPo^^> jup
+[16:47:10] <Prof_NaPo^^> polo is cheap
+[16:47:19] <Prof_NaPo^^> iets anders is minimaal de helft duurder
+[16:47:27] <Hooglander1> Dat zuigt
+[16:47:36] <Prof_NaPo^^> ach
+[16:47:48] <Hooglander1> Lekker afrijden dan
+[16:47:57] <Prof_NaPo^^> dat is op dit moment wel het plan ja
+[16:47:59] <Hooglander1> Moet je nog af en toe naar den Haag/Rotterdam regio?
+[16:48:04] <Prof_NaPo^^> nah
+[16:48:10] <Prof_NaPo^^> af en toe Almere
+[16:48:14] <Prof_NaPo^^> maar dat is allemaal te overzien
+[16:48:24] <Prof_NaPo^^> zeker aangezien die standaard baggerstoel er niet meer in zit
+[16:48:25] <Hooglander1> Ook niet voor priveritjes meer?
+[16:48:33] <Prof_NaPo^^> oh jawel
+[16:49:12] <Prof_NaPo^^> maar goed, dat ding rijdt goedkoop
+[16:49:18] <Hooglander1> Maar idd, met goeie stoel
+[16:49:20] <Hooglander1> #care
+[16:50:47] <Hooglander1> Een vriend van me heeft ook zo'n ding, twee keer gebobt met zijn auto
+[16:50:50] <Hooglander1> Dat zat echt goed
+[16:51:04] <Hooglander1> Hij had mijn lengte en postuur, dus het klopte ook nog
+[16:51:20] <Prof_NaPo^^> wut wut
+[16:51:23] <Prof_NaPo^^> een polo die echt goed zat?
+[16:51:35] <Hooglander1> Custom stoel
+[16:51:40] <Prof_NaPo^^> ah
+[16:51:44] <Prof_NaPo^^> wou al zeggen :D
+[16:52:08] <Hooglander1> Ben ff vergeten welke auto het exact was
+[16:52:17] <Hooglander1> Een of ander gaar ding
+[16:53:06] <Prof_NaPo^^> Multipla?
+[16:53:18] <gakkethijs> die heeft standaard al oke stoelen
+[16:54:04] <Hooglander1> Te lichte motor en een automaat, maar prima met Cruise controo
+[16:54:45] <gakkethijs> zo lang je nog de meeste mensen op de linker baan aan de kant moeten duwen is je auto snel genoeg toch?
+[16:55:21] <Hooglander1> Jup
+[16:56:01] *** Joins: feej (Mibbit@62.12.7.36)
+[16:56:12] <gakkethijs> damn dan voldoet mijn huidige :(
+[16:56:15] <feej> nog 365 minuten :+
+[16:56:26] <Prof_NaPo^^> en dan begint de maandelijkse periode weer?
+[16:57:20] <feej> dan ben ik vrij \o/
+[16:57:24] <feej> en heb ik 4 dagen vrij \o/
+[16:57:55] <Francis> \o/
+[16:58:01] <gakkethijs> found 1 Jeroen 
+[16:58:02] <gakkethijs> http://www.marktplaats.nl/a/auto-s/skoda/m1044162895-skoda-octavia-combi-1-6-tdi-green-ambition-business-line-nav.html?c=df2f21f683612b45d62c413c0ca719df&previousPage=lr
+[17:01:00] <gakkethijs> zelfs 2
+[17:01:13] *** Quits: Smileface (alexander@25bc408b.ftth.concepts.nl) (Exit)
+[17:01:41] <Prof_NaPo^^> zoiets! http://www.marktplaats.nl/a/caravans-en-kamperen/campers/m1044470094-westfalia-marco-polo-viano-3-0-cdi-marco-polo.html?c=8c285449651fa109c354bbabe740c1b&previousPage=lr
+[17:02:32] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 67 seconds)
+[17:08:37] <Hooglander1> Wat een bak geld voor zo'n ding Prof_NaPo^^ 
+[17:12:47] <Destruction> yuh, bouw een busje om naar camper en hij is ineens 10-15k meer waard
+[17:19:42] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[17:31:03] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 61 seconds)
+[17:32:20] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[17:34:02] *** Quits: Francis (Francis@5468C56E.cm-12-1d.dynamic.ziggo.nl) (Exit)
+[17:40:39] <feej> bleh
+[17:40:44] <feej> nog 5h20m
+[17:41:51] <kees> meh, koffieapparaat doet stom
+[17:50:00] <Escovan> uit het raam d´r mee dan!
+[17:50:01] <Hooglander1> Dan Drink je maar thee kees
+[17:52:16] *** Joins: Spelvoud (Spelvoud@sd51113cf.adsl.online.nl)
+[17:55:36] *** Quits: Mattie (Mattie@ftth-213-134-239-005.solcon.nl) (Connection reset by peer)
+[18:05:22] <Jeroen> THEE?!
+[18:07:57] <gdex> zeer sterke thee, gemaakt van koffiebonen
+[18:11:41] *** Joins: aswen (aswen@86.92.99.170)
+[18:14:24] <tozzert> FRIET
+[18:14:59] <kees> ik heb nog wel een senseo apparaat
+[18:15:02] <kees> maar ik ga maar voor de thee :P
+[18:15:50] <kees> nu eerst het hele apparaat uit elkaar gehaald en er zat iets van een opstopping in de bonenmaler, dus schoongemaakt en die ligt nu te drogen
+[18:20:04] <feej> oh ik wil ook friet
+[18:20:56] *** Joins: Wussie (wussie@220-251.ftth.onsbrabantnet.nl)
+[18:30:33] <gakkethijs> Prof_NaPo^^,   
+[18:30:37] <gakkethijs> kan je beter deze kopen
+[18:30:37] <gakkethijs> http://www.marktplaats.nl/a/auto-s/vrachtwagens/m1016838904-mercedes-benz-bus-auwarter-0303-15r.html?c=a2384ef0ece270f44503df9f8598c624&previousPage=lr
+[18:32:15] <gakkethijs> of deze
+[18:32:16] <gakkethijs> http://www.marktplaats.nl/a/auto-s/vrachtwagens/m1033945029-te-koop-volvo-en-trailer-geschikt-voor-race-teams-promotie.html?c=a2384ef0ece270f44503df9f8598c624&previousPage=lr
+[18:34:26] <Prof_NaPo^^> die bus :D
+[18:34:41] <Prof_NaPo^^> wat is whatsapp ook pure rotzooi zeg
+[18:34:48] <Prof_NaPo^^> chats die traag worden bij te veel berichten
+[18:35:01] <Prof_NaPo^^> en dan loopt die kut app vast als je de chatmessages wil verwijderen...
+[18:35:13] <Jeroen> dat heb ik echt nog nooit gehad
+[18:35:17] <Jeroen> heb je niet gewoon een kuttelefoon
+[18:35:25] <Prof_NaPo^^> krijg je zo weinig berichten Jeroen :D
+[18:35:55] <Jeroen> m'n mama stuurt me iedere dag een berichtje
+[18:36:07] <gakkethijs> ja nice als camper
+[18:36:41] <tozzert> geen last van Prof_NaPo^^
+[18:36:48] <tozzert> wat is veel in jouw geval?
+[18:36:51] <tozzert> enkele 1000en?
+[18:37:08] <Prof_NaPo^^> ik gok dat de ene groep rond de 1000 per dag doet ja
+[18:37:31] <tozzert> afaik maakt per dag niet eens uit
+[18:37:41] <tozzert> hij kapt ze zelf af op x aantal berichten
+[18:37:44] *** Joins: Nelicquele (Nelicquele@i244127.upc-i.chello.nl)
+[18:38:02] <Prof_NaPo^^> uhu, daarom blijven de DB files maar toe nemen :+
+[18:38:26] <tozzert> mja... dan kun je wel meer opvragen enzo
+[18:38:39] *** Joins: boy_yonder (Seb@82-169-222-71.ip.telfort.nl)
+[18:39:23] <tozzert> maar wat voor foon heb je?
+[18:39:29] <Prof_NaPo^^> nexus 5
+[18:39:30] <tozzert> of schaam je je daarvoor?
+[18:47:47] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 66 seconds)
+[18:47:47] <gakkethijs> Prof_NaPo^^,  waarom in godsnaam zoveel berichten
+[18:47:56] *** Quits: Vipertje (tweak@54182E79.cm-5-1a.dynamic.ziggo.nl) (Ping timeout: 66 seconds)
+[18:49:33] <Prof_NaPo^^> magie
+[18:49:39] <Prof_NaPo^^> Allemaal cruciale informatie
+[18:49:42] <Prof_NaPo^^> dat snap je vast wel
+[18:50:53] <tozzert> hij ontvangt de krant per whatsapp
+[18:51:04] <gakkethijs> aa
+[19:05:19] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[19:11:28] <Hooglander1> 1000 berichten per dag
+[19:11:36] <Hooglander1> Dat zijn geen groepen waar je in wilt zitten :P
+[19:19:51] *** Quits: Resistor (Resistor@ip5456d91b.speed.planet.nl) (Exit)
+[19:20:50] <gakkethijs> dat klinkt als sad fucks
+[19:25:34] * Escovan is now listening to: Want Want - Kip Paard Koe
+[19:27:17] <Hooglander1> Al wat gevonden gakkethijs 
+[19:27:20] <gakkethijs> ja zat
+[19:27:44] <gakkethijs> is gewoon leuk om over auto�s te zeiken
+[19:30:07] <Destruction> tozzert, we hebben van het vroegere clubje #vervoer een whatsappgroep. Die word nogal volgespammed :+
+[19:31:42] <tozzert> daar denkt jellabie anders over gakkethijs
+[19:31:43] <tozzert> http://gathering.tweakers.net/forum/list_message/46619905#46619905
+[19:33:30] <Hooglander1> Whehe
+[19:33:38] <Hooglander1> Wtf heeft die gast echt altijd iets qua ruzie
+[19:34:16] *** Quits: Wussie (wussie@220-251.ftth.onsbrabantnet.nl) (Exit)
+[19:38:40] <kees> ik snap dat hele topic niet
+[19:38:43] *** Quits: aswen (aswen@86.92.99.170) (Ping timeout: 60 seconds)
+[19:41:30] <Destruction> ach, het heeft wel wat. Alleen de constant terugkerende discussies.. Er komt regelmatig een post voorbij waarvan je denkt: not this shit again...
+[19:42:35] <gakkethijs> krijg je met zon auto
+[19:42:42] <Hooglander1> kees: jij wil niet je Peugeot showen?
+[19:44:01] *** Quits: Nelicquele (Nelicquele@i244127.upc-i.chello.nl) (Ping timeout: 62 seconds)
+[19:58:40] *** Joins: Escovan (Escovan@test.prutsplek.nl)
+[20:02:23] *** Joins: Vipertje (tweak@54182E79.cm-5-1a.dynamic.ziggo.nl)
+[20:04:15] *** Joins: Escovan (Escovan@test.prutsplek.nl)
+[20:33:25] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[20:34:24] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[20:36:18] *** Quits: Tomsworld (tom@243.227-242-81.adsl-dyn.isp.belgacom.be) (Ping timeout: 60 seconds)
+[20:41:09] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Ping timeout: 61 seconds)
+[20:42:35] <feej> jeej
+[20:42:38] <feej> 2 mensen gered
+[20:42:59] <Hooglander1> Amateur
+[20:43:50] <kees> goed zo feej
+[20:44:13] <kees> beter dan Hooglander1 die ze 'red' door zijn impulses binnen te houden ;)
+[20:44:31] <feej> ja uh
+[20:44:35] <feej> wel 1 naar de IC getoept
+[20:44:44] <Hooglander1> Die snap ik niet kees
+[20:45:21] <gakkethijs> dat begrijpen we
+[20:46:57] <kees> waarom maakt holland casino reclame met 'de hoogste uitbetaling in nederland' als ze een monopolie hebben in nederland?
+[20:47:25] <Hooglander1> Niet helemaal
+[20:47:30] <Hooglander1> Als je naar de gokkast en kijkt
+[20:47:56] <Stuiterbal> Monopolie op casino's, maar niet gokhallen.
+[20:49:17] *** Joins: Resistor (Resistor@ip5456d91b.speed.planet.nl)
+[20:50:30] <Jeroen> still
+[20:50:37] <Jeroen> als ik een monopolie had, zou ik ook zoiets zeggen
+[20:50:38] <Jeroen> :+
+[20:57:04] *** Quits: pasta (pasta@541E0197.cm-5-7a.dynamic.ziggo.nl) (Ping timeout: 66 seconds)
+[21:03:25] *** Joins: pasta (pasta@541E0197.cm-5-7a.dynamic.ziggo.nl)
+[21:03:27] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[21:03:59] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[21:13:12] *** Prof_NaPo^^ is now known as Prof_Away^^
+[21:14:40] *** Joins: Tomsworld (tom@2a02:a03f:1254:ab00:25ad:5c77:a846:f348)
+[21:14:40] *** ChanServ sets mode: +o Tomsworld
+[21:18:45] <Kaastosti> maar je hebt toch ook dat 'Jack's Casino'... hoe werkt dat dan?
+[21:18:54] <Kaastosti> is dat ook weer een dochter van Holland Casino ofzo
+[21:20:13] <feej> die hebben geen live spelen
+[21:20:19] <feej> en daar heeft hc een monopolie op
+[21:20:26] <Kaastosti> aaah da's alleen gokkasten
+[21:21:56] <feej> yep
+[21:26:44] *** Quits: boy_yonder (Seb@82-169-222-71.ip.telfort.nl) (Ping timeout: 60 seconds)
+[21:26:45] *** Joins: yonderboy (Seb@82-169-222-71.ip.telfort.nl)
+[21:28:42] <Kaastosti> heh yonderboi, dacht al dat ken ik ergens van... ergens tijdens m'n studie eens wat muziek van gehad :)
+[21:31:17] <Hooglander1> Hej een Kaastosti 
+[21:31:33] <feej> doet je nas het weer Kaastosti?
+[21:31:40] *** Quits: gakkethijs (gakkethijs@84-245-42-16.dsl.cambrium.nl) (Connection reset by peer)
+[21:33:33] <Kaastosti> nope
+[21:33:37] <Kaastosti> nieuwe voeding besteld
+[21:33:55] <Kaastosti> kan eigenlijk niet geloven dat het daar aan ligt, maar de praktijk wijst anders uit
+[21:34:03] <Kaastosti> dinsdag weet ik of het echt zo is
+[21:34:17] <Hooglander1> Meh, irritant
+[21:35:19] <tozzert> wie? Kaastosti?
+[21:35:20] <tozzert> idd
+[21:35:23] <Jeroen> wel slecht dat je zo'n arme NAS uithongert, Kaastosti 
+[21:35:43] <Kaastosti> hij hoeft ook geen drol te doen\
+[21:35:51] <Kaastosti> dan ga ik er geen hoogstaande voeding in gooien
+[21:36:08] <Kaastosti> droge brokken, da's wel prima
+[21:36:24] <Jeroen> dat is toch niet te NASsen
+[21:37:11] <Hooglander1> Krijg je er van als je geen Synology koopt hè :+
+[21:37:44] <Kaastosti> hehe ben erg blij met m'n NASje... en ook met de remote Synology backup
+[21:38:55] <Jeroen> The dramatic death of Princess Diana in a car crash in Paris in 1997 is cited by many as having triggered the first massive, public mourning for a celebrity.
+[21:38:57] <Jeroen> In the month after her funeral, suicides in England and Wales were up 17.4%, according to a study published in the British Journal of Psychiatry in 2000.
+[21:38:57] <Jeroen> wat
+[21:39:16] <Kaastosti> ja dat was best een dingetje
+[21:39:37] <feej> 17% meer suicide
+[21:39:49] <feej> dat is niet eens zo veel op grote schaal
+[21:39:58] <feej> zo vaak komt suicide (geslaagd) niet voor
+[21:41:28] <Jeroen> still
+[21:41:38] <Jeroen> blijkbaar significant
+[21:41:55] <Hooglander1> Dat staat er niet
+[21:42:28] <feej> 17% is meestal wel signifant
+[21:42:37] <feej> van 17% van 100 is anders dan 17% van 10000 zeg maar
+[21:42:55] <Jeroen> het is een studie die 16 jaar later geciteerd wordt, Hooglander1 
+[21:43:03] <Jeroen> je mag hopelijk wel aannemen dat het verschil significant is
+[21:43:14] <Jeroen> zelfs bij psychologie :+
+[21:43:26] <gdex> dit gaat volgens mij om exact aantallen
+[21:43:26] <Hooglander1> Er staat dat het omhoog gaat
+[21:43:32] <gdex> dan is er niet echt een significantie
+[21:43:34] <Hooglander1> Daar is weinig significant aan
+[21:43:37] <Hooglander1> Wat Gdex zegt
+[21:43:40] <Jeroen> hm
+[21:43:42] <Jeroen> fair point
+[21:43:42] <Hooglander1> Het is een observatie
+[21:43:49] <gdex> het is niet alsof ik nu uit m'n raam 5 auto's +/- 3 tel
+[21:43:54] <gdex> dat zijn er gewoon 6
+[21:44:07] <Jeroen> maar ik bedoel meer: het zal niet binnen gewone variatie vallen
+[21:44:21] <Hooglander1> Dat weet je niet
+[21:44:27] <Hooglander1> Waarschijnlijk niet
+[21:44:56] <Jeroen> nouja daar durf ik wel vanuit te gaan 
+[21:44:56] <feej> nja dat kun je wel berekenen als je gegevens uit meerdere jaren hebt
+[21:45:04] <Jeroen> The British Journal of Psychiatry is a peer-reviewed medical journal
+[21:45:08] <Jeroen> precies
+[21:45:12] <feej> dan kun je de SD berekenen en zo kijken of deze buiten de SD valt
+[21:45:12] <Jeroen> mag hopen dat dat gebeurt is
+[21:45:14] <Jeroen> gebeurd*
+[21:45:15] <feej> peer reviewed zegt niet
+[21:45:19] <Hooglander1> Maar wie zegt dat dag de conclusie is van het artikel
+[21:45:23] <Hooglander1> Het is een stukje eruit
+[21:45:26] <feej> de autismevaccinatiestudie stond ook in NEJM
+[21:45:56] <Jeroen> ghehe mja true
+[21:46:03] <Jeroen> http://bjp.rcpsych.org/content/177/5/463
+[21:46:05] <Jeroen> daar hebben we 'm
+[21:46:05] <gdex> bij elke 95%-significantie studie is er toch 5% kans dat 'ie niet klopt
+[21:46:07] <Jeroen> ff kijken
+[21:46:15] <feej> nee gdex 
+[21:46:31] <feej> 5% kans dat als het verschil significant is, er toch eigenlijk geen verschil is
+[21:46:44] <feej> maar de type B fout is vaak 10% in medische artikelen
+[21:46:55] <gdex> details :+
+[21:47:01] <feej> (als je geen verschil niet significant is, maar er irl toch wel een verschil is)
+[21:47:06] <Jeroen>  The overall mean weekly number of suicides over the 4 weeks following the funeral exceeded the expected value by 17.4% (95% CI 4.0-32.6, P=0.01). 
+[21:47:23] <gdex> maar daarom wil je van beide gevallen gewoon meerdere studies hebben
+[21:47:37] <gdex> als je 4 of 5 studies hebt die hetzelfde zeggen dan zal het onderhand wel een keer kloppen
+[21:47:46] <feej> gdex: precies
+[21:47:50] <feej> en dat wil je dan weer meta-analyseren
+[21:47:53] <feej> en dan zeg je \o/
+[21:48:00] <feej> en ben je 30 jaar verder
+[21:48:01] <Jeroen> ghehe
+[21:48:24] <gdex> met medische dingen duurt dat wel lang ja
+[21:48:33] <gdex> in de psychologie doen ze niet zo moeilijk :+
+[21:48:37] <Jeroen> ghehehe
+[21:48:44] <feej> *kuch* stapel *kuch*
+[21:48:52] <Jeroen> dat was sociologie toch?
+[21:48:54] <Jeroen> da's nog erger
+[21:49:00] <feej> 1 pot nat
+[21:49:02] <gdex> had in m'n minorproject niks significants in m'n dataset zitten... m'n begeleider heeft nog een paar uur gezocht of 'ie niet alsnog iets kon vinden
+[21:49:03] <feej> zwakke alfa's
+[21:49:12] *** Quits: kees (kees@office.tweaknet.net) (Input/output error)
+[21:49:12] <Jeroen> ey
+[21:49:16] <Jeroen> dat zijn gamma's volgens mij
+[21:49:17] <gdex> "want het is al bewezen dat er iets moet zijn"
+[21:49:26] <gdex> geen beta, dat is alles wat boeit :+
+[21:49:37] <Jeroen> niks tegen gamma ja :+
+[21:49:44] <Jeroen> Met gammawetenschappen bedoelt men in Nederland en Vlaanderen de wetenschappen die zich met maatschappij en gedrag bezighouden: onder andere sociologie, antropologie, economie, rechten, politicologie, psychologie en communicatiewetenschap.
+[21:49:53] <Jeroen> sakkers wat een lijstje
+[21:49:54] <Jeroen> :D
+[21:50:01] <feej> blegh
+[21:50:04] <feej> ben ik dan een beta?
+[21:50:08] <feej> ik dacht dat ik een gamma was
+[21:50:28] <gdex> zijn dat niet gewoon alle studies waarvoor je nog een beetje wiskunde en/of logisch inzicht nodig hebt, maar niet zo veel dat het opvalt als je het niet hebt?
+[21:50:52] <Jeroen> laten we even eerlijk zijn, feej, geneeskunde is sowieso niet echt wetenschap natuurlijk
+[21:50:55] <Jeroen> O-)
+[21:51:00] * feej slaat jeroen
+[21:51:02] <feej> waarheid
+[21:51:04] <feej> maar toch slaan
+[21:51:19] <Jeroen> (zei hij met een studie bedrijfskunde)
+[21:51:24] <gdex> gewoon zeggen dat het slaan medisch noodzakelijk is
+[21:51:29] <feej> goddank heb ik ook nog echt onderzoek gedaan
+[21:51:34] <feej> dus ik vind mezelf wel wetenschapper :+
+[21:51:36] <Jeroen> percussive maintenance maar dan voor mensen
+[21:51:40] <Kaastosti> wetenschap is anders toch? geneeskunde is gewoon mensen beter maken met een pilletje
+[21:51:51] <Kaastosti> en af en toe met een schokje
+[21:52:05] <gdex> en als je niet weet of het werkt, moet je wetenschap gebruiken om dat te bepalen
+[21:52:10] <Jeroen> ik vertelde laatst aan m'n buddies uit delft dat ik ook voor een MSc studeer
+[21:52:16] <Jeroen> dat vonden ze toch maar niet kunnen :+
+[21:52:29] <gdex> ze geven ook iedereen zo'n MSc tegenwoordig
+[21:52:31] <Kaastosti> meester der wetenschap
+[21:52:49] <feej> nja ik doe nu een studie cultuurwetenschappen 
+[21:52:53] <Kaastosti> ja je krijgt zo'n papiertje nu ook bij een wasbeurt van de Shell
+[21:52:59] <Jeroen> oja jij was een hobby-alfa
+[21:53:01] <feej> en geloof me, dan is geneeskunde ineens heel moeilijk en heel wetenschappelijk :X
+[21:53:04] <Kaastosti> wel genoeg zegeltjes uiteraard
+[21:53:08] <Jeroen> ghehehe
+[21:53:28] <feej> een van mn modules moet ik een opdracht maken met als "bron" een internetsite
+[21:53:40] <feej> en de vragen zijn ongeveer van het soort "schrijf de website over"
+[21:53:54] <Kaastosti> wikipedia for the win!
+[21:54:03] <feej> i wish dat het wikipedia was
+[21:54:04] <feej> echt
+[21:54:05] <Kaastosti> en hoezo schrijf over? gewoon het 'print' knopje
+[21:54:13] <Jeroen> ff aanpassen als het je niet aanstaat, Kaastosti 
+[21:54:17] <gdex> da's plagiaat he feej 
+[21:54:27] <gdex> je moet het parafraseren en/of de bron vermelden
+[21:54:28] <Jeroen> in je eigen woorden!
+[21:54:35] <Jeroen> daar had ik altijd zo'n schijthekel aan
+[21:54:43] <Jeroen> "beschrijf dit in je eigen woorden"
+[21:54:45] <Kaastosti> dan is er dus formeel gezien geen fout antwoord
+[21:54:49] <Jeroen> je bent dus te lam om inhoudelijke vragen te stellen
+[21:54:50] <feej> gdex: ja precies
+[21:54:53] <Kaastosti> GNUK LOERP FLEBBERKNOL
+[21:54:53] <feej> maar echt. 
+[21:54:58] <Dubbeldrank> leeft je NAS al weer Kaastosti? 
+[21:54:59] <gdex> ach, goede oefening, in de praktijk neem je het daarna letterlijk over, zeg je dat het een quote is, en stop je er een bronvermelding bij
+[21:55:05] <feej> wtf, dat is toch geen WO vraag
+[21:55:13] <gdex> bij bedrijfskunde wel
+[21:55:13] <Jeroen> ff APA'en
+[21:55:16] <Jeroen> ghehe
+[21:55:17] <Kaastosti> @dubbeldrank nope, lijke aan de voeding te liggen, nieuwe besteld
+[21:55:25] <gdex> @ TU/e hebben ze een gecombineerde master informatica/bedrijfskunde
+[21:55:30] <Kaastosti> heel wazig, maar dinsdag weet ik of dat inderdaad het probleem was :)
+[21:55:32] <Jeroen> ik doe nog vrij harde wetenschap he
+[21:55:32] <Dubbeldrank> awwww, dat is ook onverwacht
+[21:55:37] <gdex> die is voor alle informatici die hun bachelor met mazzel hebben gehaald, die kunnen daar gewoon 9's halen
+[21:55:39] <Jeroen> 't is ook meer econometrie wat dat betreft
+[21:55:44] <gdex> en de bedrijfskundigen vinden het allemaal moeilijk
+[21:56:07] <Jeroen> mja
+[21:56:09] <feej> LOL
+[21:56:10] <Jeroen> bedrijfskundigen
+[21:56:13] <Jeroen> dan noem je wat op ook :+
+[21:56:16] <Kaastosti> ik had wat bedrijfskunde best kunnen waarderen bij m'n informatica
+[21:57:02] <Jeroen> tijdens een college (800+ man) vroeg een prof ook een keer hoe verzuring van de oceaan kwam
+[21:57:13] <Jeroen> "komt door plastics!" "dit" "dat!"
+[21:57:15] <Jeroen> allemaal fout
+[21:57:23] <Jeroen> ik "ja H2CO3 etc etc"
+[21:57:31] <Jeroen> dat mens echt helemaal verbaasd
+[21:57:33] <feej> broeikaseffect toch?
+[21:57:35] <Jeroen> "wat is jouw achtergrond?!"
+[21:57:39] <Jeroen> :D
+[21:57:41] <feej> CO2 in de lucht en daardoor H2CO3 in het water?
+[21:57:44] <Jeroen> ja
+[21:57:46] <Kaastosti> verzuurt de oceaan uberhaupt? heb je daar bewijs voor?
+[21:57:48] <feej> zo werkt verzuring in je lijf nml ook :+
+[21:57:58] <Jeroen> het is ook ongelofelijk basale chemie, feej :+
+[21:58:04] <feej> i know
+[21:58:06] <Jeroen> basale, snap je
+[21:58:07] <Jeroen> he
+[21:58:08] <Jeroen> he
+[21:58:12] <feej> maar dat weten coassistenten ook niet meer hoor
+[21:58:25] <feej> jezus wat een slechte pun
+[21:58:27] <Jeroen> :+
+[21:58:35] <Dubbeldrank> oh jee, Jeroen gaat woordgrappen maken
+[21:58:45] <Kaastosti> zondagavond... komen we er nog goed vanaf
+[21:58:53] <Dubbeldrank> :D
+[21:58:54] <Kaastosti> hij zal op zaterdagochtend beginnen :|
+[21:59:03] <Dubbeldrank> moet je nog het hele weekend door
+[21:59:10] <Kaastosti> nu is het morgen wel op :P
+[21:59:17] <feej> nog 61 minuten \o/
+[21:59:28] <Jeroen> ja dan is het 11u
+[21:59:38] <Jeroen> die artsen kunnen tegenwoordig zelfs al klokkijken
+[21:59:45] <Dubbeldrank> het is een gave
+[21:59:53] <feej> dan ben ik van mn dienst af \o/
+[21:59:57] <Dubbeldrank> nog zielen gered vandaag feej?
+[22:00:03] <feej> en de komende maanden heb ik geen dienst meer :D
+[22:00:09] <Kaastosti> goed, ik duik ook m'n bedje in... trusten!
+[22:00:10] <feej> kheb er net 1 naar de IC getoept
+[22:00:17] <Dubbeldrank> :D
+[22:00:20] <Dubbeldrank> \o/
+[22:00:23] *** Quits: Kaastosti (Kaastosti@j192122.upc-j.chello.nl) (Exit)
+[22:00:38] <feej> en die jonge persoon van gisteren die een poging had gedaan, is er verdraaid goed vanaf gekomen :o
+[22:00:40] <Dubbeldrank> ja trusten Kaa<tab>
+[22:00:44] <tozzert> en toen die bij jou kwam, was dat helemaal niet nodig?
+[22:01:01] <feej> die is zonder schade vandaag naar huis, met begeleiding van de psych
+[22:01:03] <tozzert> pas toen hij bij jou wegging?
+[22:01:07] <feej> tozzert: ik help ze graag O-)
+[22:01:15] <feej> IC is een veel leukere afdeling
+[22:01:24] <tozzert> leukere mensen vooral zeker
+[22:01:32] <tozzert> jij zuigt
+[22:02:10] *** Quits: pasta (pasta@541E0197.cm-5-7a.dynamic.ziggo.nl) (Ping timeout: 68 seconds)
+[22:02:13] <feej> nee ik zuig niet
+[22:02:17] <feej> dat doet de IC
+[22:02:19] <Jeroen> arme tobias
+[22:02:21] <feej> daarom moeten ze daarheen
+[22:02:48] <Hooglander1> Zuigen
+[22:02:49] <Hooglander1> Brrr
+[22:02:59] <Hooglander1> Doet me denken aan de verhalen van mijn vader en moeder
+[22:03:03] <Hooglander1> (Lekker dubbelzinnig dit)
+[22:03:20] <Hooglander1> Die als fysiotherapeuten half dode mensen nog ff de longen van leeg mochten zuigen
+[22:03:44] <Hooglander1> Altijd fijn als er weer eentje dood was, scheelde weer een keer naar het werk in de dienst :X
+[22:03:46] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[22:03:51] <feej> klopt
+[22:03:56] <feej> dat is zo naar om te zien
+[22:04:02] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[22:04:28] *** Joins: Nelicquele (Nelicquele@i244127.upc-i.chello.nl)
+[22:04:28] *** Joins: pasta (pasta@541E0197.cm-5-7a.dynamic.ziggo.nl)
+[22:05:08] <Hooglander1> Mijn moeder heeft er eentje gehad die de laatste adem uit blies zo
+[22:05:21] <Hooglander1> Hand op de borstkas om te kijken of de ademhaling er nog was
+[22:05:28] <Hooglander1> Man ademt nog één keer uit
+[22:05:31] <Hooglander1> En niet meer in
+[22:05:35] <Hooglander1> Joeh
+[22:05:47] <Hooglander1> Sta je daar als 23 jarige of zo in een van de eerste diensten
+[22:05:54] <Hooglander1> :X
+[22:05:56] <Lin> tijdens mn stage heb ik ook geholpen met bloedprikken bij mensen die aan zoveel apparaten lagen dat je je echt afvroeg of ze het nog zouden halen, maar het enige wat je dan kan doen is het bloed asap naar het lab krijgen :+
+[22:06:30] <feej> als ze aan heel veel apparaten liggen, is de kans dat het goedkomt wel redelijk
+[22:06:40] <feej> het engste zijn de mensen die niet aan een apparaat liggen en inkachelen
+[22:07:04] <Hooglander1> Ja, dat was dit dus ook
+[22:07:09] <Hooglander1> Die mensen liggen er om te sterven
+[22:07:23] <Hooglander1> En ze worden uitgezogen zodat ze niet stikken in hun eigen longvochf
+[22:07:31] <Hooglander1> Dat is niet prettig doodgaan namelijk
+[22:07:53] <Hooglander1> Mijn vader was iets ruwer
+[22:08:00] <Hooglander1> Die ontdekte altijd wel iets eerder of iemand dood was
+[22:08:14] <Hooglander1> Ff langs de verpleging, errr die meneer in 7
+[22:08:20] <Hooglander1> Volgens mij issie stuk
+[22:08:33] <feej> lol
+[22:08:37] <feej> ja dat heb ik ook wel eens gehad
+[22:08:42] <feej> kom ik langs voor echt een minor ding
+[22:08:49] <feej> en dan ligt er een pt dood te gaan
+[22:08:58] <feej> "hallo mensen, zullen we hier even helpen?"
+[22:10:01] <Hooglander1> Ghehe
+[22:14:44] <feej> gzm
+[22:20:22] *** Quits: yonderboy (Seb@82-169-222-71.ip.telfort.nl) (Exit)
+[22:21:14] <tozzert> ok
+[22:21:18] <tozzert> wie is dit van hier?
+[22:21:19] <tozzert> http://www.dumpert.nl/mediabase/6758673/57533722/vrouw_masturbeert_in_metro.html
+[22:24:28] *** Quits: Resistor (Resistor@ip5456d91b.speed.planet.nl) (Exit)
+[22:28:37] <tozzert> http://img-9gag-fun.9cache.com/photo/a4YB4R6_460sv.mp4
+[22:28:44] <tozzert> ook weer opgelost
+[22:28:52] <tozzert> al zou bij mij alles @ enkel afbreken denk ik
+[22:28:54] <tozzert> :+
+[22:30:01] <FADM|JLP-afk> Dat iemand aan veel aparaten ligt ken ik
+[22:30:10] *** FADM|JLP-afk is now known as FADM|JLP
+[22:30:24] <tozzert> http://img-9gag-fun.9cache.com/photo/a4Ym086_460s_v1.jpg
+[22:30:32] <FADM|JLP> Heb mijn vader er zo bij zien liggen
+[22:31:07] <tozzert> :(
+[22:39:02] *** Quits: Vipertje (tweak@54182E79.cm-5-1a.dynamic.ziggo.nl) (Connection reset by peer)
+[22:39:59] <FADM|JLP> En nee, hij heeft het niet gehaald
+[22:40:13] <FADM|JLP> Ben tot de laaste hardslag bij hem gebleven
+[22:40:59] <FADM|JLP> hartslag
+[22:47:28] *** Quits: FADM|JLP (zoldertjeg@ip15-227-208-87.adsl2.static.versatel.nl) (Connection reset by peer)
+[22:47:41] <feej> nog 13m
+[22:48:16] <Matthew> You can do it!
+[22:51:16] <feej> aflossing!
+[22:51:24] *** Quits: feej (Mibbit@62.12.7.36) (Exit)
+[22:59:57] *** Quits: int3nz0r (int3nz0r@541A8E1B.cm-5-3c.dynamic.ziggo.nl) (Exit)
+[23:04:16] *** Quits: Matthew (Matthew@178-117-75-230.access.telenet.be) (Connection reset by peer)
+[23:12:44] *** Joins: Guyver2 (Guyver2@guyver2.xs4all.nl)
+[23:21:43] *** Quits: Jeroen (Jeroen@54188FF8.cm-5-1c.dynamic.ziggo.nl) (Exit)
+[23:34:37] <jasper> tozzert: dat masturberen is nog tot daar aan toe, maar de onafgebroken death stare die dat mens toepast... creepy
+[23:37:26] *** Quits: Tweaker12119 (tobias@sinas.rename-it.nl) (Ping timeout: 66 seconds)
+[23:38:12] *** Joins: tobias (tobias@sinas.rename-it.nl)
+[23:39:13] *** tobias is now known as Tweaker32849
+[23:44:52] *** Quits: coreblink (coreblink@145.132.131.160) (Exit)
+[23:58:34] *** Joins: rob60 (Mibbit@j77167.upc-j.chello.nl)

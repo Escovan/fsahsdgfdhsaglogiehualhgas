@@ -1,0 +1,215 @@
+[00:00:43] <grape> so his dog was his first born son?
+[00:01:04] <lowkey> nope.  it was a substitute for his son
+[00:01:59] <LionsMane> madness
+[00:02:02] <grape> yes... I know... I was kidding
+[00:02:03] <lowkey> Fark helps heal my fears that I'm crazy by keeping me informed of others that are way further in the deep end
+[00:02:08] <lowkey> ah
+[00:02:20] <grape> LionsMane: our house? in the middle of the street? - madness
+[00:02:21] <lowkey> I see said the blind man
+[00:04:35] <grape> lowkey: I got external shutters... so I don't need the blind man any more!
+[00:05:16] <lowkey> that makes the police wonder what you're hiding...
+[00:05:49] <grape> oh... sorry... I thought you were talking about a blind man.. and not the blind man... I misread! :-)
+[00:06:12] <lowkey> ah...I see it now
+[00:06:16] <grape> right... I need to reboot... and remove one of the RAM sticks...
+[00:06:20] <grape> and I am off as well
+[00:06:21] <grape> ttfn
+[00:06:27] <lowkey> gnite grape
+[00:06:42] <LionsMane> Good night.
+[00:07:39] <lowkey> bbiab
+[00:07:58] <grape> night lowkey 
+[00:08:01] <grape> night LionsMane 
+[00:08:03] <grape> ttfn
+[00:08:04] *** Quits: grape (~grape@CJ-3k1.8q0.194.90.IP) (Quit: Verlassend)
+[00:18:25] <lowkey> fark: Venezuelan President threatens to throw beer manufacturing executives in prison over a shortage of beer. I think this is one time every red-blooded Farker can support him
+[00:26:48] <LionsMane> ok, i am out.  Should be back in tomorrow.
+[00:26:58] <LionsMane> Don't get dead, ya'all.
+[00:27:02] *** Quits: LionsMane (~don@CJ-ipmqdb.lionsmane.org) (Quit: Leaving.)
+[00:39:26] <lowkey> its the end of the world as we know it......and I feel fine.
+[00:43:14] *** Joins: grape (~grape@CJ-3k1.8q0.194.90.IP)
+[00:43:17] <grape> back
+[00:43:23] <grape> lowkey: you still around?
+[00:43:29] <lowkey> boing
+[00:43:48] <lowkey> more issues?
+[00:43:59] <grape> one quick question... I got a corsair RAM stick
+[00:44:04] <grape> CML16GX3M2A1600C10 
+[00:44:13] <grape> how much memory has that stick?
+[00:45:12] <lowkey> according to google that part number corresponds to a 16GB DDR3
+[00:45:42] <grape> ok... my OS sees only 8 GB
+[00:45:49] <grape> and it is a 64 bit system
+[00:46:12] <grape> is there something I need to tweak in the BIOS?
+[00:46:16] <lowkey> wait.  the spec page says its 2x8GB so its a two stick set
+[00:46:39] <lowkey> http://www.corsair.com/en-us/vengeance-low-profile-16gb-dual-channel-ddr3-memory-kit-cml16gx3m2a1600c10
+[00:46:39] <grape> what does that mean?
+[00:47:05] <lowkey> means 8GB per stick.  2 sticks in a set for 16GB total
+[00:47:51] <grape> so one stick is equal to 8GB
+[00:47:56] <grape> right?
+[00:47:57] <lowkey> yep
+[00:48:02] <grape> ok
+[00:48:11] <grape> I thought one stick is equal to 16 GB
+[00:48:34] <lowkey> I did at first too.  but thats the total for the kit which has that part numnber
+[00:48:35] <grape> what is XMP
+[00:49:05] <grape> this is what I hate: why do you print 16 GB on the stick when the stick only got 8 GB
+[00:49:46] <lowkey> yeah its seems like they're trying to confuse you
+[00:49:55] <lowkey> https://www-ssl.intel.com/content/www/us/en/gaming/extreme-memory-profile-xmp.html
+[00:50:10] <lowkey> apparently XMP is what allows overclocking of RAM
+[00:50:15] <lowkey> common for gamers
+[00:51:20] <lowkey> although the pictures on that website are 2/3 lies.
+[00:51:43] <lowkey> no way 2/3 of the gamers out there are women
+[00:51:58] <grape> lol
+[00:52:15] <grape> yes... I just found yout about overclocking... do I need that for my calculations?
+[00:52:19] * grape muses
+[00:53:03] * lowkey practices his story for any questions  "...and that's how the cluster exploded."
+[00:53:24] <grape> mh... one way to reduce my workload
+[00:53:25] <grape> :D
+[00:53:31] <grape> shame it is my desktop machine at home
+[00:53:38] <lowkey> lol
+[00:54:03] <grape> right.. I have reseated one dimm and removed the other.. so far I don't get any error message running memtester
+[00:54:56] <lowkey> thats always good
+[00:55:18] <grape> yep
+[00:57:50] <grape> right... that was working ok...
+[00:57:58] <grape> now with two sticks.. overnight..
+[00:58:00] <grape> I am off
+[00:58:01] <grape> ttfn
+[00:58:10] *** Quits: grape (~grape@CJ-3k1.8q0.194.90.IP) (Quit: Verlassend)
+[01:45:30] <lowkey> g'nite all
+[01:45:34] *** Quits: lowkey (~lowkey@CJ-612.e6l.163.109.IP) (Quit: leaving)
+[03:41:56] *** Joins: chalcedny (~llhull@adsl-72-152-76-192.asm.bellsouth.net)
+[03:44:59] *** Quits: chalcedony (~llhull@adsl-72-152-76-192.asm.bellsouth.net) (Ping timeout: 121 seconds)
+[05:20:51] *** Joins: Escovan (~Escovan@CJ-f7m.7ja.6.107.IP)
+[09:39:38] *** Quits: chalcedny (~llhull@adsl-72-152-76-192.asm.bellsouth.net) (Ping timeout: 121 seconds)
+[10:26:41] *** Joins: chalcedony (~llhull@CJ-73ggem.asm.bellsouth.net)
+[17:00:41] <AcidJell0> doh
+[17:37:09] *** Joins: Escovan (~Escovan@CJ-f7m.7ja.6.107.IP)
+[19:53:51] *** Joins: grape (~grape@CJ-3k1.8q0.194.90.IP)
+[19:54:03] <grape> hi all
+[19:54:22] <AcidJell0> sup g
+[19:57:18] <grape> hi AcidJell0 
+[19:57:20] <grape> how are you ?
+[19:59:43] <AcidJell0> disapointed
+[19:59:44] <AcidJell0> you ?
+[20:02:12] <grape> only?
+[20:02:25] <grape> stressed out and stomach problems since december
+[20:02:59] <grape> bbl
+[20:03:01] <grape> foodtime
+[20:07:33] *** Joins: LionsMane (~don@CJ-ifj.kbt.9.173.IP)
+[20:09:55] <LionsMane> So anyway.
+[20:11:00] <AcidJell0> yep
+[20:11:12] <AcidJell0> uugh grape that sucks
+[20:12:20] <LionsMane> ?? How is that?
+[20:12:42] <AcidJell0> no i just saw what he said earlier
+[20:12:54] <AcidJell0> <grape> stressed out and stomach problems since december
+[20:15:43] <AcidJell0> how you doin ?
+[20:16:26] <AcidJell0> hmm how long to wait till its ok to cancel a meeting for no attendance ??
+[20:16:31] <AcidJell0> is 15 minutes ok ?
+[20:18:55] <LionsMane> I usually go for 20.  But that is my personal taste.
+[20:19:14] <LionsMane> I also think 15 is fair time to call a meeting.
+[20:19:37] <LionsMane> If the other people are a no-call/no-show, then bag out.
+[20:20:13] <AcidJell0> 20 is what i was thinking too
+[20:20:47] <LionsMane> Sometimes, just sometimes, people are thinking "Well, I am 15 minutes late if I leave right now"
+[20:21:34] <LionsMane> But poeple that late don't acount for the time it takes to walk to a meeting room or crank up the software, look up the meeting id, settle into the headset, check settings, etc.
+[20:29:04] <AcidJell0> lamers
+[20:29:22] <AcidJell0> disturbed my outing
+[20:29:39] <AcidJell0> was outdoors with my laptop when this meeting came up and people were busy with other things 
+[20:31:30] <LionsMane> Meh.
+[20:31:36] <LionsMane> They sux0p
+[20:31:41] <LionsMane> sux0r
+[20:45:52] <grape> hi LionsMane 
+[20:47:08] <grape> AcidJell0: yes.... I am taking ranitidin since... 
+[20:50:06] <grape> bbl...
+[20:50:07] *** Quits: grape (~grape@CJ-3k1.8q0.194.90.IP) (Quit: Verlassend)
+[21:03:33] <LionsMane> Well, that was a quick visit for grape.
+[21:35:50] <AcidJell0> indeed
+[21:36:12] <AcidJell0> yaay for more gov. ass rapage
+[21:37:04] <AcidJell0> introduced new carbon tax ... and raised the tax on goods by 2%
+[21:37:19] <AcidJell0> oh and blew the planned deficit 10 fold
+[22:21:47] <LionsMane> Blew the planned deficit 10 fold?
+[22:22:19] <LionsMane> You mean they still fell short, even wit the carbon tax?
+[22:27:25] <AcidJell0> no they promised 28 billion deficit
+[22:28:12] <AcidJell0> this was with a 7.5billion reserve from prev. administration
+[22:28:27] <AcidJell0> when they released the actual budget the total was somewhere in the 220 bilion
+[22:28:43] <AcidJell0> so carbon tax and goods and service tax hike
+[22:43:44] *** Joins: lowkey (~lowkey@CJ-4e4.bbq.247.77.IP)
+[22:43:54] <lowkey> boing
+[22:56:16] <LionsMane> bing
+[22:56:24] <LionsMane> bingo
+[22:57:58] <lowkey> hey
+[22:58:24] <LionsMane> what??!?
+[22:59:01] <lowkey> chimichanga
+[23:01:08] * lowkey wonders why sudo's default configuration isn't "Default!All    rootpw"  so that it effectively becomes identical to su
+[23:01:26] <AcidJell0> hola
+[23:01:37] <lowkey> thats what she said
+[23:03:24] *** Joins: grape (~grape@CJ-3k1.8q0.194.90.IP)
+[23:03:28] <grape> back!
+[23:03:30] <grape> hi lowkey 
+[23:03:31] <lowkey> hi grape
+[23:03:39] <grape> hi again AcidJell0, LionsMane 
+[23:03:43] <lowkey> how's the ram tests going?
+[23:03:47] <grape> lowkey: one of my memory sticks is broken
+[23:03:55] <lowkey> bummer
+[23:03:57] <grape> memtester is spitting out errors like hell
+[23:04:11] <lowkey> well at least its just one stick
+[23:04:16] <grape> how can I get that replaced when I have purchased it from amazon?
+[23:04:38] <lowkey> if you purchased it recently then you should be able to file a claim
+[23:05:10] <lowkey> http://www.amazon.com/gp/orc/returns/homepage.html/ref=orc_surl_ret_hp?fg=1
+[23:06:36] <grape> I need to check my account... I am not sure whether it was xmas 2014 or not
+[23:07:45] <lowkey> I dunno if they have any time limits on returns for hardware.... but only one way to find out!
+[23:09:16] <lowkey> does anyone else set "timestamp_timeout=0" for almost every command (that isn't NOPASSWD) in their sudoers?
+[23:10:43] <grape> nope...
+[23:10:49] <lowkey> oh
+[23:11:54] <lowkey> the 25th of this month, I have the installers coming to finish the installation of my new fiber connection
+[23:12:17] <grape> fiber? sounds good...
+[23:12:58] <lowkey> I'm not sure that it will be effectively any faster for most websites than our current 15mbps connection, but it will sound cooler!
+[23:15:05] <grape> that is true
+[23:17:03] <LionsMane> howdy grape
+[23:17:09] <lowkey> I used iperf to test my new firewall and I can get 949 mbps through to a server on the far side  (950 mbps without the firewall inline)
+[23:18:08] <LionsMane> nice
+[23:19:00] <grape> that sounds good... indeed
+[23:19:05] <lowkey> yeah I'm not sure why I dont quite get to the 1 gbps given that is the max network speed but only losing 5% seems reasonable
+[23:20:01] <lowkey> funny thing is if I enable the default fwsnort ruleset (10k rules), it drops to 50 mbps
+[23:20:09] <LionsMane> Well, even on a fully local GigE network, there is some loss 
+[23:20:27] <LionsMane> 950Mbps is pretty optimistic even on a local network.
+[23:20:52] <lowkey> plus I wired this how myself so I figure there are some improvements that could be done in the wiring alone.
+[23:21:29] <lowkey> err this house
+[23:21:36] <lowkey> damn typos.
+[23:21:56] * lowkey wishes he could blame autocorrect.....does irssi have autocorrect?
+[23:21:59] <LionsMane> ok
+[23:27:11] <grape> lowkey: at least it did not correct to: I wired this cow myself :D
+[23:27:41] <lowkey> that was the weekend after I did the house.
+[23:29:25] <lowkey> bbiab
+[23:30:19] <grape> ok
+[23:35:10] <lowkey> 10 minutes until fresh coffee!
+[23:36:19] <grape> not for me... thanks...
+[23:37:10] <lowkey> I need at least 6 big cups a day
+[23:39:18] <lowkey> its just a mild addiction
+[23:40:42] <grape> too much for me
+[23:42:23] <LionsMane> hahah "just about right for me"
+[23:42:38] <lowkey> I can quit anytime!
+[23:42:49] <LionsMane> I have a half liter stein.  I have four to eight of those a day.
+[23:42:50] <lowkey> all it will take is another multi-week coma
+[23:43:07] <LionsMane> lowkey: there will be time to sleep when you are dead.
+[23:43:26] <lowkey> that is the truth!
+[23:44:45] <lowkey> caffiene is a gateway drug.  first you start on caffiene then you progress to linux.  it's an inevitable downfall of society
+[23:44:58] <lowkey> brb
+[23:48:42] <lowkey> back
+[23:48:47] <lowkey> with coffee
+[23:50:21] <grape> ok... one question: what do you guys do when you simply got too much to do at work and you don't get the adequat resourced to do your job?
+[23:50:31] <grape> and you are constantly asked to do more
+[23:50:56] <lowkey> drugs.  its a problem only meth amphetamine can solve.
+[23:51:14] <grape> and give it to my line manager?
+[23:51:42] <lowkey> either you complete everything assigned to you or you lose you rmind and kill those with the unreasonable demands.   either way its a solution.
+[23:52:01] <lowkey> err your mind
+[23:53:12] <lowkey> but on a serious note, its not a problem I had for the last few years working.  I had a good boss who understood limits of time.
+[23:53:25] <grape> not here.... 
+[23:53:49] <grape> I got some problems which are dating back to December
+[23:53:55] <grape> still not solved.. or not even started
+[23:53:56] <lowkey> ouch
+[23:54:04] <grape> and it is not I am sitting there twittling my thumb
+[23:54:10] <LionsMane> I dunno, I pick and choose what will get done, and let my boss know what it is going to fall off the truck.
+[23:54:34] <lowkey> LionsMane has a good point there.
+[23:55:01] <grape> that I cannot do... and then some people will jump up and down, go to the big boss, tell them THEIR work is the most IMPORTANT one!.. and I got to do that on top of everything else
+[23:55:17] <LionsMane> grape: again not your problem.
+[23:55:39] <LionsMane> grape: You let them know what can get done, have your boss or your boss's boss choose and that is that.
+[23:55:42] <grape> I got rid off 3 clusters... and I found out that the new prof will bring his own cluster... 30 blades... mixed hardware
+[23:55:49] <LionsMane> It really isn't any more complicated than that
+[23:56:17] <grape> so micro management, right?
+[23:58:37] <lowkey> it might lead to that but it also forces them to recognize the consequences of their decisions

@@ -1,0 +1,810 @@
+[00:03:27] <Bitage> https://www.youtube.com/watch?v=fAuWL3szCcc
+[00:05:44] *** koene_ridder is now known as rawplayer
+[00:10:31] *** Quits: int3nz0r (int3nz0r@541A8E1B.cm-5-3c.dynamic.ziggo.nl) (Exit)
+[00:36:07] *** Quits: Wussie (wussie@220-251.ftth.onsbrabantnet.nl) (Exit)
+[00:38:26] *** Quits: Tomsworld (tom@109.130.187.232) (Ping timeout: 66 seconds)
+[00:44:18] *** Quits: Bitage (Bitage@82-171-45-9.ip.telfort.nl) (Exit)
+[00:45:48] *** Quits: Vipertje (tweak@54182E79.cm-5-1a.dynamic.ziggo.nl) (Connection reset by peer)
+[01:16:58] *** Quits: coreblink (coreblink@145.132.131.160) (Exit)
+[01:21:08] *** Quits: Rena (Rena@rena.centravi.org) (Ping timeout: 66 seconds)
+[01:24:21] *** Quits: DCM360 (DCM360@535509EC.cm-6-6a.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[01:33:02] *** Joins: Rena (Rena@2001:41d0:b:550:6667:0:0:18)
+[01:34:06] *** Quits: klaveRCX (michiel@klaver.it) (Ping timeout: 66 seconds)
+[01:34:33] *** Joins: klaveRCX (michiel@klaver.it)
+[01:43:15] *** Quits: Rena (Rena@2001:41d0:b:550:6667:0:0:18) (Ping timeout: 61 seconds)
+[01:43:15] *** Quits: SimonP (SimonP@remote.glasvezel-online.net) (Ping timeout: 61 seconds)
+[01:43:22] *** Quits: GuntherDW (guntherdw@ks3308665.kimsufi.com) (Ping timeout: 60 seconds)
+[01:43:33] *** Quits: BarthezZ (bart@monitoring.deheij-ict.nl) (Ping timeout: 61 seconds)
+[01:43:33] *** Quits: Destruction (Destructio@507230E5.cm-15.dynamic.ziggo.nl) (Ping timeout: 61 seconds)
+[01:43:39] *** Joins: Destruction (Destructio@507230E5.cm-15.dynamic.ziggo.nl)
+[01:44:53] *** Joins: SimonP (SimonP@remote.glasvezel-online.net)
+[01:45:03] *** Joins: Rena (Rena@2001:41d0:b:550:6667:0:0:18)
+[01:46:38] *** Quits: Devrim (Dev@2001:41d0:2:d439:0:0:0:1) (Ping timeout: 61 seconds)
+[01:48:43] *** Joins: BarthezZ (bart@monitoring.deheij-ict.nl)
+[01:49:33] *** Joins: GuntherDW (guntherdw@ks3308665.kimsufi.com)
+[01:52:52] *** Joins: Devrim (Dev@2001:41d0:2:d439:0:0:0:1)
+[01:57:33] *** Quits: Destruction (Destructio@507230E5.cm-15.dynamic.ziggo.nl) (Ping timeout: 66 seconds)
+[01:58:12] *** Joins: Destruction (Destructio@507230E5.cm-15.dynamic.ziggo.nl)
+[02:04:07] *** Quits: Destruction (Destructio@507230E5.cm-15.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[02:06:32] *** Joins: Destruction (Destructio@507230E5.cm-15.dynamic.ziggo.nl)
+[02:07:29] *** Quits: grid (grid@dhcp-089-099-194-232.chello.nl) (Ping timeout: 66 seconds)
+[02:08:10] *** Quits: Destruction (Destructio@507230E5.cm-15.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[02:12:19] *** Joins: Destruction (Destructio@507230E5.cm-15.dynamic.ziggo.nl)
+[02:27:59] *** Quits: GodFather (p00p@a83152.upc-a.chello.nl) (Exit)
+[02:37:32] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 66 seconds)
+[02:38:45] *** Quits: rhod (rhod@86.85.193.196) (Ping timeout: 66 seconds)
+[02:40:16] *** Quits: welly7 (willy@ip503c7f23.speed.planet.nl) (Ping timeout: 61 seconds)
+[02:40:16] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Ping timeout: 61 seconds)
+[02:41:28] *** Quits: Destruction (Destructio@507230E5.cm-15.dynamic.ziggo.nl) (Ping timeout: 67 seconds)
+[02:41:52] *** Joins: Destruction (Destructio@507230E5.cm-15.dynamic.ziggo.nl)
+[02:42:12] *** Joins: welly7 (willy@ip503c7f23.speed.planet.nl)
+[02:43:05] *** Joins: rhod (rhod@86.85.193.196)
+[02:43:24] *** Quits: welly7 (willy@ip503c7f23.speed.planet.nl) (Ping timeout: 66 seconds)
+[02:44:08] *** Joins: DCM360 (DCM360@535509EC.cm-6-6a.dynamic.ziggo.nl)
+[02:45:29] *** Joins: welly7 (willy@ip503c7f23.speed.planet.nl)
+[02:53:55] *** Quits: DCM360 (DCM360@535509EC.cm-6-6a.dynamic.ziggo.nl) (Ping timeout: 66 seconds)
+[02:54:23] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[02:55:08] *** Joins: DCM360 (DCM360@535509EC.cm-6-6a.dynamic.ziggo.nl)
+[03:01:07] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[03:13:01] *** Quits: Svardskampe (Svardskamp@198-14-ftth.onsnetstudenten.nl) (Connection reset by peer)
+[03:14:10] *** Quits: DCM360 (DCM360@535509EC.cm-6-6a.dynamic.ziggo.nl) (Ping timeout: 67 seconds)
+[03:14:46] *** Joins: DCM360 (DCM360@535509EC.cm-6-6a.dynamic.ziggo.nl)
+[03:27:51] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 67 seconds)
+[03:30:03] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[03:54:34] *** Quits: DCM360 (DCM360@535509EC.cm-6-6a.dynamic.ziggo.nl) (Ping timeout: 61 seconds)
+[04:08:18] *** Joins: DCM360 (DCM360@535509EC.cm-6-6a.dynamic.ziggo.nl)
+[04:17:55] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[04:23:17] *** Quits: Destruction (Destructio@507230E5.cm-15.dynamic.ziggo.nl) (Ping timeout: 68 seconds)
+[04:23:49] *** Joins: Destruction (Destructio@507230E5.cm-15.dynamic.ziggo.nl)
+[04:26:01] *** Quits: rhod (rhod@86.85.193.196) (Exit)
+[04:31:09] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[05:03:45] *** Quits: Smileface (alexander@25bc408b.ftth.concepts.nl) (Exit)
+[05:45:56] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[06:02:45] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[06:19:39] <tozzert> meh
+[06:20:06] <Escovan> hem
+[06:26:12] *** Joins: Tomsworld (tom@109.130.187.232)
+[06:26:12] *** ChanServ sets mode: +o Tomsworld
+[06:28:47] *** Quits: Tomsworld (tom@109.130.187.232) (Ping timeout: 66 seconds)
+[06:29:42] *** Joins: chim0 (a@d5c53ff2.ftth.concepts.nl)
+[06:34:59] <Escovan> Een FTTH-verbinding kan toch ook gewoon zakelijk gebruikt worden? 
+[06:35:36] <Escovan> Iemand bij Gemeente Zutphen was er van overtuigd dat het niet zo was. Internet = Internet toch?!
+[06:35:42] <tozzert> is het dan geen FTTO?
+[06:36:44] <Escovan> Denk aan kleine zelfstandigen, voor wie de O hetzelfde pand is als de H :P
+[06:42:40] <Escovan> Zoals mijn ouders, die wonen dan in het rijkelui´s deel van Zutphen, die gebruiken dat glas echt voornamelijk zakelijk. Maar omdat ¨slechts¨ 24% in eerste termijn een aansluiting had genomen bij een glas ISP, krijgen we het hier niet. (24%!!!!1)
+[06:44:21] <Escovan> Lijkt me dat 1/4 direct kunnen aansluiten toch rendabel genoeg is voor glasvezel.
+[06:45:04] <Escovan> Ik heb het gevoel dat gemeente Zutphen dan ook liegt over de werkelijke motieven om de rest van de stad niet te laten aansluiten.
+[06:45:24] <tozzert> ik denk dat ze jou gewoon niet mogen
+[06:45:48] <Escovan> Dat sowieso, ik zit veels te vaak in hun inbox. 
+[06:46:30] <tozzert> mgoe
+[06:46:35] <tozzert> waarom zou je glas willen?
+[06:46:42] <tozzert> zie het voordeel er niet zo van
+[06:46:47] <tozzert> mja, upload misschien dan
+[06:46:49] <Escovan> synchrone snelheid. Ik upload nogal veel
+[06:47:25] <tozzert> mgoe
+[06:47:26] <tozzert> arbeit
+[06:47:27] <tozzert> :w
+[06:47:30] <Escovan> sterkte!
+[07:30:23] *** Quits: Destruction (Destructio@507230E5.cm-15.dynamic.ziggo.nl) (Ping timeout: 64 seconds)
+[07:30:56] *** Joins: Destruction (Destructio@507230E5.cm-15.dynamic.ziggo.nl)
+[07:50:27] *** Joins: DataGhostS (vincent@5ED2C6DE.cm-7-3d.dynamic.ziggo.nl)
+[07:51:11] *** Quits: Roelke (Roelke@hostserv.nl) (Ping timeout: 67 seconds)
+[07:52:59] *** Joins: Roelke (Roelke@hostserv.nl)
+[08:03:43] *** Joins: Stuiterbal (Stuit@2001:980:5281:1:3c70:aece:891f:b348)
+[08:04:17] *** Joins: Wussie (wussie@220-251.ftth.onsbrabantnet.nl)
+[08:15:43] *** Joins: McM (mcm@37.153.231.241)
+[08:27:57] *** Joins: zomertje (zomertje@pluizigenblauw.xs4all.nl)
+[08:27:57] *** ChanServ sets mode: +o zomertje
+[08:34:28] <DizzyWeb> Mogge.
+[08:34:56] <DizzyWeb> Zet vanmorgen bekertje onder de automaat... druk op cappuccino... en de melk komt aan de onderkant van de automaat uitlopen :X
+[08:35:03] <DizzyWeb> Goed begin!
+[08:45:53] *** moto-moi|afk is now known as moto-moi
+[08:48:27] <DataGhostS> happy 4/20 allemaal!
+[08:49:24] *** Joins: kees (kees@kees.tweakers.net)
+[08:52:29] <McM> Iets met drugs te maken toch DataGhostS ?
+[08:53:10] <DataGhostS> http://lmgtfy.com/?q=420 :+
+[08:53:20] <McM> done that
+[08:54:10] <DataGhostS> http://i.imgur.com/WObYrZL.jpg
+[08:58:33] <DizzyWeb> Snapputnie.
+[08:59:41] <DataGhostS> wat niet
+[09:00:02] <DataGhostS> ben jij die allcaps-gast?
+[09:00:12] <DizzyWeb> De wattes?
+[09:00:38] <McM> btw.. DataGhostS
+[09:00:41] <DataGhostS> k mss handiger als je eerst definieert wat je niet snapt dan kan ik er fatsoenljik antwoord op geven gok ik
+[09:00:46] <DataGhostS> sup McM 
+[09:00:48] <McM> Volgens mij is het Bicycle Day
+[09:00:49] <McM> https://www.daysoftheyear.com/days/bicycle-day/
+[09:00:53] <DataGhostS> ja dat kan ook
+[09:00:58] <DataGhostS> schijnt dat hitler vandaag jarig was
+[09:01:10] <DataGhostS> lekker toepasselijk met bicycle day :')
+[09:01:27] <McM> Ownee..was gisteren
+[09:01:30] <McM> https://www.daysoftheyear.com/days/volunteer-recognition-day/
+[09:01:40] *** Joins: tbosua (tbosua@office.hostnetbv.nl)
+[09:03:17] <McM> Zijn d'r nog vrijwillige dames die ik mijn dankbaarheid kan tonen?
+[09:04:13] <DataGhostS> zou vandaag extra makkeljik moeten zijn
+[09:04:15] <moto-moi> Hooglander1: wij hebben oranje kruidnoten *O*
+[09:04:33] <DataGhostS> gewoon even naar een park lopen, beetje ruiken en dan kijken waar de vrijwillige dames zitten
+[09:04:44] <gdex> https://www.daysoftheyear.com/days/banana-day/
+[09:14:42] <Hooglander1> oeh moto-moi *O*
+[09:14:46] <Hooglander1> zo eens langs lopen :)
+[09:14:48] <Hooglander1> en een zakje halen
+[09:14:57] <DataGhostS> oh kruidnoten
+[09:15:28] <Hooglander1> DizzyWeb als de melk uit de bovenkant zou spuiten zou je ook niet blij zijn
+[09:15:57] *** Joins: Jeroen (Jeroen@ip82-139-124-155.lijbrandt.net)
+[09:16:23] <Hooglander1> en DataGhostS die grapjes met Franse cijfers
+[09:16:28] <Hooglander1> de 16 klopt niet
+[09:16:39] <DataGhostS> het ging me meer om de eerste eigenlijk :+
+[09:16:57] *** Joins: Guyver2 (Guyver2@guyver2.xs4all.nl)
+[09:17:53] <Jeroen> de 16 klopt ook?
+[09:18:02] <Jeroen> what this seize --> what this says
+[09:24:34] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 61 seconds)
+[09:25:45] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[09:34:44] <Hooglander1> ahja, idd Jeroen
+[09:40:53] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 66 seconds)
+[09:42:00] <Jeroen> "Before tonight, we needed 56% of remaining delegates. Now we need just 58%. On April 26, we can sweep all five states if we work for it instead of relying on "momentum" to win."
+[09:42:03] <Jeroen> arme sandersfans
+[09:44:36] <Hooglander1> Dat gaan ze niet winnen gok ik
+[09:44:37] <Hooglander1> Wat wel jammer is
+[09:44:41] <Hooglander1> Aan de andere kant
+[09:44:50] <Hooglander1> Met een streng republikeins huis en senaat
+[09:44:53] <Hooglander1> hij krijgt toch niks gedaan
+[09:45:02] <Jeroen> uhuh
+[09:45:22] <Jeroen> dan is een rat als clinton stiekem wel wenselijk
+[09:45:37] <Hooglander1> Ze is al lang flink naar links geduwd
+[09:45:41] <Hooglander1> Wat prima is
+[09:46:10] *** Joins: Nelicquele (Nelicquele@i244127.upc-i.chello.nl)
+[09:46:17] <Jeroen> tenzij ze straks weer naar rechts gaat :+
+[09:47:36] <Tomcat_ha> haar kennende zal ze dat doenm
+[09:50:50] <Hooglander1> Likely, maar dat is minder erg dan naar rechts gaan vanuit haar startpunt
+[09:57:47] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[10:05:53] *** Joins: coreblink (coreblink@145.132.131.160)
+[10:10:55] *** Ziz`aw is now known as Ziz
+[10:13:21] <SJ> mogge
+[10:14:51] *** Quits: Destruction (Destructio@507230E5.cm-15.dynamic.ziggo.nl) (Ping timeout: 61 seconds)
+[10:14:57] *** Joins: Destruction (Destructio@507230E5.cm-15.dynamic.ziggo.nl)
+[10:20:34] *** Quits: Destruction (Destructio@507230E5.cm-15.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[10:21:11] *** Joins: Destruction (Destructio@507230E5.cm-15.dynamic.ziggo.nl)
+[10:25:26] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 62 seconds)
+[10:25:26] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[10:29:53] *** Quits: Destruction (Destructio@507230E5.cm-15.dynamic.ziggo.nl) (Ping timeout: 61 seconds)
+[10:29:57] *** Joins: Destruction (Destructio@507230E5.cm-15.dynamic.ziggo.nl)
+[10:34:20] <Ziz> morguh
+[10:36:33] *** Joins: aswen (aswen@lochem.swen.nu)
+[10:46:36] *** Quits: Destruction (Destructio@507230E5.cm-15.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[10:46:39] *** Joins: Destruction (Destructio@507230E5.cm-15.dynamic.ziggo.nl)
+[10:50:18] *** Joins: Boots (boots@0011110000110011.nl)
+[10:59:45] <Hooglander1> heb je een bosje bloemen al geregeld Ziz?
+[11:02:04] <Jeroen> hij rijdt zo ff langs het tankstation
+[11:02:22] <Hooglander1> Dan zou ik dat morgen doen
+[11:03:19] <Jeroen> http://speld.nl/2016/04/20/zzper-voert-opdrachten-voor-de-zekerheid-vanuit-panama-uit/ speaking of Ziz 
+[11:04:48] *** Joins: grid (grid@dhcp-089-099-194-232.chello.nl)
+[11:06:15] *** Quits: McM (mcm@37.153.231.241) (Ping timeout: 60 seconds)
+[11:07:50] *** Joins: DinX_Werk (DinX@out.helics.leuven.be)
+[11:07:58] *** Quits: DinX_Werk (DinX@out.helics.leuven.be) (Input/output error)
+[11:08:10] *** Joins: DinX_Werk (DinX@out.helics.leuven.be)
+[11:08:20] <DinX_Werk> moto-moi, http://www.013.nl/programma/4212/godspeed-you-black-emperor
+[11:10:33] *** Quits: Chester- (Chester@c77152.upc-c.chello.nl) (Exit)
+[11:10:38] *** Joins: Chester (Chester@c77152.upc-c.chello.nl)
+[11:12:02] <moto-moi> Nooit van gehoord to be honest :P
+[11:12:05] <moto-moi> es in spotify gooien
+[11:14:43] *** Joins: Saggler (Saggler@131-052-158-163.dynamic.caiway.nl)
+[11:15:13] *** Joins: OGBobbyJ (Mibbit@cpe-70-93-163-234.natsow.res.rr.com)
+[11:15:23] *** Joins: McM (mcm@37.153.231.241)
+[11:15:26] *** Quits: OGBobbyJ (Mibbit@cpe-70-93-163-234.natsow.res.rr.com) (Exit)
+[11:18:16] <Ziz> Jeroen: shit... dat had ik moeten doen
+[11:18:45] <Ziz> Hooglander1: jup. Worden daar in de ochtend bij receptie afgeleverd. Hoef ze dan alleen naar boven te brengen
+[11:23:08] <Hooglander1> ghehe, beter :)
+[11:26:55] <DinX_Werk> beetje cult-band moto-moi :)
+[11:27:18] <Ziz> Moest cadeautje hebben voor de vriendin voor mijn broertje. Echt zo'n figuur waar je nooit weet wat je moet geven. Kom tot de conclusie dat Fonq best leuke digen heeft.
+[11:27:52] <Ziz> http://www.fonq.nl/giftfinder/#gfsp:0
+[11:27:55] <Ziz> Super handig
+[11:30:51] <DataGhostS> http://www.nietmijnkeus.nl/ Ziz 
+[11:31:46] <Hooglander1> ghehe
+[11:31:54] <Hooglander1> was daar niet een keer een gast die een daghuur graafmachine had gekregen?
+[11:33:50] <Hooglander1> http://nos.nl/artikel/2100308-ravage-a2-bij-eindhoven-na-kantelen-truck-weg-dicht.html
+[11:33:51] <Hooglander1> holy shit
+[11:34:24] <DataGhostS> pas geleden was t nog appelsap
+[11:34:43] <DataGhostS> http://nos.nl/artikel/2099371-a2-weer-even-open-na-appelsap-ongeluk.html
+[11:36:04] *** Quits: Saggler (Saggler@131-052-158-163.dynamic.caiway.nl) (Exit)
+[11:36:09] <moto-moi> DinX_Werk: klinkt wel als iets wat zeer priegelig kan zijn op een groot podium
+[11:39:19] <DinX_Werk> bwa, ze kunnen best wat herrie maken hoor
+[11:39:20] <DinX_Werk> :p
+[11:40:00] <DinX_Werk> set zal wel aangepast zijn aan de zaal
+[11:40:12] <DinX_Werk> maja, 4 nummers en je hebt een set
+[11:40:12] <DinX_Werk> :D
+[11:41:13] <moto-moi> nog erger dan Opeth :P
+[11:47:06] <DinX_Werk> moto-moi, https://www.youtube.com/watch?v=dh_wnykggWM
+[11:49:52] * moto-moi is now playing Godspeed You! Black Emperor - East Hastings
+[11:50:00] <moto-moi> Ik ben die eerste cd van ze al aan het luisteren hoor :P
+[12:11:30] *** Quits: jk-5 (jk-5@D549D0E1.cm-10-1b.dynamic.ziggo.nl) (Ping timeout: 66 seconds)
+[12:11:43] *** Joins: jk-5 (jk-5@D549D0E1.cm-10-1b.dynamic.ziggo.nl)
+[12:29:30] <DinX_Werk> moto-moi, steve vai gaat weer touren :)
+[12:29:52] <Ziz> Meest mannelijke gitarist ooit....
+[12:30:10] <DinX_Werk> haha
+[12:30:13] <DinX_Werk> http://www.hetdepot.be/concert/steve-vai-passion-and-warfare-25th-anniversary-tour
+[12:30:15] <DinX_Werk> wel een goeie :p
+[12:30:22] <Ziz> true
+[12:30:58] <Ziz> Paar jaar geleden geweest. Had alleen nog al wat last van de fans die op zijn hoofd gericht waren om zijn haren te laten wapperen
+[12:32:07] <DinX_Werk> denk dat ik em een jaar of 10 geleden gezien heb
+[12:40:14] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 66 seconds)
+[12:41:40] *** Quits: McM (mcm@37.153.231.241) (Ping timeout: 60 seconds)
+[12:55:02] *** Quits: grid (grid@dhcp-089-099-194-232.chello.nl) (Ping timeout: 61 seconds)
+[13:03:30] *** Joins: grid (grid@dhcp-089-099-194-232.chello.nl)
+[13:19:16] *** Joins: McM (mcm@193.173.193.100)
+[13:26:09] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[13:35:50] *** Nelicquele is now known as Neli|vreten
+[13:55:53] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 66 seconds)
+[14:19:26] *** Joins: Tweaker_2547 (Mibbit@D5225AC2.static.ziggozakelijk.nl)
+[14:19:59] <kees> 'This SAN certificate can secure 100 sub domains with one certificate' pagina erna: 'Certificate price includes 2 domains'
+[14:20:02] <kees> | :(
+[14:20:10] *** Quits: Tweaker_2547 (Mibbit@D5225AC2.static.ziggozakelijk.nl) (Exit)
+[14:24:08] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[14:25:08] *** Quits: Neli|vreten (Nelicquele@i244127.upc-i.chello.nl) (Ping timeout: 61 seconds)
+[14:25:40] <Ziz> Hahaha kees 
+[14:25:56] <Ziz> Daarna dik aftikken
+[14:26:08] <kees> leuk, ze verkopen dus SAN certificaten voor ~150 euro
+[14:26:14] <Ziz> Hmm
+[14:26:19] <kees> en daarna betaal je per domein nog eens 108 euro
+[14:26:30] <kees> hallo, zo werkt een san niet 
+[14:26:43] <kees> en een normaal certificaat voor 1 domein is 9 euro
+[14:27:03] <kees> dus voor 150 euro had ik zeker wel 20 domeinen verwacht
+[14:28:49] <tobias> als je ze zelf zou mogen signen zijn ze gratis
+[14:28:56] <tobias> wat helemaal prima is in een corporate omgeving
+[14:29:26] <tobias> wij hebben bijv onze eigen development-ca 
+[14:29:28] <kees> ja, maar niet iedereen vertrouwd mij op tweakers ;(
+[14:29:38] <kees> t
+[14:30:27] <Jeroen> terecht
+[14:30:48] <kees> en iedereen even vragen om mijn CA te instaleren is ook zo'n hoop werk
+[14:32:50] <Jeroen> Ik maak geen uitzondering voor Telegraaf.nl en blijf lezen met adblockers.
+[14:32:57] <Jeroen> hoe godverdomme toch je muil
+[14:32:58] <Jeroen> kutsite
+[14:33:14] <Jeroen> gewoon fixen met een rootkit ofzo, kees
+[14:33:15] <Jeroen> easy peasy
+[14:35:57] <Jeroen> "inderdaad moeilijk voor pinokkio, hij snapt niks... daarom lacht hij altijd als een mongool, hopende dat ze hem niet door hebben" Robert Bruijne over Rutte: https://scontent-ams3-1.xx.fbcdn.net/hphotos-xpt1/t31.0-8/10257611_1246280658720382_2258568085361488346_o.jpg
+[14:38:23] <kees> hm, letsencrypt doet ook aan SAN
+[14:38:52] <Ziz> yay mijn macbook pro 13" is binnen
+[14:39:18] *** Joins: Neli|vreten (Nelicquele@i244127.upc-i.chello.nl)
+[14:39:32] *** Neli|vreten is now known as Nelicquele
+[14:39:50] <Ziz> was het lekker?
+[14:49:34] *** Quits: Jeroen (Jeroen@ip82-139-124-155.lijbrandt.net) (Exit)
+[14:57:44] *** Joins: Bitage (Bitage@82-171-45-9.ip.telfort.nl)
+[15:05:55] *** Joins: Robin (robin@5419F052.cm-5-2d.dynamic.ziggo.nl)
+[15:05:55] *** ChanServ sets mode: +v Robin
+[15:06:19] <DinX_Werk> Robin, !
+[15:06:23] <DinX_Werk> http://www.hetdepot.be/concert/steve-vai-passion-and-warfare-25th-anniversary-tour
+[15:13:20] *** Quits: Nelicquele (Nelicquele@i244127.upc-i.chello.nl) (Exit)
+[15:31:08] <Robin> meh
+[15:33:25] <DinX_Werk> en GY!DA in 013
+[15:33:26] <Escovan> kees, letsencrypt kan heel de tweakers park/servers op SSL zetten met A-klasse 
+[15:33:31] <DinX_Werk> Robin, ^^
+[15:34:19] <Escovan> voor gratis!
+[15:35:55] <Escovan> StartCom is ook een optie, maar dat kost een klein beetje geld.
+[15:36:12] <Escovan> voor een site als tweakers althans
+[15:36:17] <Escovan> voor mij is het gratis
+[15:38:00] <tobias> Escovan: je snapt 'm even niet denk ik
+[15:38:45] <Erik> Escovan snapt wel meer niet
+[15:38:51] <Escovan> Oh, kut venster, ik moest nog 3 regels naar boven
+[15:38:56] <Escovan> Sorry. 
+[15:41:42] <kees> Escovan, nee, letsencrypt kan niet volledig dat doen
+[15:41:56] <Escovan> waarom niet?
+[15:42:08] <kees> tweakblogs.net is vrij lastig met dynamische subdomeinen en geen wildcard certificaat support
+[15:42:20] <kees> maar daar dokken we gewoon voor
+[15:42:27] <gdex> gewoon bij elk nieuw domein dynamisch een letsencrypt ding doen
+[15:42:32] <kees> geen probleem om wat te betalen, maar 1000+ euro is te duur
+[15:42:35] <gdex> schaalt vast
+[15:42:53] <Escovan> Dan optie 2, startcom ... voor 199 dollar Wildcard multiple domains
+[15:43:04] <Ziz> geen wildcard certificaat support
+[15:43:09] <kees> optie3: alphassl, wildcard voor 79
+[15:43:22] <kees> die heb ik al genoeg
+[15:43:39] <kees> maar wildcard heeft als probleem dat je dan verschillende certificaten per domein hebt
+[15:43:57] <kees> dus *.tweakers.net heeft 1 certificaat, *.tweakimg.net een ander certificaat
+[15:44:23] <kees> maar voor http/2 wil je graag dat ze hetzelfde certificaat gebruiken zodat je maar 1 verbinding hoeft op te zetten
+[15:44:43] <gdex> dit klinkt een beetje als #firstworldproblems
+[15:45:08] <Escovan> zijn het ook, maar wel de firstworldproblems die ik ook boeiend vind
+[15:45:09] <Nakebod> schaf tweakimg.net af, en gooi alles onder static.tweakers.net etc? :+
+[15:45:12] <Ziz> Neu. kees probeert een proffesioneel sitetje te runnen.
+[15:45:19] <kees> is het ook gdex :P
+[15:45:23] <Nakebod> *hobbyprojectje
+[15:45:28] <Ziz> idd
+[15:45:40] <gdex> kees: maar je moet toch iets doen om betaald te krijgen, dus tja :+
+[15:45:40] <kees> Nakebod, doen we ook in de toekomst, maar sharding is wel handig voor niet-http/2 browsers, en dat is nog steeds ~10%
+[15:46:03] <kees> sharding = meerdere domeinnamen gebruiken
+[15:46:13] <gdex> waarom is dat handig?
+[15:46:24] <gdex> omdat de browser anders alles alsnog over 1 verbinding na elkaar probeert te laden?
+[15:46:28] <kees> omdat een browser maximaal 8 connecties openzet naar 1 domein
+[15:46:39] <gdex> inclusief subdomeinen?
+[15:46:43] <kees> ja
+[15:46:45] <gdex> ah
+[15:46:47] <gdex> stomme browsers
+[15:46:48] <gdex> afschaffen
+[15:47:04] <kees> en met 2 verschillende domeinen krijg je dus al 16 connecties
+[15:47:06] <Escovan> allemaal naar Lynx! Fuck devvers!!!111
+[15:47:35] <gdex> of zorgen dat je hele pagina met maximaal 8 resources te renderen is
+[15:47:42] <gdex> dat is ook een leuke uitdaging
+[15:47:52] <kees> gdex, los jij en passant ook even deze bug op? http://gathering.tweakers.net/forum/list_messages/1685997
+[15:48:05] <gdex> nee, maar ik zal wel even kijken wat het is
+[15:48:22] <kees> of je nog ff support voor firefox 3.6 wil inbouwen in de videoplayer ;)
+[15:48:32] <Escovan> Ik heb onlangs een nieuwe flash update gehad en sindsdien doet Fx het weer.
+[15:48:34] <gdex> ik gok dat crisp het goede antwoord heeft :+
+[15:48:38] <kees> uhuh :P
+[15:49:28] <Escovan> Maar: Waarom geen container in HTML5 ... mp4 ofzo... Dat laadt altijd.
+[15:49:48] <kees> niet in firefox 3.6
+[15:50:35] <gdex> omdat je niet kan ruiken of iemand een verbinding heeft die moeite heeft met HD of niet
+[15:51:49] <gdex> en dan mis je hippe dingen zoals related content, en stats over welke stukken bekeken worden
+[15:53:03] <Robin> I like it when gdex talks tech
+[15:53:58] <gdex> zal ik eens even mijn rj-45 inpluggen anders Robin 
+[15:54:13] <Robin> *giggity*
+[15:54:14] <Escovan> homo!
+[15:54:34] <Robin> ieuw, een discriminator
+[15:54:44] *** Quits: grid (grid@dhcp-089-099-194-232.chello.nl) (Ping timeout: 60 seconds)
+[15:54:52] *** Joins: int3nz0r (int3nz0r@541A8E1B.cm-5-3c.dynamic.ziggo.nl)
+[15:56:04] <Ziz> gdex: tot je het kabeltje terug trekt en het clipje blijft hangen. 
+[15:56:19] <gdex> ach, wie heeft dat clipje nodig
+[15:57:43] *** Quits: DinX_Werk (DinX@out.helics.leuven.be) (Exit)
+[15:58:53] <kees> snagless kabels zijn daarvoor uitgevonden
+[15:59:00] <Escovan> kees, dat met meerdere domeinen etc. Heb ik ook op mijn VPS die voor meerdere domains werkt ... Gewoon goed organiseren welk certificaat waar hoort. Een certificaat dat gewoon * doet, is natuurlijk fail. Het heeft me dusver niets gekost, SSL.
+[15:59:36] <gdex> kees: gewoon je eigen TLD regelen en daar 1 wildcard certificaat voor fixen
+[15:59:46] <Escovan> nee
+[15:59:57] <kees> gdex, dat kan ook inderdaad :P
+[16:00:00] <gdex> www.tweakersnet
+[16:01:22] <Escovan> ff 80.000 euro lappen voor een TLD ... hmja, dat is sowieso prijstechnisch niet interessant
+[16:01:34] <mimic> voor jou wel toch?
+[16:02:02] <Escovan> Oh mimic, ga je me sponsorren dan?
+[16:02:18] <gdex> gewoon sparen
+[16:02:19] <mimic> haha nee.
+[16:16:00] <Lin> met dubbel r?
+[16:16:14] <gdex> sposnorren
+[16:18:28] <KompjoeFriek> spons snorren
+[16:18:38] *** Quits: DataGhostS (vincent@5ED2C6DE.cm-7-3d.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[16:18:57] <Lin> ook met monocle?
+[16:19:01] <Lin> of zijn die alleen voor giraffen?
+[16:19:02] <KompjoeFriek> yup
+[16:22:55] <mimic> imgurian detected
+[16:23:03] <mimic> one of us one of us 
+[16:23:05] <mimic> one of us one of us 
+[16:23:28] <kees> magoed, via letsencrypt een san aangevraagt en het werkt heel snel en goed \o/
+[16:23:37] <mimic> braaf kees
+[16:23:41] <mimic> goed gedaan
+[16:23:53] <kees> scheelt weer 1000 euro/jaar :P
+[16:24:08] <mimic> 1000 euro aan bier meer in het jaar \\o
+[16:24:58] <gdex> dat bier moet je dan wel declareren als een factuur voor een certificaat
+[16:25:02] <gdex> anders valt het op
+[16:25:07] <kees> uhuh
+[16:25:19] <mimic> geen probleem dus ;)
+[16:26:46] <gdex> en deze chatlogs even vernietigen
+[16:26:51] *** Joins: rhod (rhod@86.85.193.196)
+[16:27:26] <mimic> done
+[16:27:30] <mimic> proost!
+[16:27:42] <gdex> proost
+[16:28:52] *** moto-moi is now known as moto-moi|afk
+[16:30:21] *** Quits: kees (kees@kees.tweakers.net) (Input/output error)
+[16:32:57] *** Joins: grid (grid@dhcp-089-099-194-232.chello.nl)
+[16:35:51] *** Quits: Robin (robin@5419F052.cm-5-2d.dynamic.ziggo.nl) (Exit)
+[16:47:51] *** Quits: Guyver2 (Guyver2@guyver2.xs4all.nl) (Exit)
+[17:00:46] *** Joins: Smileface (alexander@25bc408b.ftth.concepts.nl)
+[17:01:23] <tozzert> meh
+[17:03:14] <tozzert> verrek
+[17:03:15] <tozzert> bier uur!
+[17:05:43] *** Joins: Resistor (Resistor@ip5456d91b.speed.planet.nl)
+[17:09:50] <tozzert> hmmm
+[17:09:56] <tozzert> nieuwe simkaart aanvragen @ KPN of niet
+[17:10:06] <tozzert> dan kan ik contactloos betaole
+[17:10:22] <mimic> KPN :')
+[17:11:40] *** Quits: Resistor (Resistor@ip5456d91b.speed.planet.nl) (Ping timeout: 66 seconds)
+[17:12:56] *** Joins: Resistor (Resistor@ip5456d91b.speed.planet.nl)
+[17:15:28] *** Quits: McM (mcm@193.173.193.100) (Ping timeout: 60 seconds)
+[17:17:38] <Nakebod> kapeejen
+[17:17:49] <tozzert> noem eens wat wat KPN verslaat dan
+[17:18:02] <Nakebod> Vodafone! :+
+[17:18:04] <tozzert> dan zal ik wel gaan lachen
+[17:18:08] <Nakebod> Meer letters
+[17:18:22] <tozzert> als we alles uit gaan typen niet!
+[17:20:05] <Nakebod> Volgens mij heb ik deze maand teveul data gebruikt, en dan hebben we nog veel minuten in deze maand
+[17:20:25] <Nakebod> Maar goed, de groepsbundel is nog lang niet op
+[17:20:39] <Hooglander1> doe het anders gewoon met ING tozzert
+[17:21:00] <tozzert> heknie jonge
+[17:21:05] <tozzert> rabobank ftw
+[17:21:49] <Hooglander1> ga daar eens snel weg dan :P
+[17:22:17] <Nakebod> rebobank, the benk formed bij farmers!
+[17:26:39] <Hooglander1> Ik zou toch allang weggerend zijn bij de Rabo
+[17:26:45] <Hooglander1> Ik begin ook steeds harder weg te rennen van ING
+[17:26:48] <Nakebod> Ik niet, want lui.
+[17:26:49] <Hooglander1> met hun kutacties
+[17:26:56] <Hooglander1> met betere paketten, wat gewoon BS is
+[17:26:59] <Hooglander1> het is gewoon duurder
+[17:28:15] <Nakebod> Tis allemaal de schuld van de rabobank
+[17:30:05] <gdex> alle banken zijn kut
+[17:30:08] <gdex> en alle providers ook
+[17:30:31] <gdex> al moet ik zeggen dat m'n tele2-internet voorlopig sneller is dan vodafone was
+[17:30:37] <gdex> maar wat wil je ook, met maar 3 abbonnees
+[17:31:46] *** Quits: tbosua (tbosua@office.hostnetbv.nl) (Exit)
+[17:32:05] *** Prof_Away^^ is now known as Prof_NaPo^^
+[17:32:16] <Hooglander1> whut
+[17:32:18] <Hooglander1> heb jij DSL gdex?
+[17:32:20] <Hooglander1> rly?
+[17:33:03] <Prof_NaPo^^> DSL?!
+[17:33:05] <Prof_NaPo^^> dude
+[17:33:10] <Prof_NaPo^^> leef je nog in 1983
+[17:35:16] <KompjoeFriek> dat was DDR
+[17:36:21] <Prof_NaPo^^> DDR3 of DDR4?
+[17:36:47] *** Joins: Francis (Francis@5468C56E.cm-12-1d.dynamic.ziggo.nl)
+[17:36:53] <Boots> 1 als het over '83 gaat?
+[17:37:07] <SJ> nou, nee ;-)
+[17:39:16] <SJ> SixPakPlus! Met 384 KB DRAM!
+[17:41:05] <Francis> ohai
+[17:41:21] <SJ> goed
+[17:41:24] <SJ> pils!
+[17:41:26] <SJ> later
+[17:45:43] *** Quits: Bitage (Bitage@82-171-45-9.ip.telfort.nl) (Input/output error)
+[17:45:59] *** Joins: Bitage (Bitage@82-171-45-9.ip.telfort.nl)
+[17:50:21] <Hooglander1> blijft leuk vliegtuigen kijken
+[17:50:29] <Hooglander1> Ding zit nu boven Zeeland, best een eindje weg
+[17:50:36] <Prof_NaPo^^> http://asml_720p.peregrines.nl/
+[17:50:37] <Prof_NaPo^^> hmmm lekker
+[17:50:38] <Prof_NaPo^^> DUIF
+[17:50:41] <Prof_NaPo^^> OM NOM NOM
+[17:51:06] <Hooglander1> whehehe
+[17:51:23] <Hooglander1> zijn de chicks al uitgekomen Prof_NaPo^^?
+[17:51:26] <Prof_NaPo^^> ja
+[17:51:34] <Prof_NaPo^^> eh
+[17:51:34] <Prof_NaPo^^> nee
+[17:51:36] <Prof_NaPo^^> zo te zien niet :D
+[17:51:45] <Hooglander1> ah nee
+[17:51:46] <Hooglander1> ik zag het net
+[17:51:47] <Hooglander1> whehehe
+[17:52:04] <Hooglander1> als je zo naar het noorden kijkt zie je een Transavia starten Prof_NaPo^^
+[17:52:11] <Hooglander1> of zit je niet ergens in de toren
+[17:52:13] <Prof_NaPo^^> 1 iig niet Hooglander1 ;)
+[17:52:15] <Prof_NaPo^^> http://postimg.org/image/wijullzyv/
+[17:52:42] <Hooglander1> luie beesten
+[17:52:44] <Hooglander1> maken geeneens een nest
+[17:53:00] <Prof_NaPo^^> uhu, en eten de traagste vogels
+[17:55:25] <Hooglander1> groot gelijk
+[17:55:38] <Prof_NaPo^^> van die dikke volgevreten vliegen ratten
+[17:55:42] <Hooglander1> Beetje trage duiven vreten
+[17:55:43] <Prof_NaPo^^> het uitschot van de vogels
+[17:55:44] <Hooglander1> goed voor de soort
+[17:55:55] <Hooglander1> er liggen nog wat ingewanden in het hoekje gok ik
+[17:56:19] <Prof_NaPo^^> nah, die bewaart hij voor morgen
+[17:56:23] <Prof_NaPo^^> die gaat ie op Rutten droppen
+[17:56:29] <Prof_NaPo^^> Rutte*
+[17:57:47] <Hooglander1> en Merkel
+[17:58:25] <Prof_NaPo^^> die is bijzaak
+[17:58:33] <Prof_NaPo^^> Rutte heeft veel meer invloed dan Merkel
+[17:58:34] <Prof_NaPo^^> dat weet iedereen
+[17:58:55] *** Quits: aswen (aswen@lochem.swen.nu) (Exit)
+[17:58:57] *** Quits: Resistor (Resistor@ip5456d91b.speed.planet.nl) (Exit)
+[17:59:39] <Prof_NaPo^^> Rutte is de slechtvalk en Merkel is de duif in dezen
+[18:00:43] *** Joins: Jeroen (Jeroen@ip82-139-124-155.lijbrandt.net)
+[18:00:51] *** Quits: rhod (rhod@86.85.193.196) (Exit)
+[18:04:36] *** moto-moi|afk is now known as moto-moi
+[18:05:25] *** Quits: Francis (Francis@5468C56E.cm-12-1d.dynamic.ziggo.nl) (Ping timeout: 62 seconds)
+[18:05:30] *** Joins: Francis (Francis@5468C56E.cm-12-1d.dynamic.ziggo.nl)
+[18:05:31] *** Quits: Francis (Francis@5468C56E.cm-12-1d.dynamic.ziggo.nl) (Exit)
+[18:05:50] *** Joins: Sponge (Sponge@149.210.150.92)
+[18:06:32] *** Joins: Francis (Francis@5468C56E.cm-12-1d.dynamic.ziggo.nl)
+[18:25:13] *** Joins: Matthew (Matthew@178-117-75-230.access.telenet.be)
+[18:27:03] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 66 seconds)
+[18:31:10] *** Joins: feej (Mibbit@62.12.7.36)
+[18:31:17] <feej> hola supermercado
+[18:32:41] <Francis> hola !
+[18:34:24] <feej> ik heb een SUPERdrukke dienst
+[18:34:27] <feej> echt waar
+[18:34:33] <feej> waar is osiris als ik hem nodig heb
+[18:35:13] <Prof_NaPo^^> drukke dienst?
+[18:35:18] <Prof_NaPo^^> moest je veel pakketjes bezorgen?
+[18:35:25] <Francis> ik wil wel helpen, patienten doodmaken lukt mij ook
+[18:35:34] <Prof_NaPo^^> oh ja dat was het
+[18:37:36] <Matthew> is daar geen app voor?
+[18:38:44] *** Joins: rhod (rhod@86.85.193.196)
+[18:39:31] <Prof_NaPo^^> 3 zelfs
+[18:41:37] *** Joins: gakkethijs (gakkethijs@84-245-42-16.dsl.cambrium.nl)
+[18:42:09] *** Quits: grid (grid@dhcp-089-099-194-232.chello.nl) (Ping timeout: 60 seconds)
+[18:46:13] *** Quits: gakkethijs (gakkethijs@84-245-42-16.dsl.cambrium.nl) (Exit)
+[18:46:27] *** Joins: gakke2 (gakkethijs@84-245-42-16.dsl.cambrium.nl)
+[18:46:41] *** gakke2 is now known as gakkethijs
+[18:49:00] <gakkethijs> woei
+[18:51:44] *** Quits: DinX (DinX___@ptr-2hj4tblnzznafgmncii5uu9oy.ip6.access.telenet.be) (Connection reset by peer)
+[18:53:35] *** Quits: Korvaag (sjoerd@sinas.rename-it.nl) (Ping timeout: 61 seconds)
+[18:53:47] *** Quits: tobias (tobias@sinas.rename-it.nl) (Ping timeout: 60 seconds)
+[18:53:57] *** Quits: Francis (Francis@5468C56E.cm-12-1d.dynamic.ziggo.nl) (Exit)
+[18:58:35] *** Joins: Korvaag (sjoerd@sinas.rename-it.nl)
+[18:58:45] *** Joins: tobias (tobias@sinas.rename-it.nl)
+[18:59:45] *** tobias is now known as Tweaker14491
+[19:00:58] *** Prof_NaPo^^ is now known as Prof_Away^^
+[19:04:40] *** Joins: Arno (arno@541B0FEB.cm-5-4a.dynamic.ziggo.nl)
+[19:04:40] *** ChanServ sets mode: +o Arno
+[19:05:16] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[19:21:55] *** Quits: rhod (rhod@86.85.193.196) (Exit)
+[19:23:00] *** Quits: Smileface (alexander@25bc408b.ftth.concepts.nl) (Exit)
+[19:24:19] *** Joins: Resistor (Resistor@ip5456d91b.speed.planet.nl)
+[19:47:51] *** Quits: feej (Mibbit@62.12.7.36) (Exit)
+[19:51:05] *** Joins: Smileface (alexander@25bc408b.ftth.concepts.nl)
+[19:57:11] *** Joins: grid (grid@dhcp-089-099-194-232.chello.nl)
+[20:14:14] *** Joins: rhod (rhod@86.85.193.196)
+[20:22:28] *** Joins: Guyver2 (Guyver2@guyver2.xs4all.nl)
+[20:27:22] *** Quits: zomertje (zomertje@pluizigenblauw.xs4all.nl) (Exit)
+[20:27:28] *** Quits: Resistor (Resistor@ip5456d91b.speed.planet.nl) (Exit)
+[20:27:30] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[20:34:38] *** Quits: Smileface (alexander@25bc408b.ftth.concepts.nl) (Exit)
+[20:34:42] *** Joins: Tweaker_9545 (Mibbit@5ED28959.cm-7-3c.dynamic.ziggo.nl)
+[20:34:53] *** Quits: Tweaker_9545 (Mibbit@5ED28959.cm-7-3c.dynamic.ziggo.nl) (Exit)
+[20:37:24] *** Quits: rhod (rhod@86.85.193.196) (Exit)
+[20:41:43] *** Joins: Smileface (alexander@25bc408b.ftth.concepts.nl)
+[20:55:51] *** Quits: coreblink (coreblink@145.132.131.160) (Exit)
+[21:09:09] * Jeroen verwijdert een post op z'n forum omdat ie nogal commercieel aandeed en stuurt een berichtje naar de gebruiker "het lijkt op een handeltje"
+[21:09:25] <Hooglander1> Heb jij een Forum?
+[21:09:39] <Jeroen> krijg ik terug: "Neen dit is niet zo. Wij bieden een pijl en boog spel aan in België, en hadden bij verschillende leveranciers pijlen besteld"
+[21:09:49] <Jeroen> nou dat lijkt me toch vrij commercieel, gekke belg :+
+[21:09:50] <Jeroen> ja Hooglander1 
+[21:10:08] <Hooglander1> Nm, gevonden :+
+[21:10:13] <Jeroen> haha
+[21:10:13] <Hooglander1> Goeie seo wel
+[21:10:28] <Jeroen> hele software is een mess
+[21:10:30] <Jeroen> heb ik geërfd
+[21:11:03] <Jeroen> of was het niet sarcastisch :+
+[21:11:48] *** Joins: aswen (aswen@lochem.swen.nu)
+[21:12:16] <Hooglander1> Ik zoek boogschieten forum en ik tikte je Nick verkeerd
+[21:12:21] <Hooglander1> En werd gecorrigeerd door google
+[21:12:22] <Hooglander1> Works for me
+[21:12:33] <Jeroen> not bad
+[21:12:49] <Jeroen> zonder nick zou je er ook wel komen thouh
+[21:12:50] <Jeroen> +g
+[21:13:04] <Jeroen> ik zie iig dat ie bovenaan staat :+
+[21:13:09] <Jeroen> (oh wat geheimzinnig allemaal)
+[21:13:29] <Hooglander1> Ik zie dat je het echt hebt gekregen :P
+[21:13:37] <Hooglander1> Je postte er zelf niet eens :P
+[21:14:23] <Jeroen> ik postte er wel eens maar onder een andere nickname
+[21:14:27] <Jeroen> maar idd, niet vaak
+[21:14:49] <Jeroen> maar de toenmalige eigenaar hield ermee op en stiekem komen er toch nog redelijk wat mensen
+[21:14:51] <Jeroen> dus ach
+[21:14:59] <Hooglander1> Die kende jij dan of zo
+[21:15:11] <Jeroen> juh
+[21:20:13] <tozzert> vroeger nog indiaantje mee gespeeld
+[21:24:38] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[21:42:07] *** Joins: coreblink (coreblink@145.132.131.160)
+[21:49:01] *** moto-moi is now known as moto-moi|afk
+[21:50:20] *** Quits: gakkethijs (gakkethijs@84-245-42-16.dsl.cambrium.nl) (Connection reset by peer)
+[21:57:40] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[21:59:45] <Jeroen> https://www.nrc.nl/nieuws/2016/04/20/je-moet-niet-fucken-met-erdogan-1612890
+[22:00:02] <Jeroen> Een grote groep Turkse Nederlanders adoreert Erdogan, zegt Ekiz, en dat komt volgens haar omdat Nederland hen geen lonkend alternatief biedt. „Turken in Nederland klampen zich vast aan hun Turkse identiteit, omdat ze hier niet worden geaccepteerd. Veel Turkse Nederlanders hebben het gevoel te worden buitengesloten. Ze zien hoeveel zetels de PVV haalt. En dat vergelijken ze met het beeld van hun trotse geboorteland op de televisie. Dan 
+[22:00:02] <Jeroen> denk je dus: daar hoor ik thuis. Het tragische is dat die nationalistische Nederlandse Turken in Turkije te Westers zijn om nog voor echte Turk door te gaan.”
+[22:00:05] <Jeroen> koetsjiekoetsji
+[22:00:43] <Hooglander1> Tragisch toch
+[22:00:56] <Hooglander1> Op diezelfde manier kweek je ook potentiële terroristjes
+[22:01:06] <Jeroen> maar worden ze wel gekweekt?
+[22:01:30] <Jeroen> want dat impliceert wel dat ze ook echt systematisch worden buitengesloten
+[22:02:34] <Jeroen> je zou ook kunnen zeggen dat de turkse bevolking een perceptieprobleem heeft waardoor problemen ontstaan en mensen uit angst PVV gaan stemmen
+[22:02:38] <Jeroen> om oorzaak en gevolg even om te draaien
+[22:07:24] <Hooglander1> Nee
+[22:07:31] <Jeroen> is that so
+[22:07:31] <Hooglander1> Je word echt buitengesloten
+[22:07:55] <Hooglander1> Yup, dichtbij in mijn omgeving gezien hoe dat gaat
+[22:07:58] <Hooglander1> Best heftig
+[22:08:10] <Jeroen> ik ken turken die niet worden buitengesloten
+[22:08:34] <Jeroen> toevallig ook geen turken die hier gekomen zijn voor gastarbeid of nazaten daarvan
+[22:08:45] <Hooglander1> Ik ken Nederlanders die zijn buitengesloten omdat ze een kleurtje hebbeb
+[22:09:14] <Jeroen> maar ik wil best erkennen dat er problemen rond zijn
+[22:09:26] <Jeroen> (je hebt immers ook nog ergens dat onderzoek met sollicaties en moslimnamen ed)
+[22:09:31] <Hooglander1> Dat
+[22:09:48] <Jeroen> maar is het dan niet fair om te zeggen als minderheid "we zetten onze schouders eronder"?
+[22:09:48] <Hooglander1> En dat mensen op school eerst naar zwarte mensen kijken als er iets gejat is
+[22:09:54] <Jeroen> want als vrouw heb je het ook slechter
+[22:09:56] <Jeroen> of als korte persoon
+[22:09:59] <Hooglander1> Nee, dat is niet fair
+[22:09:59] <Jeroen> of als lelijke persoon
+[22:10:06] <Jeroen> want ja er moet iets aan gedaan worden
+[22:10:09] <Jeroen> maar nee dat is niet simpel
+[22:10:10] <Hooglander1> En ook al is het fair
+[22:10:16] <Hooglander1> Als we er met zijn allen wat aan doen
+[22:10:20] <Hooglander1> Hebben we het allemaal beter
+[22:10:21] <Jeroen> in the mean time: probeer er zo min mogelijk last van te hebben
+[22:10:24] <Jeroen> ja maar dat gebeurt ook gewoon
+[22:10:35] <Hooglander1> En men doet er veel aan
+[22:10:41] <Jeroen> maar wat je dus tegelijkertijd ziet is wel retoriek dat ze zich turks voelen en dergelijke
+[22:10:44] <Hooglander1> Maar racisme is nu net dat dat niet uitmaakt
+[22:10:50] <Jeroen> maar als het daar dan beter is
+[22:10:54] <Jeroen> dan gaan ze toch terug naar turkije?
+[22:11:04] <Jeroen> dat lijkt me inmiddels een redelijke optie, dat land loopt niet heel verkeerd atm
+[22:11:15] <Jeroen> maar dan blijkt het in NL, met problemen erbij, toch ineens beter te zijn
+[22:11:28] <Hooglander1> Je snapt het echt niet
+[22:11:37] <Jeroen> oh ik snap het prima
+[22:11:41] <Hooglander1> Dit zijn Nederlanders, met een 90% Nederlands mentaliteit
+[22:11:51] <Hooglander1> Die we steeds meer aan het uitsluiten zijn
+[22:12:01] <Jeroen> nouja dat zeg jij, 90%
+[22:12:10] <Hooglander1> En dan nog steeds het lef hebben om te zeggen dat ze maar terug moeten
+[22:12:12] <Hooglander1> Echt gast
+[22:12:16] <Hooglander1> Ik had je hoger ingeschat
+[22:12:23] <Escovan> Ik ben aardbewoner. En wie het daar niet mee eens is, trapt me er maar vanaf
+[22:12:42] <Jeroen> laten we de ad hominems even achterwege laten
+[22:12:44] <Hooglander1> Ga anders lekker in je witte tuinstoel voor jenhuis zitten met een blik schultenbrau
+[22:12:50] <Hooglander1> Het is allemaal de schuld van de Rabobank
+[22:13:05] <Jeroen> want dat er "steeds meer" tegen ze wordt gedaan, dat onderschrijf ik niet bepaald
+[22:13:11] <Jeroen> ja er zijn idioten die pvv stemmen
+[22:13:41] <Hooglander1> En dat zijn er steeds meer
+[22:13:42] <Jeroen> maar ik zou eerder zeggen dat ze situatie voor iedereen verbetert als je kijkt naar de maatschappij at large
+[22:13:57] <Jeroen> (dus niet protesterende proteststemmers die op een partij stemmen die toch eeuwig in de oppositie blijft)
+[22:14:00] <Hooglander1> De politie doet steeds meer aan racisme, altijd zoeken naar alleen de Marokkanen
+[22:14:04] <Hooglander1> Dat is gewoon bewezen
+[22:14:07] <Jeroen> ik begrijp heel goed dat ze dat tegenstaat
+[22:14:08] <jasper> "22:09 < Jeroen> maar is het dan niet fair om te zeggen als minderheid "we  zetten onze schouders eronder"?
+[22:14:09] <Jeroen> terecht
+[22:14:12] <jasper> " fuck no.
+[22:14:14] <Escovan> Hooglander1, ten eerste ik drink geen blikbier, vind ik goor. Ten tweede: Onze tuinstoelen zijn blauw. Preoccupied bitch
+[22:14:16] <Jeroen> en dat ze het *gevoel* hebben dat er mensen tegen ze zijn
+[22:14:48] <Jeroen> tegelijkertijd is het allemaal zo slecht niet en is het misschien eens tijd voor een tegengeluid
+[22:14:58] <Jeroen> want ik kom ook wel eens onderzoeken tegen dat nederlandse turken enorm loyaal zijn naar turkije
+[22:15:05] <Jeroen> dan denk ik: waar ben je dán mee bezig
+[22:15:05] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[22:15:13] <jasper> een tegengeluid dat het allemaal zo slecht nog niet is en dat we gewoon tevreden moeten zijn met wat we hebben?
+[22:15:16] <Hooglander1> Mag dag niet dan?
+[22:15:18] <Jeroen> (en met tegengeluid bedoel ik dan niet de idiote retoriek van de pvv)
+[22:15:21] <jasper> en dan ben jij het die dat moet geven natuurlijkj
+[22:15:21] <Hooglander1> Wat de neuk is daar mis mee
+[22:15:33] <Hooglander1> Al die lui zijn ook fan van het koningshuis hier
+[22:15:33] <jasper> mag ik vragen.... wat is *jouw* etnische achtergrond?
+[22:15:40] <Hooglander1> Ik Ben nog steeds fan van FC twente
+[22:15:46] <Hooglander1> Woon al 12 jaar in Eindhoven
+[22:15:49] <Hooglander1> Dat is normaal
+[22:15:53] <Jeroen> een tegengeluid die niet per se de schuld legt bij "we als de autochtonen moeten ze allemaal beter behandelen"
+[22:16:00] <Jeroen> dat*
+[22:16:00] <Jeroen> jesus
+[22:16:18] <Hooglander1> Daar dus dingen achter zoeken is precies het casual racisme waar we al veel te veel van hebben
+[22:16:24] <Hooglander1> En dat is slecht voor de maatschappij als geheel
+[22:16:30] <Hooglander1> Daarmee kweken we een tweespalt
+[22:16:33] <Hooglander1> Extremisme
+[22:16:38] <Hooglander1> En hogere criminaliteit
+[22:16:52] <Hooglander1> Zo los je de multiculturele samenleving niet op
+[22:16:56] <Escovan> Als elk woord nuttig was, hadden we hier nu wereldvrede bewerkstelligd. Weltrusten
+[22:16:58] <Hooglander1> Terwijl we weten hoe dat moet
+[22:17:04] <Hooglander1> Daar is genoeg onderzoek naar geweest
+[22:17:10] <Hooglander1> Integratie is geen vraagstuk
+[22:17:14] <Hooglander1> We weten het antwoord
+[22:17:16] <jasper> en als lid van de pretty much most privileged group on teh planet -- witte jonge mannen in de eerste wereld -- is het niet echt alsof je veel recht van spreken hebt in dat opzicht
+[22:17:20] <Hooglander1> Het ligt electoraal alleen niet goed
+[22:17:44] <Hooglander1> Ik heb mijn zwager compleet verknipt zien raken door dit casual racisme
+[22:17:46] <Jeroen> waar ontken ik dat ze het inderdaad moeilijker hebben dan jonge blanke mannen, jasper?
+[22:17:51] <jasper> overigens: er is, ook in nederland, heelmaal geen probleem met de criminaliteit
+[22:17:56] <Hooglander1> Omdat hij een kleurtje had
+[22:17:57] <Jeroen> dat is inderdaad een groot probleem
+[22:18:00] <jasper> jaar in jaar uit gaan de criminaliteitscijfers omlaag
+[22:18:41] <Hooglander1> Mgoe, ik kap er mee, ik wil het best eens bepraten irl onder een biertje Jeroen 
+[22:18:48] <jasper> die angstcultuur is wat de PVV graag wil oogsten, en dus zaaien ze met grote regelmaat
+[22:19:16] <Jeroen> ja die pvv'ers zaaien alleen maar angst en vergiftigen alleen het debat maar
+[22:19:16] <tozzert> http://i.imgur.com/vVGPmEO.jpg
+[22:19:30] <jasper> Jeroen: ah, dus het is een probleem maar het moet opgelost worden door de slachtoffers. That makes sense.
+[22:19:45] <Hooglander1> tozzert: die was mooi ja :D
+[22:19:52] <jasper> Ik zal m'n nichtje vertellen dat ze met minder blote kleren moet rondlopen en vooral niet 's nachts in een uitgaansbuurt
+[22:19:57] <Hooglander1> Ah dank je
+[22:20:01] <Hooglander1> Die wilde ik net typen
+[22:20:03] <Hooglander1> :D
+[22:20:17] <Jeroen> maar mijn punt, om het even te herhalen, is dat ik dus soms een kritische approach mis die met de hypothese komt dat het niet *allemaal* door de autochtone meerderheid komt
+[22:20:19] <Jeroen> oh please, jasper 
+[22:20:24] <Jeroen> alsof ik aan victim blaming doe
+[22:20:37] <Jeroen> ik zeg verdomme dat er problemen zijn en dat die opgelost moest worden
+[22:20:43] <Hooglander1> Err ja dat doe je
+[22:20:51] <jasper> het punt is dat je niks concreets zegt
+[22:20:59] <Hooglander1> Maar hoe het komt is niet boeiend
+[22:21:03] <jasper> je roept alleen maar "maar het is ook een beetje HUNNIE's schuld
+[22:21:04] <Hooglander1> Alleen hoe je het oplost
+[22:21:12] <Hooglander1> En dat doen we met zijn allen
+[22:21:17] <Jeroen> nee jasper 
+[22:21:18] <Hooglander1> En niet 1 van de twee groepen
+[22:21:20] <jasper> en wie weet zit daar een logische, realistische gedacht achter
+[22:21:28] <Jeroen> ik vraag me af of de schuld niet ook "een beetje" bij hun ligt
+[22:21:34] <Jeroen> hen
+[22:21:35] <Jeroen> whatever
+[22:21:38] <jasper> maar a-concreet blijft het random victimblaming
+[22:21:44] <freebee666> g'avond
+[22:22:05] <Jeroen> punt is dat de enige mensen die het op die manier blijken te benaderen rechtse idioten lijken en alle mainstream media er niet over na lijken te denken
+[22:22:17] <jasper> jeroen: oh, dus je *zegt* niet dat het ook een beetje hun schuld is, maar dat je je *afvraagt* of het niet ook een beetje hun schuld is
+[22:22:25] <jasper> that makes everything all right
+[22:22:58] <jasper> maarre, ik heb voor vandaag wel weer genoeg borrelpraat tbh
+[22:23:04] <Jeroen> is dat sarcastisch of niet?
+[22:23:09] <Jeroen> want ik denk dat een kritische houding nooit weg is
+[22:23:44] <Jeroen> verder wil ik ook even aanstippen dat ik in het begin voornamelijk vragen stelde, die toch niet bijzonder retorisch waren
+[22:23:57] <jasper> begingemist.nl
+[22:24:08] <Jeroen> en dan krijg ik voornamelijk het standaard riedeltje
+[22:24:15] <Jeroen> en het nare van clichés is natuurlijk dat ze vaak kloppen
+[22:24:23] <Jeroen> maar ik weet niet of die krampachtige houding wel terecht is
+[22:24:41] <Jeroen> had brusselmans overigens niet een briljante troll laatst waarin ie hetzelfde zei
+[22:24:43] <Jeroen> ff kijken
+[22:26:37] <Jeroen> meh betaalmuur
+[22:27:16] <Jeroen> http://www.volkskrant.nl/opinie/tolerantie-leidt-juist-niet-tot-terrorisme~a4280144/ hier staan wat citaten in
+[22:27:56] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 66 seconds)
+[22:28:18] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[22:29:14] <jasper> gelukkig ook al meteen met een goeie debunking eromheen :)
+[22:30:17] <Jeroen> het was ook een gechargeerde column dus dat is makkelijk te bedunken
+[22:30:41] <Jeroen> maar een later citaat:  Ik zeg niet dat er geen seksisme meer is, maar het bestaat alleen nog bij idioten, net zoals de discriminatie van allochtonen alleen nog bestaat bij een kleine minderheid van neofascisten of bij de complete debielen van het Vlaams Belang.
+[22:31:51] <Jeroen> het is voornamelijk ageren tegen de politiek correcte drang om vooral maar de schuld *totaal* niet bij de minderheid te leggen
+[22:31:57] <Jeroen> in feite wat ik dus ook doe
+[22:32:19] *** Quits: Wussie (wussie@220-251.ftth.onsbrabantnet.nl) (Exit)
+[22:32:30] <Jeroen> en misschien ligt daar de schuld ook totaal niet, maar er lijkt geen redelijk persoon in de mainstream media over na te denken
+[22:33:26] <jasper> daar maakt hij weer de fout daty "seksisme" akkeenb bestaat als iemand hardop zegt dat het enige recht van vrouwen het aanrecht is
+[22:33:34] <jasper> en dat is niet zo
+[22:34:09] <Jeroen> nouja hij versimpelt hier natuurlijk zwaar en kijkt alleen naar institutionalised racism/sexism
+[22:34:10] <jasper> er is nog steeds een hele hoop seksisme verweven op allerlei manieren in de maatschappij. Voordat dat weg is duurt gewoon heel veel langer dan een generatie
+[22:34:24] <Jeroen> ja maar dat ontkent ie ook niet
+[22:34:37] <jasper> juist institutionalised sexism (net als racism) is er nog wel degelijk.
+[22:35:09] <jasper> Iedereen roept namelijk wel dat ze niet seksistisch zijn... maar als punt bij paaltje komt is *toevallig* 80% van de tijd een man een betere kandidaat
+[22:35:31] <jasper> puur op merites natuurlijk!
+[22:35:32] <Jeroen> dat zijn dus individuen
+[22:35:37] <Jeroen> en geen instituten
+[22:35:39] <Jeroen> geen regels
+[22:35:43] <Jeroen> niet gecodificeerd
+[22:35:47] <Jeroen> Institutional racism (also known as institutionalised racism) is a form of racism expressed in the practice of social and political institutions, as distinct from racism by individuals or informal social groups.
+[22:35:54] <Jeroen> maar laten we geen semantics bespreken
+[22:36:09] <jasper> ik moet eigenlijk even wat nuttigs doen
+[22:36:18] <jasper> dus ... over een kwartiertje verder?
+[22:36:26] <Jeroen> meh ik ga zo naar bed :p
+[22:36:57] <jasper> dan morgen ofzo, of als het eens voorkomt
+[22:37:03] <jasper> liefst met een biertje erbij denk ik :)
+[22:37:04] <Jeroen> bijvoorbeeld
+[22:37:05] <Jeroen> ghehe ja
+[22:37:19] *** Quits: Arno (arno@541B0FEB.cm-5-4a.dynamic.ziggo.nl) (Connection reset by peer)
+[22:37:28] <jasper> ik moet even kijken of vodafone chat open is trouwens om deze tijd
+[22:37:29] <Jeroen> overigens, Escovan 
+[22:37:34] <Jeroen> die opmerking was niet richting jou, vermoed ik
+[22:37:40] <jasper> derde keer the charm, hoop ik
+[22:37:43] <Jeroen> en dat is eigenlijk wel deel van het probleem
+[22:37:54] <Jeroen> "oh hij denkt zo dus het moet wel een pauper zijn"
+[22:38:11] <Jeroen> terwijl ik alleen ergens aan twijfel maar tegelijkertijd ook dat label krijg
+[22:38:12] <Jeroen> mgoed
+[22:38:16] <Jeroen> genoeg politiek voor vandaag :+
+[22:38:49] <jasper> vodafone support ben ik steeds midner tevreden over
+[22:38:56] <jasper> het *leek* iedere keer opgelost te zijn
+[22:39:15] <Jeroen> ik moet ook nog eens overstappen van vodafone naar iets anders
+[22:39:38] <jasper> ik heb een abo met 1 hoofdsim en dan 2 daarbij horende data only sims. Waren zoek. Dus ik heb een werkende hoofdsim, en ik vraag ze om twee nieuwe datasimns op te sturen
+[22:39:38] <Jeroen> hoe vaak ik wel niet gprs heb...
+[22:39:40] <jasper> doen ze
+[22:39:43] <jasper> blijkt er maar 1 te werken
+[22:39:47] <Jeroen> ghe
+[22:39:54] <Jeroen> een sim doa
+[22:39:55] <jasper> dus ik chat NOG een keer met ze
+[22:40:21] <jasper> deze sim met dit serienummer moet als data sim extra geactiveerd worden. Dus neit als hoofdsim he? nee, niet als hoofdsim
+[22:40:33] <jasper> heej, hij heeft data! top, alles geregeld
+[22:40:44] <jasper> kwartier later ben iki met m'n hoofd telefoon buiten en dus buiten de wifi
+[22:40:48] <jasper> VERDOMME GEEN DATA
+[22:41:02] <jasper> en ja hoor, die ene die erbij kwam ontvangt de calls.
+[22:41:03] <Jeroen> hahaha
+[22:41:08] <jasper> facedesk
+[22:41:11] <Jeroen> nja
+[22:41:11] <Jeroen> :w
+[22:41:21] *** Quits: Jeroen (Jeroen@ip82-139-124-155.lijbrandt.net) (Exit)
+[22:48:12] <jasper> ik denk dat ik morgen maar weer bij de winkel langsga ofzo
+[22:48:21] <jasper> de chat lijkt nu dicht te zijn
+[22:56:51] <tozzert> mijn luiken gaan ook dicht
+[22:56:51] <tozzert> :w
+[23:01:11] *** Quits: grid (grid@dhcp-089-099-194-232.chello.nl) (Ping timeout: 67 seconds)
+[23:15:37] <MrDummy> wie kent de probleem dat windows 10 start knop niet wil openen op laptop?
+[23:16:31] <jasper> MrDummy!
+[23:16:34] <jasper> long time no see
+[23:17:14] <MrDummy> sinds wanneer :)
+[23:17:24] <jasper> uh... couple years denk ik ?
+[23:18:08] <MrDummy> probleem dat ik maar beperkt mensen nog weet op tweakers :/
+[23:18:25] <MrDummy> de rest moet mijn kop even opfrissen
+[23:19:00] <jasper> ik heb ooit wel eens wat rondgehangen om het anime-kanaal
+[23:19:09] <MrDummy> animelifestyle?
+[23:19:10] <jasper> early 2000s
+[23:19:14] <jasper> that was it
+[23:24:14] <MrDummy> ben nog wel op animecon en abunai maar of je nog langs kan komen weet ik niet
+[23:24:30] <MrDummy> in de gameroom vooral :)
+[23:24:58] *** Quits: aswen (aswen@lochem.swen.nu) (Exit)
+[23:30:01] *** Joins: zomertje (zomertje@pluizigenblauw.xs4all.nl)
+[23:30:01] *** ChanServ sets mode: +o zomertje
+[23:36:34] <MrDummy> wie kent de probleem dat windows 10 start knop niet wil openen op laptop? niemand dus
+[23:36:46] <jasper> snap niet helemaal wat je ermee bedoelt
+[23:36:55] <jasper> de windows knop op je keyboard?
+[23:37:00] <jasper> of een losse naast je scherm?
+[23:37:04] <MrDummy> normaal kan ik op klikken op pc op desktop win10
+[23:37:08] *** Quits: zomertje (zomertje@pluizigenblauw.xs4all.nl) (Exit)
+[23:37:11] <MrDummy> bekende startknop linksonder
+[23:37:40] <MrDummy> maar op ene laptop hier wil het niet open. Rechterknop werkt wel voor afsluiten en andere dingen
+[23:37:58] <jasper> reboot?
+[23:37:59] <MrDummy> zie ook dat zoeken knop ook niet doet
+[23:38:38] <jasper> ik ben tegenwoordig maccert, dus ik heb tbh niet zoveel win10 ervaring
+[23:38:47] <jasper> maar mijn win10 laptopje doet het gewoon
+[23:38:52] <jasper> misschien tablet mode?
+[23:41:42] <MrDummy> er zijn nog meer storingen, kan ook niet bij display settings
+[23:41:53] <MrDummy> het is toshiba U400 laptop
+[23:57:28] *** Joins: grid (grid@dhcp-089-099-194-232.chello.nl)

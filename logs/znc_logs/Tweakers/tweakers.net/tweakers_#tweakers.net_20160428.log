@@ -1,0 +1,957 @@
+[00:06:43] *** Joins: FlutterShy (guntherdw@ip-83-101-5-155.customer.schedom-europe.net)
+[00:09:53] *** Quits: Robin (robin@5419F052.cm-5-2d.dynamic.ziggo.nl) (Exit)
+[00:17:27] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[00:24:59] *** Quits: FlutterShy (guntherdw@ip-83-101-5-155.customer.schedom-europe.net) (Ping timeout: 66 seconds)
+[00:31:28] *** Quits: Vipertje (tweak@54182E79.cm-5-1a.dynamic.ziggo.nl) (Connection reset by peer)
+[00:41:50] *** Joins: FlutterShy (guntherdw@ip-83-101-5-155.customer.schedom-europe.net)
+[00:51:22] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[00:51:40] *** Quits: FlutterShy (guntherdw@ip-83-101-5-155.customer.schedom-europe.net) (Ping timeout: 68 seconds)
+[00:55:45] *** Quits: coreblink (coreblink@145.132.131.160) (Exit)
+[01:01:05] *** Joins: FlutterShy (guntherdw@ip-83-101-5-155.customer.schedom-europe.net)
+[01:08:55] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[01:13:08] *** Quits: Prof_Away^^ (~NaPo@92-108-244-176.dynamic.upc.nl) (Ping timeout: 60 seconds)
+[01:13:37] *** Quits: Twizzlerz (M@178-84-226-29.dynamic.upc.nl) (Ping timeout: 66 seconds)
+[01:13:45] *** Joins: Prof_Away^^ (~NaPo@92-108-244-176.dynamic.upc.nl)
+[01:14:11] *** Prof_Away^^ is now known as Prof_NaPo^^
+[01:14:16] *** Joins: Twizzlerz (M@178-84-226-29.dynamic.upc.nl)
+[01:21:30] *** Quits: Chester (Chester@c77152.upc-c.chello.nl) (Ping timeout: 66 seconds)
+[01:22:13] <GuntherDW> ach Etienne dat is beter dan hier net naast onze straat op de autostrade. Leuk accident op de pechstrook :+
+[01:22:58] <GuntherDW> https://www.google.be/maps/@51.2125978,4.3474146,3a,75y,72.43h,81.46t/data=!3m6!1e1!3m4!1sSaMM4RPtODrQfaY1pk2hFg!2e0!7i13312!8i6656 :3
+[01:36:26] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[01:41:12] *** Quits: Svardskampe (Svardskamp@198-14-ftth.onsnetstudenten.nl) (Connection reset by peer)
+[01:55:42] *** Quits: mrwazoo (mrwazoo@h102136.upc-h.chello.nl) (Exit)
+[01:55:53] *** Joins: mrwazoo (mrwazoo@h102136.upc-h.chello.nl)
+[02:06:44] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[03:07:18] *** Quits: Hooglander1 (Hoog@2001:984:ef56:1:211:32ff:fe51:1415) (Exit)
+[03:11:00] *** Joins: Hooglander1 (Hoog@2001:984:ef56:1:211:32ff:fe51:1415)
+[03:20:35] *** Quits: Stuiterbal (Stuit@2001:980:5281:1:d9c:54b5:b513:c400) (Exit)
+[03:52:06] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 66 seconds)
+[04:21:05] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[04:21:24] *** Quits: MrDummy (gjkeizer@a83-160-84-31.adsl.xs4all.nl) (Ping timeout: 60 seconds)
+[04:23:48] *** Joins: MrDummy (gjkeizer@a83-160-84-31.adsl.xs4all.nl)
+[05:23:11] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 66 seconds)
+[06:16:56] <tozzert> meh
+[06:28:44] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[06:38:52] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 66 seconds)
+[06:58:57] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[07:18:29] *** Joins: smesjz (smesjz@dhcp-089-098-025-154.chello.nl)
+[07:45:14] *** Joins: jk-5 (jk-5@D549D0E1.cm-10-1b.dynamic.ziggo.nl)
+[07:45:51] *** Joins: zomertje (zomertje@pluizigenblauw.xs4all.nl)
+[07:45:51] *** ChanServ sets mode: +o zomertje
+[08:00:16] <Escovan> hoi
+[08:01:27] <Escovan> ADIDAS heeft u een volledige terugbetaling gedaan van €63,00 EUR voor uw aankoop
+[08:01:31] <Escovan> Nice
+[08:01:40] <Escovan> very nice
+[08:04:39] <smesjz> Nice? Zijn ze vast wettelijk verplicht, fnie? 
+[08:05:13] <Escovan> Nou, volgens de voorwaarden ... Ik had er al op buiten gelopen hè
+[08:06:56] <rogue> mogge
+[08:07:32] <Escovan> hoi rogue 
+[08:08:05] <DizzyWeb> Mogge rogue. Koffie?
+[08:10:09] <rogue> jaaaaaaaa
+[08:13:35] <Nakebod> \o/
+[08:13:39] <DizzyWeb> Kom maar halen :P
+[08:14:25] <rogue> ik gok dat dat niet op mn route ligt
+[08:14:41] <Nakebod> Ooit he.. pakken we massaal den auto en komen je kant op 
+[08:14:55] <rogue> ik vindt prima
+[08:15:02] <rogue> *vin t
+[08:15:04] <DizzyWeb> 300 kannen koffie :P
+[08:15:09] <rogue> LAAT OOK MAAR
+[08:15:14] <Nakebod> Tis nog vroeg
+[08:16:44] <rogue> mja en achtergesteld gebied he, geen 4g
+[08:17:16] <Nakebod> Jamaar.. Ik wil 4G+
+[08:17:36] <rogue> je hebt willen en kunnen
+[08:18:06] <Nakebod> Ik wil het, en ik kan het al bijna 
+[08:19:12] <rogue> heel knap
+[08:19:24] <DizzyWeb> Geen 4g?! :o
+[08:19:33] <rogue> gouda he
+[08:19:44] <Nakebod> Wat doe je daar dan ook
+[08:19:46] *** Joins: DataGhostS (vincent@5ED2C6DE.cm-7-3d.dynamic.ziggo.nl)
+[08:20:02] *** Joins: DinX_Werk (DinX@213.224.57.66)
+[08:20:18] <DizzyWeb> Huh? Geen 4g in Gouda? Sinds wanneer?
+[08:20:21] <rogue> dat vraag ik mezelf ook af
+[08:20:31] <rogue> stukje voor goverwelle
+[08:20:39] <rogue> is altijd datadipje
+[08:21:30] <DizzyWeb> Ohh, da's nasty.
+[08:21:38] <rogue> och
+[08:21:42] <DizzyWeb> Kom geregeld in Gouda, nooit last van gehad :P\
+[08:21:46] <rogue> dubbelblind typen
+[08:22:03] <rogue> waar is je koffie dan?
+[08:22:13] <DizzyWeb> Maarssen :P
+[08:22:44] <rogue> ahja dat ligt niet op mn route
+[08:23:09] <rogue> even wat anders
+[08:23:29] <rogue> wat is dat ronde gele ding in de lucht?
+[08:23:41] <DizzyWeb> Zag 'm gisteren ook zo nu en dan even.
+[08:23:55] <DizzyWeb> Denk vanmorgen ook, maar weet niet zeker, want zag geen flikker door al het licht.
+[08:24:04] <rogue> vannacht ook maar dat was een halve cirkel
+[08:24:31] <DizzyWeb> 's Nachts schijn je iets anders te zien.
+[08:24:44] <rogue> gek
+[08:25:50] <rogue> zoiets als F.lux?
+[08:26:00] <DizzyWeb> lol :') Nerd :P
+[08:26:20] <Escovan> :D
+[08:28:23] *** Joins: coreblink (coreblink@145.132.131.160)
+[08:38:32] *** Joins: Kaastosti (Kaastosti@185.19.103.3)
+[08:38:44] <Kaastosti> een hele goede morgen toegewenst altesaam
+[08:40:57] <rogue> engerd
+[08:41:03] <Nakebod> Hoe kan het een goede morgen zijn, ik moet werken...
+[08:41:07] <rogue> dat
+[08:41:08] <rogue> idd
+[08:41:14] <rogue> ik ga even overstappen en werkplek zoeken :/
+[08:41:22] <DataGhostS> dr is storing vanochtend dus mss daarom geen 4G in gouda?
+[08:42:24] <Nakebod> Denk dat bepaalde bevolkingsgroepen gewoon de kabels hebben gejat
+[08:43:12] *** Joins: marccom (marc@095-097-114-212.static.chello.nl)
+[08:44:15] <Kaastosti> zit vast koper in
+[08:44:29] <Nakebod> Of glas, je weet het tegenwoordig niet he..
+[08:44:29] <Kaastosti> en ja... voor €10,- aan materiaal trek je inderdaad gewoon de grond open
+[08:44:41] <Kaastosti> maar het is toch gewoon een hele goede morgen?
+[08:44:44] <Kaastosti> prima morgen
+[08:44:46] <Kaastosti> geen regen
+[08:44:48] <Kaastosti> geen hagel
+[08:44:49] <Kaastosti> geen sneeuw
+[08:44:50] <Nakebod> Zon!
+[08:44:55] <Kaastosti> soort van
+[08:45:06] <Nakebod> Blauwe lucht met witte wolkjes.
+[08:45:09] <Nakebod> Windows 95.
+[08:45:26] <Kaastosti> we gonna party like it's windows '95
+[08:48:59] <Nakebod> http://www.androidpolice.com/2016/04/27/minecraft-gear-vr-edition-now-available-for-samsung-s6-s7-and-note-5-series-phones/ altijd al willen hebben
+[08:59:18] *** Joins: tbosua (tbosua@office.hostnetbv.nl)
+[09:01:33] *** Joins: Chiron (Chiron@ip5652834f.adsl-surfen.hetnet.nl)
+[09:02:24] *** Joins: Jeroen (Jeroen@54188FF8.cm-5-1c.dynamic.ziggo.nl)
+[09:02:53] *** Quits: zomertje (zomertje@pluizigenblauw.xs4all.nl) (Exit)
+[09:06:51] *** Joins: McM (mcm@62.207.31.65)
+[09:15:07] *** Joins: kees (kees@office.tweaknet.net)
+[09:27:05] *** Quits: Arpanet69 (nverweijen@k14089.upc-k.chello.nl) (Exit)
+[09:35:04] *** Quits: mrwazoo (mrwazoo@h102136.upc-h.chello.nl) (Ping timeout: 66 seconds)
+[09:41:37] <rogue> Nakebod: kopen dan
+[09:46:11] <Kaastosti> ik wacht nog wel even tot er goede betaalbare VR porno te vinden is
+[09:46:18] <Kaastosti> die categorie mis ik nog bij de nieuwsgroepen
+[09:46:33] <Huigie> je wil erin kijken he
+[09:46:48] <Kaastosti> puur uit professionele interesse
+[09:46:54] <Huigie> viezerd
+[09:48:12] <Kaastosti> wat is je punt?
+[09:48:29] <Huigie> geen, ik heb de bril en de foon al
+[09:48:50] <Huigie> ik wil het zien omdat het me geil lijkt :P
+[09:48:52] <Kaastosti> jou boeit het niet eens of het goede porno is dus
+[09:49:14] <Huigie> ik wil alles van beeg.com in VR
+[09:49:17] <Kaastosti> gewoon de loodgieter en/of pizzabezorger is al prima
+[09:49:29] <Kaastosti> weet je, ik ga gewoon eens niet kijken
+[09:49:32] <Huigie> ik hoef geen verhaal hoor
+[09:49:48] <DataGhostS> pizzabezorger ja Kaastosti ? http://www.cracked.com/article_17313_10-popular-porn-scenarios-that-seem-highly-implausible.html
+[09:49:52] <DataGhostS> big sausage pizza 8)7
+[09:50:08] <Kaastosti> beetje goeie dialoog, karakterontwikkeling...meh... maar diepgang jonguh!
+[09:50:18] <Jeroen> "diepgang"
+[09:50:27] <Kaastosti> pun intended
+[09:50:46] <DataGhostS> voor diepgang moet je bij captain stabbin' wezen
+[09:50:49] <DataGhostS> :D
+[09:50:53] <Huigie> whehehe
+[09:53:54] <Dubbeldrank> toch wat vreemd hoor als iemand met een nick als Kaastosti het over porno heeft
+[09:54:25] <Dubbeldrank> dat je zo zit te kijken, gaan die benen uit elkaar en zie je zo'n warme kaastosti die opengetrokken wordt
+[09:54:26] <Kaastosti> hoezo? ik heet toch geen waffle?
+[09:54:32] <Kaastosti> google dat maar eens... blue waffle
+[09:54:40] <Dubbeldrank> ik weet wat het is
+[09:54:42] <Dubbeldrank> :P
+[09:54:49] <Dubbeldrank> internet bestaat al even ;)
+[09:54:51] <Kaastosti> hadden bijna een maat zover om z'n bboot zo te noemen
+[09:54:56] <Kaastosti> "The Blue Waffle"
+[09:55:01] <Dubbeldrank> hahaha
+[09:55:15] <Kaastosti> wist hij veel.. boot is blauw, wafels zijn lekker... combineer die twee
+[09:56:01] <Hooglander1> mogguh
+[09:56:04] <rogue> internet?
+[09:56:08] <rogue> kan je dat eten?
+[09:56:10] <Hooglander1> gemiste kans Kaastosti 
+[09:56:15] <Dubbeldrank> ja, met veel saus rogue
+[09:56:55] <rogue> ik ga daar eens geen opmerking over maken
+[09:56:59] <Dubbeldrank> :D
+[09:57:12] <rogue> t kan wel
+[09:57:20] <Dubbeldrank> te vroeg?
+[09:57:25] <rogue> maar ik heb er voor gekozen om daar geen opmerkingen over te maken
+[09:57:30] <rogue> ja of te laat
+[09:57:33] <rogue> de r zit in het uur he
+[09:57:50] <Hooglander1> owjah
+[09:57:51] <Hooglander1> koffie
+[09:57:54] <Dubbeldrank> ja, elk uur weer
+[09:57:59] <Hooglander1> dat ook
+[09:58:07] <Hooglander1> moet ik nog een espresso'tje meenemen voor iemand?
+[09:58:07] <rogue> ja koffie idd
+[09:58:19] <rogue> nee ik ga beneden even cappucino roggelen
+[09:59:16] <Hooglander1> jij roggelt zo ff melkschuim?
+[09:59:20] <Hooglander1> of hoe moet ik mij dat voorstellen
+[10:01:21] <Kaastosti> het was neger uur?
+[10:02:44] <Hooglander1> thats racost
+[10:02:46] <Hooglander1> *racist
+[10:04:58] <rogue> ik zeg tegen nel
+[10:05:03] <rogue> nel doe mij maar een cappucinootje
+[10:05:07] <rogue> en dan zegt nel
+[10:05:10] <rogue> da's goed hoor
+[10:05:14] <rogue> meenemen of hier opdrinken
+[10:05:29] *** Joins: mrwazoo (mrwazoo@h102136.upc-h.chello.nl)
+[10:05:30] <rogue> en dan zeg ik
+[10:05:31] <rogue> geen idee
+[10:05:37] <rogue> als t maar koffie is
+[10:05:46] <rogue> en dan mikt ze t in een beker
+[10:05:51] <rogue> en dan zeg ik dankjewel nel
+[10:06:08] <rogue> en dan heb je een marginaal blijere en gelukkiger rogue
+[10:06:34] <rogue> dus :w
+[10:08:33] <Kaastosti> doet me denken aan een Dirk-Jan stripje... komt 'ie de winkel binnen: "Doet u mij maar iets" -"Hier laten of meenemen?" -"Hier laten" ...en zo loopt 'ie weer de winkel uit :)
+[10:09:02] <Kaastosti> maar jij regelt dus je koffie, ik moet dat helemaal zelf halen
+[10:09:08] <Kaastosti> wel ernstig goeie koffie, dat dan weer wel
+[10:13:41] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Ping timeout: 66 seconds)
+[10:14:45] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[10:23:42] <kees> spam mail.. of ik een hdmi kabel van 20km wil heben 8)7
+[10:23:59] <LeapingSheep> zoveel
+[10:24:01] <Jeroen> da's een lange kabel
+[10:24:18] <HarmoniousVibe> Knap, zeker voor twisted pair :D
+[10:25:09] <kees> glasvezel
+[10:25:51] <Hooglander1> reply "kostda?"
+[10:29:24] <Jeroen> lol op rtlz komt ene koert van mensvoort, filosoof en "technoloog"
+[10:29:57] <Jeroen> die heeft een blikje cola  bedacht (bedacht, niet eens uitgevonden) dat door een nanocoating op je maagwand ervoor zorgt dat er geen vetten worden opgenomen
+[10:30:12] <Jeroen> nu wil ik niet lullig doen
+[10:30:19] <Jeroen> maar misschien moet ie nog een biologielesje volgen
+[10:30:27] *** Quits: McM (mcm@62.207.31.65) (Exit)
+[10:32:03] <Kaastosti> eeeeh waar gaan ze dan heen?
+[10:32:11] <Kaastosti> en wat heeft dat met een blikje cola te maken?
+[10:32:26] <Jeroen> het is blijkbaar makkelijk om op tv te komen, tegenwoordig
+[10:32:42] <Jeroen> ik bedenk bij deze een blikje cola dat door nanotechnologie een ruimteschip aandrijft
+[10:32:49] <Kaastosti> w00000t
+[10:33:49] <Kaastosti> vond het dinsdagochtend ook mooi op 538, dat sylvana simons kennelijk overal verstand van heeft en op tv wil verschijnen
+[10:33:57] <Kaastosti> ze zegt echt inhoudelijk 0,0
+[10:34:08] <Kaastosti> alleen oppervlakkig op de discussie reageren
+[10:34:36] <Jeroen> sylvana simons :')
+[10:35:11] <Kaastosti> ja de rest van weldenkend Nederland heeft 'r 10 jaar geleden al uitgekotst, maar ze bestaat nog!
+[10:35:27] <Jeroen> http://www.joop.nl/nieuws/sylvana-simons-zwarte-piet-hoeft-niet-meer-terug-te-komen
+[10:35:34] <Jeroen> van mij hoeft sylvana simons niet meer terug te komen
+[10:35:38] <Kaastosti> oh ja dat 
+[10:35:46] <Kaastosti> dat haalden ze ook nog aan :P
+[10:36:05] <Kaastosti> we noemen sylvana simons, dus ongetwijfeld binnenkort weer een zwarte pieten discussie
+[10:37:07] <Kaastosti> als Erdogan zich beledigd voelt komen we allemaal met gestrekt been in, maar als onze pigment bevoordeelde medemens zich beledigd voelt door 'zwarte piet', weten we niet hoe snel we een maatschappelijke discussie op gang moeten brengen
+[10:37:16] <Hooglander1> Jeroen: hmz, dat vind ik nou net een van de betere momenten van haar als ik eerlijk ben
+[10:37:31] <Jeroen> oja ik heb dat hele verhaal niet gelezen 
+[10:37:36] <Jeroen> maar ik vind gewoon dat simons weg moet blijven
+[10:37:37] <Jeroen> :+
+[10:37:50] <Kaastosti> eens, vervelend mens
+[10:38:29] <Kaastosti> samen met hans kraay junior
+[10:38:44] <Kaastosti> en prem
+[10:39:03] <Jeroen> die hele zwartepietendiscussie kent sowieso alleen maar verliezers
+[10:39:05] <Jeroen> haha prem
+[10:39:13] <Jeroen> mja om prem kan ik soms wel lachen, stiekem :+
+[10:39:26] <Kaastosti> en robert kranenborg
+[10:39:39] *** Joins: McM (mcm@62.207.31.65)
+[10:39:54] <Jeroen> wie?
+[10:40:18] <Jeroen> oh die
+[10:40:22] <Jeroen> mja
+[10:45:43] *** Joins: Tweaker868 (Mibbit@184-155-216-198.cpe.cableone.net)
+[10:45:55] *** Quits: Tweaker868 (Mibbit@184-155-216-198.cpe.cableone.net) (Exit)
+[10:51:36] <Kaastosti> nog meer mensen die gewoon weg moeten?
+[10:51:56] <Kaastosti> naast, zoals eerder gemeld, mensen die dingen als "me werk" schrijven
+[10:58:08] <gdex> jij?
+[10:58:24] <gdex> en dan "okdoei" en /quit natuurlijk
+[10:58:29] <Jeroen> john williams
+[10:58:34] <Jeroen> van nieuwkerk
+[10:58:42] <Jeroen> iedereen die bij de vara werkt
+[10:58:51] <Jeroen> knevel
+[10:58:52] <Jeroen> van den brink
+[10:58:56] <Jeroen> jan slagter
+[10:59:04] <Jeroen> die jojanneke
+[10:59:37] *** Quits: McM (mcm@62.207.31.65) (Ping timeout: 61 seconds)
+[10:59:49] <gdex> eigenlijk iedereen die meer dan een kwartier per week op TV komt
+[10:59:53] <gdex> en die we niet zouden kennen als dat niet zo was
+[11:00:40] *** Quits: tbosua (tbosua@office.hostnetbv.nl) (Exit)
+[11:00:45] <Jeroen> ja dat vind ik wel een mooie formule
+[11:03:20] <Kaastosti> mensen die geen bijdrage leveren met hun aanwezigheid op tv
+[11:04:04] *** Joins: Dastaranov (androirc@4.174-78-194.adsl-static.isp.belgacom.be)
+[11:04:42] *** Joins: McM (mcm@62.207.31.65)
+[11:06:46] <gdex> Kaastosti: dat wordt al discutabel
+[11:08:15] <kees> Kaastosti, wat moet je dan met een publiek?
+[11:09:20] <Kaastosti> klapvee?
+[11:09:27] *** Quits: Dastaranov (androirc@4.174-78-194.adsl-static.isp.belgacom.be) (Ping timeout: 63 seconds)
+[11:10:54] *** Joins: Guyver2 (Guyver2@guyver2.xs4all.nl)
+[11:15:14] *** Joins: Chester (Chester@c77152.upc-c.chello.nl)
+[11:27:23] *** Joins: tbosua (tbosua@office.hostnetbv.nl)
+[11:29:35] <rogue> mmja
+[11:29:40] <rogue> maar ook als input
+[11:29:42] <rogue> amusement zeg maar
+[11:30:08] <rogue> trollen is gewoon leuker als t ten koste gaat van iemand anders
+[11:30:33] <DizzyWeb> Da's toch altijd bij trollen?
+[11:30:44] <DizzyWeb> Nouja, tenzij je jezelf trollt :P
+[11:32:23] <Hooglander1> Dan doe je al iets fout
+[11:32:29] <Jeroen> https://i.imgur.com/xmvoQOQ.webm
+[11:33:03] *** Joins: Anthor (Anthor@cust.7.103.adsl.cistron.nl)
+[11:33:52] <Huigie> trektouwtje
+[11:34:48] *** Quits: kees (kees@office.tweaknet.net) (Input/output error)
+[11:35:06] <Huigie> toch grappig dat dat touwtje niet ontploft als het op bomen landt...
+[11:35:41] <Jeroen> nouja grappig
+[11:35:59] <Jeroen> ze zullen geen gevoelig high explosive gebruiken en het ding gewoon met een knopje af laten gaan :+
+[11:36:03] <Jeroen> https://en.wikipedia.org/wiki/Mine-clearing_line_charge
+[11:36:17] *** Joins: kees (kees@office.tweaknet.net)
+[11:37:26] <Jeroen> In the event a MICLIC fails to detonate normally, it can be manually activated by time-delay fuses every few feet along the length of it. Due to the inherent dangers of entering a live minefield to manually arm the backup fuses on a charge that could still detonate at any moment, possibly while under enemy fire as well, the act is jokingly referred to as the "Medal of Honor run".
+[11:37:27] <Jeroen> :D
+[11:37:42] <Hooglander1> Some modern mines, such as the Italian SB-33 mine, have a fuze mechanism that detonates the mine if subject to gradual, steady pressure, but locks the fuse if subject to a sudden shock. This can defeat the use of mine-clearing line charges to clear such mines. 
+[11:37:47] <Hooglander1> Brrr, wie verzint dat soort enge shit
+[11:40:20] <kees> italianen
+[11:40:24] <Huigie> smart people
+[11:40:28] <Huigie> evil people
+[11:40:31] <Huigie> pick one
+[11:40:46] <kees> maar zijn mijnen niet illegaal tegenwoordig?
+[11:41:02] <Jeroen> more or less
+[11:41:10] <Jeroen> de meeste landen hebben getekend ze niet meer te gebruiken
+[11:41:18] <Kaastosti> de landen ja
+[11:41:27] <Kaastosti> en die hebben volledige controle over alle groeperingen 
+[11:41:32] <Jeroen> https://en.wikipedia.org/wiki/Ottawa_Treaty#/media/File:Ottawa_Treaty_members.svg
+[11:41:36] <kees> met uitzondering van de us of a zeker
+[11:41:44] <kees> juist
+[11:41:49] <Kaastosti> als Rutte zegt 'doen we niet', dan zal ook niemand in NL dat meer doen, want zo werkt het :P
+[11:41:50] <Jeroen> de vs heeft niet getekend vanwege de DMZ in korea
+[11:42:06] <Jeroen> dan heet het geen mijn maar een IED, Kaastosti 
+[11:42:28] <rogue> cue slechte grap over gezag ondermijnen
+[11:43:00] <Jeroen> https://en.wikipedia.org/wiki/Ottawa_Treaty#Landmine-free_countries
+[11:43:06] <Jeroen> NL staat ook niet in die lijst
+[11:43:26] <Jeroen> http://www.cmo.nl/vnarena/mijnen-in-nederland
+[11:44:20] *** Joins: Peetz0r (peter@haas-en-berg.nl)
+[11:46:44] <Hooglander1> Jeroen: dat is toch alsnog tragisch. Alsof die DMZ dan opeens wel mag 8)7
+[11:46:50] <Hooglander1> het hele idee is nu net beter te zijn dan je opponent
+[11:47:33] <Jeroen> mja
+[11:48:00] <Jeroen> http://www.state.gov/t/pm/wra/c11735.htm
+[11:48:07] <Jeroen> This means that United States will:
+[11:48:07] <Jeroen> not use APL outside the Korean Peninsula;
+[11:48:08] <Jeroen> not assist, encourage, or induce anyone outside the Korean Peninsula to engage in activity prohibited by the Ottawa Convention; and
+[11:48:08] <Jeroen> undertake to destroy APL stockpiles not required for the defense of the Republic of Korea.
+[11:49:34] <Hooglander1> Zelfs Finland wil het niet meer
+[11:49:35] <Hooglander1> wel apart
+[11:49:48] <Hooglander1> kan me dan wel weer voorstellen dat het heel effectief is langs de grens daar
+[11:50:33] <Jeroen> http://www.forcit.fi/en/forcit-defence-2/land-systems
+[11:51:02] <Jeroen> dat is dus wel een mijn
+[11:51:05] <Jeroen> maar geen landmijn
+[11:51:26] <Jeroen> http://www.sadefensejournal.com/wp/?p=3156
+[11:53:11] <Hooglander1> wtf
+[11:53:16] <Hooglander1> clustermunitie op een stokje Jeroen 
+[11:53:18] <Hooglander1> of zie ik dat verkeerd
+[11:53:22] <Jeroen> gewoon een claymore
+[11:53:31] <Jeroen> https://en.wikipedia.org/wiki/M18_Claymore_mine
+[11:53:32] <Jeroen> maar dan hipper
+[11:55:00] <Jeroen> op zich is dit natuurlijk wel ethischer, want een groot probleem met ingegraven mijnen is dat je niet echt weet wat ermee gebeurt of waar ze liggen
+[11:56:02] <Hooglander1> ahuh, dat ook
+[11:56:15] <Hooglander1> op zich zijn mijnen niet zo zeer een probleem, als je maar weet waar ze liggen :P
+[11:56:45] <Hooglander1> Probleem is alleen dat met die mijnen in Korea, die gaan ook nog wel een probleem geven mochten die ooit weer samen komen
+[11:56:49] <Jeroen> en dat is lastig als het een keer goed regent, een keer goed dooit of de warlord de benen neemt
+[11:56:57] <Jeroen> (als ie dat uberhaupt bij heeft gehouden)
+[11:57:01] <Jeroen> ja
+[11:57:59] <Jeroen> gelukkig krijg je tegenwoordig meer van die sentry guns
+[11:58:05] <Jeroen> dus ik gok dat het gebruik wel zal verminderen
+[11:58:42] <Jeroen> https://www.youtube.com/watch?v=i0RmaFoXrH8
+[11:58:53] <Jeroen> volautomatische ratata
+[12:01:35] <rogue> die werkkampen moeten toch leeg
+[12:02:59] *** Quits: Peetz0r (peter@haas-en-berg.nl) (Ping timeout: 60 seconds)
+[12:03:09] <Kaastosti> can't we all just get along?
+[12:03:11] *** Joins: Peetz0r (peter@haas-en-berg.nl)
+[12:03:45] <Huigie> wow, onweer
+[12:04:10] *** Quits: kees (kees@office.tweaknet.net) (Input/output error)
+[12:04:14] <Huigie> ik zie het donker worden en meteen BAM
+[12:05:22] *** moto-moi|afk is now known as moto-moi
+[12:05:22] <Jeroen> http://i.imgur.com/l9PraMK.webm
+[12:10:29] <Kaastosti> onweer? waar?
+[12:12:29] <Jeroen> onwaar weer
+[12:13:56] <gdex> in de lucht
+[12:15:46] <rogue> nou niet in mijn lucht
+[12:15:50] <rogue> kom nou zeg
+[12:16:38] <gdex> ok dan niet
+[12:20:37] *** Joins: Saggler (Saggler@131-052-158-163.dynamic.caiway.nl)
+[12:21:52] *** Joins: Robin (robin@5419F052.cm-5-2d.dynamic.ziggo.nl)
+[12:21:52] *** ChanServ sets mode: +v Robin
+[12:41:52] *** Quits: Peetz0r (peter@haas-en-berg.nl) (Connection reset by peer)
+[12:43:18] *** Joins: kees (kees@office.tweaknet.net)
+[12:46:35] *** Joins: Peetz0r (peter@haas-en-berg.nl)
+[12:50:07] <Jeroen> rogue is dan ook het zonnetje in huis
+[12:50:19] *** Quits: Peetz0r (peter@haas-en-berg.nl) (Ping timeout: 61 seconds)
+[12:50:22] <kees> weinig zon hier, wel gedonder
+[12:51:21] <Kaastosti> nope, geen onweer in de lucht hier, ben droog over gekomen
+[12:51:35] *** Joins: Peetz0r (peter@haas-en-berg.nl)
+[12:51:47] <Kaastosti> rogue is altijd de vrolijke noot toch?
+[12:53:04] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Exit)
+[13:02:46] <Dubbeldrank> Hagel, en ik stond er in...
+[13:05:34] <Jeroen> hihi
+[13:08:46] <Dubbeldrank> ja, lach maar!
+[13:08:51] <rogue> Kaastosti: welke noot is de vrolijke?
+[13:08:55] <rogue> FU?
+[13:09:15] <Dubbeldrank> wie beticht rogue van vrolijk zijn?
+[13:09:56] * rogue wijst
+[13:10:12] * rogue kijkt beteuterd
+[13:10:16] <Dubbeldrank> SCHAN-DALIG!
+[13:10:23] <rogue> ja *snif*
+[13:10:38] <Dubbeldrank> vrolijkik vind dit niet kunnen
+[13:10:44] <Dubbeldrank> ho
+[13:11:14] <Dubbeldrank> maar goed, vrolijk zijn doen we maar in eigen tijd enzo
+[13:11:25] <Kaastosti> is alle tijd niet eigen tijd?
+[13:11:39] <Kaastosti> om even filosofisch uit de hoek te komen
+[13:11:40] <Dubbeldrank> beidehand doen ook Kaastosti :(
+[13:11:45] <Kaastosti> alle tijd is onze tijd
+[13:11:54] <rogue> nou ik haal maar een bakje troost dan
+[13:11:57] <Dubbeldrank> ja, maar mijn tijd dan?
+[13:12:14] <Kaastosti> alleen gezelligheid kent geen tijd
+[13:12:51] <Dubbeldrank> he bah, gezelligheid
+[13:12:57] <Dubbeldrank> klinkt sociaal
+[13:13:00] <Dubbeldrank> ...
+[13:14:50] *** Quits: McM (mcm@62.207.31.65) (Ping timeout: 66 seconds)
+[13:15:05] <rogue> interactief
+[13:15:11] <rogue> da's zoals VR porno, Dubbeldrank 
+[13:19:56] <Kaastosti> precies! wat een goede vergelijking rogue
+[13:20:00] <Kaastosti> hoe kom je er op :P
+[13:20:19] <Kaastosti> uiteindelijk is alles te relateren aan VR porno
+[13:20:53] <Kaastosti> wat toch wel moet gaat zorgen voor wereldwijde adaptatie van VR als platform, net zoals dat bij VHS is gebeurd
+[13:21:24] <Kaastosti> waarom won VHS over Video2000, ondanks dat die tweede betere kwaliteit leverde? op VHS was er porno
+[13:21:52] <Kaastosti> dus de fabrikant die die twee als eerste goed weet te integreren, wint 
+[13:24:08] *** Quits: Saggler (Saggler@131-052-158-163.dynamic.caiway.nl) (Exit)
+[13:25:04] *** Quits: Ascathon (me@ascathon.com) (Exit)
+[13:26:06] *** Joins: Ascathon (me@2a01:7c8:aac0:4e:8c97:4bb4:718:2e26)
+[13:29:14] <rogue> dat is eigenlijk wel een boeiend vraagstuk
+[13:29:19] <rogue> of er video2000-porno was
+[13:34:44] <GuntherDW> leuke mythe wel die "omdat er porno was"
+[13:35:14] <GuntherDW> mensen dachten dat HD-DVD ging winnen voor exact diezelfde reden... Look what happened :p
+[13:36:23] <GuntherDW> http://forum.fok.nl/topic/969187
+[13:40:58] *** rawplayer is now known as stervende_zwaan
+[14:10:26] *** Joins: Tovergieter (Tovergiete@89.20.95.106)
+[14:10:45] *** Joins: McM (mcm@193.173.193.100)
+[14:13:04] *** Quits: Destruction (Destructio@507230E5.cm-15.dynamic.ziggo.nl) (Ping timeout: 66 seconds)
+[14:13:20] *** Joins: Destruction (Destructio@507230E5.cm-15.dynamic.ziggo.nl)
+[14:15:40] <Chiron> http://www.diyphotography.net/lesson-color-grading/
+[14:15:45] <Chiron> woeps
+[14:23:09] *** Quits: Destruction (Destructio@507230E5.cm-15.dynamic.ziggo.nl) (Ping timeout: 66 seconds)
+[14:24:45] *** Joins: Destruction (Destructio@507230E5.cm-15.dynamic.ziggo.nl)
+[14:29:09] *** Quits: Destruction (Destructio@507230E5.cm-15.dynamic.ziggo.nl) (Ping timeout: 66 seconds)
+[14:30:35] *** Quits: Kaastosti (Kaastosti@185.19.103.3) (Ping timeout: 64 seconds)
+[14:33:22] * DizzyWeb gaapt
+[14:33:27] <DizzyWeb> Tijd voor meer koffie.
+[14:35:27] *** Joins: Destruction (Destructio@507230E5.cm-15.dynamic.ziggo.nl)
+[14:36:36] <Spacecowboy> ja
+[14:36:38] <Spacecowboy> koffie
+[14:36:39] <Spacecowboy> meer
+[14:36:42] <Spacecowboy> VEEL MEER
+[14:39:15] *** Joins: Kaastosti (Kaastosti@185.19.103.3)
+[14:44:05] *** Joins: Tweaker_9956 (Mibbit@178-85-239-19.dynamic.upc.nl)
+[14:44:08] <DinX_Werk> Een rechtbank in de Amerikaanse staat Oklahoma heeft een opmerkelijke uitspraak gedaan in een verkrachtingszaak. De rechters oordeelden dat er bij orale seks geen sprake kan zijn van verkrachting als het slachtoffer buiten bewustzijn is door te veel gedronken te hebben.
+[14:44:09] <DinX_Werk> euh
+[14:44:10] <DinX_Werk> ok
+[14:44:34] *** Quits: Tweaker_9956 (Mibbit@178-85-239-19.dynamic.upc.nl) (Exit)
+[14:46:15] <DizzyWeb> Wat.
+[14:48:17] <Kaastosti> eeeeh wait what?
+[14:48:25] <DinX_Werk> http://www.nieuwsblad.be/cnt/dmf20160428_02262950
+[14:48:39] <Kaastosti> dus zolang het slachtoffer maar niet bij bewustzijn is, kun je los
+[14:49:17] <DinX_Werk> onduidelijke wet blijkbaar
+[14:49:28] <moto-moi> gekke amerikanen
+[14:50:02] <Kaastosti> dan ben je als rechter toch ook niet helemaal okee?
+[14:50:31] <Kaastosti> we zullen wel niet alle gegevens hebben
+[14:58:21] <Hooglander1> was het geen jury rechtspraak?
+[15:12:57] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[15:15:46] *** Joins: fee-tje (fee-tje@137-109-201-31.ftth.glasoperator.nl)
+[15:16:36] <HarmoniousVibe> Het is Oklahoma, had niks anders verwacht :P
+[15:27:58] <Kaastosti> yeeehaw partner
+[15:29:55] *** Quits: fee-tje (fee-tje@137-109-201-31.ftth.glasoperator.nl) (Exit)
+[15:43:26] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Exit)
+[15:45:56] <sanderr> Is het al weekend?
+[15:46:25] <DizzyWeb> Bijna.
+[15:47:48] <Kaastosti> we zijn goed onderweg
+[15:53:10] <Kaastosti> morgen vrijdag, die telt eigenlijk al niet echt meer als werkdag toch?
+[15:53:56] <gdex> werkdag schmerkdag
+[15:54:02] <gdex> het is weekend wanneer je dat zelf wil
+[15:54:07] <gdex> hou je niet tegen door conventies over werkdagen
+[15:55:43] *** Joins: zomertje (zomertje@pluizigenblauw.xs4all.nl)
+[15:55:43] *** ChanServ sets mode: +o zomertje
+[16:00:24] <moto-moi> gdex: gesproken als een echte werkeloze :+
+[16:00:45] *** Quits: Tovergieter (Tovergiete@89.20.95.106) (Ping timeout: 60 seconds)
+[16:01:37] *** Joins: Tovergieter (Tovergiete@80.255.246.219)
+[16:02:09] *** Quits: DataGhostS (vincent@5ED2C6DE.cm-7-3d.dynamic.ziggo.nl) (Ping timeout: 66 seconds)
+[16:02:29] *** Quits: DinX_Werk (DinX@213.224.57.66) (Exit)
+[16:04:03] <gdex> :P
+[16:25:45] *** Quits: Kaastosti (Kaastosti@185.19.103.3) (Exit)
+[16:34:49] *** Quits: Tovergieter (Tovergiete@80.255.246.219) (Ping timeout: 61 seconds)
+[16:36:46] <Jeroen> http://www.jobat.be/nl/artikels/het-loon-van-een-accountmanager-1800-euro-netto/
+[16:36:51] <Jeroen> Dat hangt af van de drukte. Het is zeker geen 9-tot-5-job. Ik durf ’s avonds na de huishoudelijke taken dan ook al eens verder te werken om iets klaar te krijgen.
+[16:36:56] <Jeroen> voor 1800 netto
+[16:39:44] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 61 seconds)
+[16:42:04] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[16:46:45] <Spacecowboy> 1800
+[16:46:46] <Spacecowboy> lol
+[16:47:00] <Spacecowboy> dat is schraal
+[16:47:24] <Spacecowboy> naja, dat was ook mijn startsalaris
+[16:49:05] <kees> 2500 euro bruto is zo schraal toch niet?
+[16:49:40] <kees> gewoon een modaal inkomen 
+[16:50:06] <Spacecowboy> mwah
+[16:50:11] <Spacecowboy> ja, is dat modaal?
+[16:51:26] <Spacecowboy> Het modaal inkomen 2016 volgens het CPB is € 36.500.
+[16:51:26] <Spacecowboy> Per maand is dit bruto € 2.808 en netto ongeveer € 2.021.
+[16:52:14] *** Joins: Tovergieter (Tovergiete@89.20.95.106)
+[16:53:13] <Hooglander1> 2500 startsalaris is prima toch
+[16:53:22] <Hooglander1> auto erbij
+[16:53:46] <Hooglander1> zeker na een bachelor
+[16:53:50] <Hooglander1> dat krijg je in NL niet
+[16:57:38] <SJ> 2500 is net onder modaal 
+[16:57:48] <SJ> maar prima als startsalaris imho 
+[16:58:31] <kees> met auto erbij he, dan zit je in nederland boven modaal waarschijnlijk
+[16:58:51] <SJ> idd
+[16:59:12] <SJ> vaak ook provisie/bonusregeling bij account manager 
+[16:59:57] <Spacecowboy> ja als start is het zeker niet verkeerd
+[17:00:03] <Spacecowboy> ik kreeg 2500 en auto
+[17:00:15] <Spacecowboy> en dan nog bonus op basis van inzet
+[17:02:51] <SJ> nee, psies 
+[17:03:24] <Spacecowboy> Maar SJ, van 2800 euri per maand zou ik nu maar heel weinig whiskies kunnen kopen :P
+[17:07:24] *** Quits: Tovergieter (Tovergiete@89.20.95.106) (Exit)
+[17:09:35] <SJ> Spacecowboy: idem :>
+[17:11:00] <Jeroen> The content you're trying to share includes a link that our security systems detected to be unsafe:
+[17:11:01] <Jeroen> http://volkskrant.nl/
+[17:11:04] <Jeroen> facebook :')_!
+[17:14:56] <SJ> inb4 allemaal de schuld van Wilders in 3,2,1...
+[17:15:21] *** Quits: McM (mcm@193.173.193.100) (Ping timeout: 60 seconds)
+[17:15:49] <Jeroen> http://i.imgur.com/2pT1nVh.webm
+[17:15:54] <Jeroen> niet wilders, SJ
+[17:15:57] <Jeroen> de rabobank!
+[17:16:00] <Jeroen> vooral die Spacecowboy 
+[17:16:20] <SJ> owh
+[17:16:51] *** Quits: Guyver2 (Guyver2@guyver2.xs4all.nl) (Ping timeout: 60 seconds)
+[17:16:56] * SJ trekt z'n 'Rabobank NEE' t-shirt aan en graaft vast wat stoeptegels uit
+[17:17:49] <SJ> want dat 'mottuh de rijkuh maar betaluh' 
+[17:17:55] * Spacecowboy trekt zich lekker terug in z'n rabotoren
+[17:17:58] <SJ> weet je wat dat Hollandia bier kost ? 
+[17:17:59] <Spacecowboy> pauperrrr
+[17:18:06] <SJ> :>
+[17:18:15] * Spacecowboy spuugt wat naar beneden
+[17:18:18] <Spacecowboy> >:)
+[17:18:21] <SJ> hahahha
+[17:18:28] <Jeroen> bier van het merk BIER
+[17:18:32] <Jeroen> dat is pas goed spul
+[17:18:41] <Spacecowboy> die blauwwitte blikken Jeroen?
+[17:18:43] <Spacecowboy> met gele letters?
+[17:18:45] <Jeroen> ja
+[17:18:46] <Spacecowboy> :D
+[17:18:47] <Spacecowboy> epic
+[17:19:06] <SJ> :> 
+[17:19:10] *** Joins: Guyver2 (Guyver2@guyver2.xs4all.nl)
+[17:19:20] <SJ> lekker sociaal met je kratje voor je sociale huurwoning 
+[17:19:28] <SJ> hatsekidee 
+[17:19:47] <Spacecowboy> dat zijn de echte winnaars in het leven :D
+[17:20:04] <Jeroen> en beetje esmeralda van hiernaast nafluiten, SJ
+[17:20:12] <Jeroen> met "JUICY" in het roze op d'r broek
+[17:21:44] <Spacecowboy> :D
+[17:21:47] <Spacecowboy> omg
+[17:21:50] <Spacecowboy> classy
+[17:22:21] <tozzert> ej jeroen
+[17:22:22] <tozzert> al M?
+[17:22:29] <Jeroen> M?
+[17:22:34] <tozzert> android
+[17:22:38] <Jeroen> nee
+[17:22:46] <tozzert> downloadende
+[17:22:48] <tozzert> le moi
+[17:23:23] <Spacecowboy> jopen
+[17:23:25] <Spacecowboy> lentebier
+[17:23:32] <Spacecowboy> best te pruimen
+[17:25:25] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[17:25:57] <Jeroen> jopen maakt sowieso wel prima spul
+[17:29:15] <Spacecowboy> moet zeggen dat ipa van ze wel een van de beste is die ik lange tijd heb geproef
+[17:29:20] <Spacecowboy> al vind ik de brand ook erg goed te drinken
+[17:31:44] *** Quits: tbosua (tbosua@office.hostnetbv.nl) (Exit)
+[17:37:54] <Escovan> Heerlijke lamachun/doner/alles/knoflook + Duvel triple hop verdiend en geconsumeerd vandaag. #topdag! 
+[17:38:17] *** Joins: Francis (Francis@5468C56E.cm-12-1d.dynamic.ziggo.nl)
+[17:39:24] <Francis> ohai
+[17:39:38] <boekee> Hou anders effe op :P
+[17:39:40] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 61 seconds)
+[17:39:56] <Spacecowboy> Escovan die tripel hop is goed he
+[17:40:00] <Spacecowboy> ik heb er nog 1 liggen atm
+[17:40:50] <Escovan> Ik heb nog een ¨gewone¨ Duvel liggen. Maar idd, TOP biertje. Die drink je Rustag, niet al te koud, maar zeker niet lauw, en daar geniet ik echt van.
+[17:41:38] <Spacecowboy> :D
+[17:41:39] <Escovan> Is heeeeel anders dan AH Basics wegpimpelen
+[17:44:10] <Escovan> niet dat dat mijn enige referentie kader is, ik vind de triple hop zelfs beter dan de pauwel kwak - en dat zegt wat!
+[17:51:23] <Spacecowboy> die kwak had ik vorig weekend weer eens in maastricht
+[17:51:25] <Spacecowboy> ook best goed te doen
+[17:54:01] *** Parts: marccom (marc@095-097-114-212.static.chello.nl) ()
+[17:56:34] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[17:59:56] <Jeroen> een doner
+[17:59:59] <Jeroen> moeje niet zelf koken
+[18:04:04] <Jeroen> http://www.nu.nl/politiek/4254100/burgerinitiatief-verbod-kernwapens-krijgt-geen-steun-kamer.html
+[18:09:28] <Jeroen> http://www.nu.nl/geldzaken/4253845/lonen-hadden-harder-kunnen-stijgen-.html
+[18:09:31] <Jeroen> hoe is dit nieuws
+[18:09:41] <Jeroen> was dat 3 jaar geleden niet al bekend
+[18:09:48] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 62 seconds)
+[18:10:31] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Ping timeout: 66 seconds)
+[18:10:31] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[18:10:51] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[18:12:02] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Ping timeout: 64 seconds)
+[18:12:23] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[18:18:38] <Hooglander1> Jeroen: als het grote geld meer geld verdiend, dan weet je eigenlijk al genoeg
+[18:19:07] <Jeroen> mja
+[18:19:25] <Jeroen> en sowieso, kapitaal rendeert al langer veel beter dan arbeid
+[18:19:28] <Jeroen> en dat wordt alleen maar meer
+[18:21:05] <Hooglander1> Eigenlijk tragisch
+[18:21:40] <Jeroen> tja
+[18:22:38] *** Joins: Stuiterbal (Stuit@2001:980:5281:1:d90f:329a:beb6:7e91)
+[18:23:10] <Jeroen> het idee is dus om zelf maar kapitaal te vergaren :+
+[18:23:19] <Jeroen> get money, fuck bitches :')
+[18:24:23] *** Joins: Wussie (wussie@220-251.ftth.onsbrabantnet.nl)
+[18:24:58] <Stuiterbal> Ja, je gaat nog meer bijlenen?
+[18:26:04] <Jeroen> ja en dan alles in binaire opties investeren
+[18:26:23] <Jeroen> als ik genoeg schuld opbouw en dan de komende 35 jaar onderduik hoef ik het toch niet terug te betalen!
+[18:28:35] <Huigie> https://www.dierenwinkelxl.nl/image/picture/DIERENWINKELXL20283_web.jpg
+[18:28:42] <Huigie> doe eens een gok qua prijs...
+[18:28:53] <Stuiterbal> €150
+[18:28:57] <moto-moi> 299
+[18:29:00] <Huigie> >
+[18:29:14] <moto-moi> meer dan 299? :o
+[18:29:23] <Huigie> ZESTIENHONDERD
+[18:29:24] <Erik> 1500?
+[18:29:31] <Francis> zulke krabpalen zijn idioot duur
+[18:29:32] <moto-moi> wut..
+[18:29:43] <moto-moi> 1600 _euro_ ?
+[18:29:43] <Stuiterbal> 1600??
+[18:29:48] <Huigie> ik wil een hond
+[18:29:57] <moto-moi> honden schijnen duurder te zijn dan katten :+
+[18:30:13] <Escovan> honden zijn lekkerder 
+[18:30:15] <Stuiterbal> Honden kosten veel meer tijd
+[18:30:17] <Jeroen> 1600?!
+[18:30:30] *** Joins: Sponge (Sponge@149.210.150.92)
+[18:30:31] <Huigie> https://www.dierenwinkelxl.nl/Katten/Krabben/4047059200223-Europet---Fantasia?price%5B0%5D=1023&price%5B1%5D=1595&
+[18:30:32] <moto-moi> Stuiterbal: en dat inderdaad :P
+[18:30:37] <moto-moi> heb je wel eens nagedacht over vissen?
+[18:30:51] <Stuiterbal> Ik heb een desktop PC.
+[18:30:52] <moto-moi> 400 kilo?
+[18:30:54] <Erik> Het gewicht is ongeveer 400 kilo en de krabpaal wordt in elf dozen geleverd. 
+[18:31:08] <Erik> mag je bijna wel een 2e huis voor kopen
+[18:31:16] <moto-moi> 225 hoog, damn
+[18:36:39] <Jeroen> en jij dacht dat de poes niet zo veel geld zou kosten, Huigie 
+[18:37:06] <Huigie> ti's nog een zwerfkat ook
+[18:37:32] <Jeroen> toch geen ziektes
+[18:37:50] <Huigie> neuh
+[18:38:04] <Jeroen> https://www.dierenwinkelxl.nl/Katten/Krabben/4047059200148-Luxor-Residence-Palace?&page=2& maar ligt het aan mij of ben je met 2 platen MDF, 4 van die doosjes van 35e en 2 tuinpalen ook niet klaar
+[18:38:14] <Jeroen> fucking 950e
+[18:39:22] <Huigie> heel veel stelt het idd niet voor
+[18:40:01] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[18:41:51] <Jeroen> http://www.dumpert.nl/mediabase/6760081/5c152704/dumperttv_bij_de_knapste_agente_evah.html
+[18:41:51] <Jeroen> christ
+[18:42:21] <tozzert> haar instagram al bekeken?
+[18:42:23] <tozzert> man man man
+[18:42:48] <Jeroen> ja
+[18:42:49] <Jeroen> mozes
+[18:43:57] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[18:47:11] *** Quits: smesjz (smesjz@dhcp-089-098-025-154.chello.nl) (Exit)
+[18:48:59] <rogue> bitches
+[18:49:00] <rogue> is t al weekend
+[18:49:17] <tozzert> ja
+[18:49:24] <rogue> \o/
+[18:49:29] <rogue> waarom moet ik dan naar kantoor morgen :)
+[18:50:25] <Huigie> niks moet
+[18:50:39] *** Joins: Resistor (Resistor@ip5456d91b.speed.planet.nl)
+[18:51:35] <tozzert> van mij heb je toestemming niet te gaan en lekker thuis te blijven rogue
+[18:51:41] <tozzert> en van Huigie ook
+[18:51:46] <Huigie> yup
+[18:51:49] <Huigie> mits nudi pics
+[18:52:00] <Huigie> voor niks gaat de zon op
+[18:52:37] <rogue> wat
+[18:52:42] <rogue> weet je wel wat je vraagt
+[18:52:57] <Huigie> nog niet
+[18:54:05] <rogue> google maar naar 'harige bierbuik'
+[18:54:08] <rogue> voor je pics
+[18:54:11] <rogue> of maak een selfie
+[18:54:24] <Huigie> ik heb geen bierbuik gek
+[18:54:41] <Huigie> puh
+[18:54:44] <tozzert> jij hebt een ouderdomsbuik
+[18:54:50] <Huigie> niet
+[18:54:51] <tozzert> met de nadruk op dom
+[18:54:55] <tozzert> en oud
+[18:55:44] <rogue> speaking of which
+[18:55:50] <rogue> wanneer heb je ook alweer storingsdienst?
+[18:56:01] <tozzert> volgende week 2 daagjes
+[18:56:07] <tozzert> en dan de weer daarop 5
+[18:56:08] <rogue> welke?
+[18:56:10] <tozzert> week
+[18:56:12] <rogue> ooooooh
+[18:56:12] <rogue> mooi
+[18:56:14] <rogue> ik bedoel
+[18:56:18] <rogue> he gut wat vervelend
+[18:56:24] <tozzert> klote T9 hè?
+[18:56:27] <Huigie> :o
+[18:56:38] <rogue> ja typo
+[18:56:40] <rogue> slechte verbinding
+[18:56:49] <tozzert> je reed net een tunnel in ook zeker?
+[18:57:00] <rogue> the keys are right next to each other
+[18:57:04] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Exit)
+[18:57:07] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[18:57:07] <rogue> ja je valt weg
+[18:57:22] <rogue> Hooglander1: roggel jij de popcorn? :)
+[19:00:06] <Hooglander1> Hell yes
+[19:00:28] <rogue> regel ik t spandoelk
+[19:00:47] <Hooglander1> Netjes volgens planning tozzert 
+[19:00:50] <Hooglander1> Week 19
+[19:00:59] <Hooglander1> Volgende is 33 toch?
+[19:01:10] <rogue> ter ohndersteuning natuurlijk
+[19:01:18] <rogue> krieses waar komen die letters vandaan
+[19:01:27] <tozzert> jep
+[19:01:28] <tozzert> maar
+[19:01:32] <tozzert> dan is het ook bouwvak
+[19:01:38] <tozzert> en ik weet nog niet wanneer ik vakantie neem
+[19:01:42] <tozzert> grote kans dan
+[19:01:47] <tozzert> dus dan ruilen
+[19:01:51] <rogue> Hooglander1: hoe spel je 'hahaha'?
+[19:02:08] <tozzert> of weer iemand zo gek zien te krijgen die het over wil nemen
+[19:02:18] <Hooglander1> Met een h en een a geloof ik
+[19:02:21] *** Quits: Francis (Francis@5468C56E.cm-12-1d.dynamic.ziggo.nl) (Exit)
+[19:02:28] <Hooglander1> Vlak voor mijn vakantie ook
+[19:02:29] <Hooglander1> Ideaal
+[19:03:12] <rogue> https://www.youtube.com/watch?v=dys8KUnwGGg
+[19:03:21] <tozzert> M bijna installed o/
+[19:03:45] <Hooglander1> Wanneer gaan we bbq'en rogue ?
+[19:03:46] <tozzert> iemand een goed(koop) adresje voor stapelbare kratten?
+[19:03:48] <rogue> zoiets?
+[19:03:53] <Huigie> die is vet
+[19:03:54] <rogue> als t mooi weer is Hooglander1 
+[19:03:54] <Huigie> whehehe
+[19:03:55] <Hooglander1> tozzert: AH
+[19:03:55] <tozzert> bij voorkeur met een grijpopening
+[19:03:59] <rogue> maar welke twee dagen dan tozzert
+[19:04:05] <rogue> want volgende week ben ik er 4 dagen niet
+[19:04:07] <tozzert> ma+di
+[19:04:09] <Huigie> daarga ik de vrouw mee pesten als we koekie zijn _o-
+[19:04:10] <tozzert> volgende week
+[19:04:12] <rogue> hm
+[19:04:19] <tozzert> kun je dan?>
+[19:04:24] <rogue> ondersteun jij dan even voor twee, Hooglander1 ? :)
+[19:04:28] <Hooglander1> Ja hoor
+[19:04:35] <tozzert> gelukkig
+[19:04:36] <rogue> tozzert: hoog neemt t over
+[19:04:37] <tozzert> was al bang
+[19:04:39] <Hooglander1> Nakebod: wil vast wel helpen
+[19:04:43] <rogue> oeh ja
+[19:04:44] <Hooglander1> Toch nakie?
+[19:04:45] <tozzert> ik schakel hem wel door ok?
+[19:04:56] <Hooglander1> Paar prank calls en zo
+[19:05:16] <Hooglander1> Moest je vandaag nog in eindje zijn tozzert 
+[19:05:23] <tozzert> neup
+[19:05:29] <tozzert> morgen weer
+[19:05:36] *** Joins: MysterX (MysterX@5468C0C9.cm-12-1d.dynamic.ziggo.nl)
+[19:05:38] <Hooglander1> Zag een collega van je rijden
+[19:05:42] <tozzert> mooi
+[19:06:53] <Hooglander1> Kom je nog eens buurten op de campus dan?
+[19:07:10] <Huigie> zelden overdag...
+[19:07:11] <tozzert> met m'n broer misschien
+[19:13:03] <tozzert> hier al iemand aan dat adoptable storage @ Android 6.0?
+[19:14:07] <Huigie> je interne memory is altijd sneller
+[19:14:12] <Huigie> why bother
+[19:14:14] <Hooglander1> Ik heb 64GB
+[19:14:17] <Hooglander1> Why bother
+[19:14:37] <tozzert> ik 16
+[19:14:42] <tozzert> daarom bother
+[19:14:58] <Huigie> welnee, al je data op je sd kaartje
+[19:15:14] <tozzert> alles wat mogelijk is, heb ik daar al op staan
+[19:15:15] <tozzert> :/
+[19:15:31] <Huigie> je kaartje is erna niet te lezen in een pc
+[19:15:38] <tozzert> I know
+[19:15:40] <tozzert> maar
+[19:15:48] <tozzert> ik las ook verhalen dat je hem kon partitioneren
+[19:15:56] <tozzert> waardoor een deel dus bij intern wordt getrokken
+[19:16:07] <tozzert> en deel gewoon als sdkaartje
+[19:16:08] <Huigie> klinkt als gevoelig
+[19:16:16] <Huigie> prone to fail
+[19:26:38] *** Quits: Resistor (Resistor@ip5456d91b.speed.planet.nl) (Ping timeout: 66 seconds)
+[19:27:53] *** Joins: Resistor (Resistor@ip5456d91b.speed.planet.nl)
+[19:29:11] *** Quits: Resistor (Resistor@ip5456d91b.speed.planet.nl) (Exit)
+[19:32:57] <Huigie> wil een 128gb sd kaartje... keuzes..
+[19:33:45] <tozzert> heb je die ZUK 2 Pro gezien?
+[19:33:49] <tozzert> best kekke specs
+[19:33:57] <tozzert> 128GB, 6GB RAM
+[19:34:01] <tozzert> 400 euro ofzo
+[19:34:21] <tozzert> http://gathering.tweakers.net/forum/list_messages/1686757/0
+[19:35:10] <Jeroen> en met een beetje geluk is ie gebouwd volgens motorolaexpertise
+[19:35:18] <tozzert> ?
+[19:35:31] <Jeroen> wat ?
+[19:35:38] <Huigie> lenovo kocht mot
+[19:35:40] <tozzert> hoezo dat?
+[19:35:43] <tozzert> ah
+[19:35:51] <tozzert> maar lenovo is alleen maar geldschieter volgens mij
+[19:35:52] *** Joins: gakkethijs (gakkethijs@84-245-42-16.dsl.cambrium.nl)
+[19:36:01] <Jeroen> ik neem aan dat ze aan knowledge sharing doen
+[19:36:20] <Huigie> geen nfc, niet draadloos betalen
+[19:36:52] <tozzert> doe jij dat dan?
+[19:37:01] <Huigie> nog niet want abn
+[19:37:47] <Huigie> je had de cassiere bij de appie moeten zien kijken toen mn vrouw dr telefoon tegen dat betaalapparaat drukte :D
+[19:37:59] <Huigie> want ing
+[19:38:06] <tozzert> ik kan het als ik een andere sim aanvraag
+[19:38:29] <Huigie> waar nfc in zit...hmm
+[19:39:02] <tozzert> nou
+[19:39:04] <tozzert> nee
+[19:39:14] <tozzert> iets van een veiligheidschippie
+[19:39:23] <tozzert> NFC wordt van je foon gebruikt
+[19:40:39] *** Joins: DallasClouds (Mibbit@45-27-128-8.lightspeed.rcsntx.sbcglobal.net)
+[19:41:17] <Hooglander1> Huigie: nog steeds
+[19:41:24] <Hooglander1> Ik had dat alleen in het begin af enntoe
+[19:41:57] *** Quits: DallasClouds (Mibbit@45-27-128-8.lightspeed.rcsntx.sbcglobal.net) (Exit)
+[19:44:53] <tozzert> wel nice
+[19:44:57] <tozzert> apprechten instellen
+[19:45:43] <Jeroen> waarom is die douwe bob zo populair
+[19:45:49] <Jeroen> wat een generieke kutmuziek maakt die gozer
+[19:45:52] <Jeroen> en wat een irritante naam
+[19:46:42] <moto-moi> ik moet elke keer denken 'douwe dabbert?' ,'ohnee'
+[19:48:31] <Huigie> rare vent ben je toch
+[19:49:10] <Huigie> komt natuurlijk door die ijle lucht waar je de hele dag in loopt...
+[19:49:21] <Jeroen> ik draai even wat japanse jazz, tozzert 
+[19:49:25] <Jeroen> zal ik 'm even delen?
+[19:49:27] <Jeroen> mooi hoor
+[19:50:01] <Jeroen> schitterende afwisseling van dissonante en consonante blaastonen met een melodische piano op de achtergrond
+[19:55:09] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 61 seconds)
+[19:57:49] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[20:10:13] <Prof_NaPo^^> wow Jeroen 
+[20:10:22] <Prof_NaPo^^> je vraagt je af waarom generieke kutmuziek populair is
+[20:11:52] <Jeroen> i do
+[20:12:59] <Prof_NaPo^^> En ik maar denken dat jij je slim was
+[20:13:04] <Prof_NaPo^^> maar je deed je alleen maar voor alsof
+[20:13:18] <Jeroen> alles nep
+[20:13:50] <Prof_NaPo^^> Ook je borstjes?
+[20:13:55] <tozzert> Hooglander1
+[20:13:59] <tozzert> nieuwe hue app al installed?
+[20:14:09] <tozzert> werkt ook prima met oude bridge
+[20:14:17] <tozzert> beetje vreemd dat ze nu dus 2 apps naast elkaar ontwikkelen
+[20:14:19] <Hooglander1> Al wel installed ja
+[20:14:23] <tozzert> ziet er goed uit
+[20:14:27] <tozzert> kamers instellen e.d.
+[20:14:29] <Hooglander1> Moet nog ff connecten
+[20:14:32] *** Quits: DizzyWeb (arjen@ip56508964.direct-adsl.nl) (Ping timeout: 60 seconds)
+[20:14:38] *** Joins: DizzyWeb (arjen@ip56508964.direct-adsl.nl)
+[20:14:47] <tozzert> al gebruik ik sowieso geen apps eigenlijk
+[20:14:59] <tozzert> die Hue Control werkt niet meer hè sinds een recente bridge update
+[20:15:07] <tozzert> lees er meer problemen over iig
+[20:15:21] <tozzert> vindt geen bridge meer
+[20:15:29] *** Joins: Flushell (Flushell@5ED3E8BA.cm-7-4d.dynamic.ziggo.nl)
+[20:17:50] <Hooglander1> Hier control is stuk idd
+[20:17:53] <Hooglander1> Superkut
+[20:18:11] <tozzert> die had de beste widgets iig
+[20:18:22] <tozzert> eens zien wat die nieuwe hue app aan widgets te bieden heeft trouwens
+[20:19:42] <Hooglander1> Ik mis wel hoe je scènes kan instellen tozzert 
+[20:19:47] <Hooglander1> En dan per lamp
+[20:20:24] <Hooglander1> Snap jij dat
+[20:20:43] <Prof_NaPo^^> nee
+[20:20:48] <tozzert> ik gebruik die apps toch nie gekkie
+[20:20:58] <Hooglander1> Oh wacht
+[20:21:01] <Hooglander1> Heppum al
+[20:21:03] <Hooglander1> Via lights
+[20:21:08] *** Quits: Flushell (Flushell@5ED3E8BA.cm-7-4d.dynamic.ziggo.nl) (Exit)
+[20:22:00] <Prof_NaPo^^> goeso
+[20:22:22] <tozzert> ziet er op zich wel fris uit hè hoogie?
+[20:23:37] <Hooglander1> Yeaj
+[20:23:41] <Hooglander1> Prima widgets ook imo
+[20:23:54] <tozzert> volgens mij alleen scenes op te roepen
+[20:23:57] <tozzert> niet per lamp
+[20:24:07] <tozzert> nu kun je natuurlijk scene aanmaken met maar 1 lamp erin
+[20:24:08] <tozzert> maja
+[20:24:13] <tozzert> ik gebruik die meuk toch niet
+[20:24:39] <tozzert> wel handig dat je nu per kamer alles uit kunt zetten
+[20:24:41] <tozzert> althans
+[20:24:41] <tozzert> dat denk ik
+[20:24:45] <Hooglander1> Ja dat kan
+[20:24:46] <tozzert> aangezien je kamers aan kunt maken
+[20:24:55] <Hooglander1> In principe gewoon geavanceerde groepen
+[20:24:58] <Hooglander1> Niet meer dan dat
+[20:25:00] *** Joins: jaap (jaap@82-169-162-6.ip.telfort.nl)
+[20:25:09] <tozzert> maar ik snap nog steeds niet waarom ze het nu opgesplitst hebben
+[20:25:22] <Hooglander1> Bang voor mensen die de oude hadden
+[20:25:33] <tozzert> dacht eerst dat de ene app voor bridge 1 was en deze nieuwe alleen voor 2
+[20:25:35] <Hooglander1> En een gebrek aan nadenken bij Philips om.huidige settings te porteren
+[20:25:36] <tozzert> maar dat is dus niet
+[20:25:43] <Hooglander1> Want nu moet je kamers aanmaken
+[20:25:46] <Hooglander1> Kan niet zonder
+[20:25:49] <tozzert> mja
+[20:25:53] <tozzert> 'huis'
+[20:25:53] <tozzert> ;p
+[20:25:56] <tozzert> en alles erin
+[20:25:56] <Hooglander1> Dat is vrij stupide. En zorgt dat je niet kan migreren
+[20:26:00] <Hooglander1> Lijkt mij ook
+[20:26:01] <Hooglander1> Mgoe
+[20:26:15] <tozzert> maar waarom 2 naast elkaar
+[20:26:17] <tozzert> naja
+[20:26:19] <tozzert> het zal wel
+[20:26:24] <Hooglander1> Daarom
+[20:26:26] <tozzert> ik ga die app prolly nooit meer aanslingeren
+[20:26:26] <tozzert> ;p
+[20:26:29] <Hooglander1> Omdat anders mensen updaten
+[20:27:12] <tozzert> dat is toch prima te fixen door bij de eerste startup van die nieuwe app de vraag te stellen of je kamers in wilt stellen of niet
+[20:27:13] <tozzert> en if not
+[20:27:22] <tozzert> alles in 1 default "kamer" pleuren
+[20:27:24] <Hooglander1> Klopt
+[20:27:29] <Hooglander1> Maar het is Philips he
+[20:28:29] <tozzert> gebruik hoofdzakelijk domoticz widgets overigens
+[20:29:18] <Spacecowboy> zo dan
+[20:29:25] <Spacecowboy> eindelijk openVPN server draaiende
+[20:30:07] <tozzert> nu pas?
+[20:30:07] <tozzert> :>
+[20:30:12] <tozzert> heb er 2 draaien
+[20:30:23] <tozzert> @ pi2 en @ synology
+[20:30:28] <Spacecowboy> mjah had eerst vpn over synology lopen
+[20:30:33] <Spacecowboy> die heb ik nog steeds
+[20:30:37] <tozzert> kan het ook nog op mijn router installeren
+[20:30:41] <Spacecowboy> maar nu ook gewoon op mn vps
+[20:30:56] <Spacecowboy> ben ik niet meer afhankelijk van dat stomme ip gewissel van ziggo
+[20:31:06] <tozzert> geen last van
+[20:31:14] <tozzert> dyndinges @ syno
+[20:31:22] <tozzert> maar sowieso wel een semivast ip eigenlijk
+[20:31:33] <Spacecowboy> laatst was die van mij gewisseld
+[20:31:38] <Spacecowboy> toen ik die synology router had gekocht
+[20:31:43] <Spacecowboy> overal weer config aanpassen
+[20:31:45] <Spacecowboy> hatelijk
+[20:32:12] <tozzert> waarom niet zo'n dyndnsding ingesteld @ syno?
+[20:32:36] <Spacecowboy> ja zou ook nog kunnen
+[20:35:15] <Hooglander1> Voordeel van xs4all
+[20:35:39] <Hooglander1> Nieuwe app is beter tozzert , ik houd hem
+[20:35:45] <Hooglander1> Alleen nog steeds geen toggle widgets
+[20:35:50] <Hooglander1> Zou zo makkelijk kunnen zijn
+[20:37:28] <Spacecowboy> damn
+[20:37:33] <Spacecowboy> die openvpn setup op ios is wel sweet
+[20:37:37] <Spacecowboy> sleuren en klaar
+[20:45:14] *** Joins: smesjz (smesjz@dhcp-089-098-025-154.chello.nl)
+[20:54:09] <Hooglander1> Lol tozzert 
+[20:54:12] <Hooglander1> De off scene
+[20:54:18] <Hooglander1> Betekend dat 1 lamp aangaat hier
+[20:54:22] <Hooglander1> 8)7
+[20:54:24] <Hooglander1> Kwaliteitje
+[20:56:43] *** Joins: Arno (arno@541B0FEB.cm-5-4a.dynamic.ziggo.nl)
+[20:56:43] *** ChanServ sets mode: +o Arno
+[21:07:15] <tozzert> ik hoef ook alleen maar een bestandje aan te klikken Spacecowboy?
+[21:07:17] <tozzert> @ android?
+[21:07:38] <tozzert> dè is naa fielips Hooglander1
+[21:10:57] *** Quits: Huigie (Huigie@D57D516A.static.ziggozakelijk.nl) (Exit)
+[21:11:08] <Hooglander1> Ja echt he
+[21:11:19] <Hooglander1> De woonkamer uitzetten in de app zelf gaat goed
+[21:11:28] <tozzert> blijft hij ook consequent doen?
+[21:11:32] <Hooglander1> Jep
+[21:11:40] <tozzert> dat moet je ze nageven dan!
+[21:11:41] <tozzert> :+
+[21:12:27] <Hooglander1> Vanaf de telefoon van de vrouw ook
+[21:14:57] <Spacecowboy> ja op ios ook tozzert 
+[21:15:10] <Spacecowboy> maar dat maakt het een stuk makkelijk dan met de hand je vpn te configgen
+[21:15:39] <tozzert> ik heb het trouwens zo ingesteld volgens mij, dat je ook altijd nog een bestandje nodig hebt
+[21:15:42] <tozzert> kendè?
+[21:15:53] <tozzert> alleen de gegevens is niet voldoende
+[21:15:55] <Spacecowboy> deken
+[21:16:13] <Spacecowboy> ik heb gewoon client certs
+[21:16:21] <Spacecowboy> klaar
+[21:17:46] *** Prof_NaPo^^ is now known as Prof_Away^^
+[21:19:38] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 61 seconds)
+[21:20:13] *** Quits: smesjz (smesjz@dhcp-089-098-025-154.chello.nl) (Exit)
+[21:23:06] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[21:30:05] *** Quits: gakkethijs (gakkethijs@84-245-42-16.dsl.cambrium.nl) (Connection reset by peer)
+[21:35:10] <freebee666> g'avond
+[21:36:44] *** Quits: Wussie (wussie@220-251.ftth.onsbrabantnet.nl) (Exit)
+[21:39:01] <Hooglander1> Heuj freebs
+[21:44:41] *** Joins: Denyos (Denyos@ip56587acf.direct-adsl.nl)
+[21:49:59] <freebee666> haai Hochl�nder
+[21:51:08] *** Joins: Smileface (alexander@25bc408b.ftth.concepts.nl)
+[21:54:09] *** Quits: jaap (jaap@82-169-162-6.ip.telfort.nl) (Client exited)
+[22:10:30] *** Quits: zomertje (zomertje@pluizigenblauw.xs4all.nl) (Exit)
+[22:13:02] *** Quits: kees (kees@office.tweaknet.net) (Input/output error)
+[22:36:59] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Ping timeout: 60 seconds)
+[22:37:58] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[22:42:03] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 61 seconds)
+[22:43:06] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[22:48:43] *** Quits: Sponge (Sponge@149.210.150.92) (Exit)
+[22:51:07] *** Quits: Denyos (Denyos@ip56587acf.direct-adsl.nl) (Exit)
+[22:55:38] *** moto-moi is now known as moto-moi|afk
+[23:07:39] *** Quits: Jeroen (Jeroen@54188FF8.cm-5-1c.dynamic.ziggo.nl) (Exit)
+[23:17:58] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Exit)
+[23:21:02] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 61 seconds)
+[23:22:50] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[23:31:34] *** Joins: badboynova (Mibbit@84.245.63.58)
+[23:32:45] <badboynova> olla
+[23:36:52] *** Quits: Arno (arno@541B0FEB.cm-5-4a.dynamic.ziggo.nl) (Connection reset by peer)
+[23:40:13] *** Quits: badboynova (Mibbit@84.245.63.58) (Exit)
+[23:48:23] *** Quits: Robin (robin@5419F052.cm-5-2d.dynamic.ziggo.nl) (Exit)

@@ -1,0 +1,107 @@
+[00:19:48] <Escovan> No, I am configuring. But now I quit for today. Need sleep.
+[00:22:06] <grape> ok
+[00:22:08] <grape> it is late
+[00:58:50] <grape> I am off
+[00:58:51] <grape> ttfn
+[00:58:52] *** Quits: grape (~grape@CJ-e7j.b8e.219.2.IP) (Quit: Verlassend)
+[16:01:06] *** Quits: Emmanuel_Chanel (~emmanuel@CJ-soj8f7.dion.ne.jp) (Ping timeout: 121 seconds)
+[16:06:10] *** Joins: Emmanuel_Chanel (~emmanuel@ZN019045.ppp.dion.ne.jp)
+[16:46:04] *** Joins: Emmanuel_Chanel_ (~emmanuel@CJ-1u8.4ni.10.222.IP)
+[16:46:12] *** Joins: blurrghh (~blurrghh@CJ-epf.sc6.141.95.IP)
+[16:46:36] <blurrghh> What is it you want? Weapons? Drugs? To get rich? Epiphany awaits you. Anything you could ever want is here. Don't miss your only chance to get invited. Dream Market lchudifyeqm4ldjj.onion/?ai=31617 or pwoah7foa6au2pul.onion/affiliate.php?ref=monoxide 
+[16:46:47] *** Quits: blurrghh (~blurrghh@CJ-epf.sc6.141.95.IP) (Connection closed)
+[16:49:15] *** Quits: Emmanuel_Chanel (~emmanuel@ZN019045.ppp.dion.ne.jp) (Ping timeout: 121 seconds)
+[17:16:48] *** Quits: Emmanuel_Chanel_ (~emmanuel@CJ-1u8.4ni.10.222.IP) (Quit: Leaving)
+[17:17:09] *** Joins: Emmanuel_Chanel (~emmanuel@CJ-1u8.4ni.10.222.IP)
+[18:19:06] *** Quits: Emmanuel_Chanel (~emmanuel@CJ-1u8.4ni.10.222.IP) (Quit: Leaving)
+[18:30:18] *** Joins: Emmanuel_Chanel (~emmanuel@CJ-dq9.p1k.10.222.IP)
+[20:13:15] *** Joins: grape (~grape@CJ-6oa.if2.202.90.IP)
+[20:16:43] <grape> hi al
+[21:51:41] *** Joins: lowkey (~lowkey@CJ-mfm.kgs.187.37.IP)
+[21:51:51] <lowkey> hi grape
+[21:51:53] <lowkey> hi all
+[21:53:00] <lowkey> anyone else annoyed that git cannot sync any sub-directories that have a .git item in them (so no using git to sync a directory of git repositories)
+[21:53:21] <grape> hi lowkey .. phone
+[21:53:32] <lowkey> take your time.
+[21:53:35] <lowkey> no worries
+[22:34:34] <lowkey> git submodules are a pain
+[22:44:54] <grape> back
+[22:46:25] <lowkey> hi, how was your weekend?
+[22:47:54] <grape> was ok... I did not do much yesterday... but today I finished off my power installation in my green house...
+[22:48:00] <grape> so I got electricity in there now...
+[22:48:07] <grape> and somehow my hair is all upright as well
+[22:48:08] <grape> :D
+[22:48:17] <lowkey> LOL
+[22:48:40] <lowkey> so what are you planning to grow in the greenhouse?
+[22:49:24] <grape> tomatoes and some chilies
+[22:49:34] <lowkey> mmmmmm chilis
+[22:49:39] <grape> next to some spring onions
+[22:51:03] <lowkey> add some beef and you can make chili!
+[22:51:32] <grape> hehe... that might be an idea
+[22:52:28] <grape> oh... and I will grow some herbs as well
+[22:52:55] <lowkey> thats what people claim to do here!
+[22:53:38] <grape> I was refering to some cinnamon basil...
+[22:53:40] <grape> :D
+[22:54:17] <lowkey> they have all kinds of names for it but we know what they mean!
+[22:55:20] <grape> ll
+[22:55:22] <grape> lol
+[22:58:23] <lowkey> crap.
+[22:58:32] <grape> why?
+[22:58:39] <lowkey> one small change to /etc/hosts and now sudo loses its freakin mind
+[23:00:07] <grape> lol... I bet you got a very complicated suoders file...
+[23:00:50] <lowkey> I just took at mapping out of hosts from local server name to 127.0.0.1
+[23:00:58] <lowkey> because of other errors
+[23:01:09] <lowkey> and its bring out sudo issues
+[23:01:55] <grape> so you are using the host functionality in sudo?
+[23:02:24] <lowkey> yep
+[23:02:45] <grape> ok
+[23:02:47] <grape> I don't
+[23:03:52] <lowkey> I shouldn't but it seemed like a good idea back then
+[23:04:16] <lowkey> I'm more impressed with the Qubes model these days.  no root password.
+[23:04:22] <lowkey> and it works.
+[23:04:35] <grape> yeah.... sounds familiar... a good idea at the time :D
+[23:07:42] <lowkey> the problem is when I screw up sudo, I need to find the right usb thumbdrive for PAM-USB and remember roots password to be able to su in to fix it
+[23:08:30] <grape> ok
+[23:08:50] <grape> ok
+[23:09:21] <lowkey> but I guess that's better than having to go to another console shell access to login.....
+[23:10:33] <lowkey> I am thinking of doing that PAM-USB thing for su for my servers.  That way its unlikely that anyone can use su unless I get forgetful and live the USB connected....
+[23:11:34] <lowkey> s/live/leave/
+[23:12:12] <grape> mh.. and what do you do if the USB stick breaks?
+[23:13:05] <lowkey> then I have to login in rescue mode locally and disable the PAM-USB checks
+[23:13:19] <grape> ok
+[23:19:58] <lowkey> I was curious how hard it would be to use Xen to setup servers using a similar method to what Qubes uses for each VM
+[23:20:24] <lowkey> in that if it would be possible to have the core VM built from a template at each reboot
+[23:20:51] <lowkey> so if anyone hacked the server then it would have any changes they made until the next reboot
+[23:21:15] <lowkey> and maybe add a cron job to automatically reboot the image once a day
+[23:22:02] <lowkey> so if they wanted to make a lasting change they would need to hack the running image, jump through Xen to the template, and change it
+[23:22:12] <grape> so basically if one image gets hacked... once it is rebooted it is back to its virgin state, right?
+[23:22:21] <lowkey> exactly
+[23:23:43] <grape> interesting idea
+[23:24:45] <grape> that is somehow similar to what I do on the clusters... every time the node reboots it is using rsync to the headnode where the image is..
+[23:24:56] <lowkey> right.
+[23:25:07] <grape> so any changes will be overwritten... the only thing I don't do is using the --delete option
+[23:25:18] <lowkey> a clean starting point.  
+[23:26:00] <grape> well... I am a bit to scared that it goes wrong... and the /home will be deleted... although it is excluded
+[23:26:18] <lowkey> that could be bad
+[23:27:07] <lowkey> although if /home was on a separate partition and you limited rsync actions to within partition boundaries....
+[23:27:12] <grape> I would use some frensh words here :D
+[23:27:13] <lowkey> it should be safe.
+[23:27:19] <grape> I do
+[23:28:08] <lowkey> but the delete options are dangerous
+[23:28:15] <lowkey> thats what makes them fun!
+[23:28:32] <grape> I prefer a different kind of fun...
+[23:28:46] <grape> talking about fun. I had a really nice meal the last two days:
+[23:28:52] <grape> asparagus soup
+[23:29:14] <grape> potatoe dumplings with yellow beans and rendeer medallions in a pepper sauce
+[23:30:19] <lowkey> that sounds good
+[23:31:43] <grape> it was actually really nice
+[23:32:43] <grape> but the yellow beans taste nice when they are fresh
+[23:33:59] <lowkey> oh, I hate when I forget to close a bug report!
+[23:35:17] <grape> bugs?
+[23:35:23] * grape runs!
+[23:37:03] <grape> right... I think I am having an early night tonight...
+[23:38:09] <lowkey> ok, and it should be closed when it processes the email.  only two versions late closing it.
+[23:38:16] <lowkey> sleep well grape!
+[23:40:19] <grape> you too lowkey 
+[23:40:31] <grape> ttfn
+[23:40:32] *** Quits: grape (~grape@CJ-6oa.if2.202.90.IP) (Quit: Verlassend)

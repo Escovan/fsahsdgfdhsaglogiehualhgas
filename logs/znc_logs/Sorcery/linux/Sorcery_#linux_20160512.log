@@ -1,0 +1,63 @@
+[03:32:14] *** Quits: Issy (random@sorcery-tnt.2p1.81.73.IP) (Ping timeout: 121 seconds)
+[03:45:06] *** Joins: Issy (random@sorcery-6q3.llb.81.73.IP)
+[05:51:16] *** Joins: Aethysius (Aethysius@Heywood.Jablome)
+[05:51:16] *** ChanServ sets mode: +v Aethysius
+[06:38:29] *** Aethysius is now known as Ahecaur
+[09:14:26] *** Ahecaur is now known as Awaythysius
+[14:16:06] *** Quickshot is now known as Quickshot-afk
+[14:45:40] *** Joins: tycel (tycel2004@sorcery-7ktaf7.fidnet.com)
+[14:45:40] *** ChanServ sets mode: +v tycel
+[15:32:23] *** Quits: Issy (random@sorcery-6q3.llb.81.73.IP) (Ping timeout: 121 seconds)
+[15:45:47] *** Joins: Issy (random@sorcery-669.eq0.81.73.IP)
+[18:32:51] <Kar> Hmm
+[18:32:55] <Kar> I got question
+[18:33:03] <Kar> Or few
+[18:33:31] <ankh> hi Kar
+[18:33:36] <Kar> Hello
+[18:34:29] <Kar> I shortened my name because gaia server owner liked it without numbers
+[18:34:50] <Kar> and the simple Karolis was too plain
+[18:35:29] <Kar> So, yeah, I wanted to ask about disk perfomance isuess on Linux in the long run
+[18:35:44] <Kar> Windows has them, but has tool to fix them
+[18:36:56] <ankh> as in e.g. fragmentation?
+[18:37:19] <Kar> Yes
+[18:37:41] <ankh> if your disk is under 80% full, you won't need it with most Linux file systems
+[18:38:02] <ankh> if your disk gets over 80% full, there are tools such as e4defrag
+[18:38:11] <ankh> but wait e.g. a year or so before using them
+[18:38:33] <Kar> why?
+[18:38:48] <ankh> Linux systems build on a heritage of multi-user systems from Unix, and are designed to allocate disk space in a way that doesn't need defragmenting normally
+[18:39:26] <Kar> So most of the time it will be fast?
+[18:39:28] <ankh> (this came into Unix in 1982 or so with the BSD filesystem in 4.2 BSD)
+[18:39:29] <ankh> yes
+[18:39:58] <Kar> Also, is there tools to defrag other partitions?
+[18:40:17] <ankh> for defragmenting a Windows disk, use Windows
+[18:40:26] <Kar> like to defrag Windows NTFS from Linux
+[18:40:34] <ankh> yeah, that's not a good idea it turns out
+[18:40:47] <Kar> Why?
+[18:40:53] <Kar> It is ideal idea
+[18:40:55] <ankh> but again, you're less likely to need it even if you write to an NTFS disk from Linux
+[18:41:01] <Kar> You can defrag everything
+[18:41:09] <ankh> you can possibly run the Windows tool under wine, I dont' know
+[18:41:27] <ankh> NTFS support has been improving in Linux
+[18:41:48] <Kar> Well, like my currently using brothers laptop is running Windows 10
+[18:41:57] <Kar> and it allways slowsdown
+[18:42:18] <Kar> also at work almost all systems get slow because of frgments
+[18:43:49] <ankh> in Linux, a block, a piece of a new file, doesn't get written immediately to disk, so that when a growing file is written it's usually in large efficient chunks; if small chunks are needed there's only ever at most one at the very end of the file, which is rewritten in a large chunk if the file grows
+[18:44:13] <ankh> so Linux (and Unix) systems don't slow down over time that way for that reason
+[18:45:09] <ankh> note, this is for a hard drive, not an ssd; don't defrag a Linux ssd at all, ever
+[18:45:28] <ankh> it won't speed it up, and rewriting files reduces its life
+[18:47:12] <Kar> Yeah, Perfom Defraggler don't allow to defrag SSDs
+[18:47:28] <Kar> Only "Optimize"
+[18:47:45] <Kar> and I have no idea what it does.
+[18:49:43] <ankh> nor I
+[19:01:12] *** Awaythysius is now known as Aethysius
+[22:16:54] *** Quickshot-afk is now known as Quickshot
+[22:17:35] * Quickshot sneaks in
+[22:27:33] <StarThorn> Ah, ha!
+[22:27:40] * StarThorn points at Quickshot.
+[22:29:16] * Quickshot blinks
+[22:29:21] <Quickshot> Uhmm... I was here all the time?
+[22:29:39] <StarThorn> Oh, right.  In that case, nevermind.  Carry on.
+[22:29:56] <Quickshot> Ahh, didn't think you'd buy that.
+[22:29:59] * StarThorn whistles and pretends nothing happened.
+[22:30:00] <Quickshot> But thanks. ^^
+[23:17:17] *** Aethysius is now known as Awaythysius

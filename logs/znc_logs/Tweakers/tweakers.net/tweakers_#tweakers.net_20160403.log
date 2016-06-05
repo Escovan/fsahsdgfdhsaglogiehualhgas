@@ -1,0 +1,1597 @@
+[00:05:57] *** Quits: Wussie_ (wussie@220-251.ftth.onsbrabantnet.nl) (Exit)
+[00:06:24] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Ping timeout: 61 seconds)
+[00:06:28] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[00:07:44] *** Quits: Guyver2 (Guyver2@guyver2.xs4all.nl) (Client exited)
+[00:09:59] *** Quits: fee-tje (fee-tje@137-109-201-31.ftth.glasoperator.nl) (Exit)
+[00:21:02] *** Quits: Stuiterbal (Stuit@2001:980:5281:1:719a:d9f:6fe0:4b06) (Exit)
+[00:48:09] *** Quits: Matthew (Matthew@178-117-75-230.access.telenet.be) (Connection reset by peer)
+[00:54:20] *** Quits: GodFather (p00p@a83152.upc-a.chello.nl) (Exit)
+[01:03:13] *** Quits: rhod (rhod@86.85.193.196) (Exit)
+[01:05:20] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Ping timeout: 66 seconds)
+[01:07:16] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[01:12:54] *** Quits: coreblink (coreblink@145.132.131.160) (Exit)
+[01:19:23] *** Quits: kees (kees@office.tweaknet.net) (Input/output error)
+[01:37:54] *** Joins: Teckna (jonathan@3E91CA67.cm-13.dynamic.ziggo.nl)
+[01:56:28] *** Quits: ahtanu (sid1256@id-1256.brockwell.irccloud.com) (Ping timeout: 67 seconds)
+[01:56:28] *** Quits: Audiowaste (sid49971@id-49971.charlton.irccloud.com) (Ping timeout: 67 seconds)
+[01:56:47] *** Joins: Audiowaste (sid49971@id-49971.charlton.irccloud.com)
+[01:56:47] *** Joins: ahtanu (sid1256@id-1256.brockwell.irccloud.com)
+[02:03:59] *** Joins: rhod (rhod@86.85.193.196)
+[02:08:39] *** Joins: BarthezZ (bart@monitoring.deheij-ict.nl)
+[02:20:36] *** Quits: silverstorm (silverstor@5ED4168A.cm-7-5a.dynamic.ziggo.nl) (Connection reset by peer)
+[02:23:22] *** Joins: silverstorm (silverstor@5ED4168A.cm-7-5a.dynamic.ziggo.nl)
+[03:04:30] *** Quits: Anthor (Anthor@cust.7.103.adsl.cistron.nl) (Exit)
+[03:30:09] *** Quits: GameFreak (nn@005-130-128-083.dynamic.caiway.nl) (Connection reset by peer)
+[03:56:21] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Ping timeout: 66 seconds)
+[03:57:38] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[04:15:54] *** Quits: djedditt (jay@dhcp-077-251-029-140.chello.nl) (Ping timeout: 60 seconds)
+[04:17:58] *** Quits: Remie (Remie@5ED5F214.cm-7-6d.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[04:21:23] *** Quits: Svardskampe (Svardskamp@198-14-ftth.onsnetstudenten.nl) (Connection reset by peer)
+[04:26:22] *** Joins: Remie (Remie@5ED5F214.cm-7-6d.dynamic.ziggo.nl)
+[04:35:38] *** Joins: Drawer (z@53521BE5.cm-6-3a.dynamic.ziggo.nl)
+[04:41:42] *** Joins: djedditt (jay@dhcp-077-251-029-140.chello.nl)
+[04:47:03] *** Quits: Destruction (Destructio@507230E5.cm-15.dynamic.ziggo.nl) (Ping timeout: 65 seconds)
+[04:47:35] *** Joins: Destruction (Destructio@507230E5.cm-15.dynamic.ziggo.nl)
+[04:52:21] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Ping timeout: 61 seconds)
+[04:52:25] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[06:32:00] *** Quits: rhod (rhod@86.85.193.196) (Ping timeout: 60 seconds)
+[06:37:02] *** Joins: rhod (rhod@86.85.193.196)
+[06:52:44] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Ping timeout: 61 seconds)
+[06:54:39] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[07:04:39] *** Joins: groentela (GroenteLa@213.154.252.196)
+[07:37:35] *** Joins: chem (chem@125.60.156.202)
+[07:49:30] <chem> zeewater op een printplaat :/
+[07:51:30] *** Joins: McM (mcm@d30008.upc-d.chello.nl)
+[07:54:03] <Drawer> whahaha
+[07:54:10] <Drawer> ik zit 'de meldkamer' van sbs6 te kijken
+[07:54:13] <Drawer> best ok programma nog
+[07:54:27] <Drawer> zijn er overvallers die voor de 2e keer in een maand ofzo een juwelier overvallen
+[07:54:42] <chem> lichtgetintiers?
+[07:54:47] <Drawer> maar politie was na 1e keer zo slim om een gps tracker tussen de sieraden te leggen
+[07:54:49] <Drawer> en die namen ze dus mee
+[07:54:49] <Drawer> :D
+[07:57:42] <chem> wat ben je dan :P
+[08:03:15] <chem> waaaat een kutzooi
+[08:03:22] <chem> onderwaterbehuizing is fucked :/
+[08:05:19] <Drawer> waar
+[08:05:20] <Drawer> de fok
+[08:05:22] <Drawer> heb je t over
+[08:05:34] <Drawer> je iphone in de chinese zee laten flikkeen?
+[08:08:02] *** Joins: idef1x (sjoerd@a83-163-227-207.adsl.xs4all.nl)
+[08:11:04] <chem> google image '6809.1 ikelite' :)
+[08:11:39] <Drawer> ah
+[08:12:02] <chem> o-ring fucked bij 1 van de push buttons
+[08:12:18] <chem> vol water, en de printplaat van de flash controller is nu fucked
+[08:12:22] <chem> dus... geen foto's meer 
+[08:17:32] <Drawer> hahahahaha
+[08:17:36] <Drawer> volgende fragment
+[08:17:38] <Drawer> andere case
+[08:17:49] <Drawer> heeft iemand bij een aanrijding zn rijbewijs laten vallen
+[08:17:52] <Drawer> toen ie wegrende
+[08:17:54] <Drawer> :D
+[08:17:57] <Drawer> manmanman
+[08:18:32] <chem> er heeft iemand @ haarlem een poot van een duif afgesneden op de grote markt
+[08:18:39] <Drawer> zozo
+[08:18:41] <Drawer> hmm
+[08:18:46] <Drawer> maat van me was gister in haarlem?
+[08:18:46] <chem> is vv lekker bij een standbeeld gaan zitten, met duivenpoot en mes @ tas 8)7
+[08:19:13] <chem> http://www.haarlemsdagblad.nl/regionaal/haarlemeo/article27958387.ece/Man-snijdt-pootje-van-duif-af-op-Grote-Markt
+[08:19:27] <Drawer> haha
+[08:19:27] <Drawer> lol
+[08:19:32] <Drawer> gaan ze met de heli die gasten zoeken
+[08:19:36] <Drawer> zoomen ze in op een strandje
+[08:19:38] <Drawer> allemaal naakte mensen
+[08:19:39] <Drawer> oeps
+[08:19:39] <Drawer> :D
+[08:19:46] <Drawer> naakstrand 8)7
+[08:19:56] <chem> NEUKEUHHH
+[08:20:04] <Drawer> serieus best een goed programma voor sbs6 dit
+[08:20:14] <chem> 'oeps' zei de camera man zeker
+[08:20:28] <Drawer> haha nah, was een oude vent die er lag :P
+[08:20:40] <chem> lemon party?
+[08:20:45] <Drawer> vanochtend mn vps eens verhuizennnnn
+[08:21:00] <Drawer> kreeg weer mail dat ik weer 5$ in debt stond bij ze ;(
+[08:21:10] <Drawer> 2 vps'en hebben draaien is kinda useless
+[08:21:13] <Drawer> zeker uit pure luiheid :+
+[08:22:53] <chem> als pure luiheid al geen reden meer mag zijn om niet te doen/geld mag kosten
+[08:24:19] *** Joins: Smileface (alexander@25bc408b.ftth.concepts.nl)
+[08:26:03] *** Quits: McM (mcm@d30008.upc-d.chello.nl) (Ping timeout: 61 seconds)
+[08:27:20] *** Joins: Resistor (Resistor@ip5456d91b.speed.planet.nl)
+[08:32:29] *** Quits: chem (chem@125.60.156.202) (Exit)
+[08:37:34] *** Joins: chem (chem@125.60.156.202)
+[08:44:25] *** Quits: chem (chem@125.60.156.202) (Ping timeout: 61 seconds)
+[08:54:13] *** Joins: chem (chem@125.60.156.202)
+[08:56:19] <Drawer> het zou vandaag 20 graden worden hier
+[08:56:24] <Drawer> het regent en er is geen zon te zien
+[08:56:25] <Drawer> ...
+[08:56:28] <Drawer> ik voel me belazerd
+[09:12:41] *** Joins: Jeroen (Jeroen@54188FF8.cm-5-1c.dynamic.ziggo.nl)
+[09:13:11] *** Quits: chem (chem@125.60.156.202) (Ping timeout: 66 seconds)
+[09:16:39] *** Joins: Grrrrrene (Mibbit@217-19-28-231.dsl.cambrium.nl)
+[09:16:55] *** Quits: Grrrrrene (Mibbit@217-19-28-231.dsl.cambrium.nl) (Exit)
+[09:22:38] <Nakebod> Drawer: vraag je geld terug!
+[09:22:55] <Drawer> nah
+[09:23:01] *** Joins: chem (chem@125.60.156.231)
+[09:23:03] <Drawer> ben aan t verhuizen :P
+[09:23:18] <Nakebod> Dan heb je ook geen 30 graden nodig
+[09:23:47] *** Joins: zomertje (zomertje@pluizigenblauw.xs4all.nl)
+[09:23:47] *** ChanServ sets mode: +o zomertje
+[09:24:09] <Drawer> overigens vervloek ik mijn jonge zelf
+[09:24:10] <Drawer> voor <?
+[09:24:13] <Drawer> ipv <?php
+[09:24:13] <Drawer> ;(
+[09:24:32] <Nakebod> Toen ik hier kwam wonen was het 30+ buiten, erg leuk als je de ondervloer aan het leggen bent, lekker reflecterende zut. 
+[09:24:40] <Drawer> nah
+[09:24:42] <Nakebod> Gevoelstemperatuur gelijk naar 80+ :D
+[09:24:43] *** Quits: Smileface (alexander@25bc408b.ftth.concepts.nl) (Exit)
+[09:24:44] <Drawer> ik ben niet zo aan het verhuizen
+[09:24:48] <Drawer> vps verhuizen
+[09:24:49] <Drawer> :+
+[09:25:05] <Nakebod> tss, digitale verhuizingen tellen niet!
+[09:28:23] <Nakebod> http://www.nu.nl/verkiezingen-vs/4240744/trump-noemt-navo-niet-meer-van-tijd.html volgens mij heeft nu.nl de volgorde van woorden in die titel aangepast....
+[09:34:38] <Drawer> je telt zelf niet!
+[09:36:45] <Nakebod> Daar reken ik wel op
+[09:37:43] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Ping timeout: 61 seconds)
+[09:38:54] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[10:06:06] <Jeroen> bierscheten
+[10:06:07] <Jeroen> omg
+[10:18:06] <Drawer> wtf
+[10:18:08] <Drawer> al 2 koppen koffie op
+[10:18:20] <Drawer> en alsnog probeer ik tijdens het inzetten van mn lenzen eerst mn lenzen uit mn ogen te halen
+[10:18:22] <Drawer> wtf is er mis met me
+[10:18:22] <Drawer> :D
+[10:18:37] <rawplayer> je bemt gewoon een mongool?
+[10:18:48] <Drawer> ;(
+[10:18:58] <rawplayer> tis een vraag
+[10:19:01] <rawplayer> geen oordeel
+[10:19:11] <Drawer> deed ook echt pijn gvd
+[10:19:24] <rawplayer> dat ligt aan jou
+[10:19:35] <rawplayer> wil je even een arm om je heen?
+[10:20:10] <Hooglander1> tobias: lol @ octavia
+[10:20:16] <Hooglander1> Called it :+
+[10:20:27] <Hooglander1> (Burgerlul :P)
+[10:21:40] <Drawer> nu nog een hond en 3 kids
+[10:22:08] <Drawer> ik gaat weer eens aan mn radio sleuteleeeeeeeeeeeeeen
+[10:23:03] <Hooglander1> Welke heb je nu dan Drawer 
+[10:23:05] <Hooglander1> Die van je pa?
+[10:23:12] <Drawer> ja
+[10:23:16] <Drawer> een echte Marqant
+[10:23:18] <Drawer> van de kijkshop
+[10:23:18] <Hooglander1> Betah
+[10:23:19] <Drawer> jaja
+[10:23:23] <Hooglander1> Zolang die het goed doet
+[10:23:26] <Drawer> nja
+[10:23:28] <Drawer> nog niet
+[10:23:28] <Drawer> want
+[10:23:32] <Drawer> nogsteeds memory issue
+[10:24:01] <Drawer> heb een groundloop (denk ik) als ik telefoon oplaad via usb via sigarettending en muziek speel via 3.5m jack
+[10:24:11] <Drawer> en radio op de fm mist 1ms iedere 5 sec ofzo
+[10:24:17] <Drawer> vrij irritant
+[10:24:59] <Drawer> dus ik ga weer ff klusseeee
+[10:25:23] *** Joins: Guyver2 (Guyver2@guyver2.xs4all.nl)
+[10:26:41] <Hooglander1> Maar heb je niet de bedrading nagelopen Drawer 
+[10:26:44] <Hooglander1> Als.je de Radio wisselt
+[10:27:00] <chem> zit je op je mobiel stiekem te sjetten tijdens een meeting?
+[10:27:58] <Hooglander1> Het is zondag chem
+[10:28:00] <Hooglander1> :>
+[10:28:05] <chem> oh
+[10:28:10] <chem> rare dag om te werken dan :P
+[10:28:15] <Hooglander1> Ja precies
+[10:31:46] <Hooglander1> Dus dat doe ik ook niet chemmie
+[10:32:03] <chem> raar
+[10:32:21] <chem> beuhhh
+[10:33:21] <Nakebod> werkschuw tuig!
+[10:34:05] *** Joins: Wussie (wussie@220-251.ftth.onsbrabantnet.nl)
+[10:34:23] *** Quits: Resistor (Resistor@ip5456d91b.speed.planet.nl) (Exit)
+[10:36:14] *** Joins: Matthew (Matthew@178-117-75-230.access.telenet.be)
+[10:38:18] <Hooglander1> Nakebod: zelluf
+[10:39:29] <tozzert> moh
+[10:44:34] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Exit)
+[10:47:30] <tozzert> wat kijkt poezenbeest2 boos Nakebod
+[10:48:04] <tozzert> en hij heeft allemaal pootafdrukjes op z'nd ekentje gemaakt!
+[10:51:32] *** Quits: Twizzlerz (M@178-84-226-29.dynamic.upc.nl) (Ping timeout: 67 seconds)
+[10:52:08] <tozzert> Hooglander1, is de wang van je banden nu ook niet lager aangezien je een andere maat hebt?
+[10:52:15] <tozzert> en dus een afwijking @ teller?
+[10:54:24] <tozzert> http://i.imgur.com/jWXmrwg.png
+[10:56:47] <tobias> Hooglander1: :>
+[10:57:29] *** Quits: idef1x (sjoerd@a83-163-227-207.adsl.xs4all.nl) (Ping timeout: 61 seconds)
+[10:58:12] *** Joins: idef1x (sjoerd@2001:980:7047:1:adbe:60b2:6777:95b1)
+[10:59:08] *** Joins: Slappe (Mibbit@247-10-132-5.ftth.glasoperator.nl)
+[10:59:29] *** Joins: Twizzlerz (M@178-84-226-29.dynamic.upc.nl)
+[10:59:35] *** Quits: Slappe (Mibbit@247-10-132-5.ftth.glasoperator.nl) (Exit)
+[10:59:48] *** Joins: Lwder (Mibbit@247-10-132-5.ftth.glasoperator.nl)
+[11:00:02] <Lwder> goedemorgen
+[11:00:10] <chem> goedemiddag
+[11:00:14] <tozzert> abend
+[11:00:18] <Lwder> haha
+[11:00:24] *** Quits: idef1x (sjoerd@2001:980:7047:1:adbe:60b2:6777:95b1) (Ping timeout: 66 seconds)
+[11:00:42] <Lwder> ik heb vraagje ik zit met mijn ddr geheugen hoe open ik een topic of kan ik hier ook mijn vraag stellen
+[11:01:03] <chem> je moet op het forum zijn voor vragen
+[11:01:09] <chem> dit kanaal is voor slap en zinloos geouwehoer
+[11:01:13] <Lwder> ja snap er niks van haha
+[11:01:25] <Lwder> zit bijna nooit op tweakers maar dacht daar kan ik wel het beste wezen 
+[11:01:33] <tozzert> heb je er een account?
+[11:01:37] <chem> heel moeilijk kan het toch niet zijn
+[11:01:43] <Lwder> ik heb een acount
+[11:01:58] <tozzert> dan ga je naar het goede onderdeel @ forum
+[11:01:59] <chem> er is zelfs een handleiding/faq
+[11:02:13] <Lwder> oke ja net wakker jointje aan dacht dit is het snelst :P
+[11:02:22] <tozzert> en post je in dat goede onderdeel een nieuwe topic met zoveel mogelijk informatie en duidelijke vraag
+[11:02:35] <Lwder> ja komst goed bedankt
+[11:02:40] <Lwder> zal het meteen gaan doen
+[11:02:42] <tozzert> en dingen die je zelf al geprobeerd hebt
+[11:02:43] <Lwder> allen een fijne dag
+[11:02:52] <Lwder> nou er is niet zoveel
+[11:03:01] <Lwder> mij ddr staat op 733 of 773
+[11:03:08] <chem> dan hoef je ook niet zoveel te verwachten
+[11:03:09] <Lwder> inplaast van 1600
+[11:05:13] *** Quits: Lwder (Mibbit@247-10-132-5.ftth.glasoperator.nl) (Exit)
+[11:08:20] <Jeroen> die kwam ook slim over
+[11:11:27] *** Quits: chem (chem@125.60.156.231) (Exit)
+[11:17:54] *** Joins: kees (kees@office.tweaknet.net)
+[11:21:46] *** Joins: idef1x (sjoerd@2001:980:7047:1:adbe:60b2:6777:95b1)
+[11:23:41] *** Quits: Guyver2 (Guyver2@guyver2.xs4all.nl) (Exit)
+[11:28:46] *** Joins: fee-tje (fee-tje@137-109-201-31.ftth.glasoperator.nl)
+[11:46:56] *** Joins: LuNaTiC (blaat@5468D119.cm-12-1d.dynamic.ziggo.nl)
+[11:47:01] *** Quits: LuNaTiC|HJ (blaat@5468D119.cm-12-1d.dynamic.ziggo.nl) (Ping timeout: 63 seconds)
+[11:51:42] <Drawer> gvd Hooglander1 
+[11:51:44] <Drawer> ik weet de oplossing
+[11:51:58] <Drawer> maar krijg die fuckin iso connector pins met geen mogelijkheid los
+[11:51:58] <Drawer> :r
+[11:53:18] <tozzert> prutsert
+[11:53:24] <tozzert> wat denk je dat het probleem is?
+[11:53:28] <tozzert> rood en geel omgedraaid?
+[11:53:32] <Drawer> nja
+[11:53:36] <Drawer> bij mij is dat uh
+[11:53:38] <Drawer> geel en blauw
+[11:53:43] <Drawer> maar wel zoiets ja
+[11:53:53] <Drawer> wat volgens de radio 'ignition' moet zijn is constante spanning
+[11:53:54] <tozzert> blauw is de geschakelde +12V?
+[11:54:01] <Drawer> en wat volgens de radio 'memory' moet zijn is geschakeld
+[11:54:16] <tozzert> beetje vreemd dat blauw + is
+[11:54:23] <Drawer> ja + bruin
+[11:54:25] <Drawer> zit ook in die connector
+[11:54:39] <Drawer> kan wel weer met kroonsteentjes gaan kutten, maar wilde t enigszins netjes houden nog
+[11:54:41] <tozzert> en geel?
+[11:55:16] <tozzert> vaak kun je die pinnetjes die in die connector zitten eruit halen met een klein schroevendraaiertje
+[11:55:22] <tozzert> en op een andere positie terugzetten
+[11:55:26] <Drawer> ja
+[11:55:30] <Drawer> maar dat lukt me dus niet
+[11:55:30] <Drawer> :(
+[11:55:39] <Drawer> krijg die pinnetjes met geen mogelijkheid los
+[11:55:50] <Drawer> heb die felgele plastic shit er al uit, aan de zijkant
+[11:56:10] <Drawer> er zit zon metaal pinnetje wat m tegenhoudt, die heb ik omgebogen,dat zie ik
+[11:56:13] <Drawer> en toch wil ie er niet uit
+[11:56:33] <tozzert> http://www.nexxia.co.uk/pics/M-50.jpg
+[11:56:38] <tozzert> daar zie je de weerhaak
+[11:56:42] <tozzert> die moet je plat zien te drukken
+[11:57:03] <Drawer> ja, dat heb ik :/
+[11:57:12] <tozzert> maar je had het net over blauw en geel
+[11:57:17] <Drawer> jahaaaaaa
+[11:57:17] <tozzert> maar daarna ook weer over bruin :?
+[11:57:19] <Drawer> ja
+[11:57:21] <Drawer> die zit bij blauw
+[11:57:25] <Drawer> in dezelfde pin gepropt
+[11:57:29] <Drawer> en er is aftermarket nog wat gebeund
+[11:57:37] <tobias> hah
+[11:57:40] <Drawer> maar t is duidelijk wat er moet gebeuren, alleen krijg ik t niet los
+[11:57:40] <tozzert> heb je toevallig geen automatische antenne?
+[11:57:43] <tobias> alles naar de kleauteuh
+[11:57:45] <tozzert> blauw is afaik voor de antenne
+[11:57:49] <Drawer> jonge
+[11:57:50] <Drawer> echt
+[11:57:55] <Drawer> ik heb de multimeter erop gehad
+[11:57:56] <Drawer> :>
+[11:57:57] <tobias> mpf heb ik mn burgerbak al
+[11:58:06] <tobias> oh god drawer heeft een multimeter
+[11:58:08] <tobias> uh fucking oh :P
+[11:58:13] <tozzert> ja, ook toen je die blauwe los van de bruine had?
+[11:58:14] <Drawer> ja was ook nog n klus
+[11:58:15] <tozzert> nee hè?
+[11:58:16] <tozzert> eikel
+[11:58:18] <tozzert> :+
+[11:58:21] <Drawer> gastttttt
+[11:58:36] <Drawer> als ik die pinnetjes omgewisseld krijug is t ok
+[11:58:40] <Drawer> alleen krijg ik die dus niet los ;(
+[11:58:55] <rawplayer> verwarmen
+[11:59:07] <Drawer> oh fuck
+[11:59:11] <Drawer> ze hebben 2 van die weerhaakjes?
+[11:59:11] <Drawer> :X
+[11:59:21] <Drawer> http://4.bp.blogspot.com/-hswZiA8LhNg/U2bDGFEdhxI/AAAAAAAAHPo/-DSTLfHspuc/s1600/ISO+Connector+Pins+Removal+(2).jpg
+[11:59:23] <Drawer> hmm
+[11:59:24] <Drawer> ]sommige
+[11:59:30] <tozzert> maar het lijkt er nu dus op dat de blauwe continu spanning heeft?
+[11:59:43] <Drawer> blauw/grijsachtig ja
+[11:59:47] <Drawer> dat heeft ie
+[11:59:51] <Drawer> want daar zit een extra kabel gebeund op
+[11:59:54] <Drawer> die naar de klok gaat
+[11:59:57] <Drawer> en die staat 24/7 aan
+[12:00:05] <tozzert> oh god
+[12:00:09] <tozzert> niks meer standaard dus
+[12:00:11] <tozzert> ;p
+[12:00:13] <Drawer> mja
+[12:00:19] <Drawer> ben er best wel wijs uit geworden nu
+[12:00:28] <tozzert> wie had dat verwacht
+[12:02:26] <Drawer> moet gewoon die 2 pins ff loskrijgen en dan is t wss ok
+[12:02:32] <Drawer> en dan nog ff die ruis eruit krijgen
+[12:02:34] <Drawer> die groundloop
+[12:03:17] <tozzert> misschien een draadje leggen tussen de GND van de sigarettenaanstekert en de GND van de radio?
+[12:03:27] *** Joins: LuNaTiC|HJ (blaat@5468D119.cm-12-1d.dynamic.ziggo.nl)
+[12:03:35] *** Quits: LuNaTiC (blaat@5468D119.cm-12-1d.dynamic.ziggo.nl) (Ping timeout: 66 seconds)
+[12:03:40] <tozzert> maar een groundloop @ auto lijkt mij wat vreemd tbh
+[12:03:48] <tozzert> aangezien alle GND's aan elkaar hangen
+[12:03:59] <Drawer> https://www.reddit.com/r/AskEngineers/comments/287bq8/grounding_car_cigarette_lighter_to_rca_aux_input/
+[12:04:00] <Drawer> mja
+[12:04:07] <Drawer> het verandert dus niet naarmate ik meer toeren maak
+[12:04:14] <Drawer> het is constant
+[12:04:31] <Drawer> heb atm mn accupack niet in de buurt, maar moet t eens proberen als mn telefoon oplaadt vanaf iets anders dan de auto
+[12:04:36] <Drawer> of het dan ook gebeurt
+[12:04:39] <Drawer> anders is het mss dat
+[12:04:54] <Drawer> t is me nooit opgevallen met oortjes in en opladen tegelijk iig
+[12:05:15] <tozzert> dat die noise via de lader je foon in gaat bedoel je?
+[12:05:19] <Drawer> ja
+[12:05:22] <Drawer> dat het de phone is
+[12:05:23] <tozzert> en versterkt wordt
+[12:05:30] <Drawer> en dat de radio het idd versterkt ofzo
+[12:05:35] *** Joins: Stuiterbal (Stuit@2001:980:5281:1:719a:d9f:6fe0:4b06)
+[12:05:40] <Drawer> zal eens vol volume telefoon doen en dan oortjes in en dan telefoon laden
+[12:05:42] <Drawer> moment
+[12:05:48] <tobias> tozzert: dan zweeft er dus ergens een ground
+[12:06:00] <tobias> kabelbreuk of los grondanker
+[12:06:11] <tozzert> als dat zo is tobias, zal of je radio niet werken of je foon niet laden
+[12:06:12] <tozzert> ;)
+[12:06:46] <Drawer> mja
+[12:06:54] <Drawer> er is ook een grondkabel bijgebeund
+[12:06:54] <Drawer> :+
+[12:06:58] <Drawer> geen idee tho waar die heen gaat
+[12:07:13] <tozzert> versterker wellicht?
+[12:07:15] <tobias> nergens probably
+[12:07:18] <tozzert> subwoofer achterin enzo?
+[12:07:18] <tobias> of een stuk gelakt staal
+[12:07:19] <Drawer> geen versterker tozzert 
+[12:07:26] <tozzert> weggehaald uiteraard
+[12:07:26] <Drawer> moment
+[12:07:28] <Drawer> ik heb pic
+[12:07:41] <tobias> multimeter aan gronddraad, multimeter op kaal stuk staal van de auto
+[12:07:47] <tobias> moet verbinding maken zonder veel weerstand
+[12:07:51] <Drawer> http://i.imgur.com/ropfjIz.jpg
+[12:08:02] <tobias> (doorpiepmodus op je multimeter)
+[12:08:09] <tozzert> MOOI!
+[12:08:12] <Drawer> ja he
+[12:08:13] <tozzert> nee tobias
+[12:08:13] <tobias> alle grounds moeten aan mekaar hangen
+[12:08:15] <tozzert> nooit piepen
+[12:08:17] <Drawer> ja dat is tobias 
+[12:08:17] <tozzert> ;)
+[12:08:27] <tobias> tozzert: maar het klinkt zo interessant
+[12:08:33] <tozzert> piepen werkt vaak al bij enkele honderden OOOOOMS
+[12:08:41] <tobias> jezus wat een kabelboom
+[12:08:43] <Drawer> die ground uit de kabelboom hangt aan de ground die erbij gebeund is
+[12:08:49] <Drawer> ja
+[12:08:53] <Drawer> dat onderaan is een verloop
+[12:08:56] <Drawer> die zit er niet meer aan atm
+[12:08:58] <tobias> ja, en komt dat ook uit op de - uit je 12v?
+[12:08:58] <Drawer> was van een jvc
+[12:09:15] <Drawer> ff pinlayout checken
+[12:09:39] <Drawer> ja
+[12:09:40] <Drawer> A8
+[12:09:44] <Drawer> https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/ISO_10487_connector_pinout.svg/220px-ISO_10487_connector_pinout.svg.png
+[12:09:46] <Drawer> op deze pic
+[12:09:59] <tobias> nee, letterlijk: staan die dingen met elkaar in verbinding
+[12:10:03] <Drawer> ik wil dus a4 en a7 omdraaien om dat switched probleem te fixen
+[12:10:13] <Drawer> ja tobias , die komen afaik samen in een kroonsteen
+[12:10:13] <Drawer> :+
+[12:10:29] <tobias> dat kan, a4 en a7 zijn dezelfde maar de ene is continu en de ander zit je contactslot tussen
+[12:10:29] <Drawer> oh zo
+[12:10:31] <Drawer> ja
+[12:10:34] <Drawer> dat is
+[12:10:36] <Drawer> die moet ik wisselen
+[12:10:39] <tobias> Drawer: letterlijk: steek je multimeter (motor uit!) in je 12v gat
+[12:10:47] <tobias> en de andere pen aan je GND of - op je stereo
+[12:10:51] <Drawer> ja
+[12:10:52] <Drawer> been there
+[12:10:55] <tozzert> https://www.youtube.com/watch?v=xzEYvvEPhZQ
+[12:10:56] <tozzert> anders dat
+[12:11:10] <Drawer> hoe heb ik anders de 12v switched en constant gemeten tobias ?
+[12:11:11] <Drawer> :>
+[12:11:48] <tobias> met je 12v-gat bedoel ik je sigarettenplug he
+[12:11:54] <Drawer> ahja
+[12:12:27] <tobias> want dat is het grondverschil wat je merkt in je audio - de - van je sigarettenplug vs de - van je radio
+[12:12:30] <tozzert> ik zou die geschakeld willen
+[12:12:36] <Drawer> die is geschakeld
+[12:12:39] <Drawer> mn sigarettenplug
+[12:12:41] <tozzert> doubt it tobias
+[12:12:53] <Drawer> iig voor de 12v, verwacht niet de ground?
+[12:12:56] <tozzert> alle GND's hangen aan elkaar
+[12:13:00] <tozzert> + wordt geschakeld
+[12:13:02] <tobias> denk je dat de - ook geschakeld is?
+[12:13:04] <Drawer> exact.
+[12:13:05] <Drawer> nee tobias 
+[12:13:11] <Drawer> uiteraard niet.
+[12:13:13] <tobias> dus, meten of ide op zelfde niveau zitten
+[12:13:29] <Drawer> wil je dat voor elkaar krijgen moet je echt hard beunen
+[12:13:30] <tobias> 1 pin van je mm in je sigplug, andere in je kabelboom, en kijken wat weerstand is
+[12:13:35] <tozzert> je kunt even de spanning meten idd tussen de GND van de sigarettenaansteker en radio
+[12:13:50] <tobias> als je daar een spanningsval (hoge weerstand) hebt weet je dat daar je issue is
+[12:13:55] <tobias> crappy bedrading ergens
+[12:13:58] <tozzert> mgoe, @ audio hoeft een hoorbaar iets niet een meetbaar iets te zijn met een huis- tuin- en keukenmultimeter
+[12:14:05] <tobias> klopt :)
+[12:14:14] <Drawer> hij zit er gvd net weer in jongens ;(
+[12:14:16] <Drawer> die radio
+[12:14:17] <Drawer> maar oke
+[12:14:18] <Drawer> brb
+[12:14:21] <tozzert> ghehe
+[12:14:31] <tozzert> we gaan hem dadelijk NOG een keer laten lopen hè tobias?
+[12:14:38] <tozzert> alsie alles weer dicht heeft uiteraard
+[12:15:09] <tobias> ja waarom stop je 'm trug als het niet gefixed is
+[12:15:14] <tobias> en je het niet hebt kunnen meten :-)
+[12:15:20] <tozzert> omdat hij een quitter is
+[12:15:41] <tozzert> 'boehoe moeiluk huilie'
+[12:15:43] <tobias> ik weet ff niet of de mantel of het puntje van de sigplug de - is
+[12:15:53] <tozzert> ik wel
+[12:15:56] <tobias> ik denk mantel de gnd, en het pukkie de +
+[12:15:57] <tobias> anders is het eng
+[12:16:05] <tozzert> dat is het idd
+[12:16:06] <tozzert> maar eng?
+[12:16:15] <tozzert> alsof je een optater krijgt van 12V
+[12:16:24] <tobias> mwah, heb je wel es aan een accu gelikt
+[12:16:26] <tozzert> nooit je vinger in dat gat gestoken?
+[12:16:27] <Nakebod> Drawer heeft binnenkort een uitgefikte auto voor de deur? :P
+[12:16:28] <tobias> stromen zijn best fors :P
+[12:16:42] <tozzert> je kunt net zo makkelijk bij de tip als zijkant heur
+[12:17:04] <tozzert> we zijn alles op alles aan het zetten Nakebod om dat voor elkaar te krijgen idd
+[12:17:05] <tozzert> :+
+[12:17:08] <tobias> haha
+[12:17:13] <tobias> 'hang de groene en blauwe dropveter aan mekaar'
+[12:17:21] <tozzert> ooit nieuwe accu @ thunderbird gezet
+[12:17:28] <tobias> 'zet periscope aan, geef ons de url, tel tot 10 en zet je auto aan' trololo
+[12:17:30] <tozzert> die kon 650 CCA's leveren
+[12:17:31] <tozzert> 650!
+[12:17:37] <tozzert> 650A @ 12V
+[12:17:49] <Nakebod> das niet veul :+
+[12:18:18] <Escovan> Ja, doe maar met je tong testen dan.
+[12:18:28] <tobias> hah
+[12:18:30] <tozzert> godnondeju wat een saai kutkattenbeest2
+[12:18:32] <tozzert> Nakebod
+[12:18:41] <Nakebod> kai liev!
+[12:19:01] <Nakebod> ze was gister voer van simba aan het jatten :D
+[12:19:13] <tozzert> ah
+[12:19:19] <tozzert> zijn je buren marokkaans?
+[12:19:32] <Nakebod> slechte invloed zeker
+[12:19:39] <tozzert> nou, za kwam toch van je buren?
+[12:19:41] <tozzert> ze
+[12:19:51] <tozzert> zal ze daar wellicht iets opgepikt hebben
+[12:19:52] <tozzert> gepikt
+[12:19:54] *** Joins: McM (mcm@d30008.upc-d.chello.nl)
+[12:19:59] <Drawer> oke
+[12:19:59] <tozzert> dussssss
+[12:20:03] <Drawer> 0.03Ohm
+[12:20:14] <tozzert> dat zijn je snoeren prolly ook al
+[12:20:38] <tozzert> verdenk eerder je lader
+[12:20:47] <Drawer> heb al een andere lader gebruikt
+[12:20:49] <Drawer> ook geen topspul
+[12:20:51] <Drawer> maar iig een andere
+[12:20:54] <Drawer> precies zelfde resultaat
+[12:21:00] <tozzert> die de noise van je bobine oppikt ofzo
+[12:21:02] <Nakebod> https://m.facebook.com/TuinWereld-Wijchen-158041557659305/reviews/?mt_nav=1 positieve heropening van tuincentrum hier
+[12:21:14] <Drawer> hmm tozzert 
+[12:21:18] <Drawer> eens met oortjes proberen?
+[12:21:26] <Drawer> of nee, dan is er geen loop meer
+[12:21:27] <Drawer> hmm
+[12:21:28] <tozzert> doet eens
+[12:21:33] <tobias> tozzert: oh dat kan eigenlijk heel goed, dat ie gewoon AC-overspraak van de bobine pakt 
+[12:21:41] <Drawer> bobine=dynamo?
+[12:21:43] <tozzert> al zit daar weinig versterking in
+[12:21:45] <tozzert> nee
+[12:21:46] <tobias> nee
+[12:21:49] <tozzert> bobine = bonine
+[12:21:51] <tozzert> b
+[12:22:03] <Drawer> nee
+[12:22:06] <Nakebod> bobine of bobuiten?
+[12:22:08] <Drawer> het is ook al als ie niet draait he
+[12:22:09] <Drawer> de motor
+[12:22:12] <Drawer> dus alleen acc. stand
+[12:22:18] <tobias> bobine vonkt je spark plugs
+[12:22:27] <Drawer> ja en dat doet ie in de acc stand?
+[12:22:28] <Drawer> :+
+[12:22:28] <tobias> hm, ok
+[12:22:42] <Nakebod> Vonkjes zijn misschien wel ontsnapt
+[12:22:55] <tozzert> doosje vonkjes halen bij de halfords
+[12:23:00] <tobias> Drawer: ik weet het
+[12:23:05] <tobias> haal een radio met a2dp bluetooth
+[12:23:08] <tobias> en stop whining
+[12:23:10] <Drawer> haha
+[12:23:12] <tobias> :>
+[12:23:16] <tobias> (btdt :-))
+[12:23:17] <Drawer> kan ik niet betalen.
+[12:23:27] <Nakebod> die 2 tientjes niet?
+[12:23:31] <tobias> ik ben net van mn 206 af :>
+[12:24:07] <tozzert> http://www.termpro.com/asp/pubs.asp?ID=121
+[12:24:07] <tozzert> daar
+[12:24:13] <tozzert> een stappenplan mbt noise
+[12:24:30] <tozzert> de oorzaak zal vast wel de 206 zelf zijn
+[12:24:44] <tozzert> fransozen en electronica enzo
+[12:24:55] <Drawer> ik heb geen alternator noiseeeee
+[12:25:05] <Drawer> ook geen ignition noise
+[12:25:35] <tozzert> puntje 13
+[12:25:37] <tozzert> wellicht
+[12:25:43] <tozzert> dat je antenne noise oppikt
+[12:26:09] <Drawer> die zat er gister nieteens in omdat ik een verloopplug mistte
+[12:26:14] <Drawer> en toch zoemde ie
+[12:26:27] <tozzert> en probeer anders eens een touwtje van de radio-gnd naar je sigarettenplug-gnd te leggen
+[12:26:38] <tozzert> al kan die noise net zo goed over de +12V lopen natuurlijk
+[12:27:03] <Drawer> wacht
+[12:27:04] <Drawer> thing is
+[12:27:14] <Drawer> zou dit niet weggaan
+[12:27:22] <Drawer> met mn igntiion en constant wires omgedraaid?
+[12:27:25] <tozzert> is je jack kabeltje wel goed?
+[12:27:35] <tozzert> nog niet omgedraaid?!
+[12:27:38] <Drawer> nee
+[12:27:39] <tozzert> SCHIET EENS OP MAN
+[12:27:39] <Drawer> lukt me niet
+[12:28:07] <tozzert> je had het net toch over 2 weerhaakjes?
+[12:28:14] <Drawer> ja ik krijg die niet los :/
+[12:28:19] <tozzert> http://www.sonicelectronix.com/cat_i469_noise-filters.html
+[12:28:24] <tozzert> daar heb je wel geld voor toch?
+[12:28:24] <Drawer> er zit er wss 1 in, maar die krijg ik niet los ;(
+[12:29:25] <Drawer> nop
+[12:29:26] <Drawer> ej
+[12:29:28] <Drawer> ik kom zo naar tilburg
+[12:29:30] <Drawer> \o
+[12:29:33] <tozzert> niet stiekem poesje aaien Nakebod
+[12:30:45] <tozzert> dat was eng
+[12:31:59] <Nakebod> heule dag door!
+[12:32:11] <Nakebod> maar nieuw record, ze zitten dicht bij elkaar
+[12:32:36] <Nakebod> gister nog een uitgestrekte hand lengte, en nu nog iets minder
+[12:33:00] <tobias> wat voor waggie heeft de Drawer eigenlijk
+[12:33:23] <tozzert> 206
+[12:33:27] <tozzert> jouw 206 toevallig?
+[12:33:28] <tozzert> :=
+[12:33:30] <tobias> top keuze wel
+[12:33:36] <tobias> nee mijn 206 heeft hier geen last van
+[12:33:47] <tobias> ik moet zeggen dat ik nog nooit de auxjack van mn radio heb geprobeerd
+[12:34:07] <tobias> en ik had ook zo'n teringbende-kabelboom dus die heb ik eraf geknipt en er een nette nieuwe isoconnector opgezet
+[12:34:18] <tozzert> ik weet het niet zeker maar volgens mij had hij een (door iemand) zelfgemaakte aux in oplossing
+[12:34:19] <Drawer> t valt heus mee
+[12:34:21] <tobias> kroonsteentjes zijn voor boeren
+[12:34:23] <Drawer> neehoor tozzert 
+[12:34:27] <tozzert> eau
+[12:34:28] <Drawer> ik heb een radio op zolder gevonden
+[12:34:31] <Drawer> van ons pap
+[12:34:36] <Drawer> een echte MarQuant
+[12:34:36] <tobias> is die niet gewoon ral
+[12:34:39] <tobias> lol marquant
+[12:34:39] <Drawer> van de kijkshop
+[12:34:39] <Drawer> :D
+[12:34:43] <tobias> dikke kans dat het in dat ding stuk is
+[12:34:52] <tobias> ik had er ook zoeen en die was ook kut
+[12:35:01] <Nakebod> Das toch de marantz voor paupers? :P
+[12:35:07] <Drawer> nee
+[12:35:09] <Drawer> dat is de lenco
+[12:35:11] <Drawer> voor paupers
+[12:35:12] <Drawer> :D
+[12:35:13] <tobias> alleen had ik niet de tools om 'm eruit te fietsen (van die locking pennen)
+[12:35:25] <tozzert> maak de camera eens schoon Nakebod
+[12:35:26] <Drawer> 2 schroendraaiertjes doen wonderen tobias 
+[12:35:27] <tobias> toen ben ik een keer vergeten de auto op slot te doen
+[12:35:30] <tozzert> er zit pussyvocht op
+[12:35:31] <tozzert> :/
+[12:35:35] <tobias> en toen heeft een zwerver hem er clean uitgehaald :D
+[12:35:41] <tobias> netjes met de stekker los ipv geknipt
+[12:35:50] <tobias> dus toen heb ik een sony gekocht. einde.
+[12:36:04] <Nakebod> Done tozzert !
+[12:36:05] <Nakebod> :P
+[12:36:08] <Drawer> link
+[12:36:08] <Drawer> Nakebod, 
+[12:36:09] <Nakebod> zag hem net ook ;-)
+[12:36:13] <Nakebod> http://axis.rutten.me
+[12:36:32] <tobias> miew
+[12:37:14] <Drawer> haha
+[12:37:16] <Nakebod> attack of the cat!
+[12:37:16] <Drawer> wie controllt dat ding
+[12:37:17] <tobias> lol
+[12:37:19] <tobias> ik
+[12:37:21] <tobias> muhaha
+[12:37:26] <tobias> oh nu iemand anders
+[12:37:34] <tobias> katten vs moving cam
+[12:37:35] <tozzert> moi
+[12:37:42] <tobias> ER STAAT IEMAND OP DE GANG
+[12:37:58] <Drawer> ZOOM DAN UIT
+[12:38:01] *** Joins: Phaxinity (Phaxinity@46.166.186.243)
+[12:38:11] *** Quits: McM (mcm@d30008.upc-d.chello.nl) (Ping timeout: 60 seconds)
+[12:38:38] <Drawer> EJ NAKEBOD
+[12:38:39] <Drawer> ZWAAI ES
+[12:38:44] *** Quits: zomertje (zomertje@pluizigenblauw.xs4all.nl) (Exit)
+[12:38:59] <tobias> wow trippy
+[12:39:20] <Drawer> je plant heeft water nodig
+[12:39:24] <Drawer> ern ruim je tafel af
+[12:39:28] <tozzert> wat heb je gegeten Nakebod?
+[12:39:28] <Drawer> tyfuszooi
+[12:39:31] <tobias> lol
+[12:39:35] <tobias> aaaaaah
+[12:39:42] <Drawer> ej
+[12:39:42] <tobias> something moved!
+[12:39:44] <Drawer> wies da
+[12:39:59] <Drawer> NIET TE VER
+[12:40:16] <Drawer> onthoud die site het als ik 10x op links druk?
+[12:40:17] <Drawer> :+
+[12:40:26] <Drawer> HA
+[12:40:40] <tobias> multiplayer webcammen ftw
+[12:41:34] <tozzert> zet jullie ptz eens op joystick
+[12:41:38] <Drawer> uh
+[12:41:38] <Drawer> wat
+[12:41:43] <tozzert> dat geschok word ik zeeziek van
+[12:41:43] <Nakebod> :+
+[12:42:27] <tozzert> SCHEER JE WEG
+[12:42:29] <tozzert> eh
+[12:42:32] <tozzert> SCHEER JE EENS
+[12:42:40] <tozzert> das ook niet lief
+[12:42:44] <Nakebod> Echt wel!
+[12:42:56] <Drawer> lekker, overal kattenharen
+[12:43:02] <Drawer> smeriggggggg
+[12:43:07] <tozzert> idd
+[12:43:12] <tozzert> ook op Nakebod's kin
+[12:43:16] <tozzert> en wangen
+[12:43:18] <Drawer> zo
+[12:43:28] *** Joins: McM (mcm@d30008.upc-d.chello.nl)
+[12:43:34] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[12:44:22] <Nakebod> misschien moet ik mijn control que maar eens aanzetten :+
+[12:44:26] <Drawer> mooie tyfuszooi
+[12:45:47] <tozzert> welnee Nakebod
+[12:45:51] <tozzert> nergens voor nodig
+[12:45:53] <McM> meer mensjes die blij worden van het internet/epacity/e.d. in Amsterdam?
+[12:46:09] <Nakebod> ik word altijd blij van internet
+[12:46:13] <Nakebod> Kende leuke dingen mee
+[12:47:32] <tozzert> gaat nog eens een dingetje worden
+[12:47:40] <tozzert> ik zie er de mogelijkheden wel van
+[12:47:42] <Nakebod> zou het?
+[12:47:51] <Nakebod> Hele dag poesjes kijken zeker
+[12:48:01] <Hooglander1> tozzert: andere maat, maar alleen smaller he
+[12:48:06] <Hooglander1> 175vs 185
+[12:48:09] <tozzert> ja
+[12:48:14] <Hooglander1> Dat is dus 10cm smaller
+[12:48:17] <tozzert> en raad eens waar dat 2e cijfer voor staat
+[12:48:18] <tozzert> ;)
+[12:48:29] <Hooglander1> 65% van 1 cm
+[12:48:37] <Hooglander1> Hebben we het over 3,5mm lager
+[12:48:52] <tozzert> dus een afwijkingetje
+[12:48:57] <Hooglander1> Ik heb geen significant verschil gemerkt iig
+[12:49:12] <Hooglander1> Tellerafwijking had ik toch al
+[12:49:15] <Hooglander1> Lang Leve GPS
+[12:49:29] <tobias> zolang ze maar allemaal even groot zijn
+[12:49:35] <tozzert> tellerafwijking is bewust
+[12:49:36] <tobias> anders gaat je bandenspanning-sensor loeien
+[12:49:41] <tobias> tozzert: en 9/11 was een setup
+[12:49:45] <tozzert> lees je snelheid via OBD uit en die geeft het wel goed weer
+[12:49:46] <Drawer> mijn teller scheelt echt maar 2-4km/u met de gps
+[12:49:46] <Drawer> :X
+[12:49:47] <tozzert> :)
+[12:50:02] <Hooglander1> Mijn bandenspanningssensor tobias 
+[12:50:04] <tozzert> mits juiste bandenmaat uiteraard
+[12:50:04] <Hooglander1> Whehehe
+[12:50:06] <Hooglander1> Grapjas
+[12:50:16] <tobias> Hooglander1: heb je gratis als je toch al abs had op je moderne wagen
+[12:50:19] <tobias> daarom ehbben veel auto's het
+[12:50:25] <Hooglander1> Ik heb abs
+[12:50:25] <Drawer> ik heb abs
+[12:50:30] <tobias> hij meet feitelijk het (klein) rotatieverschil in elk wiel
+[12:50:30] <Hooglander1> Maar geen bandenspanningssensor
+[12:50:30] <Drawer> :>
+[12:50:38] <tobias> en als je ene wiel dan kleiner wordt, dan moet ie wel zacht zij
+[12:50:41] <tobias> zijn
+[12:50:46] <tozzert> hoeveel insj Hooglander1?
+[12:50:47] <tobias> en dan zegt je auto JO GAST
+[12:50:47] <tozzert> 15?
+[12:50:48] <tozzert> 16?
+[12:50:53] <Hooglander1> 15 
+[12:51:11] <tobias> Hooglander1: http://www.venderbosch.nl/occasions/skoda/octavia/skoda_octavia_combi_1_2_tsi_ambition_businessline_navi-1424543.html
+[12:51:14] <tobias> 8-)
+[12:51:42] <Drawer> papa
+[12:51:54] <tobias> een miljoen toeters bellen en knopjes
+[12:51:55] <Hooglander1> Goeie keus tobias :)
+[12:52:01] <McM> 6 versnellingen!
+[12:52:03] <tozzert> fikse kmstand wel
+[12:52:03] <McM> gti man
+[12:52:08] <McM> ex lease?
+[12:52:09] <Jeroen> heb je al een labrador
+[12:52:09] <Hooglander1> Was de 1.2 nog vlot genoeg?
+[12:52:15] <Drawer> http://pics.auto-commerce.eu/ac0442/foto/large_1452340484607730.JPG
+[12:52:17] <Jeroen> nee maar goede keus
+[12:52:19] <Drawer> gratis pak shag
+[12:52:26] <tozzert> waren die 1.2's niet die gruwelijke oliezuipers?
+[12:52:35] <tozzert> en distrikettingproblems
+[12:52:39] <Hooglander1> De oude misschien
+[12:52:42] <tobias> Hooglander1: ja, vlot zat, en deze heeft in 2014 nieuwe ketting gehad tozzert 
+[12:52:45] <Hooglander1> Maar na 170k is dat wel verholpen
+[12:52:47] <tobias> dus daar hebben we geen gedoe meer van
+[12:52:57] <McM> 1.2 kinderen ook?
+[12:53:08] <Drawer> http://pics.auto-commerce.eu/ac0442/foto/large_1452340484607304.JPG
+[12:53:13] <Drawer> vergeet niet de rijweg te controleren
+[12:53:13] <Drawer> whatever
+[12:53:15] <Drawer> the fuck
+[12:53:15] <tozzert> 1l op 1000km olie schijnt binnen de marge te liggen
+[12:53:16] <tozzert> @ VAG
+[12:53:19] <tozzert> ik vind het schandalig
+[12:53:35] <tobias> Drawer: het boekje zit ook PAS OP vol met PAS OP waarschuwingen 
+[12:53:46] *** Joins: Anthor (Anthor@cust.7.103.adsl.cistron.nl)
+[12:53:55] <tobias> tozzert: lol, je zou bijna op mengsmeer gaan rijden :>
+[12:54:12] <tozzert> hou het peil iig in de gaten
+[12:54:24] <tozzert> want volgens mij waren dat echt oliezuipers
+[12:54:37] <tobias> gaan we merken (gaat de auto ook wel zelf over melpen)
+[12:54:51] <tobias> en als ik na 2 tanks leegrijden olie mag bijvullen gaan we wel ff kijken
+[12:55:10] <tozzert> mja, punt is dat je er niks aan kunt doen
+[12:55:13] <tozzert> dat doen ze
+[12:55:14] <tozzert> ;p
+[12:55:33] <Drawer> http://pics.auto-commerce.eu/ac0442/foto/large_1452340484607882.JPG
+[12:55:41] <Drawer> kan fee super veel kinderlijkjes in kwijt
+[12:55:41] <tobias> nouja, er passen veel flessen olie achterin tozzert :>
+[12:55:44] <Drawer> scheelt weer rijden
+[12:55:53] <tobias> ja, mooi onder het net
+[12:55:57] <Hooglander1> Whehe op zich is olie verbruiken ook geen ramp
+[12:56:00] <Hooglander1> Als hij maar blijft rijden
+[12:56:06] <tozzert> wel gruwelijk irritant
+[12:56:12] <tobias> omg Drawer ik zie nu pas die mascotte-doos :D wat slecht :D
+[12:56:15] <Hooglander1> Je hoort ook wel eens als je er dan propere olie in gooit dat het op houd.
+[12:56:22] <tozzert> elke 2 tankbeuren een liter olie bij moeten gooien
+[12:56:23] <tozzert> ...
+[12:56:29] <tobias> zijn probably olieschraapveren die 'niet zo best' zijn
+[12:56:46] *** Joins: chem (chem@125.60.156.231)
+[12:56:48] <tozzert> mascottedoos?
+[12:56:51] <Hooglander1> Wanneer mag je hem ophalen tobias m
+[12:56:53] <Hooglander1> ?
+[12:57:05] <tobias> ze hebben de werkplaats nu stampvol met iedereen die ziet dat het zonnig is
+[12:57:14] <tobias> dus in fucking april bedenkt
+[12:57:20] <tobias> 'laat ik mn winterbanden eraf laten halen'
+[12:57:27] <tobias> dus anderhalve week wachten
+[12:57:49] *** Quits: chem (chem@125.60.156.231) (Exit)
+[12:57:57] <tobias> ik geloof dat ie uiterlijk 14 april klaar is maar als ze paar uur tussendoor 'over' hebben vanwege meezittend werk jassen ze em ertussendoor
+[12:58:14] <Drawer> dus 14 april naar de autobahn
+[12:58:53] <tozzert> want een 1.2 nodigt uit tot hard rijden?
+[12:59:07] <Hooglander1> Weet je zeker dat hij olie verbruikt :+
+[12:59:15] <tozzert> 1.2 in een octavia
+[12:59:15] <tozzert> echt
+[12:59:19] <tozzert> ik zou het niet gedaan hebben
+[12:59:19] <tozzert> ;)
+[12:59:29] <tozzert> sowieso nooit voor de basismotorisering gaan
+[12:59:40] <Hooglander1> Blablablabla
+[13:00:00] <Hooglander1> Ik zou nooit mijn hele leven in een huurkot in tilburg wonen 
+[13:00:00] <Hooglander1> Maar ja
+[13:00:04] <Jeroen> 100 pk in 1200kg
+[13:00:05] <Hooglander1> Iedereen maakt andere keuzes he
+[13:00:09] <Jeroen> niet ideaal maar ook niet slecht
+[13:00:15] <Nakebod> lol Hooglander1 
+[13:00:16] <Hooglander1> Is mijn Punto ook
+[13:00:19] <Hooglander1> Maar dan 85pk Jeroen 
+[13:00:21] <Hooglander1> Gaat best
+[13:00:23] <tobias> tja uh, like
+[13:00:27] <Jeroen> meh dat zou ik te weinig vinden 
+[13:00:30] <tobias> dan zoef je wel 1:20 op de autobahn
+[13:00:33] <Hooglander1> Iets met een praktische auto
+[13:00:36] <tozzert> octavia is wel wat zwaarder dan 1200?
+[13:00:43] <Hooglander1> Als je lol wilt moet je sowieso geen Octavia kopen
+[13:00:47] *** moto-moi|afk is now known as moto-moi
+[13:00:50] <tobias> ik heb heus met heel veel plezier gereden in een 2L 200pk Passat Variant
+[13:00:51] <Jeroen> 1180 leeggewicht staat er, tozzert 
+[13:00:51] <tobias> heus ;)
+[13:00:55] <Jeroen> octavia is maar een maatje golf he
+[13:01:01] <tozzert> nee
+[13:01:09] <tobias> octavia is een grote maar niet-zware wagen
+[13:01:10] <tozzert> dat is wel meer passat heur?
+[13:01:16] <tobias> hij is groter dan een golf variant,zeker
+[13:01:19] <tobias> ongeveer passatish ja
+[13:01:25] <tobias> maar passat is gewoon een letterlijk zwaardere bak
+[13:01:28] <tozzert> licht
+[13:01:31] <tozzert> staat ik van te kijken
+[13:01:33] <Hooglander1> Daarom is die Octavia zo briljant
+[13:01:34] <tobias> jup
+[13:01:36] <tozzert> mijnes weegt 1440 leeg
+[13:01:36] <tozzert> ;p
+[13:01:38] <Hooglander1> Bakken ruimte en het weegt niks
+[13:01:44] <Jeroen> mja ruimer maar wel het golfplatform
+[13:01:45] <Hooglander1> Dus goedkoop om te hebben
+[13:02:04] <tozzert> dat is tegenwoordig allemaal dat MQB platform ofzo
+[13:02:05] <Drawer> ik gaat eens naar tilburg toe
+[13:02:06] <tozzert> dus sjae
+[13:02:07] <Jeroen> 1440 is ook wel belachelijk veel
+[13:02:14] <Drawer> IK KOM JE HALEN TOZZERT
+[13:02:24] <tozzert> ik lust je rauw
+[13:02:32] <Hooglander1> Doubt that
+[13:02:32] <Drawer> ohnee
+[13:02:34] <Hooglander1> Beetje taai
+[13:02:39] <Drawer> nog ff spotify offline shit laden
+[13:02:48] <tozzert> mijnes is dan ook al wel ietsjes ouder
+[13:02:49] <tozzert> mgoe
+[13:02:58] <tozzert> de motor maakt dat gewicht goed jeroen
+[13:02:59] <tozzert> :+
+[13:03:04] <tobias> volgens mij is dit officieel een octavia II
+[13:03:07] <Jeroen> de mijne weegt iets van 900
+[13:03:09] <tobias> in combi-smaak
+[13:03:14] <Jeroen> ja dit is er een op PQ35
+[13:03:17] <Jeroen> https://en.wikipedia.org/wiki/Volkswagen_Group_A_platform#A5_.28PQ35.29
+[13:03:20] <Jeroen> see
+[13:03:23] <Jeroen> golfjes, leons
+[13:03:25] <Jeroen> a3
+[13:03:32] <tobias> en ik mis heus wel de lol van een licht dieseltje dat de straatstenen eruit trekt in de 0-30kmh
+[13:03:44] <tobias> maar daar krijg je een boel ruimte en comfort voor terug
+[13:04:04] <tobias> koppel zit gewoon op een andere plek in je toeren en dat merk je
+[13:04:21] <tozzert> nu kun je eindelijk eens wat toeren maken
+[13:04:23] <Jeroen> kwestie van toeren maken?
+[13:04:28] <Hooglander1> Alsof je een 206 diesel voor de lol rijd
+[13:04:32] <Jeroen> ik weet verder niet wat een tsi doet qua powerband
+[13:04:39] <Hooglander1> Mgoe, als je regelmatig 100pk op 275kg hebt
+[13:04:44] <Hooglander1> Dan is alles daarna traag
+[13:04:45] <tozzert> nee Hooglander1
+[13:04:47] <tozzert> gewoon nee
+[13:05:02] <Hooglander1> Een auto rijd je niet voor de lol sowieso
+[13:05:10] <Hooglander1> Dat doe je om dat shit van a naar b moet
+[13:05:17] <tobias> klopt
+[13:05:22] <tobias> daarom nu comfort
+[13:05:26] <tozzert> onzin Hooglander1
+[13:05:26] <tobias> nooit meer kutten bij de ikea
+[13:05:31] <tobias> niet 'past het' maar 'het past'
+[13:05:41] <Hooglander1> Zou dit... "Ja"
+[13:05:44] <tobias> precies :-)
+[13:05:51] <tobias> 'kunnen we dan ook' ' ja' 
+[13:05:58] <Hooglander1> Maar.. "Ja"
+[13:06:06] <Hooglander1> Hele fiets achterin
+[13:06:15] <Hooglander1> Geen gekut met een fietsendrager
+[13:06:25] <Hooglander1> Dat mis ik nog het meeste van mijn megane
+[13:06:34] <Hooglander1> Dat ding was ook groot van binnen
+[13:06:44] <Hooglander1> Daar pastte ook alles in
+[13:07:38] <Hooglander1> Mgoe
+[13:07:41] <Hooglander1> Ik ga eens buiten zitten
+[13:07:42] <Hooglander1> Ciao
+[13:09:06] <Jeroen> http://tweakers.net/nieuws/109925/wetenschappers-maken-programmeertaal-voor-cellen.html
+[13:09:09] <Jeroen> pretty cool
+[13:10:34] <Jeroen> http://tweakers.net/nieuws/109925/wetenschappers-maken-programmeertaal-voor-cellen.html?showReaction=8400703#r_8400703
+[13:10:38] <Jeroen> iemand vindt hier het concept afpersing uit
+[13:10:59] *** Joins: Svardskampe (Svardskamp@198-14-ftth.onsnetstudenten.nl)
+[13:18:08] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Exit)
+[13:40:36] <ElectrowolF> iedereen is evil
+[13:44:17] <tozzert> klopt
+[13:48:52] <Jeroen> ik niet
+[13:50:30] <moto-moi> jij bent lelijk, da's net zo erg, Jeroen 
+[13:50:38] <Jeroen> :(
+[13:59:00] *** Quits: groentela (GroenteLa@213.154.252.196) (Client exited)
+[14:05:49] *** Quits: fee-tje (fee-tje@137-109-201-31.ftth.glasoperator.nl) (Ping timeout: 66 seconds)
+[14:06:38] *** Joins: fee-tje (fee-tje@137-109-201-31.ftth.glasoperator.nl)
+[14:08:56] *** Joins: Tomcat_hatt (user@193.107.221.57)
+[14:09:27] <McM> Ze vallen goed in Vlaanderen
+[14:15:40] <kees> gheheh, wilbert (ex-hoofdredacteur tweakers) staat in een parkeergarage.. en het internet is stuk, dus hij kan niet pinnen, betalen of uberhaubt uitrijden
+[14:16:04] <Stuiterbal> Fijn hè, die cash-loze maatschappij \o
+[14:21:15] <tobias> kees: dan draai je de slagboom los met een steeksleutel en zeg je doei
+[14:27:34] *** Quits: Teckna (jonathan@3E91CA67.cm-13.dynamic.ziggo.nl) (Exit)
+[14:42:03] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[14:43:39] *** Joins: Teckna1 (jonathan@3E91CA67.cm-13.dynamic.ziggo.nl)
+[14:44:18] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 61 seconds)
+[14:47:55] *** Joins: Saggler (Saggler@131-052-158-163.dynamic.caiway.nl)
+[14:47:56] <McM> kees het lijkt erop alsof de verbindingen weer terugkomen
+[14:48:05] <McM> khad een heleboel lokaties down..
+[14:48:10] <McM> en die komen nu langzaam weer terug
+[14:48:22] <McM> aantal kpn dslam's die stuq waren/zijn
+[14:55:13] <Nakebod> dan heb je gisteren vast mail gehad dat ze onderhoud doen, want zo is kpn. Ruim van tevoren inplannen.
+[14:55:29] <McM> nee..dit is een storing..
+[14:55:43] <Nakebod> Een ongeplande storing deze keer? Spannend!
+[14:56:01] <McM> Als je storingsdienst hebt word je niet blij
+[14:57:34] <Nakebod> Ligt aan KPN, doei!
+[14:58:10] <McM>  kheb/had kleine 20 lokaties down..
+[14:59:48] *** Joins: gakkethijs (gakkethijs@84-245-42-16.dsl.cambrium.nl)
+[15:00:00] *** Quits: Saggler (Saggler@131-052-158-163.dynamic.caiway.nl) (Exit)
+[15:19:32] *** Joins: Vipertje (tweak@54182E79.cm-5-1a.dynamic.ziggo.nl)
+[15:23:14] *** Joins: Tweaker_3450 (Mibbit@178-84-255-175.dynamic.upc.nl)
+[15:23:35] *** Quits: Tweaker_3450 (Mibbit@178-84-255-175.dynamic.upc.nl) (Exit)
+[15:36:26] *** Joins: coreblink (coreblink@145.132.131.160)
+[16:12:00] *** Quits: Phaxinity (Phaxinity@46.166.186.243) (Exit)
+[16:12:37] <tozzert> zeau
+[16:13:06] <tozzert> m'n vlovlo eens gereanimeerd mbv zo'n AED
+[16:13:20] <tozzert> works like a charm
+[16:31:12] <Nakebod> En je vulva, werkt die ook like a charm?
+[16:36:32] <tozzert> met de AED wel ja
+[16:36:53] <tozzert> de juiste knopjes bedienen
+[16:36:56] <tozzert> je kent dat wel
+[16:41:44] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[16:45:29] *** Joins: chem (chem@125.60.156.231)
+[16:53:15] *** Quits: Dennis (dennis@anna.infra.promising.nl) (Ping timeout: 60 seconds)
+[16:53:15] *** Quits: McM (mcm@d30008.upc-d.chello.nl) (Ping timeout: 60 seconds)
+[16:53:28] *** Quits: chem (chem@125.60.156.231) (Exit)
+[16:55:01] <tozzert> http://img-9gag-fun.9cache.com/photo/awxevzx_460sv.mp4
+[16:57:19] *** Joins: Dennis (dennis@anna.infra.promising.nl)
+[16:58:55] *** Joins: Resistor (Resistor@ip5456d91b.speed.planet.nl)
+[17:00:41] *** Joins: Smileface (alexander@25bc408b.ftth.concepts.nl)
+[17:09:24] *** Quits: Dennis (dennis@anna.infra.promising.nl) (Ping timeout: 66 seconds)
+[17:10:39] *** Joins: Dennis (dennis@anna.infra.promising.nl)
+[17:14:03] *** Quits: Dennis (dennis@anna.infra.promising.nl) (Ping timeout: 67 seconds)
+[17:15:38] *** Joins: Dennis (dennis@anna.infra.promising.nl)
+[17:17:44] <tozzert> meh
+[17:17:46] <tozzert> 4:45 de wekker
+[17:17:51] <tozzert> zijn toch geen tijden
+[17:18:35] *** Joins: Metalfrost (Metalfrost@tsn109-201-152-25.dyn.nltelcom.net)
+[17:19:04] <Metalfrost> hallon
+[17:19:44] <Jeroen> waarom zet je 'm ook zo vroeg, tozzert 
+[17:20:17] <tozzert> dat zijn grotemensentijden jeroen
+[17:21:45] <Jeroen> https://i.imgur.com/gt75nWv.jpg
+[17:21:53] <Jeroen> volgens mij zijn het arbeidertijden, tozzert 
+[17:22:02] <Jeroen> moet je in groningen zijn ofzo?
+[17:22:22] <tozzert> zandvoort
+[17:22:45] <Jeroen> en jij zegt niet "weet je ik kom wel om 11u"
+[17:23:02] <tozzert> ik weet hoeveel werk het is
+[17:23:14] <tozzert> en we het sowieso niet gaan redden in de tijd die ze ingepland hebben
+[17:23:38] <Jeroen> en waarom blijven ze het verkeerd inplannen?
+[17:23:47] <tozzert> dus kan eigenlijk net zo goed niet gaan
+[17:23:48] <Jeroen> omdat gekken zoals jij te vroeg beginnen :+
+[17:23:51] <tozzert> resultaat is hetzelfde
+[17:23:53] <tozzert> het is niet af
+[17:23:54] <tozzert> :+
+[17:38:46] *** Joins: Tweaker_2650 (Mibbit@31.161.134.225)
+[17:41:23] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Exit)
+[17:43:21] *** Joins: zomertje (zomertje@pluizigenblauw.xs4all.nl)
+[17:43:21] *** ChanServ sets mode: +o zomertje
+[17:47:31] <tozzert> DAOLIK WIR FRIET DENK!
+[17:47:40] <tozzert> wè gij DinX?
+[17:48:05] <tozzert> of is het bij belgen ipv 1 dag in de week frietdag, 1 dag in de week géén friet?
+[17:49:48] *** Quits: Tweaker_2650 (Mibbit@31.161.134.225) (Exit)
+[17:49:53] *** Joins: JamesB009 (got@185.65.53.175)
+[17:51:30] *** Joins: Tweaker_2650 (Mibbit@g23184.upc-g.chello.nl)
+[17:52:27] <tozzert> of 1 maaltijd
+[17:52:38] <tozzert> op zondag een keer géén friet als ontbijt
+[17:54:09] <rawplayer> gedraag je
+[17:54:19] <tozzert> ooo DAVE
+[17:54:21] <tozzert> BEHAVE
+[17:55:33] <rawplayer> in je broekje
+[17:56:30] *** Quits: Tweaker_2650 (Mibbit@g23184.upc-g.chello.nl) (Exit)
+[18:01:33] *** Joins: Tweaker_2650 (Mibbit@g23184.upc-g.chello.nl)
+[18:05:46] <Drawer> nou tozzert 
+[18:05:47] <Drawer> t is gelukt
+[18:05:55] <Drawer> met die ignition en constante spanning
+[18:05:56] *** Quits: Tweaker_2650 (Mibbit@g23184.upc-g.chello.nl) (Exit)
+[18:06:03] <Drawer> gewoon kabels doorgeknipt en met kroonsteentjes gebeund
+[18:06:04] <Drawer> :+
+[18:06:20] <Drawer> en die ground loop lijkt minder erg met een nieuwe kabel, maar is er nogsteeds
+[18:06:25] <Drawer> maar leefbaarder
+[18:06:32] <Drawer> wtf btw :D
+[18:06:36] <Drawer> ik trek een kabel los
+[18:06:40] <Drawer> een grijze uit de kabelboom
+[18:06:43] <Drawer> die kreeg dus ff geen 12v meer
+[18:06:50] <Drawer> beginnen de ruitewissers te bewegen
+[18:06:51] <Drawer> 8)7
+[18:07:06] <Drawer> pleur je weer 12v op die draad stoppen ze na 3x en hoor je een of andere fuckedup piep :D
+[18:10:29] *** Joins: boy_yonder (Seb@82-169-222-71.ip.telfort.nl)
+[18:17:51] <Jeroen> franse elektronica
+[18:17:52] <Jeroen> kwaliteit heur
+[18:19:13] <tozzert> [11:54:41] <Drawer> kan wel weer met kroonsteentjes gaan kutten, maar wilde t enigszins netjes houden nog
+[18:19:14] <tozzert> :>
+[18:20:04] <tozzert> ik snap wel dat de sturing van je ruitenwissers bij je radio uitkomt
+[18:20:11] <tozzert> is hip als je die op de beat mee wilt laten gaan
+[18:22:40] *** Quits: Smileface (alexander@25bc408b.ftth.concepts.nl) (Exit)
+[18:22:53] <tozzert> de groene aanslag is niet allemaal weg trouwens
+[18:22:56] <tozzert> @ wasstraat
+[18:23:03] <tozzert> de vogelschijt ook niet
+[18:23:11] <moto-moi> hoelang stond 'ie stil?
+[18:23:20] <tozzert> maand of 3-4
+[18:23:26] <moto-moi> nice :P
+[18:23:31] <tozzert> en toen 1 ritje gedaan
+[18:23:40] <tozzert> daarvoor ook paar maanden
+[18:23:41] <moto-moi> de buurkinderen omkopen om hem te scrobben?
+[18:23:56] <Hooglander1> Verpats het ding dan tozzert 
+[18:24:00] <Hooglander1> Als je er toch niet in rijd
+[18:24:01] <tozzert> denk dat ik afgelopen jaar nog minder heb gereden dan de 4k in het jaar ervoor
+[18:24:06] <Hooglander1> Is je APK niet binnenkort?
+[18:24:07] <moto-moi> of verkoop hem aan lade idd
+[18:24:08] <Hooglander1> Drawer ?
+[18:24:15] <tozzert> nee
+[18:24:19] <tozzert> die is na de zomer
+[18:24:31] <Hooglander1> Ow jah, die had je toen uitgesteld ja
+[18:25:00] <tozzert> was nog enigszins bang voor vierkante wielen
+[18:25:10] <tozzert> banden liggen er 2 jaar onder
+[18:25:28] <Hooglander1> Pomp ze dan ff goed hard op
+[18:25:33] <Hooglander1> Ff 3 bar erop als je hem wegzet
+[18:25:34] <tozzert> maar de auto heeft dus heul veul stilgestaan
+[18:25:47] <moto-moi> doen je ruitenwissers het?
+[18:25:51] <tozzert> jep
+[18:26:00] <moto-moi> dan is het een betere auto dan dat barrel van hem hoor
+[18:26:06] <Hooglander1> Whehe
+[18:26:22] <tozzert> maar de mijne gaan niet mee op de beat van de muziek
+[18:26:31] <Hooglander1> Kmoe zeggen, de nieuwe zomerbandjes
+[18:26:40] <Hooglander1> Geen dag te laat :D
+[18:26:54] <tozzert> veul motorrijders
+[18:27:04] <Hooglander1> 22 graden zojuust
+[18:27:17] <tozzert> ff rondje A65, A2, A15, A27 en A58 gedaan vanmiddag
+[18:28:00] <Hooglander1> Meh
+[18:28:03] <Hooglander1> Alleen snelweg
+[18:28:12] <tozzert> moest ff accu opladen hè
+[18:28:26] <tozzert> met AED aan de praat gekregen
+[18:28:48] <Hooglander1> Troe
+[18:28:54] <Hooglander1> Ik zat vandaag bij een motorrijder
+[18:29:02] <Hooglander1> A12 naar A50 richting zuiden
+[18:29:04] <tozzert> bij een échte bedoel je?
+[18:29:13] <Hooglander1> Die kerel ging rechtop de bocht door
+[18:29:15] <Hooglander1> 70kmh
+[18:29:18] <Hooglander1> Op de linkerbaan
+[18:29:22] <Hooglander1> Positie op de weg fout
+[18:29:26] <Hooglander1> Houding op de mtoor fout
+[18:29:28] <Hooglander1> Snelheid fout
+[18:29:33] <Hooglander1> En dan is de bocht klaar
+[18:29:36] <tozzert> ghe, paar motorrijders gezien die het klaverblad steeds weer pakten
+[18:29:37] <tozzert> ;p
+[18:29:38] <Hooglander1> En dan vol op het gas :')
+[18:29:41] <Hooglander1> Nee
+[18:29:45] <Hooglander1> Hij kon gewoon niet rijden
+[18:29:46] <tozzert> ja
+[18:29:48] <tozzert> ik wel
+[18:29:49] <tozzert> kut
+[18:29:52] <Hooglander1> Vrijwel nieuwe kawa Versys
+[18:29:56] <Hooglander1> 8)7
+[18:30:00] <Hooglander1> Fucking orutser
+[18:30:15] <tozzert> motorrijders, ik heb er niks mee
+[18:30:20] <tozzert> ik maak plaats voor ze in de file
+[18:30:25] <tozzert> dat dan weer wel
+[18:30:39] <tozzert> ik rij normaal ook altijd uiterst rechts op m'n rijbaan
+[18:30:43] <tozzert> ivm busje wat ik rijd
+[18:30:51] <tozzert> ik gun mensen achter me ook zicht op wat er voor me gebeurt
+[18:31:11] <tozzert> en @ file ga ik dus naar links als ik motorrijdert aan zie komen
+[18:31:15] <tozzert> kunnen de meesten wel waarderen
+[18:31:25] <tozzert> veel ook geen bedankje
+[18:31:26] <tozzert> mgoe
+[18:31:31] <tozzert> die tik ik van de weg
+[18:32:17] <moto-moi> meestal is het nergens voor nodig dat mensen uitwijken voor motoren in de file
+[18:32:34] <tozzert> vandaar mijn verhaal vooraf
+[18:32:36] <tozzert> kutkop
+[18:32:55] <Hooglander1> Soms heb je je hand nodig voor ontkoppelen tozzert 
+[18:32:58] <moto-moi> je maakt er plek voor, miepert
+[18:33:02] <Hooglander1> Of ben je zo gefocust op wat er voor je gebeurt
+[18:33:05] <tozzert> ja
+[18:33:11] <moto-moi> zeker in de file wil je niet je handen van het stuur afhalen :P
+[18:33:17] <Hooglander1> Soms kan het wel ff
+[18:33:17] <tozzert> omdat ze er anders echt niet langs kunnen als ik uiterst rechts op mijn baan sta
+[18:33:19] <tozzert> kutje
+[18:33:21] <Hooglander1> Maar vaak ook niet
+[18:33:41] <Hooglander1> Maar moto-moi 
+[18:33:48] <Hooglander1> Wanneer heb jij weer een motor?
+[18:33:51] <moto-moi> dunno
+[18:33:54] <moto-moi> voorlopig nog ff niet :P
+[18:33:58] <Hooglander1> Het moet toch beginnen te jeuken onderhand
+[18:34:31] <tozzert> daar zijn zalfjes en shampoos voor Hooglander1
+[18:35:02] <moto-moi> idd
+[18:35:56] <Hooglander1> Praotjes
+[18:36:02] <Hooglander1> Ende smoesen
+[18:36:15] <tozzert> werken ze bij jou niet dan?
+[18:36:46] <moto-moi> Hooglander1: jij lijkt er meer last van te hebben dan ik hoor :P
+[18:39:02] <Hooglander1> Jaja vast
+[18:39:45] <Hooglander1> Ik vind je nickname gewoon suf :+
+[18:39:53] <Hooglander1> Beetje doen alsof je motor rijd
+[18:40:28] <moto-moi> pff
+[18:40:39] <moto-moi> die nick had ik al voordat ik een motor had hoor :+
+[18:40:50] <Hooglander1> Nog suffer :+
+[18:41:02] <tozzert> moto-mwah hè
+[18:41:20] <moto-moi> ghehe
+[18:41:45] <moto-moi> ik heb 80k op 2 motoren gereden, voordat de gemiddelde mooiweerrijder me daarmee inhaalt zijn we wel wat jaren verder hoor :+
+[18:42:02] <tozzert> aaaaaah
+[18:42:04] <tozzert> arme knul
+[18:42:10] <tozzert> had je geen geld voor een dak boven je hoofd?
+[18:42:47] <moto-moi> jawel :P
+[18:42:51] <moto-moi> maar autorijden is suf
+[18:42:58] <moto-moi> en ik kwam elke dag gegarandeerd in een file
+[18:43:07] <Jeroen> ik vind autorijden leuk, maar  tozzert doet het ook
+[18:43:13] <Jeroen> dat maakt het wel minder
+[18:43:14] <Hooglander1> :D
+[18:43:18] <moto-moi> ghehe
+[18:43:23] <Hooglander1> Dat is zowaar een goede grap van Jeroen 
+[18:43:31] * Hooglander1 klapt voor joentje
+[18:43:55] <Hooglander1> Ik zat ook te kijken naar potentiële woonplaatsen
+[18:43:58] <tozzert> wat vind jij van neuken jeroen?
+[18:44:13] <Hooglander1> Als ik in Amsterdam moet werken, moet ik gewoon motor blijven rijden 
+[18:44:15] <Hooglander1> Lost zoveel op
+[18:44:23] <tozzert> idd
+[18:44:26] <tozzert> honger in afrika
+[18:44:28] <tozzert> *poef*
+[18:44:30] <tozzert> weg
+[18:44:30] <Hooglander1> Precies
+[18:44:34] <Hooglander1> Jij snapt het
+[18:44:36] <Jeroen> mwoh langs de a2 heb je toch redelijk wat plaatsen waar je kan wonen
+[18:44:50] <Hooglander1> Ja, maar niet waar mijn vrouw zou kunnen werken
+[18:44:57] <Hooglander1> En dat zal toch de hoofdrol spelen
+[18:45:07] <Jeroen> iets in de buurt van utrecht?
+[18:45:13] <Jeroen> daar stikt het van de ziekenhuizen, toch?
+[18:45:13] <Jeroen> :+
+[18:46:34] <moto-moi> daar had fee-tje het toch ook zo naar d'r zin? :+
+[18:46:51] <Drawer> kan ze collega worden van osiris
+[18:46:52] <Drawer> :DDDDDDDDDDDDD
+[18:46:53] <Drawer> _O-------
+[18:47:47] <Hooglander1> Jeroen: ze moeten er wel openhart operaties doen :P
+[18:47:58] <Drawer> mja wel raar tozzert dat wanneer ik 12v van een kabel afhaal de ruitewisser aangaat
+[18:48:03] <moto-moi> Drawer: heeft die ubehaupt al werk?
+[18:48:07] <moto-moi> ik mag hopen van niet :X
+[18:48:08] <Drawer> stop ik er weer 12v op doet ie nog 3x wissen
+[18:48:11] <Drawer> en doet ie een gekke piep
+[18:48:12] *** Quits: JamesB009 (got@185.65.53.175) (Exit)
+[18:48:13] <Drawer> en is alles weer ok
+[18:48:19] <tozzert> noem het maar ok
+[18:48:24] <Jeroen> kan je toch zo opzoeken moto-moi 
+[18:48:25] <Drawer> jonge
+[18:48:37] <Drawer> mn radio onhoudt nu iig de settings
+[18:48:39] <Drawer> da is al heul heul wa
+[18:48:42] <tozzert> als je die 12V eraf laat... blijft hij ook wissen?
+[18:48:45] <Drawer> ja
+[18:48:45] <Drawer> :D
+[18:48:52] <Drawer> van die ene kabel dus he
+[18:49:07] <moto-moi> Jeroen: ik weet dat 'ie ger-jan heet, de rest heb ik bewust verdrongen gok ik, dus hem bij medische missers vinden gaat wat lastig :+
+[18:49:13] <tozzert> en je ruitenwisserpook werkt wel gewoon?
+[18:49:17] <Jeroen> BeroepsgroepArtsen 
+[18:49:18] <Drawer> ja tozzert 
+[18:49:29] <Jeroen> hij staat iig geregistreerd :+
+[18:49:40] <Drawer> wat was zn achternaam ook alweer
+[18:50:23] <tozzert> was dat niet Jan?
+[18:50:49] * moto-moi poked in fee-tje: jij weet dat vast wel
+[18:50:53] <Drawer> kutjer
+[18:50:53] <Drawer> Jeroen, 
+[18:50:54] <Drawer> zeg
+[18:51:02] <Hooglander1> Drawer: :D
+[18:51:04] <tozzert> jammer hè
+[18:51:09] <Hooglander1> Dat ruitenwissergrapje
+[18:51:11] <Drawer> ja
+[18:51:12] <tozzert> dat hij kutjer niet met tab complete
+[18:51:12] <Drawer> geen geintje
+[18:51:14] <Hooglander1> Dat was niet eenmalige?
+[18:51:17] <Drawer> mn pa zat ook in de auto
+[18:51:23] <Drawer> en zn bek hing op de grond
+[18:51:26] <Drawer> van verbazing
+[18:51:27] <Drawer> en lachen
+[18:51:27] <Drawer> :D
+[18:51:42] <Hooglander1> Goeie wagen jonguh!
+[18:51:43] <Hooglander1> :+
+[18:51:46] <Drawer> ja jonge
+[18:51:48] <tozzert> bij z'n radio ook nog hè
+[18:51:51] <Drawer> mn radio doet t awesome nu
+[18:51:51] <Drawer> ja
+[18:51:51] <Drawer> :D
+[18:51:52] <tozzert> keilogisch
+[18:51:56] <Drawer> bij de iso stekker van de radio
+[18:51:59] <Drawer> en t leek fabriek af
+[18:52:07] <Hooglander1> Maar als je de Radio aanzet gaat je ruitenwisser aan?
+[18:52:17] <tozzert> die fransozen moeten eens minder wijn drinken tijdens het werk
+[18:52:20] <Drawer> nee Hooglander1 
+[18:52:22] <Drawer> niks raars
+[18:52:24] <Drawer> alles was ok
+[18:52:38] <Drawer> alleen moest die kabel los omdat ik die constante 12v en de ignition 12v ging wisselen
+[18:52:43] <Drawer> en toen liep ik daartegenaan
+[18:52:44] <Drawer> :D
+[18:53:38] <Drawer> hmm
+[18:53:45] <Drawer> t is niet fabriek af zo te zien
+[18:53:50] <Drawer> als ik het vergelijk met shit van google
+[18:53:51] <tozzert> JOH
+[18:53:51] <Drawer> raaar
+[18:53:52] <tozzert> ZOU JE DENKEN
+[18:53:57] <Drawer> mja
+[18:54:02] <tozzert> godnakende
+[18:54:02] <tozzert> :D
+[18:54:02] <Drawer> ooit zat er ook een mediastick in die auto
+[18:54:07] <Drawer> onder t stuur
+[18:54:09] <Drawer> die is verwijderd
+[18:54:17] <Drawer> en hebben ze tape over het gat gedaan, maar waaaaarom
+[18:54:17] <tozzert> wat is een mediastick?
+[18:54:22] <Drawer> ja om de radio te bedienen
+[18:54:23] <Drawer> zeg maar
+[18:54:32] <Drawer> net als je ruitewisserstick
+[18:55:15] <Hooglander1> Maar wat gebeurt er dan precies Drawer 
+[18:55:24] <Hooglander1> Heb het niet live meegelezen
+[18:55:36] <Drawer> die grijze (dacht ik) kabel zit aan de permanente 12v vast in de iso stekker van de radio
+[18:55:43] <Drawer> maar die moest eruit, die stekker,. want omwisselen
+[18:55:49] <Drawer> ging niet etc, dus toen maar kabels gaan knippen
+[18:55:52] <Drawer> enn weer aan elkaar maken
+[18:55:57] <Drawer> dus ik knip die grijze door
+[18:56:04] <Hooglander1> Soms heb je ook wel twee 12 volt draden aan 1 pin
+[18:56:05] <Drawer> die krijgt dus geen verbinding meer met de constante 12v
+[18:56:14] <Drawer> en opeens begint de ruitewisser te bewegen
+[18:56:14] <Hooglander1> Kan je toch zo erbij proppen in je kroonsteen
+[18:56:15] <Drawer> 1 ook maar
+[18:56:45] <Drawer> en als ik die kabel weer aan de 12v hang krijg ik een rare piep, een andere dan normaal bij olie, en doet ie nog 3-4x ruitewisser en dan  is t weer stil
+[18:56:45] <Drawer> :D
+[18:57:04] <Drawer> dus als er op die kabel geen 12v staat gaat de auto raaaaaer doen
+[18:57:07] <Hooglander1> Maar als je die erbij zet in je kroonsteen
+[18:57:12] <Hooglander1> Dan werkt het toch zoals altijd
+[18:57:15] <moto-moi> samenvatting: Drawer komt morgen waarschijnlijk op de fiets
+[18:57:21] <tozzert> wat denk je dat hij gedaan heeft Hooglander1
+[18:57:21] <Drawer> ja Hooglander1 
+[18:57:23] <tozzert> djeez
+[18:57:24] <Drawer> alles werkt al weer
+[18:57:26] <Hooglander1> Prima, niets meer aan doen, achter de Radio wegdauwen en done
+[18:57:29] <Drawer> exact.
+[18:57:31] <Drawer> maar raaaaaaaar
+[18:57:35] <Hooglander1> Geen probleem dan
+[18:57:45] <Drawer> mja heb nu iig een radio met usb, sd card, aux in en hij onthoudt settings
+[18:57:48] <Hooglander1> Je kabelboom zal wel fucked up zijn door die "mediastick"
+[18:57:49] <Drawer> en gaat automatisch aan bij starten
+[18:57:50] <Drawer> etc etc
+[18:58:00] <Drawer> gast, een mediastick is toch niet zo raar
+[18:58:09] <Drawer> https://www.google.nl/search?q=radio+stalk+206&espv=2&biw=1920&bih=911&site=webhp&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj2toqg-PLLAhUDZg8KHfdYCMUQ_AUIBigB
+[18:58:10] <Drawer> radio stalk
+[18:58:12] <Drawer> in het engels
+[18:58:12] <Hooglander1> Hangt er vanaf hoe ze hem erin beunen
+[18:58:26] <Hooglander1> Wel als ie aftermarket is
+[18:58:28] <Drawer> zit er fabriek af in normaal
+[18:58:33] <Drawer> maar hij is weg
+[18:58:41] <Drawer> dunno hoe en wat precies, heb de onderkant van mn stuur nog niet open gehad :+
+[18:59:00] <Drawer> oja, en klokje incl. lampje zit aan de 12v constant gebeund Hooglander1 :D
+[18:59:05] <Drawer> dus daarom blijft ie 24/7 aan
+[18:59:17] <Drawer> en daarom klaagde maat van me dat accu na een 4-5 weken vakantie dood waws
+[18:59:25] <Drawer> gok ik
+[18:59:26] <Hooglander1> Dan is het dus al ergens anders omgedraaid
+[18:59:28] <Drawer> kan dat?
+[18:59:29] <Hooglander1> In de kabelboom
+[18:59:30] <tozzert> lampje aan continu 12V?
+[18:59:32] <Drawer> ja
+[18:59:32] <tozzert> whut?
+[18:59:40] <Hooglander1> Hoe de neuk heeft ie dat gedaan
+[18:59:41] <Drawer> zon 12vlampje van de dashboard
+[18:59:45] <Drawer> 6e eigenaar he
+[18:59:46] <Drawer> :>
+[19:00:01] <Hooglander1> Ah
+[19:00:12] <Hooglander1> Maar ja, dan is je accu idd een keer dood ja
+[19:00:15] <Drawer> ik probeer alles in ere te herstellen, voor zover mogelijk
+[19:01:32] <Hooglander1> Dan had je nu je radiodraden niet om moeten wisselen
+[19:01:38] <tozzert> dat lampje heb je toch niet @ continu 12V gelaten hè?
+[19:01:42] <Hooglander1> Maar moeten kijken in de documentatie van je elektraboom
+[19:01:44] <Drawer> wel Hooglander1 
+[19:01:49] <Drawer> die radiodraden zijn nu ok
+[19:01:54] <Drawer> jawel tozzert teveel gezeik atm
+[19:01:58] <tozzert> je hebt get toch wel aan de kant van de radio omgewisseld hè?
+[19:01:59] <tozzert> nee zeker
+[19:01:59] <tozzert> ;p
+[19:02:05] <Drawer> nee in de auto
+[19:02:07] <Drawer> heb geen verloop
+[19:02:08] <tozzert> lul
+[19:02:08] <tozzert> :D
+[19:02:10] <Drawer> de auto heeft al iso
+[19:02:11] <Drawer> :>
+[19:02:18] <Drawer> en radio is iso
+[19:02:21] <Drawer> dus geen verloop nodig
+[19:02:58] <Hooglander1> Blijkbaar wel
+[19:03:01] <Hooglander1> ISO goed naar ISO kut
+[19:03:09] <Drawer> http://i.imgur.com/jvID7ht.jpg
+[19:03:14] <Drawer> zo is t nu
+[19:03:15] <Drawer> :X
+[19:03:17] <Drawer> of nee, was het
+[19:03:19] <tozzert> omg
+[19:03:20] <Drawer> nu extra kroonsteentje
+[19:03:21] <Drawer> :D
+[19:03:30] <tozzert> die geelgroene
+[19:03:32] <tozzert> :'(
+[19:03:32] <Drawer> ja
+[19:03:41] <Drawer> dat is dus die extra aarde waar ik t over had
+[19:03:44] <Drawer> vanmiddag
+[19:03:49] <Drawer> en die 2 zwarte gaan naar t klokje
+[19:03:55] <Drawer> 1 voor lampje en 1 voor klokje zelf
+[19:04:07] <Drawer> die gele met dat kleine hoesje erom
+[19:04:10] <Drawer> dat is de ignition 12v
+[19:04:13] <Drawer> en die zat, zoals je ziet
+[19:04:14] <tozzert> die naar het lampje gaat, zet je dan toch gewoon op dei geschakelde erbij
+[19:04:15] <Drawer> op de constante 12v
+[19:04:19] <Drawer> van de iso
+[19:04:21] <tozzert> die laat je dan toch niet @ continu zitten
+[19:04:22] <tozzert> kwezel
+[19:04:41] <Drawer> nja
+[19:04:43] <Drawer> ander keertje
+[19:04:44] <Drawer> :D
+[19:04:58] *** Joins: Tweaker_0306 (Mibbit@a82-94-41-108.adsl.xs4all.nl)
+[19:05:00] <Hooglander1> Hahaa
+[19:05:02] <Hooglander1> Yeah right
+[19:05:07] <Hooglander1> Ik weet hoe dat gaat
+[19:05:13] *** Quits: Tweaker_0306 (Mibbit@a82-94-41-108.adsl.xs4all.nl) (Exit)
+[19:05:24] <tozzert> die gele met dat hulsje lijkt helemaal nergens op aangesloten te zitten?>
+[19:05:31] <Drawer> jawel
+[19:05:34] <Drawer> op een grijze/blauwe
+[19:05:38] <Drawer> mja
+[19:05:42] <tozzert> grijs/blauw
+[19:05:44] <Drawer> t zit goed nu voor de radio
+[19:05:44] <Drawer> :>
+[19:05:49] <tozzert> keilogisch dat dat de continue 12V is...
+[19:05:52] <tozzert> man man man
+[19:05:57] <tozzert> wat een bende
+[19:06:04] <Drawer> ik zal wel keer langskomen tozzert 
+[19:06:06] <Drawer> mag jij t komen fixen
+[19:06:06] <Drawer> :>
+[19:06:18] <tozzert> ik maak het iig niet zo nee
+[19:06:34] <Drawer> ik kan er wijs uit
+[19:06:36] <Drawer> dat is genoeg ej
+[19:06:37] <Drawer> :D
+[19:06:44] <Jeroen> godsakkers
+[19:06:45] <Jeroen> die foto
+[19:06:46] <Jeroen> :D
+[19:06:48] <Drawer> zal nog wel eens kap onder het stuur loshalen
+[19:06:58] <Drawer> gok dat er met verwijderen van die mediastalk ook shit fout gegaan is :D
+[19:07:02] <Drawer> mja Jeroen 
+[19:07:06] <Drawer> ook veel lijmresten en shit
+[19:07:09] <Drawer> van die kabelboom
+[19:07:14] <Drawer> dat is aan het uitdrogen enzo
+[19:07:16] <Drawer> laat los
+[19:07:16] <tozzert> dit kan goed af fabriek zijn trouwens jeroen
+[19:07:18] <tozzert> fransozen hè
+[19:07:20] <Jeroen> ghehe
+[19:08:09] <Drawer> moet radio er sowieso nog keer uithalen om die metalen casing ff goed aan te drukken
+[19:08:12] <tozzert> maar je hebt dus een heel chic after market klokje in je dash zitten?
+[19:08:16] <Drawer> nee
+[19:08:18] <Drawer> default
+[19:08:18] <Drawer> :D
+[19:08:22] <Drawer> daarom snap ik t ook niet
+[19:08:23] <tozzert> WAT
+[19:08:36] <tozzert> ik dacht eerst dat je wilde zeggen:
+[19:08:38] <tozzert> nee
+[19:08:40] <tozzert> 'niet chic'
+[19:08:41] <tozzert> :+
+[19:08:48] <Drawer> snapo sowieso niet waarm een duurdere sportversie van een 206 uit 2004 een klokje heeft
+[19:08:57] <Drawer> terwijl uit 2003 de goedkope al boordcomputerschermpjes hebben
+[19:09:11] <Hooglander1> Is het wel de duurdere sportversie dan
+[19:09:20] <Hooglander1> Of zijn die opties erin gebeunt
+[19:09:29] <Drawer> kan zon boordcomputer niet inbouwen zonder dat ik een nieuwe kap voor mn middenconsole nodig heb
+[19:09:34] <Drawer> en die zijn default zwart
+[19:09:37] <Drawer> behalve bij deze versie
+[19:09:38] <tozzert> heb je de aders wel eerst vertind Drawer? voordat je ze in de kroonsteen schroefde?
+[19:09:39] <Drawer> daar zijn ze zilver
+[19:09:40] <Drawer> :/
+[19:09:40] <tozzert> nee zeker
+[19:09:44] <Drawer> wa denkte zelf tozzert 
+[19:09:44] <Drawer> :D
+[19:09:48] <Drawer> manman
+[19:10:08] <tozzert> je draait die dunne soepele adertjes zo kapot
+[19:10:18] <Drawer> http://s283.photobucket.com/user/Pug25/media/IMG_0270.jpg.html
+[19:10:20] <Drawer> ik heb deze kleur
+[19:10:21] <tozzert> en dan moet er HEUL VEUL stroom door een dunnere diameter kabel
+[19:10:24] <tozzert> == warmte
+[19:10:31] <Drawer> http://farm1.static.flickr.com/185/427069417_823785a971.jpg
+[19:10:32] <tozzert> kan fik veroorzaken enzo
+[19:10:34] <Drawer> maar dit is default ofzo
+[19:10:49] <Drawer> en op die 2e pic zie je wel zon multiregel screen
+[19:11:07] <tozzert> wat is die eerste pic?
+[19:11:15] <tozzert> is dat jouw auto?
+[19:11:26] <Drawer> nee
+[19:11:34] <Drawer> niet mijn pic
+[19:11:36] <Drawer> wel zelfde kleur
+[19:11:49] <Drawer> http://206gti.net/drs/dr-xplod-dash_scaled.jpg
+[19:11:49] <Drawer> kijk
+[19:11:52] <Drawer> je hebt dus die kap bovenaan
+[19:12:00] <Drawer> die is bij mij een stuk minder wijd, qua gat
+[19:12:09] <Drawer> dus ik kan er wel een mooie boordcomputerscherm injanken
+[19:12:14] <tozzert> je stuur zit verkeerd
+[19:12:14] <Drawer> maar dan past die kap niet meer
+[19:13:46] <Drawer> t is maar goed dat ik t allemaal snap he
+[19:13:47] <Drawer> :>
+[19:14:06] <tozzert> ja
+[19:14:09] <tozzert> jij snapt het wel
+[19:14:19] *** Quits: Jeroen (Jeroen@54188FF8.cm-5-1c.dynamic.ziggo.nl) (Exit)
+[19:14:20] <tozzert> verlichting van het klokje op de 12V continu laten zitten
+[19:14:21] <tozzert> chapeau
+[19:14:28] <Drawer> komt goed
+[19:14:32] <Drawer> moet ik nog doen :+
+[19:14:39] <Drawer> neem ik gelijk mn dymo labelwriter mee
+[19:14:42] <tozzert> vanmiddag had je de hele zooi openliggen
+[19:14:42] <tozzert> gek
+[19:14:43] <Drawer> om labels aan alle kabels te hangen
+[19:14:44] <Drawer> :DDDDDD
+[19:14:50] <tozzert> alsof dat blijft zitten
+[19:17:40] <Drawer> hoe zou ik die groundloop ook alweer kunnen fixen tozzie
+[19:17:56] <tozzert> je oren amputeren
+[19:18:06] <Drawer> ah
+[19:18:07] <Drawer> goeie
+[19:18:23] <Drawer> kwam net vanaf tilburg, beetje nonchalant zo handjes tegen t stuur
+[19:18:27] <Drawer> druk ik net te hard op t stuur
+[19:18:29] <Drawer> *TOET*
+[19:18:33] <Drawer> motorrijder voor me keek gek
+[19:18:42] <tozzert> ruitenwissers gingen ook mee?
+[19:18:45] <Drawer> moest ik daarna bij volgende stoplicht iemand ff erop wijzen dat t groen was
+[19:18:47] <Drawer> dus ik weer toeren
+[19:18:54] <Drawer> die motorrijder pissed kiken
+[19:18:54] <Drawer> :D
+[19:19:05] <Drawer> kutvolk man
+[19:19:08] <Drawer> motorrijders
+[19:19:19] <tozzert> stuk voor stuk
+[19:19:22] <Drawer> vanmiddag was ik nog lief voor een andere motorijder Hooglander1 !
+[19:19:29] <Drawer> die zat al ff achter me op een 50 weg ofzo
+[19:19:43] <Drawer> hij wilde duidelijk harder, anders koop je niet zo kawasaki ninja ofzo
+[19:19:44] <tozzert> wat had je in tilburg te zoeken trouwens?
+[19:19:50] <Drawer> dus bij t stoplicht helemaal naar rechts gezet
+[19:19:56] <Drawer> zodat ie links langs me kon
+[19:20:00] <Drawer> en daarna vol kon optrekken
+[19:20:01] <Drawer> \o
+[19:20:08] <Drawer> lieve jongen ben ik, man man
+[19:20:10] <Drawer> tozzert, shoppen
+[19:20:12] <tozzert> jij filmen
+[19:20:15] <Drawer> idd
+[19:20:18] <tozzert> in de hoop dattie op z'n snuffert ging
+[19:20:19] <Drawer> popo sturen
+[19:20:25] <tozzert> had je weer een youtube hit
+[19:20:25] <Drawer> KIJK WAT DEZE G DOET
+[19:20:32] <tozzert> G
+[19:20:41] <tozzert> misschien is dat een aanknopingspunt!
+[19:21:14] <Drawer> haha
+[19:21:22] <Drawer> epic was da
+[19:21:52] <Drawer> ik ga weer naar tilburg nu tozzert 
+[19:21:54] <Drawer> om er hard aan voorbij te gaan
+[19:21:56] <Drawer> naar eindje
+[19:22:00] <Drawer> laterrrrr
+[19:22:02] <Drawer> wel zwaaien ej
+[19:22:07] *** Quits: Drawer (z@53521BE5.cm-6-3a.dynamic.ziggo.nl) (Exit)
+[19:22:08] <tozzert> waarom vanmiddag niet gelijk doorgereden dan
+[19:22:08] <tozzert> ?
+[19:22:14] <tozzert> nu moet je er 2 keer langs
+[19:23:49] <tozzert> rare jongen die schuif
+[19:34:22] *** Quits: Metalfrost (Metalfrost@tsn109-201-152-25.dyn.nltelcom.net) (Exit)
+[19:59:37] *** Quits: Matthew (Matthew@178-117-75-230.access.telenet.be) (Connection reset by peer)
+[20:10:26] *** Quits: coreblink (coreblink@145.132.131.160) (Ping timeout: 64 seconds)
+[20:10:37] *** Quits: gakkethijs (gakkethijs@84-245-42-16.dsl.cambrium.nl) (Connection reset by peer)
+[20:10:39] *** Joins: coreblink (coreblink@145.132.131.160)
+[20:11:00] <Hooglander1> tozzert: onderweg komt lade er achter dat zijn dimlichten en knipperlichten omgedraaid zijn
+[20:11:35] <tozzert> zou me niks verbazen als die bedrading ook bij z'n radio uitkomt nee
+[20:12:33] <Hooglander1> Ik gok een massa probleem
+[20:12:40] <Hooglander1> Dat creëert zoveel vage shit
+[20:16:37] <tozzert> wat heeftie aan vage shit dan?
+[20:16:40] <tozzert> niks toch?
+[20:17:00] <tozzert> bedrading zit wat door elkaar en bijgeknutseld
+[20:23:30] <Hooglander1> Maar ruitenwisser aan je ISO connector van de Radio tozzert 
+[20:23:42] *** Quits: coreblink (coreblink@145.132.131.160) (Ping timeout: 66 seconds)
+[20:24:07] <tozzert> mja, dat zal niet de draad ervan zijn
+[20:24:18] <tozzert> mgoe
+[20:24:26] <tozzert> als er al zoveel aan gebeund is...
+[20:25:28] <Hooglander1> Ahuh
+[20:25:31] <Hooglander1> Maar dat zeg ik, massa
+[20:25:35] <Hooglander1> Als die fucked up is
+[20:25:36] <tozzert> philipe?
+[20:25:40] <Hooglander1> Kan je dit soort vage shit krijgen
+[20:25:59] <Hooglander1> Doet me denken aan het dashboard dat uitviel van mijn megane
+[20:26:06] <Hooglander1> Of de afstandsbediening die het soms niet deed
+[20:26:11] <tozzert> felipe zelfs
+[20:26:29] <tozzert> je ab hing niet aan massa?
+[20:26:31] <Hooglander1> Dat je hem dicht drukte en dan wel lichtjes, maar de sloten bleven open :+
+[20:27:10] <tozzert> mja, dat is vaak een draadbreuk @ scharnierpunt van auto ofzo
+[20:27:14] <tozzert> achja
+[20:27:18] <Hooglander1> Niks geen dicht he
+[20:27:20] <tozzert> kan zoveel zijn
+[20:27:31] <Hooglander1> Zelfs niet de benzineklep
+[20:29:30] <Hooglander1> Moet nog de airco laten nakijken
+[20:34:23] <Hooglander1> Doe jij dat wel eens tozzert 
+[20:34:43] *** Joins: Jeroen (Jeroen@ip82-139-124-155.lijbrandt.net)
+[20:34:45] <tozzert> wat?
+[20:35:03] <Hooglander1> Airco
+[20:35:06] <Hooglander1> Of heeft je bak dat niet
+[20:35:17] <tozzert> allicht heeftiedeh
+[20:35:23] <tozzert> climate control zelfs
+[20:35:33] <tozzert> wordt met de beurt altijd nagekeken
+[20:35:34] <Hooglander1> Nou nou 
+[20:35:39] <tozzert> vraag ik altijd naar iig
+[20:35:42] <tozzert> mgoe
+[20:35:51] <tozzert> alie werkt, werktie natuurlijk
+[20:35:55] <tozzert> alsie
+[20:36:36] <tozzert> alleen valt hij bij mij weleens in storing
+[20:36:51] <tozzert> kwestie van sensor/ventilatortje schoonmaken
+[20:36:54] <tozzert> en hij doet het weer even
+[20:37:56] <tozzert> hij doet het wel gewoon, ook al staat hij in storing
+[20:38:04] <tozzert> alleen meet hij vreemde waarde dan ofzo
+[20:38:57] *** Joins: McM (mcm@d30008.upc-d.chello.nl)
+[20:39:40] *** Quits: Resistor (Resistor@ip5456d91b.speed.planet.nl) (Exit)
+[20:40:01] *** Joins: Lin (Lin@53570183.cm-6-8a.dynamic.ziggo.nl)
+[20:41:34] <Hooglander1> Hmz
+[20:41:35] <Hooglander1> Raer
+[20:42:36] <Hooglander1> Zie dat er een Toko die bijvult hier in de buurt zit
+[20:42:37] <Hooglander1> €49
+[20:42:40] <Hooglander1> Primaaa
+[20:42:43] <Hooglander1> Morgen ffkes bellen
+[20:42:58] <tozzert> maar hij doetetniet dus?
+[20:44:25] <Hooglander1> Jawel
+[20:44:30] <Hooglander1> Maar hij mag wel kouder
+[20:44:32] <Hooglander1> En ex lease he
+[20:44:40] <Hooglander1> Dus kans dattie 4 jaar niet bijgevuld is
+[20:45:47] *** Quits: Teckna1 (jonathan@3E91CA67.cm-13.dynamic.ziggo.nl) (Ping timeout: 66 seconds)
+[20:51:12] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[20:56:29] <Escovan> hoi
+[20:56:42] <tozzert> weer lekker buitengespeeld Escovan?
+[20:56:48] <Escovan> ckrs
+[20:57:03] <Escovan> beetje kleur ook gekregen van de zon.
+[20:58:13] *** Joins: coreblink (coreblink@145.132.131.160)
+[20:59:33] <Escovan> Nieuw level (11) met ingress ... Nu duurt het nog langer voor het volgende level :|
+[21:00:01] <Escovan> Wat heb je gedaan tozzert ?
+[21:00:07] <Escovan> *jij
+[21:00:36] <tozzert> stukkie met auto gereden
+[21:00:40] <tozzert> wat biertjes gehaald
+[21:00:48] <tozzert> ff bij maat langsgeweest
+[21:01:26] <Escovan> Genieten met maten... altijd goed.
+[21:01:45] *** Joins: Anton (Antoon@5ED0B00A.cm-7-1c.dynamic.ziggo.nl)
+[21:05:54] <freebee666> Escovan! 28 mei Rotterdam ;)
+[21:09:26] <Escovan> Oh ja joh? Dan is het VT geld al binnen. Hopelijk is er dan ook een spoordeeldingetje.
+[21:10:10] <freebee666> weer lekker hele dag door Rotterdam banjeren
+[21:10:22] <freebee666> was vorige keer best ok :D
+[21:10:31] <Nakebod> Rotterdam platbombarderen op 28 mei ja?
+[21:10:43] <freebee666> yes
+[21:11:02] *** Quits: Anton (Antoon@5ED0B00A.cm-7-1c.dynamic.ziggo.nl) (Exit)
+[21:11:08] <tozzert> echt
+[21:11:16] <tozzert> kwezels zijn jullie
+[21:11:17] <Hooglander1> Hmz, wanneer krijg je muntjes van de BD dan?
+[21:11:36] <Nakebod> Ik hoop zo snel mogelijk
+[21:11:44] <Nakebod> gratis geld! :+ oh wacht...
+[21:11:47] <Hooglander1> Voor 1 Juli
+[21:11:48] <Hooglander1> Meh
+[21:11:51] <Erik> ow, moet nog aangifte doen ja
+[21:11:53] <Hooglander1> Duurt nog wel ekkes
+[21:12:31] <tozzert> JE BENT TE LAAT ERIK
+[21:12:38] <Nakebod> is het al 1 mei dan
+[21:12:38] <Erik> boeie!
+[21:12:56] <Hooglander1> Mag nog tot 1 mei idd
+[21:13:12] <Hooglander1> Alle zelfstandigen hebben uitstel aangevraagd gok ik
+[21:13:21] <Hooglander1> Hoe later hoe beter
+[21:15:16] <Nakebod> Volgens mij had het er ook mee te maken dat je voorheen voor 1 maart al aangifte kon doen, nu kan dat ook pas vanaf 1 maart.
+[21:20:43] <Hooglander1> Ahuh
+[21:20:50] <Hooglander1> En je kreeg toch  automatisch uitstel als je belde
+[21:21:43] <Hooglander1> Je krijgt alleen de aanslag later
+[21:21:59] <Nakebod> Gewoon op tijd invullen, ik wil geld ;+
+[21:22:11] <moto-moi> idd, free monies
+[21:22:58] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 67 seconds)
+[21:23:01] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[21:24:21] <Hooglander1> Ahuh
+[21:24:30] <Hooglander1> Vorig jaar moest ik lappen
+[21:24:39] <Hooglander1> Dat was minder
+[21:24:45] <moto-moi> vorig jaar had ik een hut gekocht, dat was prima :+
+[21:24:58] <tobias> hah
+[21:25:12] <tobias> en ook maar 1x per jaar je hra laten terugstorten he moto-moi 
+[21:25:17] <moto-moi> uhuh
+[21:25:24] <tobias> whee 14e maand
+[21:25:30] <moto-moi> idd :P
+[21:25:40] <tobias> hm ik maak blijkbaar te vaak frunnikprojectjes in mn ~ aan
+[21:25:43] <tobias> mkdir frop: File exists
+[21:25:47] <tobias> mkdir blerf: File exists
+[21:26:01] <Dubbeldrank> blagh
+[21:26:10] <tobias> ja het is nu blorf geworden
+[21:26:14] <Dubbeldrank> :D
+[21:27:16] <NMe> want opruimen was te praktisch? :+
+[21:28:14] <Hooglander1> "Doe ik later wel"
+[21:28:24] <moto-moi> opruimen is voor stakkers die geen grotere hds kunnen kopen
+[21:29:30] <NMe> moto-moi: check... /dev/vg1000/lv 22T 21T 494G 98% /opt
+[21:29:56] <moto-moi> dat klinkt eerder als je ruk-schijf dan als een sourcerepository ;)
+[21:30:02] <NMe> lol
+[21:30:18] <NMe> voor 95% tv-series actually :+ maar close! :P
+[21:30:29] <Nakebod> is ook een vorm van eh, ontwikkeling
+[21:33:27] <Hooglander1> Tv-series
+[21:33:30] <Hooglander1> Rukschijf
+[21:33:34] <Hooglander1> What's the difference
+[21:34:24] <moto-moi> :P
+[21:34:25] <Nakebod> Het verhaal in rukseries is beter.
+[21:35:33] <Hooglander1> Whehehe
+[21:37:01] *** Quits: McM (mcm@d30008.upc-d.chello.nl) (Ping timeout: 66 seconds)
+[21:40:38] *** Joins: Anton (Antoon@5ED0B00A.cm-7-1c.dynamic.ziggo.nl)
+[21:42:39] *** Quits: Anton (Antoon@5ED0B00A.cm-7-1c.dynamic.ziggo.nl) (Exit)
+[21:43:28] <Escovan> Wow, op zondag al weten dat ik 2 opdrachten voor volgende week heb, gaat lekker.
+[21:45:14] <tozzert> de witte was en gekleurde was?
+[21:45:56] <Escovan> Computer opdrachten tozzert ... Ik heb een vrouw voor de was. :P
+[21:46:37] <tozzert> enniehoe
+[21:46:39] <tozzert> slapiedoen
+[21:46:45] <tozzert> 4:30ish gaat die klotewekker
+[21:47:04] <tozzert> en ik slaap de laatste tijd al zo goed...
+[21:47:10] <moto-moi> sterkte tozzie
+[21:47:20] <moto-moi> ik zal aan je denken als mijn wekker om 7 uur afgaat :+
+[21:47:26] <tozzert> dank je matige motorrijert
+[21:47:37] <moto-moi> love you to :*
+[21:47:37] <tozzert> je bent een trut
+[21:47:44] <moto-moi> ghehe
+[21:47:46] <tozzert> to what?
+[21:47:46] <moto-moi> *too
+[21:48:06] <tozzert> 7u de wekker
+[21:48:09] <tozzert> man man man
+[21:48:11] <tozzert> ambtenaer
+[21:48:20] <moto-moi> gast, ik heb gewoon goede werktijden bedongen
+[21:50:38] * Escovan is 7 dagen per week om 6 uur wakker
+[21:54:25] <Hooglander1> 4:30
+[21:54:35] <Hooglander1> En dan is het werk nog niet af aan het einde vd dag
+[21:54:39] <Hooglander1> Prutsert die tozzert 
+[22:00:56] *** Quits: zomertje (zomertje@pluizigenblauw.xs4all.nl) (Exit)
+[22:07:56] *** moto-moi is now known as moto-moi|afk
+[22:13:23] *** Quits: kees (kees@office.tweaknet.net) (Input/output error)
+[22:21:05] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 61 seconds)
+[22:22:34] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[22:32:18] *** Joins: Guyver2 (Guyver2@guyver2.xs4all.nl)
+[22:36:05] *** Quits: boy_yonder (Seb@82-169-222-71.ip.telfort.nl) (Exit)
+[22:37:49] *** Quits: coreblink (coreblink@145.132.131.160) (Exit)
+[22:41:29] *** Quits: bbee (bbee@53541BFC.cm-6-5a.dynamic.ziggo.nl) (Exit)
+[22:56:33] *** Quits: Chiron (Chiron@ip5652834f.adsl-surfen.hetnet.nl) (No route to host)
+[23:01:37] *** Joins: Chiron (Chiron@ip5652834f.adsl-surfen.hetnet.nl)
+[23:27:39] *** Quits: Vipertje (tweak@54182E79.cm-5-1a.dynamic.ziggo.nl) (Connection reset by peer)
+[23:34:04] *** Quits: Anthor (Anthor@cust.7.103.adsl.cistron.nl) (Exit)
+[23:38:03] *** Joins: bbee (bbee@53541FA1.cm-6-5a.dynamic.ziggo.nl)
+[23:38:42] *** Joins: twistit (uid156026@id-156026.tooting.irccloud.com)
+[23:54:56] *** Quits: Jeroen (Jeroen@ip82-139-124-155.lijbrandt.net) (Exit)

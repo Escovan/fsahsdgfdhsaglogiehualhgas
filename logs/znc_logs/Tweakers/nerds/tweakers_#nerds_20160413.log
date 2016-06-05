@@ -1,0 +1,1450 @@
+[00:12:09] <MueR> zucht.. aan je domain admin vertellen hoe hij die irritante toch al geblokkeerde win10 upgrade app moet blocken, en dan krijg je "ik vraag het wel aan $x"
+[00:12:18] <MueR> hij krijgt een step by step guide van me :P
+[00:14:09] *** Quits: Aherin (Aherin@092-111-239-066.static.chello.nl) (Ping timeout: 60 seconds)
+[00:14:32] *** Joins: Aherin (Aherin@092-111-239-066.static.chello.nl)
+[00:30:26] *** Quits: Guyver2 (Guyver2@guyver2.xs4all.nl) (Exit)
+[00:40:27] *** Quits: koolaid (koolaid@2a02:a212:280:1c00:19ce:9fe8:314e:85df) (Client exited)
+[00:45:06] *** Quits: SCHAPiE (dorian@dhcp-077-249-247-124.chello.nl) (Exit)
+[00:45:43] *** Quits: Ou-Tannu (Ou-Tannu@5249248B.cm-4-2a.dynamic.ziggo.nl) (Ping timeout: 68 seconds)
+[00:51:33] *** Joins: Ou-Tannu (Ou-Tannu@5249248B.cm-4-2a.dynamic.ziggo.nl)
+[01:20:55] *** Quits: Kirth (Kirth@34.226-200-80.adsl-dyn.isp.belgacom.be) (Exit)
+[01:29:06] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[01:30:12] *** Quits: klaveRCX (michiel@klaver.it) (Ping timeout: 67 seconds)
+[01:34:06] *** Joins: klaveRCX (michiel@klaver.it)
+[02:11:54] *** Joins: mrwazoo (mrwazoo@h102136.upc-h.chello.nl)
+[02:38:54] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Exit)
+[02:41:48] *** Joins: koolaid (koolaid@ip-213-127-118-32.ip.prioritytelecom.net)
+[02:42:50] *** Quits: koolaid (koolaid@ip-213-127-118-32.ip.prioritytelecom.net) (Ping timeout: 60 seconds)
+[05:00:59] *** Quits: appy (appy@d121019.upc-d.chello.nl) (Client exited)
+[06:45:24] <rawplayer> mogge
+[06:51:39] <Fermata> Mogge
+[06:52:22] <Escovan> mogguh
+[06:59:27] *** Quits: jk-5 (jk-5@D549D0E1.cm-10-1b.dynamic.ziggo.nl) (Ping timeout: 67 seconds)
+[07:07:19] *** Joins: jk-5 (jk-5@D549D0E1.cm-10-1b.dynamic.ziggo.nl)
+[07:14:27] <NoxiousPluK> https://twitter.com/OnionIRC/status/720046562294894592
+[07:14:31] <digiweed> Title: Anonymous op Twitter: "Connect to OnionIRC: https://t.co/jb1aMU09uP" (at twitter.com)
+[08:42:54] <syf_> mogguh o/
+[08:43:07] <syf_> waarom zou ik met anonymous op irc willen zitten
+[08:43:59] <rawplayer> nonmuis
+[08:44:12] <rawplayer> goede vraag
+[08:44:17] <rawplayer> chatten
+[08:45:30] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[08:47:12] <bReChThOu> hi nerds
+[08:48:55] <rawplayer> bReChThOu: o/
+[08:49:02] * rawplayer geeft bReChThOu een tas koffie
+[08:50:38] *** Joins: wvdl (uid21241@id-21241.ealing.irccloud.com)
+[08:53:01] *** Quits: jk-5 (jk-5@D549D0E1.cm-10-1b.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[08:53:48] <rawplayer> wilm
+[08:56:42] <bReChThOu> rawpie
+[08:56:44] <bReChThOu> en wvdl
+[08:56:53] <wvdl> oi rawns.
+[08:57:00] <wvdl> \o/ bReChThOu 
+[08:57:03] <rawplayer> !koffie++
+[08:57:05] <digiweed> rawplayer: Karma for koffie is now: 1755
+[08:57:10] <rawplayer> wat een gare bug
+[08:57:13] <rawplayer> dat badlock
+[08:57:14] <rawplayer> in samba
+[08:57:22] <rawplayer> en rare manier van disclosen
+[08:57:23] <rawplayer> o_O
+[08:57:41] *** wvdl is now known as WvdL
+[08:59:38] <syf_> rawplayer: hype!
+[08:59:45] <syf_> alle bugs moeten een naampje
+[09:00:35] <rawplayer> BugsBunny
+[09:00:36] <rawplayer> xD
+[09:01:06] *** Joins: jk-5 (jk-5@D549D0E1.cm-10-1b.dynamic.ziggo.nl)
+[09:01:09] <Fermata> orly :')
+[09:01:14] <Fermata> !koffie++
+[09:01:18] <digiweed> Fermata: Karma for koffie is now: 1756
+[09:02:10] <bReChThOu> Fermattie <3
+[09:04:11] <Fermata> <3
+[09:05:32] <AlBundy> Mommy, I want to be a feminist when I grow up
+[09:05:44] <AlBundy> > Well pick one sweetie, you can't do both
+[09:05:53] <syf_> AlBundy: HA HA HA HAAAAAAAA
+[09:06:03] <syf_> jezus wat kut
+[09:06:14] <AlBundy> :p
+[09:06:37] <Dubbeldrank> mogguh
+[09:06:43] <AlBundy> mogge
+[09:06:48] <AlBundy> goed, effe douchen en -> werk
+[09:07:14] <surrounder> mogguh
+[09:07:29] <AlBundy> https://i.imgur.com/g2nPiHt.webm
+[09:07:34] <bReChThOu> surrounder:  <3
+[09:07:34] <AlBundy> Obama in Rusland
+[09:07:37] <bReChThOu> Dubbeldrank:  ¨*O*
+[09:07:37] <bReChThOu> AlBundy:  o/
+[09:07:49] <Dubbeldrank> hoi bReChThOu
+[09:07:57] <Dubbeldrank> surrounderp \o/
+[09:07:58] <surrounder> bReChThOeRtjE <3
+[09:08:03] <surrounder> Dubbeldranghek!
+[09:18:46] *** Quits: Ou-Tannu (Ou-Tannu@5249248B.cm-4-2a.dynamic.ziggo.nl) (Input/output error)
+[09:19:04] <WvdL> TIMO!
+[09:19:10] <WvdL> surrounder:   *brofist*  
+[09:19:14] <surrounder> WILLEM!
+[09:19:16] <surrounder> WvdL: *brohoof*
+[09:21:27] <Fermata> Ik zie dubbel
+[09:21:45] <bReChThOu> komt zeker door je dikke brilglazen
+[09:22:34] <Fermata> Oh gaan we zo beginnen
+[09:22:48] <bReChThOu> :>
+[09:23:54] <WvdL> is ie ooit anders geweest?
+[09:27:12] *** Quits: jk-5 (jk-5@D549D0E1.cm-10-1b.dynamic.ziggo.nl) (Ping timeout: 67 seconds)
+[09:31:11] <SJ> mogge
+[09:31:47] <Fermata> SuperJaap!
+[09:31:48] <syf_> surrounder o/
+[09:32:04] <SJ> :>
+[09:32:10] <surrounder> syfunderscore!
+[09:32:15] <SJ> mogge Fermenterend 
+[09:33:00] <syf_> mogguh sur+rounder!
+[09:33:01] <surrounder> http://tinyurl.com/gwbo2rd - :D
+[09:33:07] <syf_> LOL
+[09:33:40] <syf_> surrounder: jezus wat kut
+[09:33:49] <WvdL> oogpolio
+[09:33:52] <WvdL> direct
+[09:34:06] <SJ> *headdesk*
+[09:34:06] <surrounder> go annie
+[09:34:08] <SJ> *headdesk*
+[09:34:08] <SJ> *headdesk*
+[09:34:16] <WvdL> iets ahrder nog SJ
+[09:34:18] *** Joins: koolaid (koolaid@2a02:a212:280:1c00:19ce:9fe8:314e:85df)
+[09:34:20] <syf_> ook wel fakking dom als je geen zacht gekookt eitje wil eten
+[09:34:24] <WvdL> tot je een *krak*  hoort ;+
+[09:34:35] <surrounder> syf_: nja, wel oppassen voor sallemonella!
+[09:34:41] <SJ> WvdL: nu zit er een scheur in m'n bureau
+[09:34:45] <syf_> lol
+[09:34:58] <Fermata> Beter dat dan een bureau in je scheur!
+[09:35:00] <Fermata> :(
+[09:35:05] <surrounder> mgiiihiiii
+[09:35:10] *** Joins: jk-5 (jk-5@D549D0E1.cm-10-1b.dynamic.ziggo.nl)
+[09:38:44] <surrounder> http://tinyurl.com/jtg2ns8 - rita begrijpt het anders ook wel!
+[09:39:24] <syf_> verdonk?
+[09:39:56] <Fermata> Anders klik je even
+[09:40:09] <rawplayer> sfw?
+[09:40:15] <rawplayer> niet dat dat boeit
+[09:40:35] <rawplayer> o
+[09:40:35] <rawplayer> mijn
+[09:40:37] <rawplayer> god
+[09:40:48] <bReChThOu> groenten en fruit voor iedereen
+[09:41:23] <syf_> Fermata: ja of niet 
+[09:41:48] <Dubbeldrank> Rita begrijpt het niet helemaal
+[09:42:52] *** Joins: Ou-Tannu (Ou-Tannu@5249248B.cm-4-2a.dynamic.ziggo.nl)
+[09:43:03] <syf_> rita is niet zo slim
+[09:43:19] <SJ> te dom om te poepen 
+[09:45:00] <linzen103> mensen
+[09:46:27] <rawplayer> linzen103: !
+[09:46:31] <rawplayer> je naam viel net hier
+[09:46:39] <rawplayer> je bent berucht
+[09:46:41] <rawplayer> of je morgen nog kwam
+[09:46:43] <rawplayer> en of ik je ken
+[09:46:43] <WvdL> samen met rita toch?
+[09:46:50] <rawplayer> ik zei natuurlijk ja!
+[09:46:57] <rawplayer> linzen103: je mag ook gewoon voor de deur parkeren
+[09:47:02] <rawplayer> linzen103: wij, de medewerkers, mogen dat niet
+[09:47:26] <WvdL> linzen103 is dan ook een top ondernemer
+[09:47:34] <WvdL> ik verwacht dan ook minimaal een rode loper
+[09:48:03] <SJ> rawplayer: niet voor de deur parkeren?
+[09:48:19] <WvdL> dat amg ik ook niet :+
+[09:48:22] <WvdL> mag*
+[09:48:42] <syf_> IK DOE WAT IK WIL
+[09:49:17] <Escovan> EN ALS IK WIL AFWASSEN, DAN GA IK AFWASSEN!
+[09:49:17] <rawplayer> SJ: idd
+[09:49:22] <rawplayer> SJ: zie mail?
+[09:49:47] <WvdL> IK BEN OOK KLANT!
+[09:50:09] <sofie> Ik ben ook klant bij je lesbische hoerenmoeder
+[09:50:20] <surrounder> dag spuit 11
+[09:50:28] <syf_> IK WIL KAAS
+[09:50:38] <surrounder> sofie: schunnige woordjes geleerd ja?
+[09:50:58] <SJ> rawplayer: geen mail?
+[09:51:05] <SJ> rawplayer: alleen voor staf denk ik
+[09:51:12] <SJ> ik ben geregistreerd bezoeker 
+[09:53:21] <surrounder> s/taf/traf/
+[09:53:33] <rawplayer> um
+[09:53:54] <rawplayer> in email staat staf
+[09:53:56] <rawplayer> en iedereen op de bank
+[09:53:57] <rawplayer> zo te zien
+[09:54:40] <SJ> dat dus
+[09:54:44] <surrounder> !mail--
+[09:54:47] <digiweed> surrounder: Karma for mail is now: -88
+[09:57:22] <justaguy> True
+[09:58:34] <syf_> lafjes mailen
+[09:58:53] <Fermata> Beter lafjes pils harken
+[10:01:42] <surrounder> http://tinyurl.com/zcopra9 - :D :D
+[10:15:00] <rawplayer> dit is toch niet echt?
+[10:15:08] <rawplayer> ik haal altijd de stronken van de prei
+[10:15:20] <rawplayer> zodat ik minder betaal
+[10:16:30] <surrounder> ...
+[10:16:34] <surrounder> heb je ook een kortpittig kapsel?
+[10:16:59] <rawplayer> nou
+[10:17:04] <rawplayer> je kan dat wel vragen
+[10:17:07] <rawplayer> zoals je dat nu vraagt
+[10:17:17] <rawplayer> erm
+[10:17:18] <rawplayer> ja
+[10:17:20] <rawplayer> eigenlijk wel
+[10:17:56] <WvdL> surrounder, jij weet alles hea :+
+[10:18:57] <WvdL> stel ik heb het idee om op mijn windows laptop een debian dev sandbox te maken
+[10:19:24] <WvdL> welke tools raad jij mij aan? :D
+[10:20:33] <syf_> lol
+[10:20:38] <rawplayer> erm
+[10:20:40] <rawplayer> je kan toch win10 + ubuntu
+[10:20:43] <rawplayer> in elkaar?
+[10:21:10] <syf_> WvdL: ik raad een SIG P938 aan
+[10:21:40] <WvdL> geen idee, rawplayer 
+[10:22:04] <WvdL> normaal @ werk altijd via rdp/vnc conenctie amken naar een dev omgeving
+[10:22:13] <syf_> https://blogs.windows.com/buildingapps/2016/03/30/run-bash-on-ubuntu-on-windows/
+[10:22:16] <digiweed> Title: Run Bash on Ubuntu on Windows | Building Apps for Windows (at blogs.windows.com)
+[10:23:20] <AlBundy> lol @ salmonella
+[10:23:26] <AlBundy> het is kip gvd, geen zalm
+[10:23:35] <WvdL> mjah wil liefst wel wat een soort van sandbox idee.. als ik wat verkloot door mijn *nix kennis en kunde dat ik mijn windows omgeving niet vernaggel :D
+[10:24:13] <surrounder> WvdL: ik gebruik virtualbox voor virtualizatie op m'n desktop / laptop
+[10:24:13] <WvdL> en ja.. iedereen hier is een unix guru.. dus dat is alelmaal piece of cake voor jullie..
+[10:24:17] <WvdL> maar niet voor mij :D
+[10:25:02] <syf_> AlBundy: wat?
+[10:25:21] <syf_> je kan wel degelijk salmonella krijgen van ei
+[10:25:25] <surrounder> syf_: mja nog insider geneuzel @ bash @ w10
+[10:25:29] <surrounder> wel tres kek though
+[10:25:44] <syf_> surrounder: idd
+[10:25:48] <syf_> beter dan al die zooi met cygwin ed
+[10:25:57] <surrounder> uhuh
+[10:29:10] <linzen103> WAt
+[10:29:17] <rawplayer> !kip++
+[10:29:21] <digiweed> rawplayer: Karma for kip is now: 156
+[10:29:49] <rawplayer> WvdL: nou, mijn setup is heel simpel
+[10:29:50] <rawplayer> wat ik ooit had
+[10:29:57] <rawplayer> ubuntu op vmware/virtualbox
+[10:30:06] <rawplayer> met xclient er heen verbinden uit windows en apps starten
+[10:30:25] <rawplayer> maar devven onder windows + git is niet voldoende?
+[10:30:34] <WvdL> jawel
+[10:31:01] <WvdL> alleen zit altijd te miepend at ik meer unix ervarign wil opdoen.. alleen wat ompielen is neit effectief voor mij
+[10:31:14] <WvdL> als ik er op dev, moet ik wel leren mij in sommige dingen te verdiepen :P
+[10:31:16] <surrounder> heb hier win10 met een fullscreen linux vm op m'n linker scherm voor de terminaaltjes
+[10:31:39] <SJ> WvdL: gewoon virtualbox aantrappen 
+[10:31:43] <surrounder> ^
+[10:31:48] <SJ> met *nix van je keuze
+[10:31:48] <surrounder> !virtualbox++
+[10:31:52] <digiweed> surrounder: Karma for virtualbox is now: 9
+[10:32:03] <WvdL> en dat laatste is nog een beetje de volgende issue dus :D
+[10:32:11] <SJ> waarom?
+[10:32:11] <rawplayer> je bent geen admin
+[10:32:13] <WvdL> iedereen hier (lees:w erkomgeving) zit op debian
+[10:32:21] <SJ> uhuh
+[10:32:23] <WvdL> ubuntu ken ik ook wel (van naam)
+[10:32:30] <WvdL> is het een gevalletje dat wat je kent is het makkelijkst
+[10:32:35] <SJ> installeer debian 
+[10:32:40] <SJ> in dat geval
+[10:32:48] <SJ> leercurve in ;-)
+[10:33:00] <surrounder> wat SJ zegt
+[10:33:13] <surrounder> zonder GUI ook, die shit stinkt toch in linux
+[10:33:24] <WvdL> :D
+[10:33:27] <SJ> hangt ervanaf 
+[10:33:33] <bReChThOu> windows 3.11 for laif
+[10:33:51] <WvdL> gewoon kale gui.. om IDE etc in te draaien
+[10:33:54] <SJ> als je dat ding gebruikt als werkstation is een gui wel handig
+[10:34:04] <surrounder> WvdL: waarom?
+[10:34:05] <SJ> WvdL: kijk eens naar iets als XFCE
+[10:34:19] <SJ> lightweight en doet wat het moet doen 
+[10:34:38] <SJ> of vraag je collega's welke windowmanager ze gebruiken 
+[10:35:04] <Fermata> !debian--
+[10:35:07] <digiweed> Fermata: Karma for debian is now: -93
+[10:35:11] <linzen103> !linux--
+[10:35:13] <linzen103> !bsd++
+[10:35:14] <digiweed> linzen103: Karma for linux is now: -448
+[10:35:16] <digiweed> linzen103: Karma for bsd is now: 110
+[10:35:24] <Dubbeldrank> de haat
+[10:35:27] <Dubbeldrank> intens!
+[10:35:37] <surrounder> !linux00
+[10:35:40] <surrounder> !linux--
+[10:35:41] <linzen103> zo was ik gisteren nog wel in het linux-cafe
+[10:35:43] <surrounder> troep is het
+[10:35:43] <digiweed> surrounder: Karma for linux is now: -449
+[10:35:45] <linzen103> georeerd over bsd
+[10:35:49] <surrounder> heel goed
+[10:36:03] <surrounder> als de luis in de pels die je bent <3
+[10:36:04] <linzen103> GENTOO! riep er eentje
+[10:36:07] <linzen103> ARCH riep een ander
+[10:36:12] <linzen103> ik zeg: mensen!
+[10:36:35] <Dubbeldrank> en toen werd je door een uitsmijter naarbuiten gekeken linzen103?
+[10:36:36] <SJ> gentoo /o\ /o\
+[10:36:42] <SJ> !gentoo--
+[10:36:45] <digiweed> SJ: Karma for gentoo is now: -3
+[10:36:46] <linzen103> best interessant programma overigens: https://linuxnijmegen.nl/bijeenkomsten/61-lugn44-dinsdag-12-april-2016
+[10:36:49] <surrounder> arch /o\ /o\
+[10:36:50] <digiweed> Title: LUGN44 - dinsdag 12 april 2016 - Linux User Group Nijmegen (at linuxnijmegen.nl)
+[10:36:50] <bReChThOu> hoe kan je door een eibereiding naar buiten worden gekeken Dubbeldrank ?
+[10:36:51] <surrounder> !arch--
+[10:36:51] <linzen103> met een talk van Fierman!
+[10:36:53] <digiweed> surrounder: Karma for arch is now: -4
+[10:37:11] <WvdL> haten is voor lamers
+[10:37:12] <linzen103> !fierman++
+[10:37:13] <Dubbeldrank> dat zijn zaken die je niet zal begrijpen bReChThOu
+[10:37:15] <digiweed> linzen103: Karma for fierman is now: 1
+[10:37:41] <bReChThOu> :+
+[10:37:50] <Dubbeldrank> dat gaat diep
+[10:37:53] <Dubbeldrank> 5 vuisten!
+[10:37:59] <surrounder> da's wel diep
+[10:38:04] <Dubbeldrank> zeker
+[10:38:31] <surrounder> linzen103: de naam oscar buse komt me ook bekend voor
+[10:38:35] <surrounder> volgens is dat een klant
+[10:38:37] <surrounder> IK BEN OOK EEN KLANT
+[10:39:17] <linzen103> kan best
+[10:39:24] <linzen103> hij is ook bekend van hccnet etc
+[10:39:39] <linzen103> aivd etc
+[10:39:57] <syf_> surrounder: hoe gaat het met je terminaaltjes?
+[10:39:59] <syf_> zijn ze terminaal?
+[10:40:02] <AlBundy> het is ei, geen zalm :P
+[10:40:25] <surrounder> syf_: :(
+[10:40:29] <rawplayer> linzen103: https://image-store.slidesharecdn.com/61051743-6559-44d9-b575-563c44f4a285-large.png
+[10:40:49] <surrounder> gok eigenlijk dat cmder ook wel zou werken @ win10 kwa mijn gebruik van terminaaltjes
+[10:40:53] <AlBundy> syf_: http://www.lamebook.com/wp-content/uploads/2009/08/lameonella.jpg
+[10:41:39] <linzen103> rawplayer: zal ik je de credentials van cheesylinkedin.tumblr.com maar geven?
+[10:41:58] <syf_> AlBundy: ah
+[10:42:20] <AlBundy> zelden komen vergaderingen uit veranderzaaltjes
+[10:42:31] <surrounder> :(
+[10:43:09] <AlBundy> linzen103: voor deze zou er een cheesierlinkedin tumblr bestaan
+[10:43:17] <AlBundy> moeten*
+[10:50:02] <syf_> tut tut nou nou
+[10:50:52] <surrounder> man man man
+[10:53:57] <linzen103> en nu weer aan het werk met z;n allen!
+[10:54:17] <rawplayer> http://classicprogrammerpaintings.tumblr.com/
+[10:54:19] <digiweed> Title: Classic Programmer Paintings (at classicprogrammerpaintings.tumblr.com)
+[10:54:27] <surrounder> linzen103: en dan?
+[10:55:03] <AlBundy> http://i.imgur.com/jJgUxIe.jpg
+[10:55:06] <surrounder> rawplayer: lol
+[10:55:23] <AlBundy> daar zit ook een schilderij van jheronimus bosch bij
+[10:55:27] <AlBundy> zo'n awesome artiest
+[10:55:52] <linzen103> surrounder: licht des aanschijns etc
+[10:55:56] <linzen103> rat race etc.
+[10:58:04] <AlBundy> https://i.imgur.com/JLTMK6J.jpg
+[10:58:26] <surrounder> nerd
+[10:58:38] <AlBundy> !nerds--
+[10:58:42] <digiweed> AlBundy: Karma for nerds is now: -986
+[11:03:15] <AlBundy> hm, wil er iemand naar de musical Sky?
+[11:19:24] <Dubbeldrank> saai
+[11:19:42] <Dubbeldrank> en ik heb het niet over die musical
+[11:20:18] <linzen103> over je moer?
+[11:20:27] <Dubbeldrank> nee, dit kanaal
+[11:20:56] <linzen103> beetje saai dat je dat zegt
+[11:21:04] <Dubbeldrank> enorm
+[11:21:16] <surrounder> :s
+[11:21:23] <Dubbeldrank> het was meer een momentopname
+[11:22:11] <surrounder> 5 lettergrepen, goed zo!
+[11:23:12] <bReChThOu> sebiet 5 lettergrepen tegen uw bakkes
+[11:23:15] <rawplayer> mo ment op name
+[11:23:23] <rawplayer> !thee++
+[11:23:26] <digiweed> rawplayer: Karma for thee is now: 189
+[11:23:27] <Dubbeldrank> https://www.dropbox.com/s/qdeq7znduyfaetr/2016-04-13%2011.22.07.jpg?dl=0
+[11:23:29] <bReChThOu> na me
+[11:23:31] <digiweed> Title: Dropbox - 2016-04-13 11.22.07.jpg (at www.dropbox.com)
+[11:23:35] <Dubbeldrank> zelfs mijn koffie vindt het saai
+[11:23:39] <syf_> mijn koffie ook
+[11:23:43] <syf_> die moet huilen
+[11:23:49] <WvdL> de mijne niet
+[11:23:59] <rawplayer> !koffie++
+[11:24:02] <digiweed> rawplayer: Karma for koffie is now: 1757
+[11:24:03] <WvdL> zo nat als de gemiddelde blonde stoot die ik tegenkom in de kroeg
+[11:24:04] <surrounder> WvdL: WANT JIJ DRINKT GEEN KOFFIE :D:D:D:D:D
+[11:24:06] <WvdL> en heet ook nog
+[11:24:15] <surrounder> heb je al een debian vm ?
+[11:24:21] <WvdL> vanavond
+[11:24:23] <WvdL> jongeuhh
+[11:24:35] <surrounder> jezus
+[11:24:37] <surrounder> duurt lang
+[11:24:45] <WvdL> laptop niet bij mij
+[11:24:50] <syf_> haha wat voor it'er ben je
+[11:24:53] <Dubbeldrank> ik wil staks even testen natuurlijk
+[11:25:05] <Dubbeldrank> dit kan toch niet zo
+[11:25:05] <WvdL> ga niet met 2 laptops rondzeulen
+[11:25:09] <Dubbeldrank> NIET?
+[11:25:13] <WvdL> neen
+[11:25:14] <surrounder> wel van je af testen he ?
+[11:25:22] <surrounder> ik heb nooit een laptop bij me
+[11:25:25] <Dubbeldrank> ja, richting WvdL surrounder
+[11:25:25] <surrounder> ben toch pjd geen nerd
+[11:25:35] <syf_> nou..
+[11:25:49] <WvdL> wat wil ej testen
+[11:25:53] <WvdL> dat mijn koffie niet saai is? :+
+[11:25:55] <surrounder> eeeeeeeeeej testen
+[11:26:07] <syf_> surrounder: we moeten je wat vertellen
+[11:26:13] <Dubbeldrank> de root login WvdL
+[11:26:17] <syf_> ik denk dat je beter even kan gaan zitten
+[11:26:24] <surrounder> !
+[11:26:42] <syf_> je bent een nerd :(
+[11:26:46] <WvdL> ohh zo
+[11:27:12] <WvdL> jij komt er vast wel in Dubbeldrank 
+[11:27:19] <WvdL> jij bent dan ook oppernerd
+[11:27:19] <WvdL> :D
+[11:28:51] <surrounder> syf_: /o\
+[11:29:10] <WvdL> hier hier.. een tinfoil hat
+[11:29:18] <WvdL> nu voel je je vast beter, surrounder 
+[11:29:20] <syf_> \o/
+[11:29:49] <surrounder> /o\
+[11:29:58] <syf_> chest bump?
+[11:30:03] <WvdL> of heb je liever de cape met +10 lightningbolt
+[11:30:12] *** Joins: Guyver2 (Guyver2@guyver2.xs4all.nl)
+[11:30:39] <surrounder> syf_: dan moet je wel hoog springen wil je m'n chest bumpen
+[11:31:39] <syf_> lukt wel
+[11:40:30] *** Joins: Kirth (Kirth@34.226-200-80.adsl-dyn.isp.belgacom.be)
+[11:40:42] <Dubbeldrank> nou, het lijkt me gewoon handiger als je even het wachtwoord geeft WvdL
+[11:40:51] <Dubbeldrank> scheelt weer
+[11:40:58] <WvdL> ahh mjah
+[11:41:09] <WvdL> jij bent wel pragmatisch ingesteld zie ik
+[11:41:12] <WvdL> kan ik waarderen
+[11:41:28] <surrounder> ow
+[11:41:44] <surrounder> wel van je af waarderen he?
+[11:41:50] <surrounder> also, 3 zinnen zonder typvauten!
+[11:41:54] * surrounder geeft WvdL een sticker
+[11:41:59] <WvdL> jeej  :D
+[11:42:03] <WvdL> het kang ewoon
+[11:42:09] <surrounder> /o\
+[11:42:10] <WvdL> bijna :(
+[11:42:23] <WvdL> beetje jammer dit
+[11:45:38] <rawplayer> ik heb zin om in een hoek te zitten met een blokkendoos
+[11:46:25] <surrounder> s/kkendoos/ksnor/
+[11:46:26] <Dubbeldrank> zullen we je even bij de Ikea afzetten?
+[11:46:32] <surrounder> !ballenbak++
+[11:46:35] <digiweed> surrounder: Karma for ballenbak is now: 1
+[11:46:36] <rawplayer> sure
+[11:46:44] <rawplayer> die in deflt
+[11:46:50] <surrounder> nee
+[11:47:06] <Dubbeldrank> ergens in Friesland
+[11:47:20] <rawplayer> waarom
+[11:47:25] <Dubbeldrank> geen idee
+[11:47:29] <Dubbeldrank> jij wel?
+[11:47:32] <surrounder> nee
+[11:47:34] <surrounder> jij?
+[11:47:38] <Dubbeldrank> waarom Delft?
+[11:47:56] <surrounder> weinig letters
+[11:48:00] <Dubbeldrank> hehe
+[11:51:09] <Boots> Omdat 'ie die weet te vinden?
+[11:52:06] <Boots> Volgens mij weet ik de straatnaam zelfs
+[11:52:07] <Boots> :')
+[11:54:59] <surrounder> bennielaan 5?
+[11:55:06] <surrounder> bjornallee 12?
+[11:56:03] <rawplayer> tis de grootste ikea  met de grootste ballenbak!
+[11:56:10] <surrounder> size matters
+[11:56:21] * surrounder is nog nooit bij een ikea geweest
+[11:56:49] <Boots> Olof Palmestraat?
+[11:57:13] <Boots> billywêg 2
+[11:57:24] <surrounder> :)
+[11:57:28] <Boots> Knäckebröd 1
+[11:59:06] <Boots> Ikea ftw
+[11:59:10] <Boots> Behalve als het teringdruk is
+[12:00:50] <bReChThOu> wat altijd is
+[12:01:35] <mimic> jammer dit
+[12:03:10] <Boots> Ze hebben vet speelgoed voor op het balkon
+[12:03:23] <Boots> Badmintonracketset, 4-delig bijvoorbeeld
+[12:12:06] <syf_> ballenbak is echt ranzig 
+[12:12:11] <syf_> krijg je aids van
+[12:12:41] <surrounder> beetje aids is goed voor je weerstand
+[12:12:42] <syf_> surrounder: vriendin zoeken kan je ook samen naar de ikea
+[12:12:46] <syf_> hand in hand
+[12:12:51] <syf_> langs de kinderafdeling
+[12:13:01] <surrounder> of he
+[12:13:04] <surrounder> of
+[12:13:05] <surrounder> niet
+[12:13:08] <syf_> ja of niet
+[12:13:14] <surrounder> exact!
+[12:13:32] <syf_> surrounder wil graag opgehaald worden uit smaland
+[12:14:25] <surrounder> wat is deze
+[12:18:17] <mimic> ej surrounder 
+[12:18:21] <mimic> EJ
+[12:18:22] <mimic> EEEJ
+[12:18:30] <surrounder> MIMIEKJE
+[12:18:43] <AlBundy> https://s-media-cache-ak0.pinimg.com/236x/35/92/f5/3592f57a7e0416f2193ffea21e6c8063.jpg
+[12:30:11] <mimic> :')
+[12:34:37] <rawplayer> !lunch++
+[12:34:41] <digiweed> rawplayer: Karma for lunch is now: 93
+[12:34:46] <mimic> !crossfit--
+[12:34:49] <digiweed> mimic: Karma for crossfit is now: 137
+[12:34:58] <surrounder> !haring++
+[12:35:01] <digiweed> surrounder: Karma for haring is now: 137
+[12:35:05] <rawplayer> lekker
+[12:35:09] <rawplayer> !vis++
+[12:35:12] <digiweed> rawplayer: Karma for vis is now: 58
+[12:36:51] <rawplayer> !koffie++
+[12:36:54] <digiweed> rawplayer: Karma for koffie is now: 1758
+[12:51:43] <WvdL> Dubbeldrank> ergens in Friesland  <--- succes met een IKEA te vinden daar
+[12:54:03] <justaguy> yo
+[12:54:22] <mimic> haha friesland
+[13:00:16] <WvdL> hoi mimic xoxox
+[13:06:08] *** Joins: appy (appy@d121019.upc-d.chello.nl)
+[13:06:35] <Fermata> appy appy appy appy 
+[13:07:19] <bReChThOu> ey APPY
+[13:08:53] <appy> Fermata <3
+[13:08:58] <appy> oi BRECHTHOER
+[13:10:18] <WvdL> hoi appy  \o/
+[13:10:32] <Fermata> Mag ik al naar huis?
+[13:10:35] <WvdL> nee
+[13:10:38] <rawplayer> ja
+[13:10:43] <WvdL> nog niet genoeg gebukt
+[13:10:52] <WvdL> en ik wacht al een week op linkjes :+
+[13:11:01] * WvdL mept Fermata wat
+[13:11:20] <SJ> HARDER!
+[13:11:33] <WvdL> dat vind ie té leuk :9
+[13:11:58] <SJ> ;-)
+[13:13:15] <appy> hoi WvdL 
+[13:24:36] * surrounder boert bReChThOu zachtjes in z'n oog
+[13:24:43] <rawplayer> *jaloers*
+[13:26:55] <bReChThOu> hhmùheerlijk
+[13:27:04] <bReChThOu> straks nog es patatje joppie chips halen denk ik
+[13:27:21] <rawplayer> barf
+[13:27:47] <rawplayer> bReChThOu: naturel chips met joppiesaus
+[13:27:50] <rawplayer> probeer dat eens
+[13:27:51] <rawplayer> :9
+[13:27:53] <bReChThOu> :O
+[13:51:35] *** Quits: Diabolical|afk (Diabolical@waltherligtvoet.nl) (Input/output error)
+[13:54:50] <surrounder> :S
+[13:56:44] <Dubbeldrank> appy \o/
+[13:56:56] <appy> Dubbeldrank \o/
+[13:57:02] <surrounder> \o/
+[13:57:07] <SJ> \\o
+[13:57:10] <SJ> o//
+[13:57:16] <SJ> \o/
+[13:57:37] <appy> nou niet overdrijven he
+[13:57:57] <SJ> http://bash.org/?4281
+[13:58:00] <digiweed> Title: QDB: Quote #4281 (at bash.org)
+[13:58:03] <SJ> toepasselijk ;-)
+[13:58:27] <appy> hehe
+[13:59:29] <Dubbeldrank> zure mensen overal
+[13:59:36] <surrounder> Dubbeldrank: hoi! :D
+[13:59:41] <Dubbeldrank> hoi surrounder
+[13:59:45] <Dubbeldrank> jij hier?
+[13:59:48] <surrounder> hoi! :D
+[13:59:55] * appy teringknuffelt de surrounder 
+[14:00:06] <Dubbeldrank> zometeen naar de tandarts toe
+[14:00:09] <surrounder> *ach terugteringknuffel*
+[14:00:16] <surrounder> buuuh
+[14:00:27] <appy> awww
+[14:00:28] <Dubbeldrank> het is zo'n gezellige vent he
+[14:00:28] <appy> succes Dubbeldrank 
+[14:00:42] <Dubbeldrank> ik ga er altijd voor mijn plezier heen
+[14:00:44] <NoxiousPluK> hf dd
+[14:00:45] <NoxiousPluK> :p
+[14:00:47] <Dubbeldrank> :D
+[14:06:49] <Fermata> Succes mejje bakkes, Dubbeldrank 
+[14:06:53] <Fermata> !tandarts--
+[14:06:57] <digiweed> Fermata: Karma for tandarts is now: 2
+[14:07:02] <Fermata> !bakkesbusiness--
+[14:07:04] <digiweed> Fermata: Karma for bakkesbusiness is now: -1
+[14:07:20] <SJ> !smoelsmid--
+[14:07:24] <digiweed> SJ: Karma for smoelsmid is now: -1
+[14:08:34] *** Joins: Diabolical (Diabolical@waltherligtvoet.nl)
+[14:09:13] <surrounder> http://tinyurl.com/gwmpujd - "Hoera! Bas is 55 geworden.."
+[14:09:18] <surrounder> SJ: congrats man
+[14:10:06] <SJ> weet je wie ook 55 werd?
+[14:10:22] <surrounder> nounounounounou
+[14:10:28] <Fermata> Niet Hitler!
+[14:10:30] <SJ> Stalin!
+[14:10:37] <Fermata> Maar Dubbeldrank is al bijna zo oud he
+[14:10:39] <surrounder> man man man
+[14:10:43] <surrounder> wat een dag wat een dag
+[14:10:49] <SJ> meid toch
+[14:14:02] <Diabolical> 55?
+[14:14:09] <Diabolical> damn.. dan ben ik nog een broekie
+[14:14:35] <Diabolical> oh
+[14:14:42] *** Diabolical is now known as Diabolical|afk
+[14:14:48] <Diabolical|afk> voordat mensen in de war raken
+[14:15:03] <appy> ja dank xD
+[14:15:05] * appy knuffelt Diabolical|afk 
+[14:15:08] <Diabolical|afk> prrrr
+[14:15:26] <surrounder> Diabolical|afk!
+[14:15:32] * Diabolical|afk knuffelt de appy stevig terug
+[14:15:37] <appy> \o/
+[14:20:20] <Diabolical|afk> surroundert: \o/
+[14:20:29] <surrounder> \\o
+[14:25:49] *** Quits: Kirth (Kirth@34.226-200-80.adsl-dyn.isp.belgacom.be) (Ping timeout: 61 seconds)
+[14:40:36] <t4rt4rus> WvdL appy :D
+[14:40:37] <t4rt4rus> surrounder :D
+[14:40:39] <t4rt4rus> Diabolical|afk :D:D:D:D:D
+[14:44:19] <Fermata> Straks rosé met een vriendin /o/
+[14:44:35] <SJ> ros�
+[14:44:37] <SJ> meuk
+[14:45:30] <Fermata> Klopt
+[14:45:41] <Fermata> Maar whisky in de volle zon zie ik niet zitten
+[14:45:54] <SJ> weizener!
+[14:46:05] <mimic> ik heb geen mayo meer
+[14:46:06] <SJ> lekker man :?
+[14:46:07] <mimic> ik ben sip
+[14:46:08] <SJ> :>
+[14:46:23] <surrounder> 14:45             SJ | weizener!
+[14:46:27] <WvdL> oi t4rt4rus 
+[14:46:28] <surrounder> GADVERDAMME SJ
+[14:46:53] <Fermata> Soms is dat lekker
+[14:47:04] <Fermata> Maar dan wel als ik het wil, niet omdat zomer
+[14:47:14] <Diabolical|afk> t4rt44rtje: :) 
+[14:47:19] <WvdL> Fermata die zijn rosé krijgt: http://img-9gag-fun.9cache.com/photo/adj4jPZ_460sv.mp4
+[14:47:19] <SJ> surrounder: lekker man
+[14:47:27] *** Quits: koolaid (koolaid@2a02:a212:280:1c00:19ce:9fe8:314e:85df) (Client exited)
+[14:47:40] <SJ> er liggen alweer 2 halve liters Franziskaner koud hoor :) 
+[14:47:44] <surrounder> WvdL: lol
+[14:47:48] <surrounder> SJ: gecondoleerd
+[14:48:02] <Fermata> wvdl:  lool
+[14:48:06] <SJ> heerlijk, in de zomer 
+[14:48:08] <surrounder> !vmware++
+[14:48:10] <surrounder> SJ: dat
+[14:48:10] <digiweed> surrounder: Karma for vmware is now: 29
+[14:48:12] <surrounder> echt
+[14:48:15] <surrounder> haat
+[14:48:24] <surrounder> schapengedrag
+[14:48:25] <Fermata> Dat was Ede-Wageningen
+[14:48:32] <Fermata> Dag surrounder!
+[14:48:36] <surrounder> dag pookie
+[14:48:37] <Diabolical|afk> wil je dat station even niet meer noemen svp?
+[14:48:42] <klaveRCX> http://classicprogrammerpaintings.tumblr.com/
+[14:48:46] <digiweed> Title: Classic Programmer Paintings (at classicprogrammerpaintings.tumblr.com)
+[14:48:47] <surrounder> Diabolical|afk: prachtstation!
+[14:49:01] <Diabolical|afk> even heel veel klote herinneringen aan nu
+[14:49:05] <Fermata> Van daar vertrekt de bus naar Wageningen
+[14:49:10] <Fermata> !wageningen++
+[14:49:13] <digiweed> Fermata: Karma for wageningen is now: 83
+[14:49:17] <surrounder> !wageningen++
+[14:49:20] <digiweed> surrounder: Karma for wageningen is now: 84
+[14:49:21] <Diabolical|afk> daar heb ik wat minder moeite mee
+[14:49:24] <appy> !wageningen++
+[14:49:27] <digiweed> appy: Karma for wageningen is now: 85
+[14:50:04] <Fermata> Dus we moeten nu alles mijden wat Dia niet leuk vindt?
+[14:50:39] <appy> zo werkt het helaas niet
+[14:51:38] <SJ> wat is er mis met station Ede-Wageningen
+[14:51:52] <surrounder> het ligt in ede
+[14:51:56] <SJ> behalve dat het Ede is 
+[14:52:32] <SJ> en het er sterft van die kutstudenten 
+[14:52:43] <surrounder> !studentes++
+[14:52:45] <digiweed> surrounder: Karma for studentes is now: 5
+[14:52:46] <SJ> en je er file op het fietspad hebt
+[14:52:48] <Diabolical|afk> Fermata: nee hoor
+[14:52:48] <Dubbeldrank> wil je niet zomaar aaanwezig zijn Diabolical|afk
+[14:53:03] <Dubbeldrank> zonder afk was een beetje moeilijk
+[14:53:09] <surrounder> SJ: da's alleen in wageningen
+[14:53:24] <Diabolical|afk> Ede is wp van recente ex-vriendin
+[14:53:28] <SJ> uhuh
+[14:53:39] <SJ> ah
+[14:55:58] <surrounder> Diabolical|afk: wordpress?
+[14:56:12] <Diabolical|afk> woonplaats
+[14:56:19] <t4rt4rus> Fermata sinds wanneer heb jij een vriendin?
+[14:56:27] <Diabolical|afk> maar dat wist je al
+[14:56:35] <surrounder> OW!
+[14:56:36] <appy> t4rt4rus: 'een' vriendin
+[14:56:38] <appy> het bestaat
+[14:56:46] <t4rt4rus> ja?
+[14:56:50] <appy> non-sexual realtionships are still a thing
+[14:56:51] <appy> really
+[14:56:56] <t4rt4rus> oh oke
+[14:57:02] <appy> weet je dat ook weer
+[14:57:05] <t4rt4rus> appy heb jij ook een vriendin?
+[14:57:15] <appy> ik heb vrouwelijke kennisen ja
+[14:57:21] <AlBundy> ik heb gewoon seks met al mijn vrienden
+[14:57:28] <surrounder> !gewoon--
+[14:57:30] <digiweed> surrounder: Karma for gewoon is now: -4
+[14:57:32] <AlBundy> al dat preutse gedoe
+[14:57:35] <appy> AlBundy: awww zijn wij geen vrienden meer? jammer dit
+[14:57:35] <appy> :P
+[14:57:49] <AlBundy> je kan altijd onze vriendschap komen herbevestigen
+[14:57:53] <appy> :')
+[14:57:55] <AlBundy> :p
+[14:58:08] <t4rt4rus> ik ga maar even douchen
+[14:58:11] <t4rt4rus> tot ziens
+[14:58:30] <AlBundy> oh ik bedoelde natuurlijk in mijn fantasie he, niet irl
+[14:58:45] <surrounder> s/mijn/cacao/
+[14:59:37] <appy> surrounder: hehe
+[15:03:09] <rawplayer> !thee++
+[15:03:12] <digiweed> rawplayer: Karma for thee is now: 190
+[15:03:26] <surrounder> SJ: https://www.wageningenur.nl/en/testimonial/The-story-of-Adita-Fuentes.htm - kijk, wageningen++
+[15:03:26] <surrounder> lekkerhoor
+[15:03:28] <surrounder> :P
+[15:03:29] <digiweed> Title: The story of Adita Fuentes - Wageningen UR (at www.wageningenur.nl)
+[15:04:55] <SJ> lekker hoorrrrr
+[15:05:16] <Dubbeldrank> http://tweakers.net/nieuws/110279/mobiele-providers-moeten-checken-of-klanten-nieuw-abonnement-kunnen-betalen.html
+[15:05:19] <digiweed> Title: Tweakers (at tweakers.net)
+[15:05:19] <Dubbeldrank> lol
+[15:05:34] <Dubbeldrank> zie je jezelf al staan bij $telefoonboer met je loonstrookje :D
+[15:05:36] <SJ> was dat niet al zo dan? 
+[15:05:40] <Dubbeldrank> nee
+[15:05:54] <Dubbeldrank> er werd gekeken of je op de lijst van wanbetalers staat
+[15:05:58] <rawplayer> en of je kan pinnen
+[15:05:59] <rawplayer> 1 cent
+[15:06:10] <Dubbeldrank> die hebben mobiele providers gezamelijk
+[15:06:15] <SJ> ohja, en of je geen bkr registratie had 
+[15:06:18] <Dubbeldrank> nee
+[15:06:27] <Dubbeldrank> dat werd ook niet gecheckt
+[15:06:34] <SJ> volgens mij wel?
+[15:06:41] <surrounder> je moet natuurlijk wel met een smartfone van eur 700 rondlopen
+[15:06:43] <Dubbeldrank> en dat pinnen is om je adres te verifiëren rawplayer
+[15:06:45] <surrounder> anders hoor je er dus echt niet bij
+[15:06:56] <Dubbeldrank> alles boven de 250 Euro surrounder
+[15:07:04] <Fermata> surrounder: ouwe hater
+[15:07:06] <Dubbeldrank> dus dat gaat al snel
+[15:07:07] <surrounder> mooi, zal ik nooit aan komen
+[15:07:08] <SJ> bkr geen issue, maar of je niet een onevenredig grote schuld had dacht ik
+[15:07:16] <surrounder> Fermata: correct
+[15:07:19] <SJ> weet niet zeker though
+[15:07:31] <Fermata> Dus je kletst maar weer wat SJ? hm?
+[15:07:35] <Dubbeldrank> ik denk dat een hoop mensen toch een probleem hebben met het overleggen van hun loonstrookje
+[15:07:35] <Fermata> :>
+[15:08:01] <Dubbeldrank> aan een pipo in een telefoonwinkel of aan de mobiele aanbieder
+[15:08:03] <Fermata> Ik koop zo'n ding gewoon
+[15:08:08] <SJ> Dubbeldrank: ja, wat gaat die fucking telefoonmaatschappij het aan wat ik verdien?
+[15:08:13] <Dubbeldrank> idd
+[15:08:17] <SJ> bokken
+[15:08:26] <surrounder> Dubbeldrank: "april 2016: bijbeunen liquidatie amsterdam: eur 10.000"
+[15:08:40] <Dubbeldrank> :D
+[15:08:54] <Fermata> februari 2016: diensten verleend achter centraal 7,50
+[15:09:04] <surrounder> kutmaand was dat
+[15:09:07] <Dubbeldrank> februari was een slechte maand achter het station
+[15:09:10] <Dubbeldrank> het was kutweer
+[15:09:21] <Fermata> Ja maar je moet toch wat om een iPhone te kunnen kopen
+[15:09:25] <nomadz> 15:05 <+Dubbeldrank> zie je jezelf al staan bij $telefoonboer met je loonstrookje :D
+[15:09:26] <Fermata> Anders hoor je er gewoon niet bij
+[15:09:27] <Dubbeldrank> uhuh
+[15:09:30] <nomadz> dat was vroeger wel
+[15:09:33] <nomadz> heul lang geleden
+[15:09:36] <Dubbeldrank> klopt nomadz
+[15:09:41] <surrounder> toen je nog een klein nomadzje was
+[15:09:49] <nomadz> stond ik met mn loonstrookje bij de fotograaf, want die was de enige die mobiele abo's kon afsluiten
+[15:09:54] <surrounder> hah
+[15:10:17] <Fermata> Is het nu toch een stuk beter!
+[15:10:20] <Dubbeldrank> konden we maar terug naar de tijd zonder mobiele telefoons
+[15:10:30] <surrounder> want?
+[15:10:36] <Fermata> Dan kon ik jullie nu niet pesten
+[15:10:37] <Dubbeldrank> lekker rustig
+[15:10:44] <Dubbeldrank> als je niet thuis bent heb je pech 
+[15:10:46] <nomadz> fermata bevestigt even waarom
+[15:10:51] <Dubbeldrank> niet overal bereikbaar
+[15:10:51] <surrounder> Dubbeldrank: RUSTAAAAAAAAAAAH
+[15:10:53] <Fermata>  :D
+[15:11:00] <surrounder> Dubbeldrank: en nu de voordelen?
+[15:11:12] <nomadz> ik vergeet m ook heel tactisch af en toe
+[15:11:24] <Fermata> Je hoeft er ook niet de godganse dag op te kijken
+[15:11:25] <nomadz> of staat gewoon op stil
+[15:11:27] <SJ> .-.. . -.- -.- . .-.     .. -.     -- --- .-. ... .     .--. .. . .-.. . -.     -- . -     -.. ..- -... -... . .-.. -.. .-. .- -. -.- -�-�--
+[15:11:32] <Fermata> Geluid uit
+[15:11:38] <Dubbeldrank> nou, dat als je wat met elkaar gaat drinken dat niet iedereen met z'n telefoon aan het spelen is
+[15:11:46] <Dubbeldrank> BIJVOORBEELD
+[15:11:51] <Fermata> Dubbeldrank: da's domweg fatsoen hebben
+[15:11:57] <Dubbeldrank> tja
+[15:12:00] <Dubbeldrank> zeh het ze
+[15:12:02] <nomadz> andere vrienden dan mimic zoeken
+[15:12:03] <Dubbeldrank> zeg
+[15:12:09] <Fermata> In ons gezin flikkeren we ze in een kastje altijd
+[15:12:13] <Dubbeldrank> oh, daar doel ik niet eens op
+[15:12:51] <Fermata> Ik word beflirt
+[15:12:53] <Fermata> Help
+[15:13:11] * Arnie blaast wat handkusjes naar Fermata
+[15:13:21] <nomadz> alsof het vandaag al niet druilerig genoeg is, wordt ie ook nog eens beflirt
+[15:13:33] <Dubbeldrank> druilerig?
+[15:13:38] <Arnie> ja weet wel
+[15:13:39] <Dubbeldrank> zonnetje hier
+[15:13:44] <Arnie> een huilie maar dan vooral met snotneus
+[15:13:48] <appy> !l mooiewoorden as beflirt
+[15:13:49] <nomadz> grijs en volgens mij nat vanochtend
+[15:13:50] <digiweed> appy: The operation succeeded.
+[15:14:11] <Dubbeldrank> zo heeft SJ zijn vrouwen het liefst nomadz
+[15:14:13] <nomadz> oh nog steeds nat
+[15:14:25] <nomadz> sj is zelf grijs en nat
+[15:14:44] <rawplayer> hij is niet grijs
+[15:14:47] <rawplayer> althans
+[15:14:50] <rawplayer> vorig week niet
+[15:14:52] <SJ> nee
+[15:14:57] <Dubbeldrank> joh, echt?
+[15:15:28] <SJ> m'n vriendin is een brunette :) 
+[15:16:23] <surrounder> 15:11        Fermata | Dubbeldrank: da's domweg fatsoen hebben
+[15:16:24] <surrounder> dat
+[15:16:29] <WvdL> idd
+[15:16:56] <WvdL> is een behoorlijke not-done in de vriendenkringen waarin ik vertoef
+[15:16:57] <Dubbeldrank> denken en doen is een verschil bij een hoop mensen :P
+[15:17:05] <linzen103> hoax
+[15:17:07] <WvdL> ent erecht
+[15:17:37] <WvdL> enige moemnt dat zulks gebeurt is bij kringgesprek verjaardagen
+[15:17:46] <surrounder> die heb ik nooit
+[15:17:48] <WvdL> maar die mogen sowieso al afgeschaft worden :+
+[15:17:54] <surrounder> WvdL: ontzettende burgerlul ben je ook
+[15:17:55] <WvdL> ikheb suffe familie
+[15:17:56] <surrounder> <3
+[15:18:10] <WvdL> familie is @ zondag in kringetje
+[15:18:16] * SJ las kringspier verjaardagen 
+[15:18:17] <WvdL> zaterdagavond is met vrienden
+[15:18:19] <appy> surrounder: jij doet gewoon niet aan verjaardagen toch?
+[15:18:21] <SJ> brrrrr
+[15:18:35] <surrounder> appy: niet echt
+[15:18:38] <SJ> !verjaardag--
+[15:18:41] <digiweed> SJ: Karma for verjaardag is now: -1
+[15:18:47] <SJ> sociaal gedoe
+[15:18:49] <SJ> bah
+[15:18:54] <WvdL> voor broers/zussen/ouders heb ik het er wel voor voer
+[15:18:56] <WvdL> over*
+[15:18:59] <surrounder> ook niet
+[15:19:03] <WvdL> verdere familie verjaardagen doe ik niet aan
+[15:19:20] <WvdL> waarom niet surrie?
+[15:19:39] <nomadz> ik ook niet
+[15:19:48] <surrounder> WvdL: zie 't nut er niet echt van in
+[15:19:54] <nomadz> mn ouders wil ik nog wel eens 2 minuten bellen voor hun verjaardag
+[15:20:00] <surrounder> dast
+[15:20:01] <surrounder> *dat
+[15:20:08] <WvdL> familie heeft ook geen nut totdat je ze eens nodig hebt :)
+[15:20:17] <nomadz> en 2 minuten lijkt kort maar dan zijn we allang uitgeluld
+[15:20:32] <surrounder> WvdL: dat is geen enkel probleem; als er iets zijn we er echt wel voor elkaar
+[15:20:43] <linzen103> virtualbox uiteraard
+[15:20:49] <linzen103> oh scrollback
+[15:20:50] <surrounder> da's wat anders dan op $dag verplicht bij elkaar zitten, ofzo
+[15:20:55] <WvdL> mjah ik zie het dan ook vooral als uiting van respect voor ze
+[15:21:03] <WvdL> een hele verre scrollback, linzen103  :p
+[15:21:09] <linzen103> je moeder is een verre scrollback
+[15:21:12] <surrounder> WvdL: ik zou voor virtualbox gaan
+[15:21:19] <WvdL> ohh
+[15:21:23] <linzen103> dosbox
+[15:21:25] <linzen103> winvice
+[15:21:28] <WvdL> thx.. na al die tijd toch nog een antwoord :D
+[15:21:29] <linzen103> nog beter eigenlijk
+[15:21:31] <SJ> linzen103: je zat gewoon te slapen, lambal :)
+[15:21:39] <rawplayer> linzen103: !!!!!
+[15:21:40] <linzen103> geen tijd voor
+[15:21:41] <linzen103> morgen weer
+[15:21:43] <surrounder> maaruh
+[15:21:45] <surrounder> HONDERDDRIE
+[15:21:48] <surrounder> LUL
+[15:21:48] <rawplayer> oh nee
+[15:21:49] <surrounder> VLIEFT?
+[15:21:49] <rawplayer> morgen niet!
+[15:21:51] <rawplayer> morgen ben je hier
+[15:21:52] <rawplayer> hele dag
+[15:21:54] <linzen103> ja
+[15:21:56] <linzen103> dat zeg ik
+[15:22:00] <SJ> hmm
+[15:22:02] <rawplayer> linzen103: als je shit moet doen er zijn werkplekken
+[15:22:02] * SJ ook 
+[15:22:07] <WvdL> heeft linzen een date? :+
+[15:22:10] <rawplayer> en stilte ruimtes
+[15:22:11] <rawplayer> enzo
+[15:22:12] <surrounder> linzen103: wanneer gaan we eens lunchen
+[15:22:15] <surrounder> spijtig dit
+[15:22:21] <linzen103> ik ben volgende week dinsdag in het edensche
+[15:22:25] <rawplayer> en er is gratis wifi :D!
+[15:22:44] <linzen103> met een beetje mazzel trek ik de wifi van service2fruit daar nog wel
+[15:22:45] <WvdL> je komt wel heel erg wanhopig over rawplayer 
+[15:22:48] <surrounder> :D:D;d;d;d:D:D:d;D:D;D;D;D;D;D;D;D;D:DD:D:D:D::DD:
+[15:22:51] <WvdL> probeer je linzen103  te scoren? :D
+[15:22:53] <WvdL> :D:D:DD:D:D:D:D:D
+[15:22:58] <surrounder> wie niet
+[15:22:59] <SJ> linzen103: dat kun je vergeten ;-)
+[15:23:13] <rawplayer> mja, gebouw is te faraday
+[15:23:21] <SJ> linzen103: GSM signaal / 3 of 4G is al een issue 
+[15:23:24] <linzen103> echt waar?
+[15:23:24] <rawplayer> dat ^^
+[15:23:27] <linzen103> bij s2f niet
+[15:23:35] <linzen103> zelfde soort gebouw toch?
+[15:23:44] <linzen103> of heeft die van jullie special treatment gehad?
+[15:23:55] <SJ> linzen103: nee, bovenste verdieping gaat wel 
+[15:23:56] <linzen103> aivd-proof
+[15:24:05] <SJ> maar BG is wel lastiger 
+[15:24:15] <rawplayer> dus als je wil poepen
+[15:24:17] <rawplayer> beter doe je dat boven
+[15:24:21] <rawplayer> dan heb je bereik
+[15:24:24] <rawplayer> oh beneden ook
+[15:24:27] <surrounder> BFG > BG
+[15:24:27] <rawplayer> waar ik altijd ga
+[15:24:46] <WvdL> zitten jullie allemaal in dezelfde pand ofzo? :+
+[15:24:53] <surrounder> nee
+[15:24:54] <surrounder> jij?
+[15:25:11] <SJ> WvdL: nee
+[15:26:48] <rawplayer> https://pbs.twimg.com/media/Cf62tmvW4AAkqld.jpg:large
+[15:26:48] <rawplayer> :D
+[15:27:31] <surrounder> lol
+[15:27:40] <linzen103> ik mis nog een derde busje
+[15:29:17] <WvdL> http://img-9gag-fun.9cache.com/photo/aX9d1Qd_460s.jpg
+[15:29:46] <NoxiousPluK> bi ba busje
+[15:40:03] *** Quits: GuntherDW (guntherdw@ks3308665.kimsufi.com) (Ping timeout: 60 seconds)
+[15:40:24] *** Joins: GuntherDW (guntherdw@ks3308665.kimsufi.com)
+[15:42:28] <bReChThOu> ey JAPY
+[15:43:04] <NoxiousPluK> oi breggie
+[15:54:08] <rawplayer> http://speld.nl/2016/03/31/erdogan-laat-printer-arresteren-wegens-verspreiden-van-kritisch-artikel/
+[15:54:11] <digiweed> Title: Erdogan laat printer arresteren wegens verspreiden van kritisch artikel - De Speld (at speld.nl)
+[15:54:11] <rawplayer> :D
+[15:54:16] <linzen103> !speld--
+[15:54:17] <digiweed> linzen103: Karma for speld is now: 34
+[15:54:23] <linzen103> !go++
+[15:54:25] <digiweed> linzen103: Karma for go is now: 415
+[15:54:48] <mimic> !speld++
+[15:54:49] <mimic> !speld++
+[15:54:50] <digiweed> mimic: Karma for speld is now: 35
+[15:54:53] <digiweed> mimic: Karma for speld is now: 36
+[15:55:26] <surrounder> !ruby++
+[15:55:28] <digiweed> surrounder: Karma for ruby is now: 101
+[15:55:28] <surrounder> !perl++
+[15:55:30] <surrounder> !lisp++
+[15:55:31] <digiweed> surrounder: Karma for perl is now: 7
+[15:55:32] <digiweed> surrounder: Karma for lisp is now: 74
+[15:55:37] * mimic is listening to Ome Henk – Kapitein Aso
+[15:57:54] <linzen103> http://poststuff6.entensity.net/041216/Japan-Has-The-Best-Games.gif
+[15:57:56] <linzen103> !japan++
+[15:57:59] <digiweed> linzen103: Karma for japan is now: 7
+[15:58:01] <linzen103> sfw
+[15:58:24] <rawplayer> xD
+[15:58:25] <surrounder> weet je maar nooit bij japan idd
+[15:58:35] <rawplayer> JAPAN!
+[15:59:10] <surrounder> :s
+[16:05:25] <WvdL> Your request was categorized by Blue Coat Web Filter as 'Pornography'. 
+[16:05:25] <WvdL> If you wish to question or dispute this result, please click here.
+[16:05:27] <WvdL> :/
+[16:05:37] <mimic> je mag ook niets
+[16:05:47] <WvdL> klopt
+[16:05:49] <surrounder> lekker fappen met de willem
+[16:05:57] <WvdL> ze willen gewoon dat ik enkel en puur geld hark hier
+[16:05:57] <nomadz> tis gelogd en ligt al bij je supervisor, veel plezier
+[16:06:34] <WvdL> die heeft dan een dagtaak aan mij :D
+[16:07:23] <NoxiousPluK> iedere seconde pornhub refreshen
+[16:07:39] <mimic> ben je alweer aan het dossen?
+[16:07:45] <mimic> t houdt ook niet op he
+[16:08:27] <surrounder> Noxi de DDOS-kabouter
+[16:09:44] <NoxiousPluK> hihi
+[16:09:46] <syf_> eigen mirror op zijn qnap
+[16:10:05] <syf_> !nomadz++
+[16:10:08] <digiweed> syf_: Karma for nomadz is now: 118
+[16:11:18] <syf_> kan WvdL niet naar buiten ssh'en ofzo en dan gewoon tunnel?
+[16:11:27] <syf_> maar irc lukt wel 
+[16:11:37] <WvdL> webbrowser client :+
+[16:11:44] <nomadz> mibbit is port 80
+[16:11:52] <WvdL> irccloud tegenworodig :P
+[16:11:57] <nomadz> wat lekker over de vs heen gaat, dus 10x gelogd aldanniet in het bedrijf zelf ook
+[16:12:01] <nomadz> ook goed
+[16:12:15] <surrounder> gelukkig heeft ie z'n pi bijna goed geconfigureerd
+[16:12:21] <WvdL> bijna hea
+[16:12:56] <syf_> ssh traffic op 22 lukt niet?
+[16:13:00] <syf_> en ook niet op port 80?
+[16:13:09] <WvdL> niet gepoogd 9nog)
+[16:13:23] <syf_> ok nou wie weet in 2020
+[16:13:26] <nomadz> anders over dns traffic pakketjes duwen
+[16:13:44] <surrounder> nomadz: nerd
+[16:13:54] <nomadz> :x
+[16:14:07] * surrounder paast de nomadz een peuk
+[16:14:10] <mimic> !nerds--
+[16:14:13] <digiweed> mimic: Karma for nerds is now: -987
+[16:14:14] * nomadz geeft surrounder een kop koffie
+[16:14:21] <WvdL> ik snap dat laatste iig dan ook niet :+
+[16:14:31] <nomadz> hoezo niet
+[16:14:33] <mimic> dat heb je wel vaker fnie willem
+[16:14:42] <nomadz> gewoon je pakketjes in dns queries encapsulaten
+[16:14:42] <surrounder> FNIE WILLEM! FNIE!
+[16:14:50] <mimic> \o
+[16:14:57] <surrounder> nomadz: also, wanneer gaan we pils drinken im arnheim?
+[16:15:04] <WvdL> mjah.. ik heb 0,0 affiniteit met netwerk geneuzel :=
+[16:15:10] <nomadz> soon (TM)
+[16:15:11] <WvdL> dingen moeten gewoon werken.. klaar  /o\
+[16:15:16] <surrounder> WvdL: houden zo
+[16:15:17] <nomadz> ik wil binnenkort wel naar arnhem
+[16:15:17] <surrounder> kutnetwerken
+[16:15:19] <surrounder> kutcomputers
+[16:15:23] <surrounder> nomadz: gruwelijk!
+[16:15:24] <nomadz> maar drukdruk
+[16:15:30] <syf_> wie wil er nou naar arnhem
+[16:15:45] <mimic> jihad?
+[16:15:57] <rawplayer> !ticket to the tropics++
+[16:16:01] <digiweed> rawplayer: Karma for ticket to the tropics is now: 1
+[16:16:03] <surrounder> syf_: prima stad voor een pilsje of 2
+[16:16:05] <rawplayer> !peer++
+[16:16:07] <rawplayer> !ei++
+[16:16:08] <digiweed> rawplayer: Karma for peer is now: 5
+[16:16:10] <digiweed> rawplayer: Karma for ei is now: 243
+[16:16:11] <surrounder> !peer--
+[16:16:14] <digiweed> surrounder: Karma for peer is now: 4
+[16:16:14] <surrounder> hufter is het
+[16:16:15] <nomadz> agenda staat alweer vol tot juni
+[16:16:17] <rawplayer> ja nee
+[16:16:18] <rawplayer> die andere
+[16:16:20] <surrounder> ow
+[16:16:20] <rawplayer> fruit
+[16:16:25] <surrounder> die ook
+[16:16:27] <surrounder> !peer--
+[16:16:31] <digiweed> surrounder: Karma for peer is now: 3
+[16:16:33] <WvdL> goed voor elkaar nomadz 
+[16:16:34] <surrounder> !peer++
+[16:16:37] <surrounder> de barman
+[16:16:39] <surrounder> die is wel kek
+[16:16:39] <WvdL> nog steeds al die cursussen?
+[16:16:39] <digiweed> surrounder: Karma for peer is now: 4
+[16:16:44] <rawplayer> die van toffe?
+[16:16:45] <syf_> raad eens een goede bar aan in arnhem 
+[16:16:47] <syf_> voor bier
+[16:16:48] <mimic> 16:16:27   surrounder | !peer--
+[16:16:51] <mimic> 16:16:34   surrounder | !peer++
+[16:16:52] <surrounder> syf_: moortgat
+[16:16:53] <mimic> JE WEET HET OOK NIET HE
+[16:16:53] <nomadz> syf_, rosies
+[16:16:57] <syf_> danku
+[16:17:00] <syf_> ik noteer ze
+[16:17:01] <rawplayer> syf_: moortgat en rosies
+[16:17:03] <rawplayer> heb ik van horen zeggen
+[16:17:04] <nomadz> wvdl, cursus en inzetten
+[16:17:04] <syf_> kijk die bazen
+[16:17:10] <syf_> ik zet het op de lijst!
+[16:17:12] <nomadz> rosies zit op de rijnkade
+[16:17:22] *** Joins: Kirth (Kirth@34.226-200-80.adsl-dyn.isp.belgacom.be)
+[16:17:28] <rawplayer> ik moet plassen
+[16:17:30] <nomadz> hebben vaak ook beachparties
+[16:17:31] <surrounder> syf_: http://www.moortgat.nl/Bierkaart.htm
+[16:17:35] <digiweed> Title: Naamloos document (at www.moortgat.nl)
+[16:17:54] <surrounder> topsite ook
+[16:17:59] <nomadz> http://www.roseslounge.com/
+[16:18:01] <digiweed> Title: Roses Lounge (at www.roseslounge.com)
+[16:18:16] <syf_> best goede lijst ja
+[16:18:27] <surrounder> nomadz: aaarghj dat ding maakt herrie
+[16:19:05] <syf_> ^
+[16:19:47] <nomadz> je maakt zelf ook herrie
+[16:20:06] <surrounder> correct :D
+[16:20:31] <syf_> zker
+[16:20:33] <syf_> vooral op de wc
+[16:20:45] <mimic> http://imgur.com/gallery/t5ehx
+[16:20:51] <digiweed> Title: Kamikaze attacks - Album on Imgur (at imgur.com)
+[16:23:25] *** Quits: Kirth (Kirth@34.226-200-80.adsl-dyn.isp.belgacom.be) (Ping timeout: 60 seconds)
+[16:23:34] <nomadz> wat gaan we eten?
+[16:23:56] <surrounder> ik neig toch wel naar pizza
+[16:24:10] <syf_> pho & banh mi
+[16:24:48] <SJ> hmmm
+[16:24:50] <SJ> pizza
+[16:24:58] <nomadz> eens op thuisbezorgd snuffelen
+[16:25:24] *** Joins: Kirth (Kirth@62.4.156.42)
+[16:25:33] <syf_> bier
+[16:25:44] <mimic> http://imgur.com/gallery/TeI03gL
+[16:25:48] <digiweed> Title: Please dont tell - GIF on Imgur (at imgur.com)
+[16:26:16] <surrounder> vathemnie
+[16:26:23] <syf_> gewoon ouderwets naar de snackbar
+[16:26:26] <nomadz> bier, check
+[16:26:28] <nomadz> https://drive.google.com/file/d/1QMDr2srhsVuwPzWesqNP_q4Isx1YrNI6HQ/view?usp=sharing
+[16:26:31] <digiweed> Title: IMG_20160302_153348.jpg - Google Drive (at drive.google.com)
+[16:26:33] <syf_> voor een patatje en een kipcorn
+[16:26:53] <surrounder> syf_: en een berehap pinda?
+[16:26:59] <syf_> lekker
+[16:27:18] <syf_> dat is wel mijn favo snack bij de snackbar
+[16:30:43] <NoxiousPluK> had ik deze al gespammed: http://boards.4chan.org/g/thread/54014041
+[16:30:45] <digiweed> Title: /g/ - OnionIRC is live! - Technology - 4chan (at boards.4chan.org)
+[16:30:47] <NoxiousPluK> vast wel ergens vannacht
+[16:31:04] <syf_> ja dat is echt kut, wie wil er nou met anonymous irc'en
+[16:31:25] <syf_> #nerds kan nog net, daar zit je echt tussen de autisten
+[16:31:32] <NoxiousPluK> valt mee
+[16:31:32] <nomadz> bestaan die nog
+[16:31:42] <NoxiousPluK> er is geen anonymous
+[16:31:42] *** Joins: koolaid (koolaid@2a02:a212:280:1c00:19ce:9fe8:314e:85df)
+[16:31:46] *** Quits: koolaid (koolaid@2a02:a212:280:1c00:19ce:9fe8:314e:85df) (Client exited)
+[16:31:47] *** Joins: koolaid (koolaid@2a02:a212:280:1c00:19ce:9fe8:314e:85df)
+[16:36:56] <surrounder> ik wil alleen onion bij m'n frikandel speciaal
+[16:37:09] <nomadz> ik heb zo'n curry pizza bij domino's besteld
+[16:37:28] <surrounder> jij hebt lef
+[16:37:36] <nomadz> nogal
+[16:37:37] <surrounder> dat ding klinkt echt te ranzig
+[16:38:04] <nomadz> weet je wat je vooral NIET moet doen, die ene pizzakorst die gevuld is met knakworsten selecteren
+[16:38:10] <nomadz> toen barfde ik echt
+[16:38:36] <syf_> OH MAN
+[16:38:43] <syf_> new york pizza heeft ook van die rare combos
+[16:38:44] <syf_> slaat nergens op
+[16:38:53] <surrounder> er is ook een cheeseburger variant
+[16:39:10] <NoxiousPluK> can haz?
+[16:39:35] <syf_> "Chef Sarah’s Pulled Beef" - Pizza met barbecuesaus, mozzarella, rode ui, pulled beef (of chicken), stoofpeertjes, een balsamicoswirl en knoflookolie
+[16:39:42] <SJ> hmm
+[16:39:47] <SJ> hamburger
+[16:39:59] <surrounder> SJ: haha wat
+[16:40:07] <syf_> ik weet wel hoe dat gaat
+[16:40:09] <surrounder> uh
+[16:40:11] <surrounder> syf_: ^
+[16:40:33] <nomadz> stoofpeertjes
+[16:41:00] <SJ> surrounder: nu heb ik honger
+[16:41:06] <SJ> en zin in junkfood
+[16:41:07] <syf_> ik wil best wat nieuwe dingen proberen, maar stoofpeertjes en "balsamicoswirl" op mijn pizza? nee bedankt, ga dat maar in japan verkopen
+[16:43:58] <syf_> http://en.rocketnews24.com/2013/10/27/10-crazy-pizzas-from-japan/
+[16:44:01] <digiweed> Title: 10 crazy pizzas from Japan | RocketNews24 (at en.rocketnews24.com)
+[16:44:41] <AlBundy> bah stoofpeertjes
+[16:45:33] <AlBundy> nomadz: de curry subliem?
+[16:45:44] <nomadz> ja
+[16:45:52] <nomadz> als ik komende week niet reageer
+[16:45:57] <nomadz> dan lig ik in bed met voedselvergiftiging
+[16:46:08] <nomadz> en raad ik hierbij alvast aan om die niet te pakken
+[16:46:23] <AlBundy> klinkt wel lekker
+[16:46:43] <AlBundy> als het om indische curry gaat
+[16:46:52] <AlBundy> en niet om die curry uit zo'n spuitfles
+[16:54:30] <Dubbeldrank> stoofpeertjes zijn fucking awesome!
+[16:54:38] <Dubbeldrank> maar niet op m'n pizza :(
+[16:54:46] <koolaid> heb je t geprobeerd?
+[16:54:57] <Dubbeldrank> nee, want niet op mijn pizza
+[16:55:12] <NoxiousPluK> https://youtu.be/ChdjA8arqpI
+[16:55:14] <Dubbeldrank> ik wil ze zo eten en niet op iets anders
+[16:55:15] <NoxiousPluK> fucking awesome
+[16:55:16] <digiweed> Title: Deadmau5 & Kaskade - I Remember (Original Extended Mix) [HD] - YouTube (at youtu.be)
+[16:55:36] <Dubbeldrank> WAT EEN TAKKEHERRIE NoxiousPluK!!!!!
+[16:55:43] <Dubbeldrank> even luisteren...
+[16:55:53] <NoxiousPluK> helemaal niet
+[16:55:56] <NoxiousPluK> super fijne muziek <3
+[16:56:09] <Dubbeldrank> hihi
+[16:56:16] <Dubbeldrank> heb ik je al boos gemaakt?
+[16:56:25] <Dubbeldrank> BOOS?
+[16:56:43] <Boots> Ik las BOOTS
+[16:56:43] <NoxiousPluK> welnee
+[16:56:45] <NoxiousPluK> ik ben nooit boos
+[16:56:51] <Dubbeldrank> en nu dan?
+[16:57:01] <NoxiousPluK> nope
+[16:57:04] <Dubbeldrank> oh ok
+[16:57:06] <Dubbeldrank> nu?
+[16:57:09] <NoxiousPluK> nope
+[16:57:09] <appy> xD
+[16:57:17] <Dubbeldrank> appy
+[16:57:21] <appy> Dubbeldrank
+[16:57:22] <Dubbeldrank> jij kan NoxiousPluK vast boos maken
+[16:57:31] <appy> ik zou niet weten waarom
+[16:57:42] <Dubbeldrank> dat is het punt niet, het gaat erom of het kan :D
+[16:57:45] <NoxiousPluK> nope
+[16:57:47] <appy> en ik geloof eigenlijk niet eens dat het zou lukken
+[16:58:20] <appy> besides, hardware doet dat veel beter
+[16:58:24] <NoxiousPluK> ik kan wel gefrustreerd raken :p
+[16:58:25] <appy> <3
+[16:58:29] <Dubbeldrank> :D
+[16:58:31] <NoxiousPluK> maar da's usually iets anders dan boos
+[16:58:31] <appy> hmhm ;)
+[16:58:32] <NoxiousPluK> in mijn boek :p
+[16:58:35] <NoxiousPluK> lol
+[16:58:37] <NoxiousPluK> idd
+[16:58:39] <NoxiousPluK> !hardware--
+[16:58:39] <appy> :D
+[16:58:42] <digiweed> NoxiousPluK: Karma for hardware is now: -239
+[16:58:42] <Dubbeldrank> verstop z'n computer
+[16:58:47] <NoxiousPluK> stomme grafhippies van kpn
+[16:58:48] <appy> gheh
+[16:59:03] <appy> Dubbeldrank: enige wat dan gebeurt is verveling wat dan op mij losgelaten wordt :')
+[16:59:08] <Dubbeldrank> hahaha
+[16:59:11] <Dubbeldrank> arme appy
+[16:59:17] <appy> mwaaaah
+[16:59:18] <appy> xD
+[16:59:26] <Dubbeldrank> :P
+[16:59:28] <appy> ben niet rijk, dat wel :P
+[16:59:40] <Dubbeldrank> ik ook niet hoor
+[16:59:42] <NoxiousPluK> :D
+[16:59:51] <NoxiousPluK> een vervelende NoxiousPluK is de shit
+[16:59:55] <NoxiousPluK> een vervellende nox on the other hand is minder
+[16:59:55] <appy> hehehe
+[17:00:03] <appy> lol
+[17:00:24] <appy> och, heb je weer een andere reden om aan je lichaam te plukken :P
+[17:00:31] <appy> nick eer aan doen enzo
+[17:00:33] <appy> :')
+[17:00:46] <NoxiousPluK> mijn arme lichaam /o\
+[17:00:46] <Dubbeldrank> zit hem een paar uur in de zon
+[17:00:50] <Dubbeldrank> *zet
+[17:01:00] * NoxiousPluK changes nick to NoxiousPlukken
+[17:01:15] <appy> xD
+[17:01:18] <NoxiousPluK> of dat zou dan misschien appy's nick moeten zijn
+[17:02:01] <appy> volgens mij ben ik juist degene die zegt dat je van dingen af moet blijven ;'0
+[17:02:03] <appy> :')
+[17:02:27] <Dubbeldrank> pulk pulk
+[17:02:33] <appy> hmhm
+[17:02:47] <appy> NoxiousPulk
+[17:02:47] <NoxiousPluK> ja truth
+[17:02:52] <appy> xD
+[17:02:57] <NoxiousPluK> kut pubertijd
+[17:03:00] <appy> hihihi
+[17:03:21] <Dubbeldrank> noem je appy nou een trut? :o
+[17:03:28] <appy> lol
+[17:03:32] <appy> soms ;)
+[17:03:36] <Dubbeldrank> :>
+[17:03:38] <appy> met goeie reden :+
+[17:03:47] <appy> niet dat ik me daar dan iets van aantrek :p
+[17:03:52] <Dubbeldrank> uiteraard niet
+[17:03:59] <NoxiousPluK> een trut is het vaak wel ja
+[17:04:00] <Dubbeldrank> HOE DURFT HIJ!
+[17:04:04] <NoxiousPluK> trutje zelfs
+[17:04:10] <NoxiousPluK> burgertrutje met een xenosinterieur
+[17:04:14] <appy> lol
+[17:04:14] <Dubbeldrank> :D
+[17:04:33] <appy> NoxiousPluK: heb je die 9-5 baan al?
+[17:04:36] <Dubbeldrank> spullen, spullen, overal spullen!
+[17:04:39] <NoxiousPluK> welnee
+[17:04:42] <NoxiousPluK> baan banaan
+[17:04:42] <appy> ik zal alvast wat nieuwe overhemden voor je kopen ja
+[17:04:47] <appy> :')
+[17:04:50] <NoxiousPluK> ja de vorige heb je gesloopt
+[17:04:52] <NoxiousPluK> :3
+[17:04:54] <appy> mihihi
+[17:04:54] <Dubbeldrank> :D
+[17:05:07] <NoxiousPluK> rare fetish
+[17:05:13] <NoxiousPluK> maar vooruit
+[17:05:15] <Dubbeldrank> werd hij zo van je goddelijke lijf gescheurd?
+[17:05:16] <appy> xD
+[17:05:31] <NoxiousPluK> Dubbeldrank: ze voerde me pizza tot de knoopjes er af scheurden
+[17:05:36] <appy> lol
+[17:05:38] <Dubbeldrank> :D
+[17:05:49] <Dubbeldrank> zeg
+[17:05:54] <NoxiousPluK> ja zelluf
+[17:05:55] <Dubbeldrank> wie heeft er onweer besteld?
+[17:06:16] <appy> Dubbeldrank: ik
+[17:06:18] <Dubbeldrank> FLITS!
+[17:06:21] <appy> maar merk er weinig van hier
+[17:06:30] <appy> hebben ze weer eens verkeerd geleverd :/
+[17:06:36] <Dubbeldrank> het zijn ook maar kleine plukjes op de kaart
+[17:06:41] <Dubbeldrank> maar wel ROOD!
+[17:06:47] <appy> OEI
+[17:06:51] <appy> gaan we nu DOOD?
+[17:06:53] <NoxiousPluK> plukjess
+[17:07:00] <Dubbeldrank> nee, maar we worden wel nat
+[17:07:07] <appy> oh ok
+[17:07:12] *** Joins: Kirth_ (Kirth@34.226-200-80.adsl-dyn.isp.belgacom.be)
+[17:07:17] *** Quits: Kirth (Kirth@62.4.156.42) (Ping timeout: 63 seconds)
+[17:07:24] <NoxiousPluK> lekker, nat
+[17:07:27] <appy> :9
+[17:11:51] <appy> spontaan chat dood
+[17:11:53] <appy> fijn dit
+[17:12:40] <NoxiousPluK> :D
+[17:13:27] <AlBundy> hmm, leuk stukje oude software gevonden
+[17:13:28] <AlBundy> xroach
+[17:13:33] <AlBundy> maar het wil niet compilen
+[17:13:41] <NoxiousPluK> fix it
+[17:13:54] <AlBundy> mja, er zitten wat uhm, bugs in de code
+[17:14:05] <AlBundy> note: expected ?int *? but argument is of type ?Atom *?
+[17:14:40] <NoxiousPluK> dan heb je wat te doen ^_^
+[17:15:06] <justaguy> Kirth_: o/
+[17:15:17] <AlBundy> ik kan niet coen
+[17:15:20] <AlBundy> coden
+[17:15:32] <AlBundy> undefined reference to `sin'
+[17:15:44] * Kirth_ pat justaguy 
+[17:15:49] <AlBundy> moet ik het een appel geven?
+[17:16:11] <Kirth_> Something something static typed master race
+[17:16:18] <NoxiousPluK> AlBundy: mooie kans om er in te stappen
+[17:16:21] <NoxiousPluK> google is je vriend :p
+[17:16:32] <NoxiousPluK> C++?
+[17:16:38] <surrounder> Kirth_
+[17:16:39] <surrounder> Kirth_!
+[17:16:44] <surrounder> KIRTH_!
+[17:17:32] <justaguy> rustig smullrounder
+[17:18:57] * Kirth_ aait de surrounder 
+[17:19:29] <surrounder> kek zeg ik je
+[17:24:59] <Dubbeldrank> https://www.youtube.com/watch?v=uDoUQO-1Dfk
+[17:25:02] <digiweed> Title: HTC 10 Ice View case hands-on - YouTube (at www.youtube.com)
+[17:25:02] <Dubbeldrank> awesome!
+[17:25:23] <surrounder> nee
+[17:26:46] <Dubbeldrank> wat nee?
+[17:27:01] <surrounder> nee meneer
+[17:27:04] <Dubbeldrank> :D
+[17:27:14] *** Joins: Kirth__ (Kirth@62.4.156.88)
+[17:27:15] <Dubbeldrank> ik bedoel wat is er niet awesome aan dan?
+[17:27:17] <Dubbeldrank> OMG
+[17:27:20] <Dubbeldrank> ONWEER
+[17:27:22] <surrounder> 't is een android
+[17:27:25] <surrounder> duh
+[17:27:26] <surrounder> !android--
+[17:27:29] <digiweed> surrounder: Karma for android is now: -68
+[17:27:49] <Dubbeldrank> je weet dat dit over een cover gaat?
+[17:27:49] *** Quits: Kirth_ (Kirth@34.226-200-80.adsl-dyn.isp.belgacom.be) (Ping timeout: 60 seconds)
+[17:28:03] <surrounder> welke cover? van de beegees?
+[17:28:12] <Dubbeldrank> als je gekeken had wist je het
+[17:28:25] <Dubbeldrank> geen spoilers van mij :P
+[17:28:37] <surrounder> en dan 1:43 van m'n leven verkloten
+[17:28:41] <surrounder> DANK JE DE KOEKKOEK
+[17:29:18] <WvdL> de koekkoek kun je krijgen
+[17:29:18] <Dubbeldrank> ik denk dat je wel meer verkloot heb aan nutteloze dingen dan krap 2 minuten filmpje kijken :D
+[17:29:21] <WvdL> ik ga naar huis
+[17:29:24] <WvdL> toedels!
+[17:29:27] <Dubbeldrank> ja doei
+[17:29:30] <Dubbeldrank> superdoei!
+[17:29:31] <surrounder> Dubbeldrank: denk dat maar jongeuh!
+[17:29:34] <Dubbeldrank> :D
+[17:29:39] <surrounder> WvdL: ok superdoei! tot vanavond vanaf je pi
+[17:29:40] <WvdL> megadoei! xoxo
+[17:30:06] <Dubbeldrank> ben je nu boos?
+[17:30:07] <surrounder> ik heb er ook tabak van
+[17:30:11] <Dubbeldrank> is er al haat?
+[17:30:25] <surrounder> mag het toch potjandorie hopen
+[17:30:25] <Dubbeldrank> nou, vlucht dan maar
+[17:30:29] <Dubbeldrank> :D
+[17:30:35] <Dubbeldrank> ren maar weg voor de realiteit
+[17:30:42] <Dubbeldrank> ofzo
+[17:30:45] <surrounder> *stampvoet*
+[17:30:50] <Dubbeldrank> proost! :D
+[17:31:08] <surrounder> thanks homie
+[17:31:10] <rawplayer> !haat--
+[17:31:12] <digiweed> rawplayer: Karma for haat is now: 25
+[17:31:13] <NoxiousPluK> !stampvoet++
+[17:31:14] <surrounder> !haat++
+[17:31:18] <digiweed> NoxiousPluK: Karma for stampvoet is now: 3
+[17:31:18] <digiweed> surrounder: Karma for haat is now: 26
+[17:31:19] <surrounder> ik hou van haat
+[17:31:23] <rawplayer> :s
+[17:31:25] <surrounder> :s
+[17:31:27] <rawplayer> :s
+[17:31:33] <surrounder> toedels
+[17:31:33] <NoxiousPluK> :s
+[17:31:36] <rawplayer> :s
+[17:31:38] <NoxiousPluK> noumoe
+[17:31:39] <NoxiousPluK> :s
+[17:31:40] <rawplayer> :s
+[17:31:42] <NoxiousPluK> :s
+[17:31:44] <rawplayer> :s
+[17:31:45] <NoxiousPluK> :s
+[17:31:47] <rawplayer> :s
+[17:31:47] <Dubbeldrank> :>
+[17:31:48] <NoxiousPluK> :s
+[17:31:50] <rawplayer> :s
+[17:31:51] <NoxiousPluK> :s
+[17:31:53] <rawplayer> :s
+[17:31:54] <NoxiousPluK> :s
+[17:31:56] <rawplayer> :s
+[17:31:56] <NoxiousPluK> :s
+[17:32:05] <NoxiousPluK> !winamp++
+[17:32:05] <rawplayer> :s
+[17:32:08] <digiweed> NoxiousPluK: Karma for winamp is now: 111
+[17:32:13] <Dubbeldrank> dit kent geen winnaars hè
+[17:32:18] <Dubbeldrank> just saying
+[17:32:21] <rawplayer> :s
+[17:32:22] <NoxiousPluK> hihi hitler
+[17:32:28] <rawplayer> :s
+[17:32:32] <Dubbeldrank> die heeft ook verloren!
+[17:32:38] <rawplayer> :s
+[17:32:40] <NoxiousPluK> alleen op vrijdag
+[17:32:46] <rawplayer> wat heeft die dan verloren?
+[17:34:11] <NoxiousPluK> zn maagdelijkheid
+[17:34:13] <NoxiousPluK> net als ik
+[17:40:22] *** Joins: Diabolical (Diabolical@waltherligtvoet.nl)
+[17:40:51] *** Quits: Diabolical (Diabolical@waltherligtvoet.nl) (Exit)
+[18:00:00] <koolaid> rawplayer: ik ga zo weer he!
+[18:11:38] <rawplayer> awesome!
+[18:11:42] <rawplayer> wat ga je doen
+[18:11:46] <rawplayer> !biefstuk++
+[18:11:48] <digiweed> rawplayer: Karma for biefstuk is now: 36
+[18:16:49] <syf_> !stampvoet++
+[18:16:52] <digiweed> syf_: Karma for stampvoet is now: 4
+[18:17:09] <syf_> rawplayer: wat voor biefstuk
+[18:18:16] <rawplayer> um
+[18:18:20] <rawplayer> 24 dagen over datum
+[18:18:26] <rawplayer> van duitse aldi
+[18:18:32] <rawplayer> (lees 24 dagen gerijpt)
+[18:18:35] <rawplayer> ;d
+[18:18:41] <syf_> bam
+[18:18:41] <koolaid> bestorven
+[18:18:51] <syf_> gruwelijk!
+[18:19:04] <koolaid> op woensdag altijd conditie
+[18:19:25] <rawplayer> nice nice
+[18:20:16] <linzen103> hump day
+[18:20:52] <rawplayer> linzen103: moet ik je morgen ontvangen?
+[18:20:52] <koolaid> linzen103: je wijf doet weer ns elitair
+[18:21:02] <koolaid> wat is er morgen?
+[18:21:02] <rawplayer> of zoek je het allemaal uit en zo
+[18:21:11] <syf_> heb je weer ruzie met zijn wijf?
+[18:21:21] <koolaid> zijn wijf doet altijd ruzie zoeken met mij
+[18:21:38] <syf_> wat doe je dan?
+[18:21:47] <koolaid> just minding my own business
+[18:21:58] <syf_> :D
+[18:22:12] <rawplayer> http://www.ad.nl/ad/nl/1038/Rotterdam/article/detail/4281563/2016/04/13/Lekker-Een-pannenkoek-patat-speciaal.dhtml
+[18:22:16] <digiweed> Title: Lekker? Een pannenkoek patat speciaal - AD.nl (at www.ad.nl)
+[18:22:25] <syf_> daarom moet je ook nooit trouwen koolaid 
+[18:22:29] <linzen103> rawplayer: optioneel
+[18:22:33] <syf_> rawplayer: wtf
+[18:22:36] <koolaid> niet trouwen was sowieso al mijn plan
+[18:22:49] <syf_> dat ziet er echt goor uit
+[18:22:52] <rawplayer> ja
+[18:23:53] <koolaid> hmm friet
+[18:24:13] <rawplayer> friet O+
+[18:25:40] <koolaid> ah, hump day
+[18:25:45] <koolaid> 'de week is weer doormidden'
+[18:25:52] <koolaid> of, als je een kutbaan hebt 'zaagmans is gekomen'
+[18:26:13] <linzen103> 12:01 <the_Ye-Ti> zaagmans
+[18:28:08] <rawplayer> ZAAGMANS
+[18:28:19] <rawplayer> ik hoop iig dat morgen droog is
+[18:28:23] <rawplayer> kunnen we buiten zitten
+[18:28:24] <rawplayer> en bbq'en
+[18:28:26] <rawplayer> O+
+[18:30:07] <koolaid> waffer baan heeft ie :)
+[18:30:17] <koolaid> morgen naar utrecht jaarbeurs
+[18:34:48] <rawplayer> was daar
+[18:35:51] <koolaid> http://www.iottechday.nl/
+[18:35:53] <surrounder> hoi
+[18:35:55] <digiweed> Title: IoT Tech Day 2016 April 14th (at www.iottechday.nl)
+[18:36:24] * rawplayer maakt vlechtjes met kraaltjes in surrounder's baard
+[18:37:34] <surrounder> d'awww
+[18:37:52] <rawplayer> ~kow++
+[18:37:55] <rawplayer> !koe++
+[18:37:59] <digiweed> rawplayer: Karma for koe is now: 4
+[18:41:00] *** Quits: koolaid (koolaid@2a02:a212:280:1c00:19ce:9fe8:314e:85df) (Client exited)
+[18:43:11] * mimic legt een knoop in rawplayer's kettlebell
+[18:43:20] <surrounder> lol
+[18:45:42] <syf_> haha
+[18:47:37] <NoxiousPluK> noumoe
+[18:47:45] <NoxiousPluK> straks hebben we hier weer 'n crossfittie
+[18:48:39] <rawplayer> oh enee
+[18:48:42] <rawplayer> ik begin ik er niet meer
+[18:48:44] <rawplayer> aan
+[18:48:52] <rawplayer> ik laat het los
+[18:48:56] <rawplayer> tis losgelaten
+[18:49:06] <appy> nou ligt het op de grond
+[18:49:09] <appy> fraai is dat
+[18:49:16] <rawplayer> o_O
+[18:49:39] <NoxiousPluK> :D
+[18:49:40] <NoxiousPluK> vervuiling zeg ik je
+[18:49:43] * NoxiousPluK aait rawplayer
+[18:49:45] <NoxiousPluK> :3
+[18:50:29] <rawplayer> :o
+[18:50:32] <rawplayer> mgighgih
+[18:50:38] <syf_> jullie maken allemaal wel crossfit grappen maar een keertje kom je of een touw of een hele serie tractor banden tegen onder weg naar je werk, en let maar op! dan zit je vast
+[18:50:40] <mimic> al die rare sportspullen op de grond
+[18:50:41] <mimic> met poep er aan
+[18:50:48] * mimic is listening to The Police – Roxanne
+[18:50:59] <surrounder> syf_: :D
+[18:51:42] <mimic> lol
+[18:52:05] <NoxiousPluK> lol
+[18:52:13] * NoxiousPluK doet het rode licht aan
+[18:52:21] <mimic> jamaar
+[18:52:28] <rawplayer> https://pbs.twimg.com/media/Cf70SneWIAAoftM.jpg
+[18:52:29] <rawplayer> :D
+[18:52:29] <mimic> dat hoeft dus niet
+[18:52:35] <mimic> oud
+[18:52:40] <mimic> rawplayer doet een Dubbeldrankje
+[18:53:09] <rawplayer> http://mashable.com/2016/04/12/brain-on-lsd
+[18:53:13] <digiweed> Title: This is what happens to the brain when it's on LSD (at mashable.com)
+[18:54:51] <syf_> rawplayer: lol
+[18:55:12] * NoxiousPluK is listening to Zeds Dead – Blue Foundation - Eyes On Fire
+[18:55:23] <NoxiousPluK> !Zeds Dead++
+[18:55:26] <digiweed> NoxiousPluK: Karma for Zeds Dead is now: 4
+[18:57:37] <rawplayer> https://www.washingtonpost.com/world/national-security/fbi-paid-professional-hackers-one-time-fee-to-crack-san-bernardino-iphone/2016/04/12/5397814a-00de-11e6-9d36-33d198ea26c5_story.html
+[18:57:40] <digiweed> Title: FBI paid professional hackers one-time fee to crack San Bernardino iPhone - The Washington Post (at www.washingtonpost.com)
+[19:00:14] <Boots> http://speld.nl/2016/04/13/steeds-meer-bovenburen-gaan-op-tapdance/
+[19:00:16] <digiweed> Title: Steeds meer bovenburen gaan op tapdance - De Speld (at speld.nl)
+[19:00:38] <mimic> :D :D
+[19:03:42] *** Joins: SCHAPiE (dorian@dhcp-077-249-247-124.chello.nl)
+[19:17:00] <mimic> http://s2.img.humo.be/q100/w850/h/img_143/1435052.jpg
+[19:33:23] *** Quits: WvdL (uid21241@id-21241.ealing.irccloud.com) (Exit)
+[19:33:49] <syf_> mimic: lool
+[19:39:49] <mimic> http://s3.img.humo.be/q100/w850/h/img_129/1291993.jpg
+[19:39:51] <mimic> deze si leuker
+[19:47:15] <AlBundy> !humo++
+[19:47:17] <digiweed> AlBundy: Karma for humo is now: 2
+[19:47:34] *** Quits: SCHAPiE (dorian@dhcp-077-249-247-124.chello.nl) (Ping timeout: 66 seconds)
+[19:47:57] <AlBundy> dit is altijd nog mijn favoriet, mimic: http://i6.tinypic.com/14ijtw0.jpg
+[20:03:06] *** Joins: SCHAPiE (dorian@dhcp-077-249-247-124.chello.nl)
+[20:12:52] <rawplayer> wat is humo?
+[20:18:39] *** Joins: koolaid (koolaid@2a02:a212:280:1c00:19ce:9fe8:314e:85df)
+[20:30:10] <syf_> https://i.imgur.com/D0LjCRg.jpg
+[20:58:12] <linzen103> ben jij dat?
+[21:00:44] <NoxiousPluK> nee
+[21:05:03] <rawplayer> linzen103: http://gcc.godbolt.org/
+[21:05:06] <digiweed> Title: Compiler Explorer (at gcc.godbolt.org)
+[21:07:01] <linzen103> leuk
+[21:07:29] <NoxiousPluK> welnee
+[21:07:31] <NoxiousPluK> schattig
+[21:07:49] <linzen103> beetje spijtig dat de examples niet builden
+[21:08:21] <NoxiousPluK> details
+[21:08:22] <linzen103> oh wacht
+[21:08:23] <linzen103> !clang--
+[21:08:28] <digiweed> linzen103: Karma for clang is now: 2
+[21:08:46] <NoxiousPluK> slang?
+[21:49:33] * BarthezZ humpt rawplayer
+[21:52:34] <rawplayer> O+
+[21:55:13] <BarthezZ> O+O+
+[21:55:16] <BarthezZ> Alles goed meneer?
+[21:56:56] <rawplayer> ja hoor ja
+[21:57:04] <rawplayer> en met u?
+[22:11:03] <rawplayer> !hosanna++
+[22:11:06] <digiweed> rawplayer: Karma for hosanna is now: 1
+[22:12:49] <BarthezZ> haha, ja wel goed hoor rawplayer [/laat]
+[22:29:45] <linzen103> rawplayer: waarom begint die shit morgen om 8:30, maar is de eerste spreker pas om 9:30?
+[22:30:07] <SJ> linzen103: 'ontvangst'
+[22:30:12] <bReChThOu> koffie en ontbijt
+[22:30:20] <SJ> linzen103: je mag ook prima om 9:28 binnenvallen
+[22:30:22] <bReChThOu> en omdat iedereen wrs te laat komt opdagen
+[22:30:37] <linzen103> die burrel afterwards duurt dan weer erg kort ;)
+[22:30:54] <SJ> linzen103: ik vermoed dat dat wel wat uitloopt
+[22:31:02] <SJ> hangt af van de animo 
+[22:32:22] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Exit)
+[22:36:36] <Boots> lekker uitlopen met SJ
+[22:37:15] <bReChThOu> vrije uitloop?
+[22:37:25] <bReChThOu> heer houben gaat pitten
+[22:37:26] <bReChThOu> nn all
+[23:03:24] <Fermata> haha heer
+[23:14:56] <koolaid> linzen103: wat begint er morgen?
+[23:35:20] *** Quits: snors (snors@5468FEB5.cm-12-1d.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[23:43:25] *** Joins: snors (snors@5468FEB5.cm-12-1d.dynamic.ziggo.nl)

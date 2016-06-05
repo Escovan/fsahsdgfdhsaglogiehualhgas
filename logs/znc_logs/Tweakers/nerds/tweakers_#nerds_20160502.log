@@ -1,0 +1,975 @@
+[00:22:49] *** Quits: Guyver2 (Guyver2@guyver2.xs4all.nl) (Exit)
+[00:41:00] *** Quits: klaveRCX (michiel@klaver.it) (Ping timeout: 61 seconds)
+[00:41:43] *** Joins: klaveRCX (michiel@klaver.it)
+[00:45:28] *** Joins: koolaid (koolaid@2a02:a212:280:1c00:6c1e:73bc:5b77:8110)
+[01:05:36] *** Quits: SCHAPiE (dorian@dhcp-077-249-247-124.chello.nl) (Exit)
+[01:27:47] *** Quits: koolaid (koolaid@2a02:a212:280:1c00:6c1e:73bc:5b77:8110) (Client exited)
+[07:39:16] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[07:49:02] *** Joins: justaknul (kut@justaguy.pw)
+[07:49:11] <justaknul> Mogge
+[07:49:17] *** justaknul is now known as justaguy
+[08:03:25] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Ping timeout: 66 seconds)
+[08:22:54] *** Quits: mimic (cyka@eindbaas.s4nder.nl) (Ping timeout: 60 seconds)
+[08:24:24] <pompoensoep103> SCHTJES <# \o &* _o_ &*($#&*($#!
+[08:33:27] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[08:49:00] <bReChThOu> hi nerds
+[09:01:36] *** Joins: koolaid (koolaid@ip-213-127-118-32.ip.prioritytelecom.net)
+[09:05:55] <surrounder> mogguh
+[09:06:00] * surrounder paast de bReChThOu een tas koffie
+[09:06:14] <bReChThOu> sHOERRounder
+[09:06:18] <bReChThOu> bedankt m
+[09:06:18] <bReChThOu> 8
+[09:07:44] <Fermata> Stelletje
+[09:08:30] <bReChThOu> Fermata: <3
+[09:09:26] <Fermata> <3
+[09:09:51] <bReChThOu> hoe hangt ie ?
+[09:10:11] <Fermata> Linksom, in een vlinderstrikje
+[09:10:15] <surrounder> :D
+[09:10:21] <Fermata> Daar?
+[09:10:28] <bReChThOu> rechtomhoog
+[09:11:58] <Fermata> Hitsig
+[09:16:06] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Exit)
+[09:16:23] <Fermata> Waar blijft mijn koffie?
+[09:16:46] * surrounder paast de Fermatada.wav.enc een mok koffie
+[09:17:13] <Fermata> Dank <3
+[09:17:28] <bReChThOu> die hangt nog aan een boom in venezuela
+[09:18:20] <Fermata> Hing jij maar een een boom in Venezuela
+[09:18:53] <bReChThOu> eet een snickers
+[09:19:04] * surrounder snickers
+[09:19:14] <bReChThOu> eet een surrounder *
+[09:19:37] <surrounder> raar verhaal dit
+[09:19:54] <bReChThOu> homofilie is ook raar
+[09:20:40] <surrounder> s/lie/let/
+[09:21:12] * bReChThOu turns 360° and walks away
+[09:21:57] <Fermata> :D
+[09:37:46] <SJ> mogge
+[09:37:51] <bReChThOu> SJ o/
+[09:37:51] <surrounder> SJ! o//
+[09:37:57] * surrounder paast de SJ een mok koffie
+[09:44:57] <SJ> bReChThOu: o/
+[09:45:02] <SJ> surrounder: o/
+[09:45:16] <surrounder> \o
+[09:55:03] *** Joins: Guyver2 (Guyver2@guyver2.xs4all.nl)
+[10:04:01] <Fermata> !rugpijn--
+[10:04:05] <Fermata> Godverdomme nog aan toe
+[10:04:05] <digiweed> Fermata: Karma for rugpijn is now: -15
+[10:04:54] <surrounder> :(
+[10:11:21] *** Joins: mimic (cyka@eindbaas.s4nder.nl)
+[10:11:54] <surrounder> wb MIMIEKJE
+[10:14:40] <syf_> mogguh o/
+[10:14:55] <surrounder> syfunderscore! \o
+[10:15:09] <Dubbeldrank> yo!
+[10:15:11] *** Quits: koolaid (koolaid@ip-213-127-118-32.ip.prioritytelecom.net) (Connection reset by peer)
+[10:15:15] <surrounder> Dubbeldrap!
+[10:15:22] <Dubbeldrank> surrounderp o/
+[10:15:38] <surrounder> dag duifje
+[10:16:15] *** Joins: koolaid (koolaid@2a02:a212:280:1c00:b881:be1c:9b82:2481)
+[10:25:31] *** Quits: BarthezZ (bart@monitoring.deheij-ict.nl) (Ping timeout: 66 seconds)
+[10:27:44] <surrounder> joepie meeting
+[10:27:46] <surrounder> !meetings--
+[10:27:48] <digiweed> surrounder: Karma for meetings is now: -45
+[10:38:14] <Boots> Zullen je nog eens uitnodigen voor een meeting
+[10:40:52] <nomadz> lekker scrummen met de surrounder 
+[10:44:44] <syf_> lekker scrummen
+[10:44:48] <syf_> ik ben een fan
+[10:46:25] <pompoensoep103> scrum is dood
+[10:46:34] <Fermata> Agile is de nieuwe weg?
+[10:46:36] <pompoensoep103> rawplayer: lunsuh?
+[10:46:39] <pompoensoep103> agile is ook dood
+[10:46:49] <Fermata> Wat is dan hip?
+[10:47:10] <Dubbeldrank> surrounder met z'n hipsterbaard
+[10:47:13] <pompoensoep103> Just Do It
+[10:47:15] <pompoensoep103> (c) Nike
+[10:47:48] <Fermata> !nike++
+[10:47:52] <digiweed> Fermata: Karma for nike is now: 13
+[10:47:53] <Fermata> Goed spul dat.
+[10:48:21] <bReChThOu> idd
+[10:48:24] <bReChThOu> !kinderarbeid++
+[10:48:28] <digiweed> bReChThOu: Karma for kinderarbeid is now: 1
+[10:48:34] <koolaid> pompoensoep103: o/
+[10:50:01] *** Joins: WvdL (uid21241@id-21241.ealing.irccloud.com)
+[10:50:05] <pompoensoep103> pompoensoep103
+[10:50:19] <WvdL> WvdL 
+[10:50:36] <WvdL> Morguhh
+[10:53:01] <Fermata> Willum!
+[10:53:06] * Fermata paast de WvdL een kop koffie.
+[10:53:33] <WvdL> Stephan!
+[10:53:50] * WvdL paast Fermata een moorkop voor bij de koffie
+[10:53:58] <Fermata> Maar dan met een f!
+[10:54:00] <Fermata> Dank <3
+[10:54:14] <bReChThOu> een wat ?
+[10:55:19] <WvdL> net zoals mijn naam met een e bedoel je Fermata ? :+
+[10:56:04] <AlBundy> hm, waarom is er geen bezorgdienst voor bossche bollen :(
+[10:56:22] <WvdL> gat in den markten
+[10:56:33] <Fermata> Hihihigat
+[10:56:36] <AlBundy> mja, ongetwijfeld
+[10:56:55] <WvdL> gat in je hoofd
+[10:57:28] <AlBundy> bekend in het hele land, maar je moet er echt voor naar den bosch toe
+[10:57:41] <AlBundy> en in de fokking rij staan :p
+[10:58:17] <rawplayer> sta je daar met je schaap en een geit
+[10:58:23] <rawplayer> ruilen voor bossche bollen
+[10:58:24] <rawplayer> :+
+[10:58:37] <WvdL> !rawplayer++
+[10:58:39] <AlBundy> lol dat klinkt omslachtig
+[10:58:39] <digiweed> WvdL: Karma for rawplayer is now: 410
+[10:58:47] <AlBundy> ik neem gewoon geld mee \o/
+[10:59:02] <AlBundy> of zo'n plastic kaartje
+[10:59:49] <pompoensoep103> AlBundy: hallobezorger.nl
+[11:00:02] <AlBundy> bezorgt alles?
+[11:00:12] <pompoensoep103> alles
+[11:00:18] <pompoensoep103> zelfs eten uit een vijfsterrenrestaurant
+[11:00:45] <syf_> welke vijfsterrenrestaurants?
+[11:01:03] <AlBundy> meer dan 3 is er niet
+[11:01:12] <pompoensoep103> kan je nagaan
+[11:01:14] <AlBundy> maar boeiend, i get the point
+[11:01:30] <syf_> en hoe is dit beter dan bijv deliveroo?
+[11:01:38] <AlBundy> Bestel alles uit lokale winkels, we bezorgen binnen 1 uur!
+[11:01:49] <Boots> !wat
+[11:01:51] <digiweed> Boots: "wat" : http://i.imgur.com/Bdh4kIu.jpg
+[11:01:59] <syf_> oh
+[11:02:05] <syf_> ze doen geen eten
+[11:02:07] <AlBundy> dat klinkt als "we gaan geen boodschappen voor je halen aan de andere kant vh land"
+[11:02:38] *** Quits: Guyver2 (Guyver2@guyver2.xs4all.nl) (Exit)
+[11:02:39] <syf_> dit is meer een Alfred clone dan een deliveroo clone
+[11:03:10] <syf_> mgoed waarom zelf iets verzinnen als je ook gewoon goedkoop een concept kan namaken 
+[11:03:18] <syf_> dat werkt ook goed voor de samwer broers
+[11:03:24] <rawplayer> EN VOOR CHINA
+[11:05:28] <syf_> JA
+[11:14:28] *** Quits: koolaid (koolaid@2a02:a212:280:1c00:b881:be1c:9b82:2481) (Client exited)
+[11:16:26] <t4rt4rus> hallo pompoensoep103 
+[11:31:01] *** Joins: Paranoid (Mibbit@mail.venture-group.nl)
+[11:33:17] <pompoensoep103> syf_: behalve dat deliveroo in 2013 gestart is en hallobezorger al in 2011
+[11:33:23] <pompoensoep103> dus wie maakt wie na?
+[11:34:16] <AlBundy> deliveroo is wel een enigszins ander concept
+[11:34:24] <syf_> hallobezorger is meer een helloalfred
+[11:34:25] <AlBundy> ander type restaurants, en men bezorgt per fiets
+[11:34:32] <syf_> overigens geloof ik er niets van dat hallobezorger in 2011 begonnen is
+[11:34:53] <AlBundy> mgoed, ze bezorgen dus alleen van winkels uit je eigen stad/regio
+[11:35:04] <syf_> "HalloBezorger gaat begin 2016 officieel van start met een groot netwerk"
+[11:35:13] <pompoensoep103> restart
+[11:35:13] <syf_> nee dus, maar bedankt voor het spelen 103
+[11:35:17] <pompoensoep103> ik was zelf betrokken bij de start in 2011
+[11:35:29] <syf_> https://www.helloalfred.com/
+[11:35:30] <pompoensoep103> failliet zelfs
+[11:35:32] <digiweed> Title: Alfred | Home (at www.helloalfred.com)
+[11:37:49] <surrounder> Dubbeldrank: nu hebben we dus ruzie he
+[11:38:49] <syf_> ruzie!
+[11:39:33] <surrounder> http://tinyurl.com/jtxxrvj - :D
+[11:39:41] <Dubbeldrank> ff dimmen haatbaard!
+[11:39:48] <rawplayer> :D
+[11:39:50] <surrounder> FF RUSTAAAAAAAAAAAAAAAAAAAG
+[11:39:50] <rawplayer> :/
+[11:39:51] <rawplayer> :|
+[11:40:01] <Dubbeldrank> :>
+[11:40:16] <Dubbeldrank> zo heren
+[11:40:25] <Dubbeldrank> het is best nog even tijd voor een bakkie
+[11:41:07] <rawplayer> ja joh
+[11:41:11] <rawplayer> neem anders nog een bakkie
+[11:41:12] <surrounder> Dubbeldrank: hajje mooi goed
+[11:41:13] <rawplayer> kan ju het schelen
+[11:41:56] <surrounder> jus kan me schelen
+[11:42:02] <Dubbeldrank> zeg, jij recalcitrante skinhead!
+[11:42:28] <surrounder> nietus
+[11:42:40] <Dubbeldrank> ik had het tegen kaalplayer
+[11:42:44] <bReChThOu> Dubbeldrank:  o/
+[11:43:00] <Dubbeldrank> pak ik ondertussen even een bakkie voor ons surrounder
+[11:43:04] <Dubbeldrank> hoi bReChThOu
+[11:43:20] <bReChThOu> doe mij ook maar bakkie
+[11:43:21] <surrounder> Dubbeldrank: OW
+[11:43:22] <surrounder> OOOW
+[11:43:39] <Dubbeldrank> en een bakkie voor bReChThOu
+[11:43:50] <Fermata> En eenbakkie voor Fermata.
+[11:43:53] <Fermata> Ja lekker!
+[11:43:57] <bReChThOu> nice
+[11:44:01] <Fermata> Goede ideeën, die Fermata
+[11:44:02] <Dubbeldrank> en een bakkie voor Fermata idd
+[11:44:10] <Dubbeldrank> Koffie voor iedereen! ☕️☕️☕️☕️☕️
+[11:44:14] <surrounder> ook voor Fermata!
+[11:44:25] <Fermata> <3
+[11:45:18] <AlBundy> wel erg klein bakkie, ik schenk mijn eigen wel in C|_|
+[11:46:15] <bReChThOu> voor AlBundy: 💩💩💩💩💩
+[11:46:21] <surrounder> AlBundy: gefeliciteerd ouwe grafzerk!
+[11:46:48] <rawplayer> issie jarig
+[11:46:51] <rawplayer> het knulletje
+[11:47:06] <bReChThOu> gefeliciteerd met je 13de verjaardag
+[11:50:17] <AlBundy> dat zijn 5 vraagtekens, bReChThOu :p
+[11:50:25] <AlBundy> en ik heb nu toch echt mijn wtf-8 goed staan :p
+[11:50:38] <bReChThOu> http://www.fileformat.info/info/unicode/char/1F4A9/index.htm
+[11:50:41] <digiweed> Title: Unicode Character 'PILE OF POO' (U+1F4A9) (at www.fileformat.info)
+[11:50:52] <AlBundy> oh die, lol
+[11:50:58] <AlBundy> die zal wel te nieuw zijn
+[11:52:52] <t4rt4rus> Game of Thrones :D
+[11:53:12] <surrounder> :D:D:d;d:D:D:;xXDdXDDd;dX:D
+[11:53:26] <rawplayer> surrounder: <3
+[11:53:33] <surrounder> teh lub
+[11:54:03] <WvdL> TIMO!
+[11:54:06] <WvdL> surrounder:  *brofist* 
+[11:54:07] <surrounder> WILLEM!
+[11:54:12] <surrounder> WvdL: *brohoof*
+[11:54:17] <surrounder> alles kut?
+[11:54:24] <WvdL> zeer kut
+[11:54:29] <surrounder> gelukkig maar
+[11:54:38] <WvdL> gisteren onkruid verwijdert..   /o\
+[11:54:42] <WvdL> ik in de tuin
+[11:54:43] <WvdL> brrrrr
+[11:54:45] <surrounder> nee hoor
+[11:54:46] <surrounder> ik ben er nog
+[11:54:47] <WvdL> daar aels kut?
+[11:54:49] <surrounder> ow in de tuin
+[11:54:51] <surrounder> jazeker wel
+[11:54:56] <WvdL> jij komt niet buiten
+[11:55:03] <WvdL> tenzij onderweg van kroeg->huis
+[11:55:04] <surrounder> welles
+[11:55:05] <AlBundy> ik laat dit jaar het onkruid gewoon groeien
+[11:55:07] <WvdL> en andersom
+[11:55:18] <surrounder> bij de kroeg vaak ook buiten!
+[11:55:50] <Boots> Ik las teh luve
+[11:55:52] <Boots> lube*
+[11:56:10] <AlBundy> waar het hart vol van is
+[11:56:12] <rawplayer> http://www.ttip-leaks.org/
+[11:56:15] <digiweed> Title: TTIP leaks | Greenpeace Netherlands (at www.ttip-leaks.org)
+[11:57:00] <surrounder> mis de 3 regel pino-uitleg
+[11:58:22] <WvdL> pino zo geen bananen meer eten.. want multinationals bepalen dat pino appels moet kopen en eten
+[11:59:32] <surrounder> maar die kan ie veel minder makkelijk in inimini proppen
+[12:00:19] <AlBundy> !jarig++
+[12:00:22] <digiweed> AlBundy: Karma for jarig is now: 0
+[12:00:38] <t4rt4rus> duutsers
+[12:00:46] <surrounder> AlBundy: ze luiden zelfs de sirenes voor je
+[12:00:50] <klaveRCX> alarm!
+[12:02:10] <AlBundy> http://mashable.com/2016/05/02/qantas-wifi-scare/#cMNbDbSApGqA
+[12:02:12] <digiweed> Title: Terrifying Wi-Fi hotspot name causes chaos on Qantas plane (at mashable.com)
+[12:04:25] <t4rt4rus> lol
+[12:10:09] <t4rt4rus> snap nog steeds niet waarom ze die sekte niet gewoon afslachten
+[12:10:42] <Paranoid> welke sekte?
+[12:12:46] <t4rt4rus> van GoT
+[12:13:00] <surrounder> gathering of tweakers?
+[12:13:03] <surrounder> idd
+[12:13:04] <t4rt4rus> ja
+[12:13:10] <surrounder> !nerds--
+[12:13:14] <digiweed> surrounder: Karma for nerds is now: -996
+[12:21:09] *** Joins: koolaid (koolaid@84.241.199.60)
+[12:33:19] <Dubbeldrank> <surrounder> mis de 3 regel pino-uitleg >> Er staat zoveel shit in dat we niet moeten willen dat het niet op drie regels past helaas... ;(
+[12:33:40] <surrounder> dat moeten we niet willen met z'n allen!
+[12:33:42] <surrounder> *barf*
+[12:33:55] <Dubbeldrank> jij bent voorstander?
+[12:34:03] <surrounder> zeker niet
+[12:35:22] <Dubbeldrank> oh ok
+[12:35:35] <Dubbeldrank> dan begreep ik je ws verkeerd
+[12:35:48] <bReChThOu> dat sowiseo
+[12:35:55] <surrounder> de barf was @ "dat moeten we niet willen met z'n allen!"
+[12:36:00] <t4rt4rus> bReChThOu :D
+[12:36:03] <surrounder> poliouitspraak dat
+[12:36:04] <bReChThOu> tartaartje :D
+[12:36:13] <Dubbeldrank> oh mja
+[12:36:16] <bReChThOu> 5 opeenvolgende klinkers, koekje voor de surrounder
+[12:36:16] <Dubbeldrank> care
+[12:36:28] <rawplayer> KOEKJES
+[12:36:33] <surrounder> wat nou care
+[12:36:42] <surrounder> Dubbeldrank is een troetelbeertje
+[12:36:51] <surrounder> STRAAL Dubbeldrank, STRAAL!
+[12:36:56] <Dubbeldrank> *STRAAL*
+[12:37:06] <Dubbeldrank> gele straal he
+[12:37:13] <surrounder> mgihihi
+[12:37:14] <Dubbeldrank> just saying
+[12:37:41] <surrounder> !zon in je bakkes--
+[12:37:44] <digiweed> surrounder: Karma for zon in je bakkes is now: -2
+[12:37:48] <rawplayer> !zon--
+[12:37:50] <digiweed> rawplayer: Karma for zon is now: 17
+[12:41:23] <t4rt4rus> dubbelstraal?
+[12:46:56] <surrounder> op naar de voedertrog
+[12:47:44] <mimic> GOEDEMORGEN ZONNESTRAALTJES \o/ \o/
+[12:53:44] <AlBundy> het is altijd mooi weer op mijn verjaardag \o/
+[12:53:50] <AlBundy> jammer dat ik binnen zit
+[12:54:06] <pompoensoep103> GODVERDOMME POMPOENSOEP
+[12:54:30] <Boots> Blaaaaa
+[12:56:09] <Boots> http://speld.nl/2015/05/12/hemelvaart-niet-te-zien-in-nederland/
+[12:56:11] <Boots> Ja oud
+[12:56:13] <digiweed> Title: Hemelvaart niet te zien in Nederland - De Speld (at speld.nl)
+[13:17:42] <Aim> mogguh o/
+[13:22:45] <surrounder> MIMIEKJE
+[13:22:49] * surrounder paast de mimic een mok koffie
+[13:23:51] <bReChThOu> Aim:  o//
+[13:38:20] <Aim> heey bReChThOu o/ :D
+[13:46:59] <Escovan> https://decorrespondent.nl/1066/Waarom-medicijnen-zo-duur-zijn/167975805998-92c69286
+[13:47:01] <digiweed> Title: Waarom medicijnen zo duur zijn (at decorrespondent.nl)
+[13:51:59] <Paranoid> vorige week ook een mooie fout gemaakt... Perongeluk DDR4 besteld terwijl ik DDR3 nodig was
+[13:52:11] <Paranoid> die prijzen verschillen al niet eens meer
+[13:52:19] <mimic> yay koffie
+[13:52:22] <mimic> bedankt surrounder <3
+[13:52:29] <surrounder> np homie
+[13:52:30] <surrounder> !koffie++
+[13:52:33] <digiweed> surrounder: Karma for koffie is now: 1789
+[13:53:57] *** Joins: BarthezZ (bart@monitoring.deheij-ict.nl)
+[13:55:55] <AlBundy> Escovan: ik snap ook niet waarom de farmaceutische industrie niet op non-profit basis werkt met complete openheid van onderzoeksgegevens, zodat men kan voortbouwen op bestaande kennis en men niet 100x hetzelfde wiel hoeft uit te vinden op een iets andere manier omdat er een patent in de weg zit
+[13:56:23] <AlBundy> Hippocrates draait zich om in z'n graf om de huidige staat van de gezondheidszorg 
+[13:56:30] <Paranoid> Ahhh capitalisme :D
+[13:56:43] <Escovan> Zeer goede reproductie van wat ik eerder uiteenzette ergens online (Alleen ik ben gek, dus toen ging nog niemand er op in)
+[13:56:59] <surrounder> Paranoid: :D:D:d;d:D:D:;xXDdXDDd;dX:D
+[13:57:11] <AlBundy> mja, elke arts legt een eed af dat je iemand helpt, ongeacht afkomst of rijkdom
+[13:57:39] <AlBundy> maar als je geen geld hebt of niet verzekerd bent, verbreekt men die eed zonder problemen
+[13:58:41] <Escovan> Dan nog iets: Ik krijg op jaarbasis 130% van de medicijnen die ik nodig heb. Gaat helemaal automatisch. Dus na 3 jaar kun je 2 patienten met mijn medicijnen verzorgen. De apotheek zit ook in de pharma-scandal.
+[14:00:11] <Escovan> 103% zou nog te verklaren zijn (feestdagen etc.) maar 130%?!
+[14:00:42] <pompoensoep103> 103%!
+[14:00:46] <bReChThOu> :D
+[14:01:06] <AlBundy> mja, je krijgt elke maand wat extra in het geval je wat verliest lijkt me?
+[14:01:55] <AlBundy> ik kreeg ook meer ritalin dan ik in een maand hoefde te slikken, had er wel een handeltje in kunnen opzetten
+[14:02:09] <Escovan> Hmja stel dat ze maanden van 28 dagen rekenen ... dan nog krijg ik vet teveel. Ik heb echt een maand terug ofzo gezegd: Jo, stop die tranquilizers maar een maandje, ik heb nog 3 dozen liggen.
+[14:04:54] <Escovan> over straathandel, die tranxène doet 2,00 per stuk op straat ... hmja, is zeker lucratief. Maar dan ben ik dealer.
+[14:06:15] <Escovan> en gezien mijn record, kan ik me daar beter verre van houden.
+[14:08:09] <AlBundy> ghehe
+[14:10:32] <AlBundy> ik zou me wel 100x bedenken voordat ik zulke troep in m'n mond zou stoppen, though
+[14:12:57] <Escovan> Ach, je kunt veel zeggen van Big-Pharma ... maar hun drugs zijn 100x zuiverder dan straatdrugs. Je gaat er niet echt dood aan.
+[14:13:11] <AlBundy> ik neem aan dat er een complementaire behandeling bij zit die als doel heeft de oorzaak te vinden, zodat je uiteindelijk van die medicijnen af bent
+[14:13:15] <Escovan> Maar ze zijn ook 100x verslavender
+[14:14:00] <AlBundy> mja, no way dat een dokter mij ooit een verslavend middel zou kunnen aanpraten
+[14:14:05] <PvOESJE> wat een onzin, natuurlijk ga je er wel dood aan als je niet goed oplet 
+[14:14:16] <PvOESJE> of het nou van de straat of de apotheker komt
+[14:15:04] <syf_> dat hangt helemaal van de ld50 af Escovan
+[14:15:11] <Escovan> De kans is heel klein bij farmaceutische drugs. Je levensduur verkort wel, maar de LD50 ligt veel hoger dan die van straatdrugs met weet ik veel wat er doorheen
+[14:15:30] <Boots> Er zijn ook nog dingen als combinaties
+[14:15:37] <Boots> En gewoon verkeerde meds krijgen in bepaalde conditie
+[14:15:45] <Boots> Boeit die LD50 echt niet
+[14:17:13] <AlBundy> http://tweakers.net/ext/f/5Rbqxwk8pEInQjdE0nGno76y/full.jpg
+[14:17:15] <AlBundy> there, i fixed it
+[14:17:48] <PvOESJE> nee die kans is helemaal niet kleiner.. als je streetdugs goed en veilig gebruikt zal het ook niet snel je dood zijn
+[14:18:16] <Boots> Ik zou eerder zeggen groter zelfs
+[14:18:22] <Escovan> oh rly ... zeg je tegen iemand die 2 jaar speed en crack heeft gebruikt.
+[14:18:23] <Boots> Want meer mensen die klant zijn bij pharma
+[14:18:30] <Boots> Ofzo maar ik heb geen bron
+[14:18:31] <Boots> :D
+[14:18:44] <syf_> of als je gewoon pech hebt he
+[14:18:55] <Boots> Ja nouja als het over kansen gaat..
+[14:19:10] <Boots> Haal dan de kansschatting e rniet bij
+[14:20:11] <PvOESJE> het issue is dat veilig en gedoseerd gebruik het verschil uit maakt niet waar je de drugs vandaan haalt
+[14:20:20] <PvOESJE> er zijn genoeg prescription drugs die heel snel je dood zijn
+[14:20:51] <Escovan> hmja Oxycodon, tramadol EN 14 bier op een dag, dan kon je wel eens niet meer wakker worden.
+[14:20:51] <bReChThOu> DONT DO DRUGS MJAY
+[14:21:00] <Escovan> Nog vrij verse ervaring
+[14:21:06] <Escovan> die is ook dood
+[14:21:23] <mimic> klinkt als een goed leven
+[14:21:28] <Boots> Wel kort
+[14:21:39] <mimic> saillant detail
+[14:21:48] <bReChThOu> voel je niks van
+[14:21:53] <Escovan> hmmm
+[14:22:10] <syf_> daar noem je ook wel wat, oxycodone
+[14:22:14] <Boots> ghehehe
+[14:22:47] <Boots> Lekker cocktailen met Escovan
+[14:24:35] <AlBundy> ghehe
+[14:24:43] <AlBundy> tramadol, 1x op, was wel nice
+[14:25:24] <Fermata> Tramadol is vetjes
+[14:25:27] <Fermata> Ook vandaag weer \o/
+[14:26:56] <Escovan> ik heb niets met opiaten: Heroïne Mweh, kutzooi, kotsen. Tramadol: Mweh, lame Codeïne: Mweh, helpt wel tegen het hoesten maar ik voel me lichaam niet goed ... etc.
+[14:27:51] <Escovan> Nee
+[14:28:02] <Escovan> Doe mij dan maar een lekkere Duvel Triple Hop ...
+[14:28:03] <WvdL> stelletje drug fanaten
+[14:28:10] <Escovan> Dan lijkt het nog leuk!
+[14:28:18] <WvdL> enige waar ik 'kennis' van het is een paracetemol
+[14:28:22] <WvdL> heb*
+[14:28:27] <Boots> lol
+[14:28:28] <Fermata> Ik moet wel aan de tramadol
+[14:28:35] <WvdL> tramadol = ?
+[14:28:44] <WvdL> onderdrukker van de Gay-gen? :D
+[14:28:50] <Boots> doet me altijd denken aan drugs order via voicemail van de huisarts
+[14:28:53] <Escovan> Niet iedereen gaat bij de De Jonge Onderzoekertjes :P
+[14:29:01] <Boots> he nomadz :>
+[14:29:03] <Fermata> WvdL: nee, tegen zenuwpijn uit de rug
+[14:29:09] <WvdL> ahh
+[14:29:24] *** Parts: Paranoid (Mibbit@mail.venture-group.nl) ()
+[14:29:28] <Boots> "naam, achternaam, geboortedatum, 10 paracetamol graag"
+[14:29:34] <PvOESJE> hahahahahahahaha
+[14:29:36] <PvOESJE> hahahahahahahaha\
+[14:29:49] <PvOESJE> ik weet dat nog wel :D 
+[14:30:19] <WvdL> een geval, had je bij moeten zijn? :[
+[14:30:30] <surrounder> :D:D:d;d:D:D:;xXDdXDDd;dX:D
+[14:30:41] <Boots> ja dat dacht ik wel pvoesje :D
+[14:30:52] <PvOESJE> is best lang geleden ook 2010 ofzo? 
+[14:30:56] <Boots> ja
+[14:31:06] <PvOESJE> toen we domperidon dealde
+[14:31:14] <Boots> hehehhe
+[14:31:37] <Boots> ik weet niet meer of ik die nou laatst weggemikt had of niet
+[14:31:41] <Boots> ver over datum
+[14:31:52] * Boots deed een medicijnkastschoonmaak
+[14:31:55] <PvOESJE> ik had het er laatst nog over met D3RPL3N3 
+[14:32:04] <Boots> Lol hoezo
+[14:32:14] <PvOESJE> oh over dat het zo lastig te regelen is
+[14:32:19] <PvOESJE> ookal vrij verkrijgbaar
+[14:32:22] <Boots> en dat stom is
+[14:32:31] <PvOESJE> en dat oxytocine spray er weer is
+[14:32:42] <Escovan> Maar conclusie: De apotheek is gewoon de beste dealer en vrij van strafvervolging.
+[14:32:47] <Boots> otc?
+[14:33:37] <PvOESJE> nee niet otc maar het was toen een tijd niet leverbaar
+[14:34:09] <Boots> oh
+[14:34:13] * Escovan krijgt trek van deze verhalen trouwens... beetje droogneuken...
+[14:34:23] <Boots> Altijd al eens uit willen proberen
+[14:34:40] <Boots> Ik vind wel otcvariant
+[14:34:41] <PvOESJE> ik zou het fixen dan 
+[14:35:00] <PvOESJE> welke dan? 
+[14:35:00] <Boots> Nu?
+[14:35:06] <PvOESJE> nee niet nu
+[14:35:12] <PvOESJE> voor later
+[14:35:16] <Boots> Een of ander merkloos ding zonder aanduiding
+[14:35:19] <koolaid> pompoensoep103: moeten we niet weer ns een uitsmijter bikken
+[14:35:26] <Boots> van concentratie enzo
+[14:36:15] <mimic> ik eet avocado
+[14:36:17] <Boots> dus ignore
+[14:36:22] <mimic> LEKKER JUNGE
+[14:36:40] <mimic> bakje koffie dr bij
+[14:36:43] <mimic> tuindeuren open
+[14:36:47] <mimic> proggelen maar :C
+[14:37:02] <PvOESJE> ik wacht op de dhl 
+[14:37:07] <PvOESJE> duurtlang
+[14:37:16] <Boots> Ik op PostNL
+[14:37:17] <mimic> wachten is altijd kut
+[14:37:21] <mimic> ik op geld
+[14:37:23] <mimic> :+
+[14:37:25] <Escovan> Ik wacht op het basisinkomen
+[14:37:26] <Boots> Die zouden tussen 12 en 14 komen
+[14:37:31] <Boots> Excuses voor de vertraging. Uw zending wordt zo snel mogelijk bezorgd.
+[14:37:32] *** Quits: koolaid (koolaid@84.241.199.60) (Ping timeout: 66 seconds)
+[14:37:44] <PvOESJE> bij mij tussen 14 en 18:00 maar het is uit duitsland en het was duur
+[14:37:55] <mimic> hehe
+[14:37:58] <PvOESJE> en dhl heeft er een handje van vol om kwijt te raken 
+[14:37:59] <mimic> ik haat wachten op pakjes
+[14:38:03] <mimic> ik word er onrustig van
+[14:38:09] <Boots> ja dhl is li
+[14:38:13] <mimic> bang dat ik de bel mis, etc
+[14:38:14] <Boots> ving on the edge
+[14:38:16] <PvOESJE> dus ik wil het heeeeel graag nu ontvangen, had eigenlijk een afspraak
+[14:38:28] <PvOESJE> maar goed ik blijf thuis wachten op dhl
+[14:38:31] <Boots> ja ik doe meestal ook aflevering bij postkantoor
+[14:38:40] <mimic> lol PvOESJE 
+[14:38:50] <PvOESJE> en dhl had ik zaterdag gemist, en dan krijg je een briefje met ander bezorgmoment
+[14:38:57] <PvOESJE> maar er waren geen andere momenten
+[14:39:04] <Boots> :')
+[14:39:33] <bReChThOu> ik laat ook allesl everen in de supermarkt
+[14:39:34] <bReChThOu> geen gezever
+[14:39:57] <Boots> Ja noja ik dacht toch thuis vandaag
+[14:40:05] <Boots> maar ja nu kan ik ook gewoon niet naar buiten
+[14:40:12] <Boots> even naar de supermarkt bijv
+[14:40:31] <Boots> ik ga maar ecen een cake bakken obdertussen
+[14:40:35] <PvOESJE> en hier in de buurt kan je het ook niet ophalen dhl. 
+[14:40:35] * Escovan is now listening to: Eels - Novocaine For The Soul
+[14:40:45] <Boots> oja at is kut
+[14:40:48] <PvOESJE> moet je naar purmerend of amsterdam
+[14:41:00] <Boots> ja ik had vermoeden dat pakje te groot gaat zijn
+[14:41:04] <Boots> al zal t wel weer meevallen
+[14:41:14] <Boots> ook wel keer uitgepaky bij postkantoor/supermarkt
+[14:41:24] <Boots> Hier gooi jij de verpakkingen even weg
+[14:41:24] <Boots> bD
+[14:41:26] <Boots> :D
+[14:41:34] <Boots> dan mik ik de inhoud in tas
+[14:41:37] <PvOESJE> hehehe ja dat is met wat ik ontvang ook weer lastig 
+[14:41:42] <PvOESJE> dat drop je niet zo in een tas :D 
+[14:41:52] <PvOESJE> als ik draagdoeken heb die niet nat mogen worden enzo
+[14:41:52] <Boots> wat is het wat is jet
+[14:41:54] <Fermata> !eels++
+[14:41:58] <digiweed> Fermata: Karma for eels is now: 1
+[14:41:58] <Boots> het
+[14:42:05] <Fermata> Escovan: goede smaak wel
+[14:42:10] <Boots> o zoiets
+[14:42:21] <PvOESJE> nou nu is het een draagdoek, maar ik weet niet of er goodies bij zitten. en die zakken mogen niet nat worden
+[14:42:38] <Boots> gewoon vragen of het even niet kan regenen
+[14:43:02] <syf_> zwaar leven
+[14:43:54] <WvdL> gewoon je vriendin/vriend de pakketjes laten aannemen :P
+[14:43:54] <PvOESJE> als ik straks verhuisdtdt ben dan voelt het echt als mega veel vrijheid
+[14:44:04] <PvOESJE> dat ik gewoon winkels heb
+[14:44:12] <PvOESJE> en dingen kan doen enzo
+[14:44:24] <WvdL> je woont nu @ middle fo nowhere?
+[14:44:28] <bReChThOu> welkom in de bewoonde wereld
+[14:44:29] <syf_> je zal maar 10 uur per dag moeten werken
+[14:44:43] <WvdL> 9,5 in mijn geval, syf :+
+[14:44:54] <syf_> nice
+[14:44:56] <syf_> !wvdl++
+[14:44:59] <digiweed> syf_: Karma for wvdl is now: 192
+[14:45:14] *** Joins: koolaid (koolaid@ip-213-127-118-32.ip.prioritytelecom.net)
+[14:45:33] <WvdL> en dat in 020 vandaag  /o\
+[14:45:35] * bReChThOu paast de koolaid een frisse pint
+[14:45:49] <koolaid> oh lekker
+[14:46:01] <koolaid> een weihenstephaner 1617 aub
+[14:46:15] <PvOESJE> ja ik woon nu ergens waar ze 1 supermarkt hebben
+[14:46:15] <bReChThOu> sorry heb enkel jupiler
+[14:46:25] <PvOESJE> en een bakker en slager 
+[14:46:33] <bReChThOu> meer eb je niet nodig:+
+[14:46:34] <koolaid> ook goed heb ik ook in de koelkast
+[14:46:35] <PvOESJE> een tijdschriften winkel waar kinderen niet in mogen
+[14:46:36] <bReChThOu> frituur
+[14:46:39] <bReChThOu> lol
+[14:46:49] <PvOESJE> en een sigarettenwinkel waar ze ook speelgoed verkopen
+[14:47:14] <PvOESJE> en als het toeristische seizoen er is dan is er wel meer open en langer
+[14:47:29] <AlBundy> in de hoop dat er toeristen komen?
+[14:47:32] <PvOESJE> maar dan wil je er niet heen want dan heb je 600 jappen die in de winkel staan
+[14:47:40] *** Quits: koolaid (koolaid@ip-213-127-118-32.ip.prioritytelecom.net) (Ping timeout: 67 seconds)
+[14:47:50] <PvOESJE> die komen er wel hoor, hele busladingen vol :D 
+[14:48:03] *** Joins: koolaid (koolaid@2a02:a212:280:1c00:9532:2cbb:23eb:4966)
+[14:48:25] <AlBundy> waar woon je?
+[14:48:55] <WvdL> vast vlakbij de zaanse schans
+[14:49:00] <WvdL> maduradam
+[14:49:09] <WvdL> of bloemenhof geval
+[14:49:09] <WvdL> :P
+[14:49:14] <AlBundy> is er ook zaanse schansspringen
+[14:49:15] <AlBundy> ?
+[14:49:43] <koolaid> fucking ziggo kut router
+[14:49:58] <Sling> koolaid \o
+[14:50:11] <koolaid> Sling: \o ouwe buurman
+[14:50:38] <PvOESJE> Marken ;) 
+[14:50:40] <pompoensoep103> WAT
+[14:51:00] <PvOESJE> en lol de keukenhof is niet in the middle of nowwhere :D 
+[14:51:15] <mimic> ik vind lisse aardig in the middle of nowhere
+[14:51:43] <AlBundy> keukenhof, dat lijkt me nou echt zo'n tourist trap
+[14:51:45] <bReChThOu> dat gevoel heb ik met brussel
+[14:51:47] <bReChThOu> :+
+[14:52:01] <syf_> ik ook wel
+[14:52:08] <WvdL> nee.. maar die jappen komen toch ergens voor, PvOESJE  :+
+[14:52:15] <WvdL> en je zegt dat er 4-5 winkeltjes zijn
+[14:52:16] <WvdL> :D
+[14:52:21] <PvOESJE> ja ik zei toch al
+[14:52:23] <PvOESJE> google marken
+[14:53:11] <WvdL> marken lijkt mij dan welw eer grappig
+[14:54:21] <WvdL> maar niet om er permanent te wonen ;[
+[14:55:50] <PvOESJE> je moet eerst 5 euro betalen om binnen te mogen en dan zie je water en huisjes en 2 boten
+[14:56:08] <PvOESJE> zelfs als je met de bus gaat moet je betalen om naar binnen te gaan 
+[14:56:42] <bReChThOu> klinkt als de lokale stoephoer
+[14:56:45] <bReChThOu> :+
+[14:57:38] <syf_> klinkt als toerisme
+[14:58:09] <syf_> dat zie je tattas ook doen in turkije enzo, busje in en naar iets stoms gaan in een of andere toeristen dorp
+[14:58:15] <syf_> niet dat ik daar ooit geweest ben
+[14:58:33] <syf_> !turkije--
+[14:58:35] <digiweed> syf_: Karma for turkije is now: -5
+[14:59:32] <bReChThOu> tourist traps ftw
+[15:00:03] <syf_> of dat je op zo een bootje gaat om dolfijnen te spotten
+[15:00:05] <syf_> _o-
+[15:01:24] <PvOESJE> ik ben zo blij dat ik straks gewoon meer dan 1 supermarkt heb
+[15:01:31] <PvOESJE> en dat ik kapsalon kan eten
+[15:09:15] <surrounder> syf_: beter dolfijnen spotten op youtube
+[15:09:30] <syf_> ja leuk
+[15:09:58] <surrounder> ja
+[15:26:07] <syf_> dus
+[15:26:45] <Fermata> Lekker boeiend, als iemand dat wil
+[15:28:33] <bReChThOu> lol surrounder
+[15:28:42] <bReChThOu> niks mis mee syf
+[15:28:48] <bReChThOu> ik heb in canada 8u op een zodiac gezeten
+[15:28:50] <bReChThOu> fucking awesome
+[15:29:26] <bReChThOu> http://eagleeyeadventures.com/bigboats/wp-content/uploads/2015/02/images-for-homepage-1.jpg
+[15:29:26] <bReChThOu> :+
+[15:33:54] <AlBundy> op de canarische eilanden is dat wel vet
+[15:34:11] <AlBundy> 1 hoekje van het eiland is tourist trap
+[15:34:20] <AlBundy> weet je gelijk waar je _niet_ moet zijn
+[15:34:39] <AlBundy> en de rest van het eiland heeft er geen last van 
+[15:35:22] <bReChThOu> WELK eiland
+[15:35:30] <AlBundy> oh lol, 'we' hebben Johnny de Mol geveild voor 1016 euro
+[15:36:05] <AlBundy> bReChThOu: lanzarote, tenerife, fuerteventura en gran canaria iig
+[15:43:16] <Dubbeldrank> geen last van gehad op Lanzarote
+[15:43:50] <syf_> ik ook niet! was heerlijk op t resort met mijn i <3 lanzarote shirtje en s'avonds de polonaise
+[15:43:55] <syf_> ge-wel-dig animatie team!
+[15:43:59] <Dubbeldrank> ...
+[15:44:03] <Dubbeldrank> arme jij
+[15:44:04] <bReChThOu> ban
+[15:44:08] <syf_> _o-
+[15:44:41] <Dubbeldrank> wij hadden een eigen huisje met zwembad, geen geouwehoer aan m'n hoofd
+[15:44:58] <syf_> lekker
+[15:45:22] <AlBundy> in Puerto del Carmen, of Playa Blanca?
+[15:45:27] <Dubbeldrank> playa blanca
+[15:45:31] <AlBundy> omg :(
+[15:45:33] <bReChThOu> :D
+[15:45:38] <syf_> och met een eigen huisje is t wel fijn
+[15:45:41] <AlBundy> dat stuk meed ik als de ziekte :p
+[15:46:01] <Dubbeldrank> nou, dat is juist een stuk van het eiland waar het toerisme nog niet zo erg is
+[15:46:10] <Dubbeldrank> meer naar boven wordt het alleen maar lelijker en beroerder
+[15:46:10] <AlBundy> puerto del carmen was wel geinig, behalve dat vrienden bestolen werden op het strand
+[15:46:16] <Dubbeldrank> ja leuk man
+[15:46:21] <Dubbeldrank> en het is ouwe zooi daar
+[15:46:32] <syf_> sowieso als je naar het 'echte spanje' wil, kan je beter niet naar de canarische eilanden gaan
+[15:46:41] <syf_> met een eigen huisje is t wel fijn
+[15:46:46] <AlBundy> mja, ik zat aan het oosten vh eiland
+[15:46:53] <AlBundy> in een dorpje van een paar honderd man
+[15:46:59] <Dubbeldrank> ja, als je naar het echte Nederland wil moet je ook niet naar de Antillen syf_
+[15:47:04] <syf_> idd
+[15:47:04] <bReChThOu> lol
+[15:47:08] <Dubbeldrank> dat is ongeveer dezelfde vergelijking
+[15:47:08] <bReChThOu> niet ?
+[15:47:21] <bReChThOu> ik vind antilianen toch echt iets typisch nederlands
+[15:47:26] <AlBundy> Canarische eilanden heeft veel meer raakvlak met Latijns Amerika
+[15:47:39] <bReChThOu> leugens
+[15:47:47] <syf_> Dubbeldrank: mja wij hebben niet echt van die kustenplaatsjes, maar het is een soortgelijke situatie in PT met de algarve, spanje met benidorm ed, etc
+[15:47:50] <AlBundy> ze gebruiken ook termen van daar
+[15:47:59] <AlBundy> Bus = Guagua, wat van Cuba komt
+[15:48:14] <AlBundy> carnaval op Tenerife is het grootste na Rio de Janeiro
+[15:48:16] <Dubbeldrank> ja, benidorm enzo, verschrikkelijk
+[15:48:24] <Dubbeldrank> we gaan nu naar Tenerife
+[15:48:25] <syf_> AlBundy: zo heeft amsterdam wel veel weg van amerika
+[15:48:32] <syf_> ik zie overal engels en hoor engelse termen namelijk
+[15:48:42] <AlBundy> ook de mentaliteit van de mensen :p
+[15:50:50] <syf_> Dubbeldrank: welke maand?
+[15:50:53] <syf_> ik heb nog geen vakantie opgenomen dit jaar :(
+[15:50:58] <Dubbeldrank> sptember
+[15:51:12] <AlBundy> anyway, op naar huis
+[15:51:42] <bReChThOu> jo
+[15:53:03] <SJ> nog een week of 5 \o/
+[15:53:36] <surrounder> nog een een dag en anderhalf uur
+[15:54:15] <SJ> ja, ook zoiets 
+[15:54:19] <SJ> lekker lang weekend 
+[15:54:24] <surrounder> anderhalve week vrij
+[15:54:26] <surrounder> bam
+[15:54:29] <SJ> lekker poortframe in elkaar schroeven 
+[15:54:45] <SJ> surrounder: lekkah :(
+[15:54:46] <SJ> :)
+[15:54:57] <surrounder> broodnodig ook
+[15:55:02] <surrounder> voordat er dode vallen
+[15:55:06] <SJ> ff bijkomen?
+[15:55:25] * bReChThOu paast de surrounder een lekker broodje
+[15:55:33] <surrounder> SJ: dat ja
+[15:55:35] <surrounder> bReChThOu: thanks homie
+[15:55:37] <syf_> Dubbeldrank: sowieso rustiger qua toerisme of niet in sept
+[15:55:40] <SJ> surrounder: :)
+[15:55:43] <syf_> in tenerife
+[15:55:55] <SJ> waar je ook heengaat 
+[15:56:12] <SJ> buiten het 'seizoen' is over het algemeen beter 
+[15:57:04] <SJ> tenzij je overspoeld wil worden door terroristjes van 1,20 cm hoog natuurlijk 
+[15:57:04] <Dubbeldrank> jup
+[15:57:10] <Dubbeldrank> geen jankende kinderen
+[15:57:14] <Dubbeldrank> HEER-LIJK
+[15:57:15] <SJ> dat! :P
+[15:57:22] <syf_> heerlijk
+[16:00:14] <bReChThOu> heb je wel storingsdienst dan surrounder?
+[16:04:12] <surrounder> bReChThOu: FU <3
+[16:05:28] <bReChThOu> :D
+[16:08:46] <syf_> met bReChThOu in #nerds hebben we elke dag storingsdienst
+[16:09:04] <Fermata> !kinderen--
+[16:09:06] <digiweed> Fermata: Karma for kinderen is now: -41
+[16:10:55] <WvdL> !syf++
+[16:10:57] <digiweed> WvdL: Karma for syf is now: 373
+[16:27:25] *** Joins: Guyver2 (Guyver2@guyver2.xs4all.nl)
+[16:30:18] *** Joins: NBS (NBS4@ip5657cc38.direct-adsl.nl)
+[16:34:10] <surrounder> jullie ook al zo'n zin in pils?
+[16:37:33] <syf_> ja
+[16:37:43] <syf_> wel met VEEL HOPS
+[16:38:05] <surrounder> hopsakee
+[16:38:54] <WvdL> nee geen zin in
+[16:39:07] <WvdL> als surrounder  het neemt, hoef ik het niet
+[16:39:18] <WvdL> *stampvoet*  
+[16:39:38] <surrounder> wat ben je toch ook een guitig mannetje
+[16:42:04] <Sling> guitig en grimmig
+[16:42:07] <Sling> en groezelig
+[16:42:17] <surrounder> Slinger! \o/
+[16:42:42] <Sling> hola
+[16:42:42] <rawplayer> salamiworst
+[16:42:43] <rawplayer> \o/
+[16:42:47] <Sling> wat
+[16:43:00] <SJ> http://www.dumpert.nl/mediabase/6763067/a0c58250/met_zulke_vrienden_heb_je_geen_vijanden_nodig.html
+[16:43:03] <SJ> euh
+[16:43:08] <digiweed> Title: dumpert.nl - Met zulke vrienden heb je geen vijanden nodig (at www.dumpert.nl)
+[16:43:15] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[16:43:45] <surrounder> rawplayer: of je worst lust
+[16:45:41] <wirky> met vellen
+[17:04:58] <WvdL> a4 vellen ?
+[17:05:14] <surrounder> gekke willem!
+[17:22:14] <WvdL> sexy timo!
+[17:23:10] <rawplayer> pompoensoep103: https://media.licdn.com/media-proxy/ext?w=531&h=400&f=n&hash=MhVZqzOLTDn33LXnLzy9GfkzB3s%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWjoeJPccebwp0BCcCsCjQA6fe-1EmHoRI7qforueN5z3p60LJn5aRUPbhU4hGUB5sE-Pg
+[17:24:07] <pompoensoep103> hehe
+[17:24:09] <pompoensoep103> EINDELIJK
+[17:24:11] <pompoensoep103> het droogt op
+[17:24:24] <pompoensoep103> zie de armoe: http://cheesylinkedin.tumblr.com
+[17:24:27] <digiweed> Title: Cheesy Linkedin (at cheesylinkedin.tumblr.com)
+[18:06:24] <PvOESJE> nou pfffff echt last minute kwam het pakketje binnen..
+[18:06:34] <PvOESJE> vlak voor de tijd voorbij was :') 
+[18:06:47] *** Quits: welly7 (willy@ip503c7f23.speed.planet.nl) (Ping timeout: 61 seconds)
+[18:06:48] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Ping timeout: 68 seconds)
+[18:07:33] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[18:07:51] *** Joins: welly7 (willy@ip503c7f23.speed.planet.nl)
+[18:08:29] <Fermata> !havermout++
+[18:08:31] <digiweed> Fermata: Karma for havermout is now: 108
+[18:31:54] *** Joins: SCHAPiE (dorian@dhcp-077-249-247-124.chello.nl)
+[18:36:09] *** Joins: Metalfrost (Metalfrost@46.166.188.224)
+[18:36:17] <Metalfrost> hallon
+[18:36:19] <Metalfrost> http://imgur.com/gallery/UYNqqCv  haha
+[18:36:21] <digiweed> Title: Oh sweet, sweet child - Imgur (at imgur.com)
+[18:36:27] <SCHAPiE> goeiemiddag
+[18:36:28] <pompoensoep103> METALI
+[18:38:36] <Metalfrost> dach liefu mensu
+[18:39:29] <pompoensoep103> hoestnou, metalie?
+[18:39:41] *** Quits: koolaid (koolaid@2a02:a212:280:1c00:9532:2cbb:23eb:4966) (Client exited)
+[18:46:38] <syf_> ik laat pakketjes gewoon op mijn werk afleveren, lekker makkelijk, zou je ook moeten doen !
+[18:46:45] <syf_> Metalfrost o/
+[18:47:03] <Metalfrost> syfus \o
+[18:47:13] <Metalfrost> jagoedman, met jou tilde?
+[18:48:19] <Metalfrost> 103.
+[18:48:20] <Metalfrost> w/e
+[18:50:53] <syf_> man man man
+[18:54:05] <the_Ye-Ti> werk?
+[18:56:21] <Fermata> https://trustfoundry.net/reverse-engineering-a-discovered-atm-skimmer/
+[18:58:01] <Escovan> http://nos.nl/artikel/2102749-apothekers-willen-maatregelen-tegen-schofterige-praktijken-farmaceuten.html
+[18:58:04] <digiweed> Title: Apothekers willen maatregelen tegen schofterige praktijken farmaceuten | NOS (at nos.nl)
+[18:58:28] <Escovan> krijg ik weer trek... dexamfetamine is the bomb gek ... :P hyperfocus in je console
+[18:58:44] <wirky> xtc bedoel j
+[18:58:56] <Escovan> nee man, dan denk je niet meer normaal
+[18:59:10] <Escovan> ga je je leuter in de usb-poort steken enzo
+[18:59:49] <SCHAPiE> lol
+[19:00:05] <SCHAPiE> je had in de 90's ook zo'n drivebay systeem toch
+[19:00:09] <SCHAPiE> hoe heet 'ie ook al weer
+[19:00:30] <Escovan> fupmefupyou ofzo
+[19:01:00] <syf_> Escovan: en zo goed zijn die apothekers ook helemaal niet
+[19:01:14] <SCHAPiE> http://i.imgur.com/wfP1jLM.png
+[19:01:15] <SCHAPiE> deze
+[19:01:16] <syf_> hoezo kan je hier geen sudafed krijgen bijv
+[19:04:29] <wirky> https://www.farmaline.be/apotheek/bestellen/vasocedine-pseudoefedrine-6-tabletten/
+[19:04:33] <digiweed> Title: Vasocedine Pseudoefedrine 6 tabletten online bestellen. (at www.farmaline.be)
+[19:06:26] <Escovan> hmmm lekker crystel meth maken met wirky 
+[19:07:11] <Escovan> [/breakingbad]
+[19:17:39] <syf_> lekker
+[19:19:17] <syf_> https://github.com/google/xi-editor xiiiiii
+[19:19:19] <syf_> \m/
+[19:19:19] <digiweed> Title: GitHub - google/xi-editor: A modern editor with a backend written in Rust. (at github.com)
+[19:21:38] <the_Ye-Ti> Craig Wright publicly claimed to be Satoshi Nakamoto!
+[19:22:47] <syf_> ja lol
+[19:24:09] <the_Ye-Ti> van die kluchten
+[19:25:58] <syf_> "This is not an official Google product (experimental or otherwise), it is just code that happens to be owned by Google"
+[19:27:38] <pompoensoep103> https://github.com/zyedidia/micro
+[19:27:41] <pompoensoep103> 2016
+[19:27:43] <digiweed> Title: GitHub - zyedidia/micro: A modern and intuitive terminal-based text editor (at github.com)
+[19:27:54] <pompoensoep103> het jaar waarin ctrl-c, ctrl-v en ctrl-s gewoon werken
+[19:28:16] <syf_> ah ja die zag ik ook voorbij komne
+[19:28:37] <pompoensoep103> ik denk dat 2016 ook wel eens het jaar kan worden waarin we vanuit een terminal kunnen copypasten
+[19:29:00] <syf_> of waar je muis degelijk werkt
+[19:29:05] <pompoensoep103> of!
+[19:29:11] <pompoensoep103> rapapapaudio!
+[19:29:40] <syf_> yes
+[19:30:05] <pompoensoep103> wat een jaar, wat een jaar!
+[19:30:06] <pompoensoep103> nu al
+[19:30:09] <pompoensoep103> #zinin
+[19:31:57] *** Quits: NBS (NBS4@ip5657cc38.direct-adsl.nl) (Ping timeout: 67 seconds)
+[19:38:22] <syf_> dat micro is niet eens zo een slechte editor
+[19:38:34] <syf_> colorschemes, syntax highlighting
+[19:38:43] <pompoensoep103> en!
+[19:38:47] <pompoensoep103> !go++
+[19:38:50] <digiweed> pompoensoep103: Karma for go is now: 421
+[19:42:16] <syf_> idd
+[19:43:49] <syf_> geen autocomplete helaas
+[19:44:02] <pompoensoep103> je kan gewoon een PR doen
+[19:44:53] <pompoensoep103> https://github.com/zyedidia/micro/pulls
+[19:44:55] <digiweed> Title: Pull Requests · zyedidia/micro · GitHub (at github.com)
+[19:45:57] <syf_> ja weet je wat ik ook kan doen?
+[19:46:07] <syf_> niets
+[19:46:11] <syf_> en klagen
+[19:46:12] <syf_> o/
+[19:46:30] <pompoensoep103> #zinin
+[19:46:33] <syf_> mgoed volgens mij niet zo heel complex om toe te voegen als je gewoon gocode gebruikt
+[19:46:59] <syf_> hoef je alleen het interface deel in micro te doen
+[19:47:15] <syf_> mss met ctrl-k ofzo
+[19:53:46] <syf_> http://www.dailymail.co.uk/news/article-3568590/Hundreds-wishers-help-donate-2-000-white-waitress-refused-tip-racist-Oxford-student-bragged-online.html
+[19:53:50] <digiweed> Title: Oxford student Ntokozo Qwabe refused tip leading hundreds to donate £2k to white waitress | Daily Mail Online (at www.dailymail.co.uk)
+[19:53:58] <syf_> Ntokozo Qwabe bragged online that they had made her cry ‘typical white tears’, leaving him ‘unable to stop smiling because something so black and wonderful had happened’
+[20:01:45] *** Quits: WvdL (uid21241@id-21241.ealing.irccloud.com) (Exit)
+[20:16:14] *** Joins: koolaid (koolaid@ip-213-127-118-32.ip.prioritytelecom.net)
+[20:18:03] *** Quits: koolaid (koolaid@ip-213-127-118-32.ip.prioritytelecom.net) (Ping timeout: 67 seconds)
+[20:29:52] <bReChThOu> zeg surrounder
+[20:29:54] <bReChThOu> https://www.facebook.com/lifeinvadr/videos/1726928504220329/
+[20:29:57] <bReChThOu> stop daar eens mee
+[20:29:57] <digiweed> Title: Reacties (at www.facebook.com)
+[20:30:15] <BarthezZ> bReChThOu O+ 
+[20:30:23] <bReChThOu> bartjeuh :D
+[20:30:33] <BarthezZ> ik was nog in jouw land van het weekend :o
+[20:30:46] <bReChThOu> omg
+[20:30:49] <bReChThOu> ik ook
+[20:31:15] <BarthezZ> geil
+[20:31:18] <BarthezZ> batsen?
+[20:31:33] * BarthezZ ontkleed rawplayer
+[20:33:43] <Escovan> http://www.npo.nl/live/npo-1
+[20:33:44] <bReChThOu> pics
+[20:33:49] <digiweed> Title: NPO 1 - Live tv (at www.npo.nl)
+[20:34:02] <Escovan> NU NU NU kijken kijken kijken, over Anti depressiva
+[20:34:35] <Escovan> ¨Als iemand losser wordt van alcohol, betekent dat niet dat hij altijd alcohol nodig heeft¨ etc. 
+[20:35:52] <BarthezZ> Escovan het gaat nu over verpakkingen van eten oO 
+[20:36:15] <Escovan> nee, anti depressiva en het zogenaamde serotonine tekort ...
+[20:36:41] <Escovan> ik heb de littekens nog op mijn armen van de 7 verschillende AD meds die ik heb gehad.
+[20:37:17] <Escovan> ja, eerst BS item
+[20:37:20] <Escovan> maar komt zo
+[20:38:07] <Boots> !ad--
+[20:38:10] <digiweed> Boots: Karma for ad is now: -3
+[20:41:04] <BarthezZ> duurtlang Escovan
+[20:41:10] <BarthezZ> ik heb nu al 3x gehoord over de radar op 
+[20:41:10] <BarthezZ> app* 
+[20:41:49] <Escovan> Ja, nu gaat het eindelijk over het item dat ik bedoelde...
+[20:43:06] <BarthezZ> ghehe
+[20:43:11] <BarthezZ> voelde jij ook niks meer? 
+[20:43:15] <Escovan> tjezus, AD bij Rouwproces ... dat staat zelfs in de boeken dat het niet moet.
+[20:44:21] <Escovan> BarthezZ, ik zat zo erg in mijn hoofd, dat ik liever lichamelijke pijn had. En toen heb ik mezelf 3x helemaal opengesneden *yeaj Efexor*
+[20:45:13] <BarthezZ> goed spul :X blij dat 't beter is nu:) 
+[20:47:13] <syf_> Escovan: nothx
+[20:47:21] <syf_> tv onzin
+[20:47:29] <syf_> beter lees je een boek
+[20:48:15] <syf_> big pharma zit je wel hoog he
+[20:48:25] <Escovan> ¨en die bijwerkingen staan al jaren in de bijsluiter¨
+[20:48:48] <Boots> De zorg is kut. Klaar punt uit slotje.
+[20:48:50] <Escovan> ja syf_ ... tuurlijk, het heeft mij schade toegebracht
+[20:49:07] <Boots> Ik denk dat de schade er al eerder was dan de pharma
+[20:49:22] <Boots> Maar dat slechts een uiting van de eerdere schade was
+[20:49:22] *** Joins: koolaid (koolaid@2a02:a212:280:1c00:9532:2cbb:23eb:4966)
+[20:49:27] <Escovan> denk maar lekker
+[20:49:38] <Boots> Doe ook eens dan
+[20:50:04] <Escovan> ik ben nu ook vaak neerslachtig, maar dan deal ik daar mee ... pilletjes helpen niet!
+[20:50:05] <pompoensoep103> mensen!
+[20:50:16] <pompoensoep103> altijd blijven lachen
+[20:50:21] <Boots> Onzin pompoensoep103 
+[20:50:29] <syf_> volgens mij zijn er zat mensen hier die ook medicijnen gebruiken/hebben gebruikt etc
+[20:50:51] <Boots> Ups hebben geen betekenis zonder downs
+[20:50:57] <Boots> Ja en syf_ ?
+[20:51:29] <syf_> die hoor je niet heh
+[20:51:49] <Boots> Ja maar wat is je punt
+[20:53:16] <syf_> dat hij professionele hulp moet zoeken ofzo
+[20:53:35] <pompoensoep103> ik geloof dat hij dat al 7x gedaan heeft
+[20:55:02] <syf_> mgoed
+[20:55:04] <syf_> !sfeer
+[20:55:06] <digiweed> syf_: "sfeer" : (#1) de sfeer op dit moment is: goed, or (#2) girmig
+[20:55:30] <pompoensoep103> zeg syf_ 
+[20:55:35] <pompoensoep103> geniet jij wel eens van dingen?
+[20:55:40] <pompoensoep103> dat je echt denkt: LEKKER!
+[20:55:51] <syf_> zeker
+[20:55:58] <pompoensoep103> bijv als je ctrl-s kan doen in een editor in een terminal
+[20:56:00] <Escovan> Ik ben OK, ik had dit gereffered aan een vriendin die net d´r dochter aan de AD had laten helpen...
+[20:56:19] <syf_> nou ..
+[20:56:33] <pompoensoep103> ik ben altijd in de overtuiging dat AD overbodig zijn en dat mensen gewoon goed moeten slapen
+[20:56:36] <pompoensoep103> maar das geheel persoonlijk
+[20:56:36] <syf_> het is wel een mooie editor
+[20:56:41] <syf_> maar ik vind het lastig om met vim te stoppen
+[20:56:47] <pompoensoep103> dat was het eerste wat mijn huisarts me vroeg
+[20:56:51] <pompoensoep103> "geniet u nog wel van dingen?"
+[20:56:57] <pompoensoep103> "misschien moeten we aan wat AD denken"
+[20:57:20] <pompoensoep103> stel je voor
+[20:57:24] <pompoensoep103> dat ik idd aan de AD was gegaan
+[20:57:30] <pompoensoep103> now you have 2 problems
+[20:58:04] <Escovan> om nog maar te zwijgen over de afkickverschijnselen van die meuk - die zogenaamd er niet zijn
+[20:58:13] <Fermata> https://sneakerdistrict.nl/shop/nike/heritage-gymsack-kiss-my-airs-black -- ;D
+[20:58:15] <digiweed> Title: Nike Heritage Gymsack Kiss my Airs Black - BZ9746-011 (at sneakerdistrict.nl)
+[20:58:22] *** Quits: Ou-Tannu (Ou-Tannu@5249248B.cm-4-2a.dynamic.ziggo.nl) (Ping timeout: 61 seconds)
+[20:58:46] <syf_> Fermata: lol
+[20:59:47] *** Joins: Ou-Tannu (Ou-Tannu@5249248B.cm-4-2a.dynamic.ziggo.nl)
+[21:00:45] <syf_> heh wel wat coole nb's op die site
+[21:01:46] <Fermata> En!  https://sneakerdistrict.nl/shop/nike/air-max-90-ultra-essential-infrared-white-coolgrey
+[21:01:49] <digiweed> Title: Nike Air Max 90 Ultra Essential OG Infrared White/ CoolGrey - 819474-106 (at sneakerdistrict.nl)
+[21:02:28] <syf_> alleen wel jammer dat je alleen een plaatje krijgt en geen informatie over materialen oid
+[21:03:01] <syf_> heh oldschool
+[21:04:13] <Fermata> Ja.
+[21:04:17] <Fermata> Ik heb er al twee paar van.
+[21:04:24] <Fermata> Eentje in gebruik en de ander om weer te verkopen.
+[21:04:35] <Fermata> Binnenkort staakt de productie 
+[21:06:36] *** Quits: Ou-Tannu (Ou-Tannu@5249248B.cm-4-2a.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[21:06:53] <Aim> avond o/
+[21:07:22] <Fermata> Ha Aim
+[21:07:37] <Aim> hey Fermata :)
+[21:07:42] <rawplayer> hoi
+[21:07:50] <Aim> rawplayer o/
+[21:07:53] <rawplayer> o/
+[21:08:35] <syf_> aim o/
+[21:08:37] <syf_> rawp o/
+[21:08:48] <Aim> syf_ o/
+[21:09:57] <rawplayer> syf_ o/
+[21:10:27] <Aim> kheb zin in bier
+[21:10:31] *** Joins: NBS (NBS4@ip5657cc38.direct-adsl.nl)
+[21:10:33] * Aim deelt wat bier uit 
+[21:12:00] *** Joins: Ou-Tannu (Ou-Tannu@5249248B.cm-4-2a.dynamic.ziggo.nl)
+[21:18:23] *** Quits: Mrwazig (mrwazoo@h102136.upc-h.chello.nl) (Connection reset by peer)
+[21:19:36] <syf_> lekker bier met hops
+[21:19:48] <syf_> !aim++
+[21:19:50] <digiweed> syf_: Karma for aim is now: 79
+[21:20:01] <Aim> noms 
+[21:20:06] *** Quits: koolaid (koolaid@2a02:a212:280:1c00:9532:2cbb:23eb:4966) (Ping timeout: 60 seconds)
+[21:20:43] *** Joins: koolaid (koolaid@2a02:a212:280:1c00:d1aa:d0f0:1774:f414)
+[21:23:08] <the_Ye-Ti> wb koolaid 
+[21:32:45] *** Joins: Bitage (Bitage@82-171-45-9.ip.telfort.nl)
+[21:40:19] *** Joins: NBS2 (NBS4@ip5657cc38.direct-adsl.nl)
+[21:40:44] *** Quits: NBS (NBS4@ip5657cc38.direct-adsl.nl) (Ping timeout: 66 seconds)
+[21:41:42] *** Quits: NBS2 (NBS4@ip5657cc38.direct-adsl.nl) (Exit)
+[21:41:48] *** Joins: NBS2 (NBS4@ip5657cc38.direct-adsl.nl)
+[21:44:00] <Boots> http://i.imgur.com/1zYm5QN.gif
+[21:44:02] <Boots> :D
+[21:44:03] *** Quits: koolaid (koolaid@2a02:a212:280:1c00:d1aa:d0f0:1774:f414) (Ping timeout: 61 seconds)
+[21:44:51] *** Joins: koolaid (koolaid@2a02:a212:280:1c00:9505:4445:601:d8d1)
+[21:46:54] <the_Ye-Ti> reverse muffin monster!
+[21:47:14] <Boots> Machine that makes everything!
+[21:47:35] <Boots> Lol ik kan aangeven dat ik pakketje bij afleverpunt van dhl wil ophalen
+[21:47:38] <Boots> enige optie Zwolle
+[21:47:51] <pompoensoep103> !dhl--
+[21:47:54] <digiweed> pompoensoep103: Karma for dhl is now: -10
+[21:48:24] <Boots> Heb wel tijdvak aan kunnen geven
+[21:48:28] <Boots> En datum
+[21:53:45] <the_Ye-Ti> wat ons brengt bij de onzekerheidsrelatie van Heisenberg
+[21:54:27] *** Joins: Dhvagra (Quinten@2001:41d0:b:550:6667:0:0:16)
+[21:56:07] <the_Ye-Ti> moeilijk publiek
+[21:56:54] <pompoensoep103> we snappen 'm hoor
+[21:57:36] <the_Ye-Ti> t is een begin
+[22:02:02] <Metalfrost> ik snap het niet
+[22:02:04] <Metalfrost> leg uit gek
+[22:02:19] <Metalfrost> paracetamol met alcohol is dat een goeie combi?
+[22:02:27] <pompoensoep103> sure
+[22:02:32] <pompoensoep103> waarom vraag je dat?
+[22:02:33] <the_Ye-Ti> \o m/f 
+[22:04:07] <Metalfrost> dunno heb wel zin in een glaasje rum oid
+[22:04:20] <pompoensoep103> is alcohol een goede combi?
+[22:04:21] <Metalfrost> maar vergat dat ik paracetamol had genomen
+[22:04:24] <Metalfrost> vanwege kiespijn
+[22:04:39] <pompoensoep103> alles met mate
+[22:11:30] <the_Ye-Ti> schiet de soep al op?
+[22:11:52] <pompoensoep103> reeds op
+[22:12:25] <SCHAPiE> horizon.tv er bij jullie ook uit?
+[22:12:31] <SCHAPiE> 504 gateway timeout?
+[22:12:32] <pompoensoep103> wasdah?
+[22:13:11] <SCHAPiE> zo'n hoe heet het
+[22:13:16] <SCHAPiE> website
+[22:13:27] <the_Ye-Ti> downforeveryoneorjustme.com/horizon.tv
+[22:13:46] <the_Ye-Ti> ofzo
+[22:13:51] <SCHAPiE> interessant
+[22:14:03] <pompoensoep103> matig esite
+[22:14:05] <pompoensoep103> Sorry, vanwege auteursrechtelijke beperkingen kan de site niet worden bekeken vanuit het land waarin u zich nu bevindt. Klik op de link hieronder om naar de site van Nederland te gaan.
+[22:16:11] <Metalfrost> gwn vpn pakken en via ander land.
+[22:16:19] <Metalfrost> stiekum
+[22:17:48] <pompoensoep103> tihi
+[22:18:07] * bReChThOu slaps pompoensoep103 around a bit with a large trout
+[22:18:36] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Exit)
+[22:18:53] <Boots> Describe your first time with a gif... https://imgur.com/gallery/nFJRr
+[22:18:56] <digiweed> Title: Describe your first time with a gif... - Album on Imgur (at imgur.com)
+[22:19:01] <Boots> :D
+[22:21:36] <mimic> https://scontent-amt2-1.xx.fbcdn.net/hphotos-xlt1/t31.0-8/13119834_1141123732587511_7936504115141474480_o.jpg
+[22:21:42] <mimic> dat was fijn
+[22:21:44] <mimic> :Y)
+[22:22:03] <Metalfrost> ooh nice
+[22:22:54] <Boots> Teentjes afgesvhroeid?
+[22:23:03] <Boots> Schimpie dood
+[22:23:12] <Metalfrost> aww
+[22:26:34] <Metalfrost> stel    er is my.vodafone.nl   wat is het woord voor ´my´ in die context?
+[22:26:43] <Metalfrost> wat is ´my´ van vodafone dan?
+[22:26:56] <Metalfrost> vodafone.nl *
+[22:27:12] <mimic> mijn
+[22:27:25] <Metalfrost> ja heer mimique
+[22:27:42] <mimic> nu moet ik lang douchen
+[22:27:46] <mimic> ik ruik naar een bosbrand
+[22:27:47] <Metalfrost> heet dat dan een subgroep?
+[22:27:53] <Metalfrost> of minisite?
+[22:28:01] <mimic> subdomein
+[22:28:10] <Metalfrost> ah oke
+[22:28:11] <Metalfrost> thanks.
+[22:28:14] <mimic> np 
+[22:28:25] <Fermata> Fijn, zo'n mimic.
+[22:28:54] <mimic> selectief fijn
+[22:29:42] <Metalfrost> mimic vaker een fikje laten stoken en aanspreken met een leuke titel doet wonderen in zijn gedrag
+[22:31:01] <Metalfrost> heb ik het nu verprutst?
+[22:31:20] <mimic> https://i.imgur.com/92y3uh4.gif
+[22:33:21] <mimic> het is GoT-tijd
+[22:36:14] *** Quits: grid (grid@dhcp-089-099-194-232.chello.nl) (Ping timeout: 66 seconds)
+[22:38:57] <Metalfrost> alweer?
+[22:39:05] <Metalfrost> vanochtend om 6 uur al.
+[22:39:18] <mimic> sommige mensen doen meer met hun leven :+
+[22:39:29] <Metalfrost> ja dat is wel duidelijk.
+[22:40:12] <Fermata> Ja, fikkie stoken met andere mensen.
+[22:40:19] <mimic> yep :9
+[22:40:38] <Metalfrost> heb je die tweede van links nog geneukt, mimic?
+[22:42:51] <mimic> 3e van links wel
+[22:43:30] <Fermata> nn
+[22:43:54] <mimic> nn pik
+[22:49:30] *** Quits: NBS2 (NBS4@ip5657cc38.direct-adsl.nl) (Exit)
+[23:09:21] <Metalfrost> de 3de van links lijkt helemaal nietop een vrouwmens
+[23:09:32] <Metalfrost> is dat het wel?
+[23:09:33] <Metalfrost> mimic?
+[23:12:30] <mimic> dat is het meest lekkere wijf van alle 3 ;)
+[23:16:38] <Metalfrost> je hebt het maar weer goed voor elkaar, mimic
+[23:21:33] *** Joins: grid (grid@dhcp-089-099-194-232.chello.nl)
+[23:35:17] <Boots> gay

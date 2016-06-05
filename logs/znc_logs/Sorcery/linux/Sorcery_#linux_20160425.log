@@ -1,0 +1,24 @@
+[02:47:29] *** Awaythysius is now known as Ahecaur
+[11:03:24] * Ikarus runs the swiss chainsaw through some funky datasets 
+[12:12:44] *** Quits: sheenobu (sheenobu@sorcery-jsddm4.hs.gigamonster.net) (Ping timeout: 121 seconds)
+[12:27:57] *** Joins: sheenobu (sheenobu@sorcery-jsddm4.hs.gigamonster.net)
+[12:38:19] *** Joins: Cammy (Cammy@sorcery-o73o0f.fios.verizon.net)
+[12:38:25] * Cammy shakes ST
+[12:38:59] <Cammy> has anyone else here found ubuntu 16.04 to be unusable, or just me?
+[12:40:20] *** Ahecaur is now known as Awaythysius
+[13:20:21] *** Quits: sheenobu (sheenobu@sorcery-jsddm4.hs.gigamonster.net) (Ping timeout: 121 seconds)
+[13:20:33] *** Joins: sheenobu (sheenobu@sorcery-jsddm4.hs.gigamonster.net)
+[14:03:10] *** Parts: Cammy (Cammy@sorcery-o73o0f.fios.verizon.net) ()
+[15:52:34] <StarThorn> Ooops.  Missed Cammy.
+[15:52:45] * StarThorn has actually been having pretty good luck with Ubuntu 16.04.
+[15:53:28] <Karolis> :o
+[15:53:44] <Karolis> Once again?
+[15:54:13] <Karolis> My Ubuntu 15.04 reports error every boot
+[15:59:20] <StarThorn> What error?
+[15:59:47] <StarThorn> I updated a 15.10 laptop to 16.04, and a server that was a release or two behind.  Both over the weekend.
+[16:00:47] <StarThorn> The server had a few quirks, not all packages got upgraded under do-release-upgrade.  A follow-up aptitude full-upgrade finished it out fine, though.
+[16:39:29] <Karolis> Well, I will tell you when I am home
+[22:51:21] *** Joins: RandomX45 (random@sorcery-r32.hvn.81.73.IP)
+[22:51:27] *** RandomX45 is now known as Sein
+[23:13:13] * StarThorn groans.
+[23:13:38] <StarThorn> I think I'm going to have to write a Big Brother extension module.  Ugh.

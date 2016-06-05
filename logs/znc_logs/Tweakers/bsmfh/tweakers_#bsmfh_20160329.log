@@ -1,0 +1,37 @@
+[03:24:19] *** Quits: DinX (DinX___@ptr-2hj4tblnzznafgmncii5uu9oy.ip6.access.telenet.be) (Ping timeout: 60 seconds)
+[04:00:41] *** Joins: DinX (DinX___@d54C120B6.access.telenet.be)
+[07:26:02] *** Quits: DinX (DinX___@d54C120B6.access.telenet.be) (Exit)
+[08:55:33] *** Joins: DinX_Werk (DinX@out.helics.leuven.be)
+[09:00:52] *** Quits: DinX_Werk (DinX@out.helics.leuven.be) (Input/output error)
+[09:01:03] *** Joins: DinX_Werk (DinX@out.helics.leuven.be)
+[09:17:39] *** Joins: tbosua (tbosua@office.hostnetbv.nl)
+[09:27:12] *** Joins: kees (kees@kees.tweakers.net)
+[09:51:25] *** Joins: McM (mcm@92-111-73-130.static.chello.nl)
+[10:57:42] *** Quits: McM (mcm@92-111-73-130.static.chello.nl) (Ping timeout: 68 seconds)
+[12:39:22] *** Joins: McM (mcm@89.200.89.240)
+[12:40:35] *** Quits: McM (mcm@89.200.89.240) (Ping timeout: 67 seconds)
+[12:44:53] *** Joins: McM (mcm@89.200.89.240)
+[12:46:41] *** Quits: McM (mcm@89.200.89.240) (Ping timeout: 66 seconds)
+[12:54:28] *** Joins: McM (mcm@89.200.89.240)
+[13:09:08] *** Quits: McM (mcm@89.200.89.240) (Ping timeout: 66 seconds)
+[13:24:53] <kees> altijd leuk, ipv6 gezeur... http://www.redable.nl/
+[13:25:28] <kees> (die site werkt prima op ipv4, en niet op ipv6 terwijl hij wel een AAAA record heeft)
+[13:43:40] <Escovan> Tis een complot van de ISP´s om IPv6 goed uit te rollen, om zo te profiteren van de hoge prijs van IPv4 adressen.
+[13:43:50] <Escovan> +niet
+[13:59:11] <AlBundy> Tis een complot van de ISP?s om IPv6 goed uit te rollen, om zo niet te profiteren van de hoge prijs van IPv4 adressen.
+[13:59:13] <AlBundy> ?
+[15:24:16] *** Quits: DinX_Werk (DinX@out.helics.leuven.be) (Input/output error)
+[15:48:50] *** Quits: kees (kees@kees.tweakers.net) (Input/output error)
+[17:28:46] *** Quits: tbosua (tbosua@office.hostnetbv.nl) (Exit)
+[17:41:05] *** Joins: DinX (DinX___@ptr-2hj4tblnzznafgmncii5uu9oy.ip6.access.telenet.be)
+[17:50:06] *** Quits: DinX (DinX___@ptr-2hj4tblnzznafgmncii5uu9oy.ip6.access.telenet.be) (Connection reset by peer)
+[17:50:15] *** Joins: DinX (DinX___@ptr-2hj4tblnzznaefun0f82h1i4s.ip6.access.telenet.be)
+[17:55:08] *** Quits: DinX (DinX___@ptr-2hj4tblnzznaefun0f82h1i4s.ip6.access.telenet.be) (Ping timeout: 61 seconds)
+[17:58:17] *** Joins: DinX (DinX___@ptr-2hj4tblnzznag2j98qxbmw439.ip6.access.telenet.be)
+[17:59:03] *** Quits: DinX (DinX___@ptr-2hj4tblnzznag2j98qxbmw439.ip6.access.telenet.be) (Connection reset by peer)
+[18:00:01] *** Joins: DinX (DinX___@d54C120B6.access.telenet.be)
+[18:01:50] *** Joins: kees (kees@office.tweaknet.net)
+[19:22:43] *** Joins: Escofan (escovan@j88103.upc-j.chello.nl)
+[19:27:59] *** Quits: Escofan (escovan@j88103.upc-j.chello.nl) (Exit)
+[20:31:53] <LuckY> kees: je hebt een aaaa record, dus dan ben je compliant toch?
+[21:54:18] *** Quits: kees (kees@office.tweaknet.net) (Input/output error)

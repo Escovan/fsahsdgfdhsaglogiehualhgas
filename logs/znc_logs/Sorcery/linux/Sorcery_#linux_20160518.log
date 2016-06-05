@@ -1,0 +1,68 @@
+[02:42:51] <RobinStamer> "We’re taking a brief break from our standard format because this is too absurdly horrible not to mention on this blog."
+[02:42:53] <RobinStamer> http://password-shaming.tumblr.com/post/130554774088/what-the-fuck-schawb
+[02:45:15] <ankh> the assumption that truncation prevents hashing is odd
+[02:58:55] <RobinStamer> Yeah
+[03:16:38] <RobinStamer> Though, the infamously bad crypt() truncated and hashed.  Truncated to 8 characters...
+[03:34:01] *** Quits: Sein (random@sorcery-db4.eq0.81.73.IP) (Ping timeout: 121 seconds)
+[03:37:59] <ankh> "you can paste in a 32 character password and have no trouble submitting, but only the first 8 characters will actually be added to/compaired against the database. This also means they couldn’t possibly be hashing their passwords, because if they were they’d all wind up the same length." is a nonsense
+[03:38:05] <ankh> you can truncate before hashing
+[03:38:13] <ankh> call md5 on the truncate string
+[03:38:18] <ankh> i admit this seems unlike;y
+[03:47:28] *** Joins: Sein (random@sorcery-9vp.dle.81.73.IP)
+[04:45:28] *** Joins: tycel (tycel2004@sorcery-7ktaf7.fidnet.com)
+[04:45:28] *** ChanServ sets mode: +v tycel
+[05:21:19] *** Joins: Escovan (Escovan@sorcery-t6nqmt.escovan.net)
+[07:03:24] *** Quits: Guest37478 (Disorganize@sorcery-21auju.compute.amazonaws.com) (Ping timeout: 121 seconds)
+[07:03:52] *** Joins: Disorganized (Disorganize@sorcery-21auju.compute.amazonaws.com)
+[07:04:31] *** Disorganized is now known as Guest45916
+[08:42:05] *** Aethysius is now known as Awaythysius
+[15:34:07] *** Quits: Sein (random@sorcery-9vp.dle.81.73.IP) (Ping timeout: 121 seconds)
+[15:47:34] *** Joins: Sein (random@sorcery-ebk.iqq.81.73.IP)
+[16:11:18] <StarThorn> Hrm.  That's pretty horrible.
+[16:11:42] <StarThorn> I got really annoyed the other day at box.com.  A co-worker asked me to test something with him on it, so I had to setup an account.
+[16:12:17] <StarThorn> Turns out that their password strength requirements ignore special characters, but *require* two numbers to be valid, no matter how long or complex it otherwise is.
+[16:12:59] <StarThorn> I really, really hate stupid password complexity handling.  So many people/companies just pull stupid ideas out of their ass and call it good.
+[16:13:18] <StarThorn> Chase (the bank, used by Amazon for their Visa cards) was another that gets a big F in my book.
+[16:13:35] <StarThorn> When I went to setup my account there, they *require* a number . . . in your username.
+[16:13:44] <RobinStamer> Banks are pretty notorious for having completely braindead requirements.
+[16:13:50] <StarThorn> Note, they do not require a number or any special characters in your actual password.
+[16:14:15] <StarThorn> Can we say BAD?
+[16:14:34] <StarThorn> (BAD == Broken As Designed)
+[16:38:57] <Thunderguy> facebook.... accepts anything more then 4 characters, yet can get you fired
+[16:39:33] <Thunderguy> hmm wait a second...
+[16:39:41] * Thunderguy changes facebook password
+[16:40:33] <Thunderguy> I seem to give advice faster then I practice it
+[16:41:14] <Quickshot> Your password doesn't 'have' to be bad if you're just using letters or even words of course
+[16:41:21] <Quickshot> Though I imagine that's not how it works out?
+[16:43:06] <Thunderguy> One major security risk i overlook is my phone, which is encrypted or google said it was anyway
+[16:43:51] <Quickshot> Well it probably is... but there are probably security holes one can use to get past it
+[16:43:58] <Thunderguy> but i stay logged out of things to better manage phone memory, yet when I log in, just about any place im at has a high definition security camera
+[16:44:07] <Quickshot> Though you'd need to be beyond the standard criminal or person to be able to usually I imagine
+[16:44:15] <Thunderguy> yeah
+[16:44:49] <Thunderguy> whether im at work or even taco bell, big camera 12 o clock
+[16:45:15] * Quickshot nods
+[16:45:53] <Thunderguy> sure we trust the companies on the other end of the camera, but what about their security? :P
+[16:46:12] <Quickshot> Ahh.. right
+[16:46:34] <Thunderguy> hack a phone or a wifi passwords for a day, hack a camera in a commons area, then hack everyones phone
+[16:47:27] <Quickshot> Eh, once you're at that level I'm not sure that's the most efficient way to go about it
+[16:47:40] <Quickshot> But yeah, lots of possible vulnerabilities
+[16:47:47] <Thunderguy> its probably easier then hacking a phone
+[16:48:15] <Thunderguy> older outdated software, the video streams are possibly not even encrypted
+[16:50:14] <Quickshot> Ah right... :/
+[16:50:56] <Thunderguy> Its not easy being paranoid :(
+[16:51:28] <Thunderguy> especially during tornado season
+[17:36:17] *** Joins: Escovan (Escovan@sorcery-t6nqmt.escovan.net)
+[17:36:47] *** Escovan is now known as Guest8086
+[17:40:36] <Ccomp5950> StarThorn: the entire /24 is blocked
+[17:46:34] <Quickshot> I guess some one must have compromised some accounts
+[17:46:43] * Quickshot imagines gmail will be busy fixing the issue
+[17:47:00] <Ccomp5950> Either that or SORBS fucked up?
+[17:47:02] <Ccomp5950> ¯\_(ツ)_/¯
+[17:54:26] *** Guest8086 is now known as Escovan
+[17:57:43] <Ccomp5950> The good news is, SORBS has a terrible reputation to begin with
+[17:57:47] <Ccomp5950> so
+[17:57:48] <Ccomp5950> ¯\_(ツ)_/¯
+[18:03:32] <StarThorn> Yeah, lots of people use SORBS as a scoring adjustment, but it would be very dumb to actually reject mail based on it alone.
+[18:36:06] <Ccomp5950> This customer was
+[18:36:28] <Ccomp5950> going to blame old as fuck WHM/Cpanel setup
+[21:23:07] *** Joins: Hawk_v3 (Hawk@sorcery-7khmfk.cable.virginm.net)

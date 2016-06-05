@@ -1,0 +1,57 @@
+[00:02:02] * StarThorn chuckles.
+[00:02:34] <StarThorn> Hey, I think shell one-liners are perfectly acceptable, and a very useful skill to have.
+[00:02:57] <StarThorn> As long as you treat them as one-off tools for "single" use.
+[00:03:42] <StarThorn> For example, I got a list of subnets and sites that needed some heavy manipulation.  I started with a grep, then some sed, then continued adding to it with various other commands and tools as I whittled it down to the eventual data I actually needed.
+[00:04:00] <StarThorn> Then I took the results, sent them off to where they were needed, and moved on.
+[00:05:11] <StarThorn> Admittedly, writing *long* one-liners shouldn't necessarily be the goal.  Just long enough to get the job done.
+[00:05:40] * StarThorn does tend to move to Perl or awk for things that grow beyond a couple of lines.
+[00:17:24] <ankh> the problem i had was the young man was being interviewed for a job writing integration scripts in a consulting practice
+[00:17:41] <ankh> and whatever was written had to be maintained
+[00:23:11] <StarThorn> Ah, yeah.  They're good for one-offs, but they're not good for integration/production/automation/etc.
+[00:23:35] <StarThorn> If anyone else is ever going to see it, you probably shouldn't be doing a one-liner.
+[00:29:14] <ankh> right
+[00:29:49] <ankh> the person i ended up hiring was actually awesome so it worked out ok
+[00:31:00] <ankh> he was one of two developers I made learn vi so well that when I went with him to a customer site for the first time, the manager took me aside and asked where I found my programmers, because he oculdn't get people that good
+[01:40:19] *** Quits: Sein (random@sorcery-fqm.llb.81.73.IP) (Ping timeout: 121 seconds)
+[01:53:42] *** Joins: Sein (random@sorcery-upa.7s6.81.73.IP)
+[03:04:09] *** Sein is now known as Issy
+[13:40:30] *** Quits: Issy (random@sorcery-upa.7s6.81.73.IP) (Ping timeout: 121 seconds)
+[13:53:49] *** Joins: Issy (random@sorcery-ooc.77e.81.73.IP)
+[15:35:12] *** Quits: sheenobu (sheenobu@sorcery-jsddm4.hs.gigamonster.net) (Quit: Leaving)
+[16:05:24] * StarThorn chuckles.
+[16:06:16] <StarThorn> I'm still of the opinion that anyone who works regularly in Linux/Unix from a technical perspective (system administration, development, etc.) should learn proficiency in vi.  Even if they choose not to use it as their primary editor, they should be comfortable with it.
+[16:07:36] * StarThorn sighs.
+[16:07:51] <StarThorn> Me in e-mail: "We have lots of stuff that doesn't fit into our current 'standards' for server patching compliance, many because they aren't servers.  Right now, we're requiring the owners to get a security exception so they don't have to patch them.  Why don't we amend/update our 'standards' so we can support getting them patched and report on them properly?"
+[16:07:59] <StarThorn> Response from Director of Server Operations: "If it doesn't follow the standards, it needs an exception.  Why don't we follow our own standards?"
+[16:08:05] * StarThorn beats his head on a wall.
+[16:33:17] <AmericanFrag> yaaay corporations!
+[16:54:25] <Apple_Master> i don't see any reason I should be "comfortable" with vi if I don't use it.
+[16:54:34] <Apple_Master> Also it's not that hard to get anyway
+[16:58:17] <ankh> in the case i described, we were going on-site to use the customer's computers, which were running a mix of flavours of Unix and generally not networked, and you couldn't install stuff
+[16:58:31] <ankh> vi, ex and ed were about the only editors you could rely on being there
+[16:58:58] <ankh> (if it hadn't booted into multi-user mode you generally might not have vi, but that wouldn't be our problem)
+[17:00:02] * StarThorn nods.
+[17:00:38] <StarThorn> That's part of why I think anyone who works regularly in *nix should know vi.  It's the most reliable (reasonable) editor that you can pretty much always expect to find.
+[17:10:18] <Apple_Master> Disagree
+[17:10:25] <Apple_Master> Also again it isn't hard to go "How quit vi"
+[17:10:27] <Apple_Master> or w/e
+[17:10:35] <Apple_Master> The complexities people pretend exist in vi are mostly bull.
+[17:13:02] <StarThorn> Apple_Master: That's great, until you get into a case where you have to use vi, such as a broken system, or a older system, or a recovery system, or whatever.
+[17:16:23] <StarThorn> Then it becomes a very useful tool to be comfortable with.
+[17:46:31] <ankh> it's a useful tool (as is ed at a pinch, or sed) and anyone doing systems administration might benefit. Most others get a system that won't boot and reinstall :)
+[17:47:55] <ankh> the programmers working for me had to be proficient because the customers' ssytems usually didn't have emacs or nano or pico, it was vi, or sometimes a graphical editor at the level of windows notepad running on X
+[17:48:41] <ankh> afterwards, one switched to vi and I think another became "bilingual" with emacs, depending on the task
+[17:50:10] <Guest49791> nano is a nightmare to actually get something done with...
+[17:50:14] *** Guest49791 is now known as Ikarus
+[17:50:18] *** ChanServ sets mode: +v Ikarus
+[17:50:28] <Ikarus> it's an okay editor of last resort
+[17:50:37] <Ikarus> but anything more then 30 seconds is too much
+[17:51:53] <StarThorn> Pretty much, yeah.
+[17:53:26] <ankh> i've even had to write an editor in shell before now to get out of single user mode, but that's years ago :)
+[17:54:04] <ankh> ok, off into town :)
+[17:55:22] <StarThorn> Have fun. ;-)
+[19:08:50] <Thunderguy> wine notepad.exe
+[19:08:53] <Thunderguy> sike
+[19:09:39] <Thunderguy> but.... I have done it >.> admitedly, once when i forgot to install nano
+[21:18:32] *** Quits: Issy (random@sorcery-ooc.77e.81.73.IP) (Connection closed)
+[23:58:12] *** Joins: Sein (random@sorcery-ooc.77e.81.73.IP)

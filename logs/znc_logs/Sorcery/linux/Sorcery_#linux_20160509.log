@@ -1,0 +1,41 @@
+[00:09:37] *** Sein is now known as Issy
+[01:38:52] *** Joins: Recon (random@sorcery-oei.ilt.81.73.IP)
+[01:39:11] *** Quits: Issy (random@sorcery-oei.ilt.81.73.IP) (NickServ (GHOST command used by Recon))
+[01:39:11] *** Recon is now known as Issy
+[02:20:30] *** Quits: Quickshot (Quickshot@sorcery-3a8u0v.l2ae.08va.0981.2001.IP) (Ping timeout: 121 seconds)
+[02:54:12] *** Joins: Quickshot (Quickshot@sorcery-8i8pbl.adsl.xs4all.nl)
+[02:54:13] *** ChanServ sets mode: +o Quickshot
+[04:04:01] *** Quits: sheenobu (sheenobu@sorcery-jsddm4.hs.gigamonster.net) (Ping timeout: 121 seconds)
+[04:18:32] *** Joins: sheenobu (sheenobu@sorcery-jsddm4.hs.gigamonster.net)
+[10:06:43] *** Quits: ankh (liam@sorcery-sbu.1mf.35.174.IP) (Ping timeout: 121 seconds)
+[10:09:59] *** Joins: ankh (liam@sorcery-sbu.1mf.35.174.IP)
+[10:14:53] *** Quits: ankh (liam@sorcery-sbu.1mf.35.174.IP) (Connection closed)
+[10:15:44] *** Joins: ankh (liam@sorcery-sbu.1mf.35.174.IP)
+[13:40:54] *** Quits: Issy (random@sorcery-oei.ilt.81.73.IP) (Ping timeout: 121 seconds)
+[13:53:46] *** Joins: Issy (random@sorcery-oei.ilt.81.73.IP)
+[16:40:12] *** Joins: timm (Mibbit@sorcery-qlo9am.res.rr.com)
+[16:40:36] <timm> Hello
+[16:45:25] <Quickshot> Hi
+[16:45:49] <timm> Hello Quickshot
+[16:51:59] <StarThorn> Cool, successfully registered ~60 or so RHEL systems with RH Network classic using the Ansible module.
+[16:53:24] <Quickshot> Congrats
+[16:53:44] <StarThorn> Thanks.  Much better than doing them by hand. ;-)
+[16:56:20] *** Quits: timm (Mibbit@sorcery-qlo9am.res.rr.com) (Quit: http://www.mibbit.com ajax IRC Client)
+[18:11:55] *** FraggleMint is now known as SleepyFrag
+[19:34:53] <ankh> ansible is the new puppet?
+[19:45:14] <Ikarus> slightly surprised that memcached is still pretty much first choice for just ephemeral data caching for web stuff
+[19:49:28] <ankh> why surprised?
+[19:49:41] <ankh> oh, because it hasn't been forked and died you mean? :)
+[20:09:45] <StarThorn> ankh: In some ways, yeah.  Similar functionality, but with some advantages, IMO, and better suited to system administrators vs. programmers.
+[20:14:02] <Ikarus> ankh: well, I would have expected something to have beaten it with like a few basic new features (clustering and namespacing being the big ones)
+[20:17:58] * ankh nods
+[20:23:55] <Ikarus> but nope, Redis is an alternative, but it basically brings along the kitchen sink
+[20:27:10] <Ikarus> (Redis still has no namespaces or config file oriented time out expiration policies
+[20:28:23] <ankh> i see
+[20:53:05] <Ccomp5950> I cringe everytime I get a ticket asking to open up the firewall so everyone can see the redis port.
+[20:53:09] <Ccomp5950> "You are doing it wrong."
+[20:54:35] <ankh> er yeah
+[22:11:01] <StarThorn> Ikarus: First, simple, and "good enough" won the day, it seem.
+[22:11:28] <StarThorn> That, and flexibility.  memcached has ended up in a ton of places that I would have have thought to use it, as compared to it's original purpose.
+[23:36:31] *** Quits: ankh (liam@sorcery-sbu.1mf.35.174.IP) (Ping timeout: 121 seconds)
+[23:59:26] *** Joins: ankh (liam@sorcery-sbu.1mf.35.174.IP)

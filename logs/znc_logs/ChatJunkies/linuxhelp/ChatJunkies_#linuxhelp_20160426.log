@@ -1,0 +1,46 @@
+[00:12:21] <LionsMane> Front
+[00:14:39] <grape> ok...
+[00:14:42] <grape> if you say so :D
+[00:15:12] <LionsMane> I did, I am sure.
+[00:16:08] <grape> yes... I checked it... you did! :-)
+[00:19:31] <grape> quiet in here again
+[00:27:02] <grape> I am off
+[00:27:03] <grape> ttfn
+[00:27:05] *** Quits: grape (~grape@CJ-3k1.8q0.194.90.IP) (Quit: Verlassend)
+[00:27:09] <LionsMane> Yeah, same of us are working.
+[00:27:15] <LionsMane> ANd some of us go to sleep.
+[00:33:56] *** Quits: LionsMane (~don@CJ-ifj.kbt.9.173.IP) (Quit: Leaving.)
+[13:41:19] *** Quits: Emmanuel_Chanel (~emmanuel@CJ-ecl.cua.10.222.IP) (Connection closed)
+[15:43:12] <AcidJell0> lo
+[15:50:43] *** Joins: Emmanuel_Chanel (~emmanuel@CJ-ecl.cua.10.222.IP)
+[16:11:33] *** Quits: Emmanuel_Chanel (~emmanuel@CJ-ecl.cua.10.222.IP) (Connection closed)
+[16:42:34] *** Joins: LionsMane (~don@CJ-ifj.kbt.9.173.IP)
+[16:52:57] <LionsMane> schmeh
+[16:53:19] <LionsMane> The icky smell is coming up from the bowels of the building.
+[18:39:24] <AcidJell0> yaay
+[18:39:30] <AcidJell0> hmm
+[18:39:40] <AcidJell0> are you at the fried chicken place ? :)
+[18:40:01] <AcidJell0> what is avahi ...
+[18:40:15] <AcidJell0> that thing keeps annoying me
+[18:40:55] <AcidJell0> it will be disablord
+[19:02:45] <LionsMane> avahi is the daemon used to do multicast DNS and device discovery.  It is a protocol spearheaded by Apple that competes with Universal PnP, developed by Mirc-0-$loth
+[19:03:16] <LionsMane> Must apps that support UPnP typically link the libpnp.so to get that support
+[19:04:21] <LionsMane> Avahi is a bit more agressive in that each device on the network both advertises its presence on the network AND listens for network broadcasts requesting devices present themselves.
+[19:04:43] <LionsMane> It is how a Mac could find a TimeMachine instance on the same network.
+[19:05:14] <LionsMane> Typically, it comes with the ability for the local caching DNS server to also include dynamic host names in the DNS resolution.
+[20:12:47] <LionsMane> anyway.
+[20:42:58] <LionsMane> It is nap time in linuxhelp.
+[21:30:28] <LionsMane> Acid
+[21:30:32] <LionsMane> Jello
+[21:30:33] <LionsMane> AcidJell0: 
+[21:30:36] <LionsMane> heh.
+[21:30:45] <LionsMane> Entertain me!  Show me yer tits!
+[21:30:46] <LionsMane> hehehe
+[21:41:08] *** Joins: Emmanuel_Chanel (~emmanuel@CJ-ecl.cua.10.222.IP)
+[21:41:39] *** Joins: grape (~grape@CJ-3k1.8q0.194.90.IP)
+[21:41:49] <grape> hi all
+[21:41:51] <grape> hi LionsMane 
+[22:42:28] <AcidJell0> back
+[22:42:41] <AcidJell0> hi grape, LionsMane 
+[22:56:37] *** Quits: LionsMane (~don@CJ-ifj.kbt.9.173.IP) (Quit: Leaving.)
+[23:07:04] <grape> front!

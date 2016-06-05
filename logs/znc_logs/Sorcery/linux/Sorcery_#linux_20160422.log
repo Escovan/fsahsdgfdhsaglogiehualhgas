@@ -1,0 +1,35 @@
+[04:32:21] *** Quits: sheenobu (sheenobu@sorcery-jsddm4.hs.gigamonster.net) (Ping timeout: 121 seconds)
+[04:47:36] *** Joins: sheenobu (sheenobu@sorcery-jsddm4.hs.gigamonster.net)
+[06:37:03] *** Quits: sheenobu (sheenobu@sorcery-jsddm4.hs.gigamonster.net) (Ping timeout: 121 seconds)
+[06:37:15] *** Joins: sheenobu (sheenobu@sorcery-jsddm4.hs.gigamonster.net)
+[07:07:36] *** Quits: Issy (random@sorcery-s7t.7s6.81.73.IP) (Ping timeout: 121 seconds)
+[07:19:01] *** Quits: sheenobu (sheenobu@sorcery-jsddm4.hs.gigamonster.net) (Quit: Leaving)
+[07:21:01] *** Joins: Issy (random@sorcery-qrr.r43.81.73.IP)
+[07:58:17] *** Joins: sheenobu (sheenobu@sorcery-jsddm4.hs.gigamonster.net)
+[15:34:34] *** Issy is now known as Sein
+[16:37:48] <StarThorn> I think today is a Soundgarden Temple of the Dog + Audioslave sorta day.
+[16:38:48] <Quickshot> Really?
+[16:41:19] <StarThorn> Yep.
+[16:41:41] <StarThorn> Hard to go wrong with that set, really.
+[16:42:31] <Quickshot> I see.
+[16:54:29] <Ccomp5950> I prefer Theory of a Nickle Creed, myself
+[17:15:16] <StarThorn> That's not bad, although I prefer Alter Bridge to Creed these days.
+[17:33:36] <StarThorn> Ooh, Ubuntu 16.04 LTS is officially out.
+[17:38:23] <Quickshot> Guess people can stick with that one for awhile then?
+[17:39:27] <StarThorn> Yep.  Supported for 5 years on all variants.
+[17:39:40] <StarThorn> Here's some bits on nea features and such: https://insights.ubuntu.com/2016/04/20/canonical-unveils-6th-lts-release-of-ubuntu-with-16-04/
+[17:40:38] <StarThorn> The "Snaps" new package thing is interesting.  Sounds like it's a .deb compatibile package format that works as kind of an in-between for packages that you want to manage with standard-ish tools, but want kept separate from the base system.
+[18:29:05] *** Joins: Cammy (Cammy@sorcery-o73o0f.fios.verizon.net)
+[18:29:12] <Cammy> boo! :P
+[18:30:09] * Cammy pokes StartHorn :P
+[18:34:21] *** Quits: Cammy (Cammy@sorcery-o73o0f.fios.verizon.net) (Quit: SorceryNet Kiwi WebChat)
+[18:34:26] *** Joins: Cammy (Cammy@sorcery-o73o0f.fios.verizon.net)
+[18:42:59] *** Parts: Cammy (Cammy@sorcery-o73o0f.fios.verizon.net) ()
+[19:07:43] *** Quits: Sein (random@sorcery-qrr.r43.81.73.IP) (Ping timeout: 121 seconds)
+[19:21:07] *** Joins: Sein (random@sorcery-l06.dle.81.73.IP)
+[20:20:23] <StarThorn> Awww.  Missed Cammy. ;-/
+[21:22:07] * StarThorn starts the upgrade on one of his Linode VPS's for Ubuntu 16.04/Xenial.
+[22:21:07] *** Joins: Phonethysius (androirc@Heywood.Jablome)
+[22:21:07] *** ChanServ sets mode: +v Phonethysius
+[22:26:01] <StarThorn> Ok.  Looking good.  I think we're completed and with only a few minor bumps.
+[22:57:16] *** Quits: Phonethysius (androirc@Heywood.Jablome) (Connection closed)

@@ -1,0 +1,52 @@
+[00:10:28] *** Quits: AlBundy (albundy@max.coevoet.nl) (Ping timeout: 60 seconds)
+[00:16:00] *** Joins: AlBundy (albundy@max.coevoet.nl)
+[00:59:10] *** Quits: AlBundy (albundy@max.coevoet.nl) (Ping timeout: 60 seconds)
+[00:59:19] *** Joins: AlBundy (albundy@max.coevoet.nl)
+[01:19:44] *** Quits: Tomsworld (tom@251.168-66-87.adsl-dyn.isp.belgacom.be) (Ping timeout: 67 seconds)
+[03:30:03] *** Quits: McM (mcm@193.173.193.100) (Exit)
+[05:20:15] *** Joins: Escovan (Escovan@server1.escovan.net)
+[07:13:34] *** Joins: McM (mcm@193.173.193.100)
+[07:42:13] <Escovan> hmmm, ik heb een nieuwe Probleem Oplosser uitgevonden:
+[07:42:46] <Escovan> Eerst alle MS pagina´s bekijken, instructies opvolgen, normale stappen uitvoeren om ¨het¨ weer aan het werk te krijgen
+[07:42:56] <Escovan> dan als dat niet werkt, er een nachtje over slapen
+[07:43:01] <Escovan> dan als dat niet werkt: 
+[07:43:42] <Escovan> IEDEREEN bij Microsoft keihard de tyfus verwensen en schreeuwen dat ze na 30 jaar nog steeds een wan product hebben voortgebracht. Terwijl je buiten loopt. 
+[07:43:58] <Escovan> Dan als je weer thuis komt: Nog een keer proberen
+[07:44:04] <Escovan> Tadaa! Het werkt.
+[08:35:51] *** Joins: kees (kees@kees.tweakers.net)
+[09:11:59] *** Joins: Tomsworld (tom@2a02:a03f:2698:3700:8137:2233:39f:e378)
+[09:14:24] *** Joins: tbosua (tbosua@office.hostnetbv.nl)
+[09:19:57] *** Quits: Tomsworld (tom@2a02:a03f:2698:3700:8137:2233:39f:e378) (Ping timeout: 60 seconds)
+[10:23:57] *** Samantha is now known as wintersport
+[10:24:16] *** wintersport is now known as Samantha
+[10:36:25] *** Joins: Escovan (Escovan@server1.escovan.net)
+[11:18:23] *** Joins: JGC (JGC@46.44.132.142)
+[11:19:08] *** Joins: Tomsworld (tom@2a02:a03f:2698:3700:c420:e616:437b:8c09)
+[11:19:33] <JGC> zo, netwerkprobleem ¨opgelost¨, maandag echt oplossen met full gbit switch
+[11:20:36] *** Quits: Tomsworld (tom@2a02:a03f:2698:3700:c420:e616:437b:8c09) (Ping timeout: 63 seconds)
+[14:52:21] *** Quits: McM (mcm@193.173.193.100) (Ping timeout: 64 seconds)
+[14:52:31] *** Joins: McM (mcm@193.173.193.100)
+[15:12:33] <JGC> hmm, servers die ruiken dat ze volgende week vervangen worden :X
+[15:12:41] <JGC> nog snel even een disk degrade
+[15:12:47] <AjDuLion> lol
+[15:15:24] <JGC> niet dat het uitmaakt, ding heeft een 2TB 7200RPM hotspare gepakt om een WD Velociraptor te vervangen, ik vind het best...
+[15:16:05] <AjDuLion> rofl
+[15:17:12] <JGC> volgende week 2x3U fileserver ophalen, 2x4U fileserver ophalen, 7x1U webserver ophalen, 2 switches weg waarvan 1 vervangen, 1 defecte APC PDU ophalen, 3 KVM switches vervangen/verhuizen...
+[15:17:48] <JGC> en over enige tijd 16x1U webserver vervangen door 6 nieuwe webservers
+[15:19:59] <JGC> qua capaciteit kunnen we met 3 ook toe, willen alleen op 50% kunnen draaien bij onderhoud zodat we onderhoud in 2x kunnen doen ipv per server, daarnaast kan er nog wat stuk gaan omdat we geen RAID gebruiken op die dingen
+[15:35:23] <JGC> hmm,aankoopbewijs om garantie te claimen bij wehkamp... pampers besteld... denk dat ik over een paar weken de hele bult terugstuur: ¨Niet naar wens, zit poep in¨ :X
+[16:09:22] *** Quits: McM (mcm@193.173.193.100) (Connection reset by peer)
+[16:09:46] *** Joins: McM (mcm@193.173.193.100)
+[16:22:58] *** Quits: kees (kees@kees.tweakers.net) (Input/output error)
+[16:30:10] *** Quits: McM (mcm@193.173.193.100) (Ping timeout: 66 seconds)
+[16:33:27] *** Quits: JGC (JGC@46.44.132.142) (Connection reset by peer)
+[17:36:37] *** Joins: Escovan (Escovan@server1.escovan.net)
+[17:53:49] *** Joins: kees (kees@office.tweaknet.net)
+[19:35:56] *** Joins: Tomsworld (tom@2a02:a03f:2698:3700:7098:16d9:dcc6:ec7a)
+[20:06:28] *** Quits: Tomsworld (tom@2a02:a03f:2698:3700:7098:16d9:dcc6:ec7a) (Ping timeout: 66 seconds)
+[20:07:31] *** Joins: Tomsworld (tom@251.168-66-87.adsl-dyn.isp.belgacom.be)
+[22:09:28] *** Quits: Tomsworld (tom@251.168-66-87.adsl-dyn.isp.belgacom.be) (Ping timeout: 61 seconds)
+[22:55:37] *** Quits: kees (kees@office.tweaknet.net) (Input/output error)
+[23:11:33] *** Joins: Tomsworld (tom@2a02:a03f:2698:3700:b0e3:1de1:f59b:c22)
+[23:17:47] *** Quits: Tomsworld (tom@2a02:a03f:2698:3700:b0e3:1de1:f59b:c22) (Ping timeout: 66 seconds)
+[23:43:04] *** Joins: Tomsworld (tom@2a02:a03f:2698:3700:c90:e42a:4d09:1059)

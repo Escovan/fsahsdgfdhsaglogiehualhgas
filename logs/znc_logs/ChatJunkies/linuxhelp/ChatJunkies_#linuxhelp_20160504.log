@@ -1,0 +1,75 @@
+[01:12:06] <grape> I am off
+[01:12:07] <grape> ttfn
+[01:12:08] *** Quits: grape (~grape@CJ-3k1.8q0.194.90.IP) (Quit: Verlassend)
+[01:36:22] *** Quits: Emmanuel_Chanel (~emmanuel@CJ-ecl.cua.10.222.IP) (Ping timeout: 121 seconds)
+[01:49:56] *** Joins: Emmanuel_Chanel (~emmanuel@CJ-5na.qo0.10.222.IP)
+[07:58:09] *** Quits: zach (~zach@CJ-u692v9.suzanneshousecleaning.com) (Ping timeout: 121 seconds)
+[08:10:46] *** Joins: zach (~zach@CJ-g1q.i94.32.45.IP)
+[16:47:17] <AcidJell0> yep
+[20:19:49] <AcidJell0> well
+[20:53:57] *** Joins: LionsMane (~don@tower.lionsmane.org)
+[21:26:51] <AcidJell0> hey LionsMane 
+[21:26:56] <AcidJell0> was waiting for you :)
+[21:27:25] <AcidJell0> you wouldnt guess who i had the pleasure of talking on the phone with today
+[21:27:34] <AcidJell0> David Jones from Windows department
+[21:35:35] <LionsMane> Gah!
+[21:35:39] <LionsMane> Who?
+[21:35:47] <LionsMane> Windows Department?
+[22:06:23] <LionsMane> Speak, AcidJell0
+[22:55:43] <AcidJell0> back
+[22:55:48] <AcidJell0> y'know the scammers
+[22:56:03] <AcidJell0> maybe it was lowkey i was talking aboot that with
+[22:58:56] <LionsMane> Ah, the scammer, yeah I think I remember a bit about that.
+[23:35:15] <AcidJell0> i played the dude for a while
+[23:35:22] <AcidJell0> then i hung up
+[23:35:25] <AcidJell0> he called back
+[23:35:32] <AcidJell0> i pretended i had no idea who he was
+[23:35:44] <AcidJell0> he called me back 2 more times and was swearing his ass at me :D
+[23:35:56] <AcidJell0> i kept pretending i cant hear him, drove him wild :)
+[23:39:05] *** Quits: LionsMane (~don@tower.lionsmane.org) (Connection closed)
+[23:39:57] *** Joins: grape (~grape@CJ-3k1.8q0.194.90.IP)
+[23:40:37] *** Joins: LionsMane (~don@CJ-ifj.kbt.9.173.IP)
+[23:40:52] <LionsMane> That was odd
+[23:41:12] <LionsMane> Anyway, last thing I saw was "I was pretending I can't hear him, drove him wild"
+[23:41:59] <grape> hi all
+[23:42:01] <grape> hi LionsMane 
+[23:43:24] <AcidJell0> yah the bastard got really aggressive
+[23:43:34] <AcidJell0> threatened to kill me, to cut my hands ... some other weird shit
+[23:43:44] <grape> what???
+[23:43:48] <grape> somebody on here??
+[23:43:58] <AcidJell0> i kept saying, David .. David youre brekaing up i cant hear you
+[23:44:14] <AcidJell0> he said his name was David Jones :D
+[23:44:23] <AcidJell0> hi grape 
+[23:44:37] <AcidJell0> grape, i got this call from the Windows department scammers
+[23:45:20] <grape> ah....  want to sell triple glazing windows to you?
+[23:45:57] <AcidJell0> lol
+[23:46:14] <AcidJell0> you know the microsoft windows department
+[23:50:45] <grape> microsoft got windows?
+[23:50:57] <grape> I thought they were only using glass bricks?
+[23:52:22] *** Joins: lowkey (~lowkey@CJ-uur.kvc.242.94.IP)
+[23:52:29] <lowkey> boing
+[23:52:34] <lowkey> hi grape
+[23:52:40] <lowkey> hi AcidJell0 LionsMane 
+[23:54:03] <grape> hi lowkey 
+[23:54:22] <grape> lowkey: can you imagine, AcidJell0 want to convince me that microsoft got windows!
+[23:54:25] <lowkey> how's your week going?
+[23:54:32] <grape> good... productive...
+[23:54:42] <grape> and I am flying out to Austria on Friday
+[23:54:46] <lowkey> really?  thats unpossible!
+[23:55:09] <lowkey> to Austria?  I thought you were going to Australia...
+[23:55:19] <lowkey> or is this just a weekend trip?
+[23:55:20] <grape> so I thought as well
+[23:55:37] <grape> both... Austria over the weekend and Australia for three weeks in July
+[23:55:42] <LionsMane> Howdy lowkey
+[23:56:00] <lowkey> well thats OK then
+[23:56:05] <lowkey> both places have good beer and good sausages
+[23:56:09] <lowkey> hey LionsMane 
+[23:56:46] <lowkey> anyone else ever had trouble sending email with attachments to the accounts on the local system in linux?
+[23:57:03] <lowkey> the default bsd-mail doesn't support attachments.
+[23:57:05] <grape> nope... I don't do attachments
+[23:57:16] <lowkey> it so last century
+[23:57:39] <lowkey> I had to install mailutils and use mail.mailutils to send them
+[23:58:22] <lowkey> I'm piping some logs through gnuplot to see frequency of hits and I have the PNG images sent to my local admin account every monday
+[23:58:34] <lowkey> mostly because I'm lazy
+[23:59:37] <lowkey> and I like pretty graphs
+[23:59:56] <grape> mh

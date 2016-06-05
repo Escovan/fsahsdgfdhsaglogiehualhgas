@@ -1,0 +1,122 @@
+[00:03:35] <StarThorn> Thunderguy: I doubt it.  The closest will probably be better support for some of their development platforms and tools to target Linux.
+[00:06:02] *** Joins: ankh (liam@sorcery-udm6is.cable.rogers.com)
+[00:11:25] <Quickshot> Hi ankh 
+[00:12:56] <ankh> hey Quickshot
+[01:21:08] *** Quits: ankh (liam@sorcery-udm6is.cable.rogers.com) (Ping timeout: 121 seconds)
+[03:11:18] *** Joins: ankh (liam@sorcery-udm6is.cable.rogers.com)
+[03:43:43] *** Quits: Sein (random@sorcery-t2o.o79.153.50.IP) (Ping timeout: 121 seconds)
+[03:57:11] *** Joins: Sein (random@sorcery-iei.l9c.153.50.IP)
+[04:03:12] <ItalianSpiderFrag> damn you microsoft, I demand further support for xenix!
+[04:07:47] <Thunderguy> I was watching some video that seems to suggest some things:
+[04:09:07] <Thunderguy> 1) MS DOS was never planned, it was sold before it existed and so it needed to be thrown together quickly and hastily and wasnt expected to be all relied upon
+[04:10:59] <Thunderguy> 2) Xerox invented the GUI, showed it to Jobs who made his own and showed it off to Gates, who wrote his own GUI and released it first to beat everyone else to the sales..
+[04:11:35] <ankh> the xerox thing relates to the Xerox Star, and the UI for Windows
+[04:11:54] <Thunderguy> ah
+[04:11:55] <ankh> MS-DOS was indeed done quickly under a lot of pressure
+[04:13:17] <Thunderguy> I can just imagine a microsoft board meeting in the early 80's tho...:
+[04:14:33] <Thunderguy> " These are Operating Systems, Real Operating Systems that work well... now you see what they can do by next month I want us to make one and release it!!! make a real Operating System people! fast!
+[04:15:29] <Ccomp5950> Pirates of Silicon Valley covered that didn't it?
+[04:15:58] <Thunderguy> I think it was called Genius Rivalry or something
+[04:16:30] <Thunderguy> oh "American Genius"
+[04:50:00] *** Joins: Phonethysius (androirc@Heywood.Jablome)
+[04:50:00] *** ChanServ sets mode: +v Phonethysius
+[05:41:29] *** Quits: Phonethysius (androirc@Heywood.Jablome) (Quit: AndroIRC - Android IRC Client ( http://www.androirc.com ))
+[05:55:13] *** Quits: Siegrain (uid154823@sorcery-qci8po.tooting.irccloud.com) (Quit: )
+[05:55:51] *** Quits: ankh (liam@sorcery-udm6is.cable.rogers.com) (Ping timeout: 121 seconds)
+[06:11:19] *** Joins: Siegrain (uid154823@sorcery-qci8po.tooting.irccloud.com)
+[06:21:12] *** Joins: Chironymous (Chironymous@sorcery-j49.n21.107.50.IP)
+[14:29:02] *** Joins: ankh (liam@sorcery-udm6is.cable.rogers.com)
+[14:33:34] *** Quits: ankh (liam@sorcery-udm6is.cable.rogers.com) (Quit: meetings)
+[15:38:17] *** Joins: ankh (liam@sorcery-478olv.w3.org)
+[15:44:12] *** Quits: Sein (random@sorcery-iei.l9c.153.50.IP) (Ping timeout: 121 seconds)
+[15:57:14] *** Joins: Sein (random@sorcery-iei.l9c.153.50.IP)
+[16:07:59] * StarThorn glances at Scrollback.
+[16:08:38] <StarThorn> The MS-DOS thing is true.
+[16:08:58] <StarThorn> Microsoft offered an OS that they didn't have to IBM for the early PCs.
+[16:09:48] <StarThorn> So they licensed, and later bought, 86-DOS from Seattle Computing.
+[16:11:07] <Chironymous> haha, yup
+[16:11:59] <Chironymous> and i thought i'd read something about that they were originally ripping off CPM or some such
+[16:12:38] <ankh> CP/M and MS-DOS share some common roots with early DEC operating systems
+[16:12:58] <StarThorn> Yeah, it was designed as a CP/M look-alike, much like Linux was designed as a Unix look-alike.
+[16:13:04] <ankh> it was said early on that the \ was used to make it less obvious
+[16:13:13] <ankh> instead of /
+[16:14:15] <ankh> but i don't know if that's true at all
+[16:14:43] <ankh> Microsoft from the start pretty much was a Unix house internally
+[16:16:10] * StarThorn nods.
+[16:16:11] <Chironymous> yeah, i'd read the slash/backslash thing too
+[16:16:29] <Chironymous> and A prompt vs. C prompt for main drive
+[16:17:13] <StarThorn> I remember reading once that Microsoft originally saw Unix (Xenix) as their planned OS future.  They didn't expect MS-DOS to take off like it did, and become a juggernaut.
+[16:17:18] <Chironymous> yeah, MS had their own unix that i'd never learned all that many details about
+[16:17:21] <Chironymous> ah yes, xenix!
+[16:18:47] <ankh> yeah, they did see unix as the way forward, and yes, xenix was really really sucky
+[16:19:52] * Chironymous wishes BSD had been the way forward
+[16:20:06] <Chironymous> but i'm pretty happy on my gentoo laptop :)
+[16:20:18] <StarThorn> Linux works pretty darn well.
+[16:21:17] <StarThorn> I don't mind the BSD's, but I've preferred Linux since the mid-late 90's.
+[16:21:26] <ankh> the BSD culture wasn't (isn't) populist
+[16:22:08] <ankh> BSD was hey, you can do this cool stuff with what we made, when Linux was hey, I can do this cool stuff and tinker with it
+[16:22:19] * StarThorn nods.
+[16:22:40] <StarThorn> Linux+GPL+Internet+timing made for an unbeatable combination.
+[16:22:54] <ankh> downside was that for a long time Linux wasn't always ideal for the non-hobbyist :) but the mediocre always wins out
+[16:30:39] * ankh currently sitting in an ebook conference. Speaker just intoduced XSLT, and now talking about responsive design & media queries. Publishing moves slowly in some ways.
+[16:33:04] <StarThorn> Yeah.  It's intersting how a number of industries are very slow moving with technology.
+[16:35:08] <StarThorn> A friend of mine is a lawyer, and she was mentioning that it's only in the last couple of years that their office has moved off of WordPerfect.
+[16:37:08] <StarThorn> Although, they have a small office of like 30 people, and one barely-an-IT-person on staff.
+[16:37:32] <StarThorn> If I was doing IT for a company that sized, I'd push hard to move to something like Google Docs, these days.
+[16:51:06] <Ikarus> StarThorn: guess what, a legal office can't risk Google Docs
+[16:52:01] <Ikarus> sometimes that goes one meta-layer further
+[16:52:30] <Ikarus> with it legally being possible of using Google Docs, but making sure they can and can continue to, would be prohibitively expensive
+[16:52:44] <StarThorn> I dunno about that.  While there are potentail legal and security requirements, Google Apps can almost certainly meet them.
+[16:53:06] <Ikarus> StarThorn: yes, but see what I said about "making sure they can and can continue to, would be prohibitively expensive"
+[16:53:20] <Ikarus> Google takes the right to change the ToS on a whim
+[16:53:28] <StarThorn> Yeah, I'm just not sure that's the case. ;-)
+[16:53:50] <StarThorn> They do, but the paid Google Apps setup is a little different than just the basic Google Docs/Gmail setup, too.
+[16:53:52] <Ccomp5950> Many legal offices use wordperfect because it integrates with a popular templating system for legal documents
+[16:54:04] <Ikarus> StarThorn: it's often part of the equation, I have dealt with both this exact case (legal firm, companies like Google can't meet the guarantees they need)
+[16:54:17] <StarThorn> Ccomp5950: Yeah.  It's one of the (many) reasons why law offices have been so slow to change.
+[16:54:27] <Ikarus> the guarantees being, no data out of the EU even
+[16:54:38] <Ikarus> Google couldn't guarantee it
+[16:54:43] <Ccomp5950> One legal office I supported was using the receptionist desk as a file repository, when her computer got a nasty virus and wouldn't boot the whole office was down.
+[16:54:52] <StarThorn> Ikarus: Yeah, and it will vary depending on locality, type of law, type of clients, and lots of other things.
+[16:55:05] <Ikarus> yep
+[16:55:10] <StarThorn> I'm not saying that I'd go 100% Google Apps, no matter what.
+[16:55:11] <Ccomp5950> I made a customer for life by having that computer back up in 30 minutes then moving them to use a file server w/backups and RAID
+[16:55:33] <StarThorn> But, if I was supporting a small company again, Google Apps (or a similar type service) would be where I would start for setting them up.
+[16:55:54] <StarThorn> I'd only set things up locally if I didnt have a choice or couldn't make any hosted options work.
+[16:56:44] <Ccomp5950> Custom options become a support nightmare in the longterm
+[16:57:17] <Ccomp5950> If they become your default answer
+[16:57:34] <Ccomp5950> having 500 customers with 500 different systems even with great documentation is a hassle
+[17:00:14] <StarThorn> Hrm.  Interesting.
+[17:00:39] <StarThorn> I just came across an article from the Director of IT at a law firm explaining why they use Google Apps.
+[17:01:09] <StarThorn> He makes the argument that he feels it is more secure and safer than anything they could implement in-house with their limited staff and resources.
+[17:01:19] <StarThorn> Which, for most small companies, is actually very true.
+[17:09:30] <ankh> true, although when the net goes down you're hosed
+[17:10:09] <Ikarus> StarThorn: the usual issue is actual legal issues, not technical 
+[17:10:13] <ankh> (and it's not as a secure as a computer in a locked room and with no network)
+[17:12:06] <StarThorn> ankh: It's not as secure, but it's a lot more useful. ;-)
+[17:12:20] <StarThorn> Security is (almost) always a trade-off between security and convenience.
+[17:12:20] <ankh> sure, depending on what you're doing
+[17:12:48] <ankh> i remember in the UK when there was a pub in Wales where a judicious martini could get points taken off yuor driving licence
+[17:13:08] <ankh> because the mainframe computer operators went there
+[17:13:30] <ankh> & the systems programmers hadn't realized they had access to the driver database
+[17:13:45] <ankh> or, rather, knew but hadn't considered the consequences
+[17:13:53] <Chironymous> haha
+[17:14:00] <Apple_Master> hah
+[17:15:14] <ankh> with the cloud, you don't know who has access. but you should assume goverments (yours and others) might, and if you're involved in a law suit vs the government that may be an issue.
+[17:17:11] <StarThorn> It might, although if that's your big concern, you're probably going to be doing everything 100% in-house anyway.
+[17:17:16] <ankh> right
+[17:17:35] <StarThorn> For the *vast* majority of businesses, staying in business is a much bigger concern than lawsuits versus the government. ;-)
+[17:17:47] <ankh> sure, but law offices happen to be an exception :)
+[17:17:59] <ankh> well, some law offices.
+[17:18:57] <StarThorn> Yeah, I would still argue that most law offices would still be better off with a hosted solution than in-house.
+[17:19:42] <StarThorn> Especially because, even if it's "in-house", most smaller law firms are still contracting the management and support of most of their IT systems out to a third-party.  They don't usually have the IT staff to handle it all themselves.
+[17:21:37] <ankh> yes, sure, usually they are, but they do need to understand the tradeoffs.
+[17:23:20] <StarThorn> Of course.  Always.
+[17:23:40] <StarThorn> (And with lawyers, working through the trade-offs will always take longer and be more painful than with just about anyone else. ;-)
+[17:25:10] *** ItalianSpiderFrag is now known as Cloud_Frag
+[17:34:49] * Cloud_Frag floats around
+[17:58:40] <StarThorn> Hrm.
+[17:58:42] * StarThorn ponders which DID to add his Vitelity account to play around with.
+[17:58:45] <StarThorn> The best options look to be either 402.800.1338, 402.800.1975, or 402.999.0689.
+[21:11:28] * StarThorn his phone to Marshmallow.
+[23:32:23] *** Quits: ankh (liam@sorcery-478olv.w3.org) (Ping timeout: 121 seconds)

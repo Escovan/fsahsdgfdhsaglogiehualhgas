@@ -1,0 +1,28 @@
+====== Welkom ======
+Op deze site kom je de meest persoonlijke aantekeningen en logboeken tegen. Veel heb ik op papier gedaan dus dat zal ik de komende tijd inscannen. Sommige stukken zijn verloren gegaan. Ik zal veel met beeld materiaal werken dus dat niet of slechts ten dele vertaald wordt. Nu moet ik eerst PHP even vertellen dat ik plaatjes groter dan 2MB mag uploaden. Ik zat te denken aan 5MB. Dit virtuele servertje heeft tenslotte maar 30GB opslagruimte.
+
+===== Wat kan je hier verwachten? =====
+Vanalles, van chatlogs van jaren terug tot en met artikelen die ik ooit bewaard heb tot en met briefjes die ik gekregen of geschreven heb. Als je registreert mag je ook je eigen pagina's met nostalgische logboeken aanleggen.
+En je weet tenslotte dat in Nederland alles vastgelegd wordt, dus dat kan nog interessant worden. Ben je vooruit of achteruit gegaan ten opzichte van 10 jaar geleden? En 20? Je mag alles plaatsen zolang het redelijk beschaafd blijft. Je kunt nu foto's van max. 25MB uploaden.
+
+==== Artikelen ====
+[[Artikelen]] zijn meestal een beetje tricky om te heropenbaren, maar laten we zeggen dat als er geen claims komen van auteurs, ik er een speciaal setje pagina's voor vrij maak. Ze zijn toch minder persoonlijk dan [[msngespreksgeschiedenis|MSN-logboeken]] van 9 jaar geleden.
+
+==== Onderzoek ====
+Wel eens een IQ-test bij een psycholoog laten afnemen? Of wil je de scorelijst van je LPI Certificering delen? Alles mag. Ik begin wel als eerst met een professionele testuitslag van een onderzoek naar [[onderzoek|Cognitie en Vaardigheden]].
+
+==== Chatlogs ====
+[[Chatlogs]], die zijn natuurlijk het leukste. Kun je nog zien hoe dronken ik was. Ach, en WhatsApp logs, of eigenlijk elke vorm van logs mag je hier plaatsen als je geregistreerd bent. Als bonnetjes van de Teevendeal na 15 jaar nog opduiken, dan moet deze site helemaal een succes worden voor iedereen die nog wat heeft vastgelegd.
+
+==== Persoonlijke brieven en foto's ====
+Ja, die zijn misschien heel intiem om online te zetten, maar ook daarvoor is hier ruimte. Alles kan openbaar. Mensen die zich er aan storen gaan maar naar een andere site. Ook je strafblad mag je uploaden.
+
+==== Systeem & Server Logboeken ====
+Dit betreft wat machines allemaal te vertellen hebben over zichzelf. Zo staat [[server|deze]] machine in de Cloud op een Virtual Instance die alles bijhoudt en waar per uur voor betaald wordt. Samen met nog een paar vriendjes kunnen ze alle websites weergeven, mail sturen, automatische backups maken van websites en nog vele andere functies. Over de prestaties, eventuele meldingen of waarschuwingen en fouten worden logboeken bijgehouden met daarin specifieke details over de aard van de gebeurtenissen. Dit is eigenlijk informatie die je normaal niet naar buiten brengt omdat het hackers op ideeën kan brengen hoe in te breken en ook gegevens over de computers van bezoekers bevat. Voor mijn 3 servers maak ik een uitzondering omdat ze toch in de Cloud staan en er regelmatig back-ups worden gemaakt.
+
+==== Facturen ====
+Ooit een bonnetje kwijt geweest? Vervelend hè. Bij deze website mag je gewoon al je bonnetjes online dumpen zodat iedereen weet dat jij bepaalde aankopen hebt gedaan of geld hebt verdiend. Het mag een factuur van alles zijn. Zorg dat ook jij na jaren nog weet waar je moet kijken voor je verlengde garantie.
+
+== Voetnoot ==
+Deze webserver staat wel in de Verenigde Staten.
+

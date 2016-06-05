@@ -1,0 +1,219 @@
+[00:00:40] <grape> and why is that lowkey ?
+[00:05:55] <LionsMane> did you not see the conversation about windows trying to reconnect when the connection is refused.
+[00:06:13] <LionsMane> Or the wallpaper being set to an off network resource
+[00:06:18] <LionsMane> Or it just being windows.
+[00:07:41] <grape> I saw some of it... though I don't understand the wallpaper issue... you are setting the hostnameas a wallpaper?
+[00:13:24] <lowkey> no, the problem is that back in 2005 someone set the default system wallpaper to one stored on a network server that no longer exists
+[00:13:50] <lowkey> the fact that windows allowed them to do it rather than requiring the image to be copied local is amazing
+[00:15:26] <lowkey> i mean laptops never leave local networks.  it can never go bad.
+[00:16:49] <grape> ok... now I got it
+[00:16:59] <grape> sorry
+[00:17:36] <lowkey> and its nice that windows has a history of all images you ever used but it would be really nice if you could right-click on any one entry and say "forget about this one"
+[00:19:37] <LionsMane> hahhaha
+[00:19:44] <LionsMane> yeah, I hear that.  Sounds good to me.
+[00:19:49] <LionsMane> PATCHIT!  SHIPIT!
+[00:20:59] <lowkey> I now know why windows administrators make such good money.  its not because they add real value but rather they know a few secret processes to fix windows when users fuck it up
+[00:25:51] <grape> lol
+[00:27:30] <lowkey> i'm seriously wondering if fixing this will require sacrificing a chicken and some serious voodoo
+[00:28:08] <grape> mmmh.. chicken
+[00:35:05] <lowkey> OK for methods tested and they all failed.
+[00:35:23] <lowkey> so even the docs suck for this stupid little issue
+[00:42:01] *** Quits: LionsMane (~don@CJ-ifj.kbt.9.173.IP) (Quit: Leaving.)
+[00:42:51] <lowkey> I'll bet a quick grep search would find the offending string in some text file....if only windows had grep.
+[00:46:47] <grape> is windows using text files as config files?
+[00:46:59] <lowkey> for some things
+[00:47:39] <lowkey> the problem is I have a registry key that I delete and it magically appears back
+[00:48:00] <lowkey> generally that's a sign of a text file to restore it....
+[00:48:42] <lowkey> well it could be more complicated but I seriously doubt someone wrote a binary app to put the value in the registry
+[00:50:36] <lowkey> if it were stealing banking information then maybe it would be worth a better hack.  but this is applying a default wallpaper
+[00:51:03] <grape> I stick to linux...
+[00:51:23] <lowkey> some app made it easy for the user to do, so they didnt consider the implications of changing environments
+[00:52:48] <grape> somehow I think linux is better in this respect... 
+[00:53:12] <lowkey> compared to this Linux is insanely easy
+[00:55:29] <grape> see
+[00:55:36] <grape> I am too dump to use M$
+[01:03:23] <lowkey> me too
+[01:04:16] <grape> so... that code a friend of mine compiles and one of the test jobs fails
+[01:04:38] <lowkey> i may have accidentally done it.   or whatever I did had to be redone X times to work
+[01:04:48] <lowkey> but rebooting now to see if it holds
+[01:05:22] <grape> ok
+[01:08:24] <lowkey> ok it held.  I didn't do anything different so I think it might be a case of needing enough repetition that windows realizes you really want the change
+[01:11:54] <lowkey> it really is amazing that windows kept trying to connect to a system that didn't reply so committedly
+[01:12:21] <lowkey> you'd think the developer would put a failure check into the loop after X attempts
+[01:13:39] <lowkey> on the plus side this got me off my lazy ass and I got wireshark working on this system (without needing to run it as root)
+[01:15:11] <grape> do you need to be root do to that?
+[01:17:37] <lowkey> as a general rule wireshark needs to be root for promiscious (sp?) mode on interfaces.
+[01:18:11] <lowkey> but there are ways that parts of it have the necessary privileges and allow the user to do it as long as they are a member of the wireshark group
+[01:18:31] <grape> ok
+[01:18:46] <grape> as I don't think I am running it as root
+[01:19:14] <lowkey> so once you know the trick, its easy to setup.  at most it requires logging out then in again.
+[01:19:58] <lowkey> its the kind of thing I will probably forget how to do by morning.  thankfully there's a good wiki
+[01:20:51] <grape> I found wireshark quite powerful... but I don't think I ever used its full potential
+[01:21:02] <lowkey> the problem was that for a long time it was just easier to do sudo wireshark then figure out the right way
+[01:21:53] <lowkey> I've come no where near its full potential.  not even close.  I dont think I've even dabbled with its wireless abilities
+[01:22:55] <lowkey> ok, I was getting hits from the windows system every 5 minutes.  its been a half hour since the last ones were logged.  I think that counts as a potential solution.
+[01:30:38] <grape> that sounds good
+[01:30:42] <grape> right... bedtime for me
+[01:30:50] <lowkey> yep :-)   
+[01:31:06] <lowkey> sometimes the hard part is waiting to see if it happens again.....
+[01:31:11] <grape> sorry I was not really chatty tonight
+[01:31:24] <grape> ttfn
+[01:31:30] <lowkey> thats ok, its getting late there and I was terrible at it too
+[01:31:35] <lowkey> sleep well!
+[01:31:43] <lowkey> g'nite all
+[01:31:52] *** Quits: lowkey (~lowkey@CJ-1e0.ihq.231.197.IP) (Quit: leaving)
+[01:31:56] *** Quits: grape (~grape@CJ-tf3.bbc.216.2.IP) (Quit: Verlassend)
+[17:21:32] *** Joins: lowkey (~lowkey@CJ-o4a.mct.61.213.IP)
+[17:21:45] <lowkey> morning all
+[18:38:38] <AcidJell0> lo
+[18:45:26] <AcidJell0> rebooting
+[18:45:37] <AcidJell0> stuff locked up my external drive
+[18:46:31] <lowkey> ouch
+[18:46:35] *** Quits: AcidJell0 (~andre_000@CJ-51k.kgi.210.207.IP) (Quit: rebooting)
+[19:46:54] *** Joins: AcidJell0 (~andre_000@CJ-51k.kgi.210.207.IP)
+[19:47:30] <AcidJell0> yaay
+[19:47:38] <AcidJell0> got this HD dock station
+[19:47:45] <AcidJell0> pretty kewl
+[19:48:01] <lowkey> that can be handy but its kind of so last decade.
+[19:48:18] <AcidJell0> thats the point :)
+[19:48:24] <AcidJell0> i had all these old HD's
+[19:48:28] <lowkey> a USB hub can do almost all you need with only one cable to plug in
+[19:48:36] <lowkey> ooops
+[19:48:44] <lowkey> I read HP not HD
+[19:48:57] <AcidJell0> now i can just buy HD's put stuff on them and interchange them
+[19:48:58] <lowkey> i thought you meant laptop docking station
+[19:49:05] <AcidJell0> its so easy, drive slides in 
+[19:49:12] <AcidJell0> no
+[19:49:17] <AcidJell0> USB HD Dock
+[19:49:39] <AcidJell0> and this one does offline cloning
+[19:49:58] <lowkey> I had a usb3 HD docking station that gave me a ton of errors on linux.  so I changed to one that connects directly to the SATA interface but still lets me hot swap drives.  very handy
+[19:50:44] <lowkey> I use mine for monthly backups of a server.  slide drive in, run backups, slide it out then put drive in fire proof safe.
+[19:50:53] <AcidJell0> thats what im thinking too
+[19:51:05] <AcidJell0> i have tons of pictures and videos i dont know where to put
+[19:51:18] <AcidJell0> now i can just throw them on a drive
+[19:51:24] <lowkey> it may be the best on-site solutions I've ever used.
+[19:53:27] <lowkey> that maybe a good solution too.  if you only need access to the photos & videos once in a while then why have the drive taking up a connection 100% of the time....
+[19:53:54] <lowkey> plus drives don't fail while they're sitting idle in a box
+[19:55:51] <AcidJell0> well
+[19:55:52] <AcidJell0> funny
+[19:55:59] <AcidJell0> i tried about 5 drives 3 of which just didnt work
+[19:56:15] <AcidJell0> but ... i did get this 3tb wd green drive
+[19:56:16] <lowkey> thats weird.  how old were the drives?
+[19:56:27] <AcidJell0> judging by the size ... pretty old
+[19:56:42] <AcidJell0> a seagate 250gb
+[19:56:49] <AcidJell0> a seagate 120gb
+[19:56:52] <lowkey> I haven't had a drive fail in storage for a long time.
+[19:57:05] <lowkey> those might be old enough to test the limits
+[19:57:16] <AcidJell0> and an ibm eserver 160gig
+[19:57:25] <AcidJell0> naah ... really ?
+[19:57:33] <AcidJell0> i thought hard drives will work forever no ?
+[19:57:34] <lowkey> SATA interfaces? or IDE?
+[19:57:38] <AcidJell0> sata
+[19:57:57] <lowkey> I haven't had any SATA issues...
+[19:58:02] <lowkey> IDE yes
+[19:58:13] <lowkey> and old SCSI yes
+[19:58:24] <AcidJell0> now heres the thing
+[19:58:34] <AcidJell0> some of those drives i used were cheapo discarded drives
+[19:58:43] <AcidJell0> i know at least one of them was bad
+[19:58:49] <AcidJell0> but bad as in it had bad blocks
+[19:58:52] <AcidJell0> not like brick
+[19:59:00] <lowkey> hmmm
+[19:59:18] <lowkey> can you reformat it or is it like a brick now?
+[19:59:30] <AcidJell0> well this is what im wondering
+[19:59:39] <AcidJell0> i stick it in the usb dock and windows does nothing
+[19:59:55] <AcidJell0> i had one with reiser fs on it so windows said format it
+[19:59:57] <AcidJell0> and it worked
+[20:00:07] <lowkey> yeah but that's standard windows for drives with foreign filesystems
+[20:00:24] <AcidJell0> right, but the drive itself worked
+[20:00:33] <AcidJell0> where as the other 3 did not
+[20:00:41] <AcidJell0> you can hear them turn but thats it
+[20:01:50] <lowkey> hmmmm
+[20:02:57] <AcidJell0> so
+[20:03:01] <lowkey> well anything with moving parts will someday fail
+[20:03:02] <AcidJell0> if you put stuff on a hd
+[20:03:12] <AcidJell0> how long will the data last stored somewhere ?
+[20:03:15] <AcidJell0> 50 100 years ?
+[20:03:23] <lowkey> and depending on how they were stored...
+[20:03:24] <AcidJell0> fail but out of use
+[20:03:32] <AcidJell0> lets say they are stored propperly
+[20:03:45] <lowkey> long term storage is a problem for almost everything
+[20:04:06] <lowkey> thats why they are working on it so much
+[20:04:25] <lowkey> I once had to recover files from tapes about 8 yrs old.  
+[20:04:47] <lowkey> it was an experience that left me hating tapes for long term storage....
+[20:06:16] <lowkey> even if you burn a CD, it will only last a few years statistically.  Individually you can see better but they all degrade with time
+[20:06:58] <lowkey> the problem with hard drives is the axel.  if it loses lubrication then it can spin slower than it needs to read reliably
+[20:07:30] <lowkey> and I've read where many SSDs are worse than moving platter HDs for long term storage
+[20:08:04] <lowkey> even though they have no moving parts, they start to lose what it stored with time...
+[20:10:26] <lowkey> part of the problem is interfaces.
+[20:11:06] <lowkey> if you put away an IDE hard drive 10 years ago, do you commonly have any systems that have IDE ports to connect it to today?  No
+[20:18:09] <lowkey> long term storage of data is dependent on rotating the data to newer media every so often
+[20:18:34] <lowkey> or you can let someone else handle the media question and use a service like tarsnap
+[20:18:54] <lowkey> just make sure you keep it paid up or they will delete your backups
+[20:19:06] *** Joins: grape (~grape@CJ-tf3.bbc.216.2.IP)
+[20:19:09] <grape> hi all
+[20:19:12] <grape> hi lowkey 
+[20:19:12] <lowkey> hi grape
+[20:19:16] <grape> hwo are you?
+[20:19:34] <lowkey> good.  just talking long term storage of data
+[20:19:52] <lowkey> and how was your day?
+[20:20:23] <grape> not too bad... got some things sorted... others I did not 
+[20:21:06] <lowkey> that sounds like a good day  or at least as good as sysadmins can hope for  ;-P
+[20:21:34] <grape> it was a good day
+[20:21:46] <lowkey> thats good
+[20:21:50] <grape> yep
+[20:21:59] <grape> but I still have not solved the tomcat problem
+[20:22:32] <lowkey> cats sometimes just have to be shot.  its really all you can do.
+[20:23:18] <grape> lol
+[20:23:46] <grape> I really would like to know why they are so keen on the cat
+[20:25:13] <lowkey> some people are just wacky that way
+[20:25:40] <grape> mh...
+[20:25:51] <grape> because there is a DB running in the background?
+[20:26:02] <grape> IMHO the implementation is flawed
+[20:26:17] <grape> well.. the way it was set up I should have said
+[20:26:44] <lowkey> http://www.foxnews.com/travel/2016/04/15/invisible-trains-coming-to-japan-in-2018.html?intcmp=hpff  <--- this idea can never go wrong.
+[20:28:25] <grape> looks good.. but where is the train?
+[20:28:54] <lowkey> says the driver that hits it
+[20:29:21] <lowkey> or the pedestrian who crossed the tracks at the wrong time
+[20:31:49] <grape> yes
+[20:34:05] <lowkey> ok, its lunch time.  time for a sandwich 
+[20:34:09] <lowkey> bbiab
+[20:34:13] <lowkey> :-)
+[20:35:36] <grape> enjoy!
+[20:52:07] <lowkey> they were good!
+[20:54:15] <grape> the sandwich?
+[20:54:27] <grape> not too much sand which was in there?
+[20:54:28] <lowkey> yep!
+[20:54:46] <lowkey> just enough crunchy bits
+[20:55:14] <grape> ok
+[20:55:27] <grape> as long as there were no pebbles in it...
+[20:56:40] <lowkey> i just ate around those
+[21:00:09] <AcidJell0> back
+[21:00:21] <lowkey> chimichanga
+[21:04:42] *** Joins: LionsMane (~don@CJ-ifj.kbt.9.173.IP)
+[21:05:13] <LionsMane> Good evening, grape 
+[21:05:23] <LionsMane> What's shakin', chicken bacon?
+[21:07:18] <grape> hi LionsMane 
+[21:07:44] <grape> no... I had not chicken bacon... I had a sweat and sour chicken stir friy
+[21:07:46] <grape> fry
+[21:19:21] <lowkey> you know its funny when someone uses the wrong email address for a financial account and you get spammed with all the emails about investment opportunities....
+[21:20:39] <lowkey> now I cant log into the account because I dont have the password
+[21:21:19] <lowkey> but I wonder how many times have they missed tips that could make them money because they can't proofread the email they put into the system
+[21:25:24] <grape> phone
+[21:26:06] <LionsMane> hahaha Indeed.
+[21:32:42] <lowkey> or even notice that they dont get their "statement ready" emails once a month
+[21:34:05] <LionsMane> Yanno, I don't trust my electric company.  They nag me to get ebills, and I don't think they can manage to send one every month.
+[21:36:05] <lowkey> I can't wait for summer.  the residential neighborhoods in Denver get their power interrupted a few times during the summer because of peak usage.  and when they have an interruption longer than X minutes, they have to pay each household about $25. which is about what I pay for three months.
+[21:36:31] <lowkey> so with a little luck, I wont pay an electric bill for 6 or 9 months
+[21:57:21] <lowkey> ok, time to read for a while
+[21:57:22] <lowkey> bbl
+[23:07:26] <LionsMane> ok back, for a while.
+[23:37:12] <grape> back
+[23:45:12] <LionsMane> front
+[23:45:58] <grape> so... how are you doing LionsMane ?
+[23:57:32] <LionsMane> Doing ok.
+[23:57:33] <LionsMane> Not great.
+[23:57:37] <LionsMane> Hanging in here.
+[23:57:48] <LionsMane> But, I do need to get running.
+[23:57:57] <LionsMane> I still want to hear about your new line manager.
+[23:58:57] <grape> well he is a nice chap... and I think we will get on better than with the old one
+[23:59:22] <grape> so that seems to be in quieter waters right now

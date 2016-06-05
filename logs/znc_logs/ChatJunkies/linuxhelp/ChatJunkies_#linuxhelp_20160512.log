@@ -1,0 +1,74 @@
+[00:14:42] <grape> I am off
+[00:14:43] <grape> ttfn
+[00:28:45] *** Quits: grape (~grape@CJ-3k1.8q0.194.90.IP) (Quit: Verlassend)
+[02:00:07] *** Quits: AcidJell0 (~andre_000@dhcp-3c-97-e-da-44-c.cpe.sourcecable.net) (Connection closed)
+[09:57:42] *** Quits: chalcedony (~llhull@adsl-72-152-76-192.asm.bellsouth.net) (Ping timeout: 121 seconds)
+[09:58:47] *** Joins: chalcedony (~llhull@CJ-f7i.cvs.152.72.IP)
+[15:31:05] *** Joins: AcidJell0 (~andre_000@dhcp-3c-97-e-da-44-c.cpe.sourcecable.net)
+[18:45:31] *** Quits: chalcedony (~llhull@CJ-f7i.cvs.152.72.IP) (Connection closed)
+[18:46:14] *** Joins: chalcedony (~llhull@CJ-f7i.cvs.152.72.IP)
+[18:54:10] *** Joins: LionsMane (~don@CJ-ipmqdb.lionsmane.org)
+[19:02:40] <LionsMane> Meh
+[20:15:48] <LionsMane> So I don't expect to be around Friday or Monday, AcidJell0
+[20:15:53] <LionsMane> Going for a riding weekend.  
+[20:16:00] <LionsMane> Looking for the good times.
+[20:23:27] <AcidJell0> haha
+[20:23:34] <AcidJell0> its going to be interesting weather at least
+[20:23:50] <AcidJell0> they say saturday and sunday will be rainy and cold
+[20:31:54] <LionsMane> Up in your neck of the woods.
+[20:32:05] <LionsMane> And I plan on going to ground on Sunday.
+[20:32:17] <LionsMane> I'll be traveling Saturday and Monday.
+[20:53:43] <AcidJell0> how much in my neck will you actually be ?
+[20:53:54] <AcidJell0> as in where exactly ?
+[20:54:15] <AcidJell0> Sunday im free from the ball and chain so i might be able to meet you if you got time
+[20:56:46] <LionsMane> I'll be in George's Mills on Friday and then heading over to Plainfield MA.  Not really close at all.
+[20:57:02] <LionsMane> But as close as i am going to get without actually going to where you are.
+[20:57:13] <LionsMane> Just a couple hours north of boston on Friday.
+[21:12:12] <LionsMane> Ohh h8 for regex
+[21:12:30] <LionsMane> I am happy when it works and sooo unhappy when it doesn't
+[21:12:40] <LionsMane> It is like I need a debugger to make it work.
+[21:18:18] <LionsMane> So I have a line that looks like this:
+[21:18:35] <LionsMane> +++ /dev/null  (revision 999)
+[21:18:53] <LionsMane> I need to get rid of everything after the null
+[21:44:23] *** Quits: Bonq (~bonkers@CJ-v64.4g4.251.162.IP) (Ping timeout: 121 seconds)
+[22:36:41] <AcidJell0> doh
+[22:36:53] <AcidJell0> i thought you might of been closer
+[22:58:38] <LionsMane> Not really, this time.
+[22:58:40] *** Quits: LionsMane (~don@CJ-ipmqdb.lionsmane.org) (Quit: Leaving.)
+[23:27:03] *** Joins: grape (~grape@CJ-3k1.8q0.194.90.IP)
+[23:28:09] <grape> hi all
+[23:34:45] *** AcidJell0 is now known as all
+[23:34:48] <all> hi grape 
+[23:36:07] <grape> hi all 
+[23:44:24] *** Joins: lowkey (~lowkey@CJ-5rs.7m7.42.192.IP)
+[23:44:37] <lowkey> boing
+[23:44:45] <lowkey> hi grape
+[23:45:07] * lowkey ignores all
+[23:46:29] <all> sup lowkey 
+[23:46:38] <all> that would make you quite ignorant :)
+[23:46:42] <grape> hi lowkey 
+[23:46:50] <grape> how are you?
+[23:46:59] <lowkey> pretty good.
+[23:47:06] <lowkey> how was your day?
+[23:48:51] <grape> hot!
+[23:48:55] <grape> summer is here....
+[23:49:03] <grape> I think we had 25 °C today... or so
+[23:49:08] <lowkey> its warmer here but not hot yet
+[23:49:11] <grape> and I saw a very good talk yesterday and today
+[23:49:36] <lowkey> cool, about what?
+[23:52:07] <grape> first one was from the royal astronomer... the one today about big data... for a change actually a good one
+[23:52:18] <grape> can I ask you a quick question about systemd?
+[23:52:45] <lowkey> fire away
+[23:53:53] <grape> how can I start a program as root but let it run as a different (system) user? like exim or apache (apache is different as it needs to start as root to open port 80)?
+[23:54:30] <lowkey> i think there's a tag to degrade the user....give me a second...
+[23:55:07] <grape> sure
+[23:55:12] <grape> I could not find anything today...
+[23:56:35] <lowkey> I do believe its the 
+[23:56:52] <lowkey> "user=" tag in the [Service] section
+[23:58:04] <grape> ok... I will have tinker with that tomorrow... too tired today
+[23:58:33] <lowkey> ok it needs a capital U
+[23:58:45] <lowkey> and you can use Group= too
+[23:58:56] <grape> I got a system group
+[23:59:06] <grape> the program I need to use is called jupyter
+[23:59:12] <grape> which is python code...
+[23:59:48] <grape> I managed to use apache as a proxy... but it needs to be started in a certain directory (else it is using / which is not good)

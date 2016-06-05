@@ -1,0 +1,1346 @@
+[00:01:40] *** Quits: Guyver2 (Guyver2@guyver2.xs4all.nl) (Connection reset by peer)
+[00:13:00] *** Quits: Tomsworld (tom@2a02:a03f:2698:3700:c90:e42a:4d09:1059) (Ping timeout: 60 seconds)
+[00:15:10] *** Joins: Tomsworld (tom@251.168-66-87.adsl-dyn.isp.belgacom.be)
+[00:15:10] *** ChanServ sets mode: +o Tomsworld
+[00:18:17] *** Quits: Sponge (Sponge@149.210.150.92) (Exit)
+[00:24:43] *** Quits: Stuiterbal (Stuit@2001:980:5281:1:80dd:c4cd:44f0:8d22) (Exit)
+[00:34:45] *** Quits: Deianeira|GPC (spam@j217177.upc-j.chello.nl) (Ping timeout: 60 seconds)
+[00:34:52] *** Quits: Ascathon (me@ascathon.com) (Connection reset by peer)
+[00:34:54] *** Joins: Ascathon (me@2a01:7c8:aac0:4e:8c97:4bb4:718:2e26)
+[00:34:59] *** Quits: grid (grid@dhcp-089-099-194-232.chello.nl) (Ping timeout: 66 seconds)
+[00:35:34] *** Quits: Remco (remco@r3m.co) (Ping timeout: 62 seconds)
+[00:35:34] *** Quits: bacobart (bart@ionosphere.nl) (Ping timeout: 62 seconds)
+[00:35:39] *** Quits: Mrwazig (mrwazoo@h102136.upc-h.chello.nl) (Connection reset by peer)
+[00:35:54] *** Joins: Mrwazig (mrwazoo@h102136.upc-h.chello.nl)
+[00:35:55] *** Quits: Aapje (user@i244127.upc-i.chello.nl) (Ping timeout: 60 seconds)
+[00:36:26] *** Quits: BlackBooster (BlackBoost@dune.landofsand.com) (Ping timeout: 61 seconds)
+[00:36:51] *** Joins: Aapje (user@i244127.upc-i.chello.nl)
+[00:38:05] *** Joins: Remco (remco@r3m.co)
+[00:40:24] *** Joins: BlackBooster (BlackBoost@dune.landofsand.com)
+[00:42:16] *** Joins: freebee666 (spam@j217177.upc-j.chello.nl)
+[00:43:29] *** Joins: bacobart (bart@ionosphere.nl)
+[00:49:41] *** Quits: Etienne (EtienneM@541F7E72.cm-5-8b.dynamic.ziggo.nl) (Ping timeout: 66 seconds)
+[00:53:21] *** Quits: Tomsworld (tom@251.168-66-87.adsl-dyn.isp.belgacom.be) (Ping timeout: 66 seconds)
+[00:58:33] *** Quits: freebee666 (spam@j217177.upc-j.chello.nl) (Ping timeout: 60 seconds)
+[00:58:42] *** Quits: bacobart (bart@ionosphere.nl) (Ping timeout: 60 seconds)
+[00:59:17] *** Quits: Aapje (user@i244127.upc-i.chello.nl) (Connection reset by peer)
+[00:59:23] *** Joins: Aapje (user@i244127.upc-i.chello.nl)
+[01:00:53] *** Quits: Xanland (home@is-aweso.me) (Ping timeout: 61 seconds)
+[01:01:36] *** Joins: Xanland (home@is-aweso.me)
+[01:03:31] *** Joins: Etienne (EtienneM@541F7E72.cm-5-8b.dynamic.ziggo.nl)
+[01:06:02] *** Joins: freebee666 (spam@j217177.upc-j.chello.nl)
+[01:06:46] *** Joins: bacobart (bart@ionosphere.nl)
+[01:14:42] *** Quits: Etienne (EtienneM@541F7E72.cm-5-8b.dynamic.ziggo.nl) (Exit)
+[01:16:23] *** Quits: klaveRCX (michiel@klaver.it) (Ping timeout: 66 seconds)
+[01:16:34] *** Joins: klaveRCX (michiel@klaver.it)
+[01:18:40] *** Joins: Etienne (EtienneM@541F7E72.cm-5-8b.dynamic.ziggo.nl)
+[02:09:22] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Ping timeout: 60 seconds)
+[03:02:21] *** Joins: Chester (Chester@c77152.upc-c.chello.nl)
+[03:15:59] *** Quits: freebee666 (spam@j217177.upc-j.chello.nl) (Ping timeout: 66 seconds)
+[03:23:15] *** Joins: freebee666 (spam@j217177.upc-j.chello.nl)
+[03:29:26] *** Quits: freebee666 (spam@j217177.upc-j.chello.nl) (Ping timeout: 60 seconds)
+[03:30:08] *** Joins: freebee666 (spam@j217177.upc-j.chello.nl)
+[03:47:30] *** Quits: zwiep (zwiep@d54c03c0d.access.telenet.be) (Ping timeout: 61 seconds)
+[03:57:07] *** Joins: zwiep (zwiep@d54c03c0d.access.telenet.be)
+[05:00:47] *** Quits: Aapje (user@i244127.upc-i.chello.nl) (Ping timeout: 66 seconds)
+[05:00:58] *** Joins: Aapje (user@i244127.upc-i.chello.nl)
+[06:14:13] <Escovan> hoi
+[06:19:17] <tozzert> meh
+[07:25:54] *** Quits: Smileface (alexander@25bc408b.ftth.concepts.nl) (Exit)
+[07:35:50] <DizzyWeb> meh^2
+[07:48:04] *** Joins: bdalenoord (bas@195.35.227.200)
+[07:54:51] *** Joins: zomertje (zomertje@pluizigenblauw.xs4all.nl)
+[07:54:51] *** ChanServ sets mode: +o zomertje
+[07:58:18] *** Joins: Kaastosti (Kaastosti@185.19.103.3)
+[07:58:21] <Kaastosti> goeeeeiemorgen! :D
+[08:03:26] *** Joins: Tomsworld (tom@2a02:a03f:2698:3700:da:ccb4:a54e:8148)
+[08:03:26] *** ChanServ sets mode: +o Tomsworld
+[08:04:58] <rogue> mogge
+[08:05:33] <Kaastosti> da's een redelijk neutrale
+[08:05:38] <Kaastosti> tijd voor koffie?
+[08:05:50] *** Quits: Tomsworld (tom@2a02:a03f:2698:3700:da:ccb4:a54e:8148) (Ping timeout: 65 seconds)
+[08:06:36] <rogue> ik zit wel mooi tussen t meh en de freaky happiness van kaastosti in he
+[08:06:50] <rogue> het is altijd tijd voor koffie
+[08:07:05] <Kaastosti> is het altijd voor koffie
+[08:07:29] <rogue> ik heb andaag 3 koffiedates
+[08:07:35] <rogue> drie! \o/
+[08:07:37] <Kaastosti> moet hier uitkijken met koffie... hij is goed, hij is sterk en je moet er veul water bij drinken
+[08:07:43] <Kaastosti> dates zelfs
+[08:07:55] <Kaastosti> met kaarsje
+[08:08:01] <Kaastosti> en bediening
+[08:08:43] <rogue> ja het is altijd tijd voor koffie
+[08:09:07] <Kaastosti> koffieeee koffieeee tiiiiijd
+[08:09:20] <Kaastosti> en het is alweer donderdag, vrolijkheid alom
+[08:09:24] <Kaastosti> want dat is bijna vrijdag
+[08:09:40] <rogue> koffiekoffiekofffie
+[08:09:54] <rogue> jap nog twee daagjes!
+[08:12:49] *** Joins: DataGhostS (vincent@5ED2C6DE.cm-7-3d.dynamic.ziggo.nl)
+[08:15:33] <Dubbeldrank> hmm, er is weer een vliegtuig kwijt
+[08:15:38] <Dubbeldrank> http://www.rtlnieuws.nl/buitenland/liveblog-vliegtuig-egyptair-tussen-parijs-en-cairo-verdwenen-vrees-voor-crash
+[08:16:25] <rogue> egyptair valt wel vaker uit de lucht, toch?
+[08:16:43] <Dubbeldrank> was die vorige ook van egyptair?
+[08:17:12] <Dubbeldrank> of was dat een russisch toestel
+[08:18:36] *** Joins: chem (chem@180.254.198.105)
+[08:18:46] *** Quits: Steff (quassel@trinity.msrv.nl) (Ping timeout: 60 seconds)
+[08:19:00] *** Joins: Steff (quassel@trinity.msrv.nl)
+[08:31:19] <Nakebod> eng, twiekurs ruklame op de radio
+[08:32:35] *** moto-moi|afk is now known as moto-moi
+[08:34:34] <rogue> dr was toen wel iemand bij egyptair tegengehouden die met een bom aan boord wilde
+[08:34:58] <rogue> en toen bleek de beveiliging in cairo een tikje ondermaats
+[08:35:28] <Nakebod> Oh ik hoor net dat er geen nederlanders bij waren.. Next!
+[08:39:46] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[08:41:02] <rogue> KOFFIE
+[08:41:09] * rogue geeft mimic een emmer koffie
+[08:41:17] <rogue> van kaastosti's werk
+[08:41:23] <rogue> dus je moet er veul bij drinken
+[08:41:59] *** Quits: zomertje (zomertje@pluizigenblauw.xs4all.nl) (Exit)
+[08:42:40] *** Joins: zomertje (zomertje@pluizigenblauw.xs4all.nl)
+[08:42:40] *** ChanServ sets mode: +o zomertje
+[08:45:37] * DizzyWeb drinkt veel koffie bij de koffie
+[08:51:30] <Kaastosti> dan mag je er inderdaad wel drie emmers water naast zetten
+[08:53:11] <DizzyWeb> Zo slecht?
+[08:55:40] *** Joins: marccom (marc@095-097-114-212.static.chello.nl)
+[08:55:50] <gdex> anders verschrompel je gok ik
+[08:57:43] *** Quits: marccom (marc@095-097-114-212.static.chello.nl) (Ping timeout: 60 seconds)
+[08:59:00] *** Joins: tbosua (tbosua@office.hostnetbv.nl)
+[09:00:49] <Kaastosti> dat laatste ja
+[09:00:58] <Kaastosti> erg goeie koffie
+[09:10:49] *** Joins: otwin (owtin@213.154.252.196)
+[09:15:10] *** Joins: marccom (marc@095-097-114-212.static.chello.nl)
+[09:16:19] *** Joins: kees (kees@office.tweaknet.net)
+[09:24:18] <SJ> mogge
+[09:35:50] *** Joins: Huigie (Huigie@D57D516A.static.ziggozakelijk.nl)
+[09:38:03] <Chiron> ze hebben bij griekenland een vuurbal in de lucht gezien
+[09:45:21] <rogue> zunne vuurbal?
+[09:47:53] *** Joins: McM (mcm@31.161.157.248)
+[09:52:03] *** Quits: McM (mcm@31.161.157.248) (Ping timeout: 61 seconds)
+[09:52:16] <kees> alleen was het vliegtuig griekenland al even voorbij?
+[09:53:02] <Chiron> ik weet niet hoe ver je dat ding nog kan zien als ie 10 kilometer hoog zit
+[09:53:19] <Chiron> en het was een griekse vissersboot
+[09:53:46] <kees> 'Greek island residents that they saw a ball of fire in the sky'
+[09:54:17] <gdex> vliegtuig geraakt door een komeet
+[09:54:18] <gdex> kan allemaal
+[09:54:26] <kees> UNCONFIRMED: From a source in the Greek Airport: The plane crashed near the Karpathos Island
+[09:54:31] *** Quits: zomertje (zomertje@pluizigenblauw.xs4all.nl) (Exit)
+[09:55:18] <kees> maar daar was hij volgens flightradar24 ook al lang voorbij
+[09:56:25] *** Joins: McM (mcm@31.161.157.248)
+[09:56:41] *** Joins: fee-tje (fee-tje@137-109-201-31.ftth.glasoperator.nl)
+[09:57:48] *** Quits: int3nz0r (int3nz0r@541A8E1B.cm-5-3c.dynamic.ziggo.nl) (Exit)
+[09:58:22] <Chiron> https://www.google.nl/maps/place/Karpathos+Island+National+Airport/@35.6367216,24.1626012,6.25z/data=!4m5!3m4!1s0x1491553e4af1e8c1:0x87bc42cade7c51d2!8m2!3d35.4204316!4d27.1469226?hl=nl seems legit
+[09:58:35] *** Joins: GodFather (p00p@a83152.upc-a.chello.nl)
+[09:58:54] <Chiron> volgens flightradar gaat het lijntje nog een kilometer of 150 door idd
+[09:59:08] <Chiron> dus 'near karpathos island' is wel redelijk ruim genomen
+[09:59:18] <Chiron> en flightradar zelf predict ook nog een gedeelte van het lijntje
+[09:59:36] <kees> https://twitter.com/flightradar24/status/733195936147509248 daar zit geen prediction op hoor
+[10:00:13] <kees> doen ze wel voor hun live view, maar dit is gewoon data die ze uit hun systemen trekken
+[10:00:20] <Chiron> ah ja
+[10:00:29] *** Quits: McM (mcm@31.161.157.248) (Ping timeout: 60 seconds)
+[10:00:58] <Chiron> als ie op 10km hoogte vliegt kan je een vliegtuig nog spotten vanaf een kilometer of 80 a 100 afstand
+[10:01:15] <kees> maar het kan natuurlijk een gijzeling/takeover zijn waarbij ze de adsb uitzetten en terugvliegen
+[10:02:22] <Chiron> mm denk het niet.. denk dat het veel simpeler is en het toestel gewoon in de lucht is gedesintegreerd, al dan niet door een bom
+[10:02:49] *** Quits: pasta (pasta@541E0197.cm-5-7a.dynamic.ziggo.nl) (Ping timeout: 61 seconds)
+[10:02:52] <kees> dat kan ook
+[10:02:57] <Chiron> tenzij je zo'n akkefietje hebt zoals met die duitse piloot, maar dat zou je dan ook in het flight path moeten zien, al schijnt het ding het laatste stukje wel harder te zijn gaan vliegen
+[10:03:48] <Kaastosti> ik denk Rusland
+[10:03:53] <Chiron> of hij stond op 100km van karpathos al in de fik, en vloog nog een stukje door, maar dan zou er toch wel een noodsignaal verstuurd moeten zijn
+[10:03:54] *** Joins: Jeroen (Jeroen@ip82-139-124-155.lijbrandt.net)
+[10:04:21] <Kaastosti> geen noodsignaal is wel raar als er iets van een kaping oid aan de gang is
+[10:04:29] <kees> aviate, navigate, communicate in die volgorde
+[10:04:51] <kees> hou ik ook aan als tweakers stuk is ;)
+[10:04:51] <Kaastosti> vlieg, een kant op... en zeg dat even
+[10:05:36] *** Joins: rhod (rhod@86.85.193.196)
+[10:05:38] <kees> hou het vlieggtuig in de lucht, weet waar je bent, en dan pas meld je het
+[10:05:41] <Chiron> als ie na karpathos een issue had weet ik niet of het handiger was om om te keren of door te vliegen naar cairo, hij moest ook nog naar beneden vanaf 10km 
+[10:05:42] *** Joins: McM (mcm@31.161.157.248)
+[10:05:51] *** Joins: int3nz0r (int3nz0r@ip5653bc1b.direct-adsl.nl)
+[10:06:12] *** Joins: pasta (pasta@541E0197.cm-5-7a.dynamic.ziggo.nl)
+[10:06:49] <Chiron> al die aluhoedjes met 'het was een raket' _O- of ze moeten een buk installatie op een rubber bootje gezet hebben
+[10:06:52] <kees> "some 130 nautical miles south of the island of Karpathos" is het nu dus
+[10:07:11] <Chiron> dat is 240 km
+[10:09:48] <Jeroen> https://www.google.com/maps/place/33%C2%B038'14.0%22N+27%C2%B007'11.9%22E/@33.637219,27.1177913,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d33.637219!4d27.11998?hl=en-US
+[10:10:17] <Chiron> duurt wel een minuutje of 6-7 voordat ie in zee stort vanaf 12 km hoogte, no idea hoever ie dan nog door zeilt in afstand
+[10:11:03] <kees> https://www.youtube.com/watch?v=Y_la2skbsT0 dat zou hem zijn
+[10:11:16] <Jeroen> wat is de glide ratio?
+[10:12:10] <chem> https://www.reddit.com/r/pics/comments/4k1fyh/3_months_in_laos_and_myanmar/ kom maar binnen met die karma
+[10:12:51] <Chiron> chem: tof!
+[10:13:06] <chem> upvote dan :P
+[10:13:21] <Jeroen> post 'f ook ff in /r/travel
+[10:13:39] <chem> Jeroen ja is wel een idee
+[10:13:48] <Chiron> hoe doe je dat? ik heb geen reddit login :+
+[10:14:07] <Jeroen> The security presence was a "usual procedure for EgyptAir planes," France's junior minister for transportation 
+[10:14:31] <chem> Jeroen done :)
+[10:14:38] <chem> Chiron je kan on the spot een account maken
+[10:14:43] <chem> geen email verificatie, geen password
+[10:14:44] <DizzyWeb> Ik heb wel een reddit login en ik weet ook niet hoe ik upvote hoor :P
+[10:14:48] <chem> alleen username kiezen en klaar :P
+[10:15:20] *** Quits: int3nz0r (int3nz0r@ip5653bc1b.direct-adsl.nl) (Exit)
+[10:16:05] <Jeroen> haha DizzyWeb 
+[10:16:08] <Jeroen> ouwe digibeet
+[10:17:01] <Jeroen> haha chemmie post in /r/mensrights
+[10:17:03] <DizzyWeb> Ik zie er geen optie voor... je zou er een linkje voor verwachten.
+[10:17:04] <Jeroen> ouwe karmahoer
+[10:17:14] *** Joins: TNO (TNO@52D9D0A2.cm-11-1d.dynamic.ziggo.nl)
+[10:17:15] <Jeroen> naast de link zie je twee pijltjes DizzyWeb 
+[10:17:17] <chem> Jeroen que?
+[10:17:17] <Jeroen> klik op die naar boven
+[10:17:22] <DizzyWeb> Lol, had ze net gevonden.
+[10:17:29] <Jeroen> https://www.reddit.com/r/MensRights/comments/2s58k3/circumcision_increases_risk_of_autism/
+[10:17:30] <chem> mensrights?
+[10:17:37] <chem> oh dat
+[10:17:45] <chem> zo dat is lang geleden :P
+[10:17:48] <chem> 3 hele punten
+[10:17:57] <Jeroen> ik zie er 4
+[10:18:03] <Jeroen> fucking reddit met z'n karma scrambling
+[10:18:10] <chem> iig te weinig
+[10:18:16] <chem> onderwaterpics ging harder
+[10:18:49] <chem> https://www.reddit.com/user/chem2/submitted/?sort=top dit dus
+[10:18:58] <Jeroen> ik heb sowieso meer comment karma
+[10:18:59] <Jeroen> aight
+[10:19:08] <Chiron> ik moet ook maar eens wat met mn azie pics doen :+ en ik wil weer terug
+[10:19:17] <chem> Chiron laatste eerst doen lijkt me :)
+[10:19:33] <Ziz> nublet
+[10:19:34] <Ziz> 3.362 linkkarma 737 reactiekarma show karma breakdown by subreddit
+[10:19:40] <Chiron> ik was er in december nog, nu eerst ff huis kopen :P
+[10:19:54] <Jeroen> linkhoer
+[10:20:00] <Jeroen> 6 link karma
+[10:20:01] <Jeroen> 1,039 comment karma
+[10:20:16] <Jeroen> en waarom staat je reddit op nederlands, Ziz :+
+[10:20:17] <Ziz> We hebben cavia's
+[10:20:22] <Ziz> engel
+[10:20:22] <Ziz> s
+[10:20:41] <Ziz> i dunno
+[10:20:42] <Ziz> tbh
+[10:20:54] <chem> Jeroen onwijze student, met al je comments
+[10:20:57] <chem> veel teveel tijd
+[10:21:03] <Jeroen> ja poe poe
+[10:21:07] <Jeroen> iets van 300 karma per jaar :+
+[10:21:24] <Ziz> Maar mijn meeste karma komt van sysadmin en citrix shit fixen voor mensen. Daarnaast cavia foto's plaatsen
+[10:21:33] <Jeroen> en de helft is van 2 askredditcomments
+[10:21:37] <gdex> chem: als het zo werk ben ik echt een keiharde werker
+[10:21:39] <Jeroen> fucking defaults
+[10:21:41] <DizzyWeb> Cavia foto's :')
+[10:22:01] <gdex> 3 link karma, 26 comment karma
+[10:22:35] <DizzyWeb> 1 link karma, 0 comment karma. Lurker much? :P
+[10:22:39] *** Joins: Robin (robin@5419F052.cm-5-2d.dynamic.ziggo.nl)
+[10:22:39] *** ChanServ sets mode: +v Robin
+[10:22:51] <gdex> jij wint DizzyWeb :+
+[10:22:54] <gdex> hardste werken van het kanaal
+[10:23:13] <kees> waar komt link karma uberhaubt vandaan?
+[10:23:20] <gdex> links die je post
+[10:23:31] <gdex> upvotes op de hele post, maar niet op self-posts
+[10:23:37] <gdex> en je hebt er standaard 1
+[10:24:04] <kees> ah
+[10:24:47] <Jeroen> ach ja
+[10:24:51] <Jeroen> reddit is toch achterlijk
+[10:25:01] <Jeroen> ik kreeg laatst downvotes omdat ik een post van een non-native speaker nuanceerde
+[10:25:11] <Jeroen> the hive mind is real
+[10:25:14] <DizzyWeb> Jij bitch.
+[10:25:35] <Jeroen> :+
+[10:25:39] <gdex> die karma doet je echt wat he Jeroen :+
+[10:25:44] <Escovan> hoi
+[10:25:50] <chem> een echte redditor is man blank 26 amerikaan student
+[10:25:51] <Jeroen> oh die karma interesseert me geen zak
+[10:25:54] <chem> deal with it :P
+[10:26:06] <Jeroen> maar waar ik me wel aan stoor is domme mensen
+[10:26:08] <gdex> de goede smiley daar is 8) chem 
+[10:26:12] <Jeroen> en alleen domme mensen geven zoiets downvotes
+[10:26:19] <chem> gdex ok dan
+[10:26:23] <gdex> dit is Jeroen: https://xkcd.com/386/
+[10:26:26] <Jeroen> je vergeet: heeft een nekbaard en woont bij z'n mammie, chem
+[10:26:29] <Escovan> define{domme mensen} ?
+[10:26:29] <Jeroen> en rookt te veel wiet
+[10:26:34] <Escovan> ah
+[10:26:53] <Jeroen> die redditobsessie met alles dat met wiet te maken heeft is ook vervelend
+[10:26:59] <DizzyWeb> En mensen die jou kennen Jeroen. Die downvoten want Jeroen.
+[10:27:03] <gdex> Jeroen: hangt er maar net vanaf waar je komt, sinds ik r/trees block zie ik er niet heel veel meer van
+[10:27:04] <Jeroen> ghehehe
+[10:27:07] <Jeroen> terecht, DizzyWeb 
+[10:27:19] <Jeroen> oh dat heb ik sowieso nooit gezien, gdex
+[10:27:25] <rogue> 1 koffiedate down, 2 to go *twitch*
+[10:27:33] <Jeroen> maar ook in /r/askreddit en andere defaults zie je het vaak terug in links en comments
+[10:27:47] <Jeroen> en in wetenschapssubs heb je het ook vaak
+[10:27:49] <gdex> alcohol ook, dus tja
+[10:27:53] <Jeroen> "wiet zorgt voor minder autisme!"
+[10:27:54] *** Quits: McM (mcm@31.161.157.248) (Ping timeout: 66 seconds)
+[10:28:00] <Jeroen> daar komen de upvotes
+[10:28:18] <Jeroen> verder zijn ze ook allemaal zo links als de pest
+[10:28:24] <Jeroen> of totaal achterlijk bekrompen
+[10:28:32] <Jeroen> er lijkt niet echt een middenweg te zijn, maar dat is de VS natuurlijk :+
+[10:28:47] <DizzyWeb> rogue doet aan koffiedates?
+[10:29:32] <rogue> ja!
+[10:29:36] *** Quits: chim0 (a@d5c53ff2.ftth.concepts.nl) (Exit)
+[10:30:00] <Jeroen> fucks for starbucks
+[10:30:20] *** Joins: McM (mcm@31.161.157.248)
+[10:31:19] <rogue> tussen t koffiedrinken door spreek ik af om koffie te gaan drinken
+[10:34:33] <DizzyWeb> Te moeilijk, ik drink gewoon koffie. En tussen het koffiedrinken door drink ik koffie.
+[10:35:10] <DizzyWeb> En tussen dat door ga ik naar de plee omdat ik zoveel koffie drink.
+[10:37:12] <chem> Jeroen ik vind r/all echt strontirritant rond halloween (ja je hebt een kostuum, big deal) en verkiezingen (south op met donald en bernie)
+[10:37:34] <Jeroen> de verkiezingen zijn al een jaar bezig ofzo nu
+[10:37:47] <Jeroen> en het duurt nog zeker 9 maanden tot de inauguratie
+[10:37:52] <Jeroen> agreed :p
+[10:38:00] <DizzyWeb> En ben er al een jaar schijtziek van.
+[10:38:04] <Jeroen> http://imgur.com/a/FRc6D
+[10:38:12] <Jeroen> pic heavy
+[10:38:14] <Jeroen> maar echt
+[10:38:22] <Jeroen> hoe typisch wil je die automobilist hebben
+[10:38:23] <Jeroen> :D
+[10:39:52] <DizzyWeb> In pyjama? :')
+[10:40:16] <Jeroen> She mentioned she'd had surgery recently on her leg which could have caused problems. If she brought that up in the police interview she would have been deemed unfit to drive for sure and the dvla (people who issue driving licences in the UK) will probably remove her licence from her
+[10:40:51] <DizzyWeb> Dus....
+[10:41:11] <chem> kan ze altijd hier in Azie gaan rijden
+[10:41:13] <DizzyWeb> Ga je autorijden terwijl je weet dat je eigenlijk niet auto kan rijden. 
+[10:41:15] <chem> still a better driver
+[10:41:24] <chem> niemand kan hier bv achteruit rijden
+[10:41:25] <Jeroen> haha
+[10:41:37] <chem> hebben ze 4 extra mensen nodig om te zwaaien en stop te roepen
+[10:41:44] <DizzyWeb> Dat kunnen de meesten hier ook niet.
+[10:42:01] <chem> we reden hier iets van 4 uur lang met een chauffeur, en we mochten er 80 ofzo
+[10:42:12] <chem> dan reed-ie 78, gaf gas, 82, gas los
+[10:42:13] <chem> repeat
+[10:42:15] <DizzyWeb> Eerlijk is eerlijk, achteruit is ook niet mijn grootste hobby.
+[10:42:17] <chem> jeeeezuuuuuuus
+[10:42:24] <chem> kap ermee en hou gewoon 1 tempo aan lampie
+[10:42:38] <DizzyWeb> Oh, ik geloof dat je chauffeur vanmorgen voor me op de A27 reed.
+[10:42:40] <chem> na 5 minuten is je nek daar echt enorm klaar mee
+[10:42:43] <DizzyWeb> Linkerbaan, zelfde tempo.
+[10:43:06] <chem> ik heb ook wel huurauto's gehad die maar niet 120 wilde rijden; 118: check, 123: check, 120: nope.
+[10:43:17] <chem> maar ja, dan ga je maar 118 of 123 rijden
+[10:43:35] <kees> mijn ervaring met azie is dat je niet vaak 120 kan rijden
+[10:43:46] <chem> true story
+[10:43:59] *** Quits: McM (mcm@31.161.157.248) (Ping timeout: 67 seconds)
+[10:44:30] <Jeroen> ik had een keer een chauf in kerala (zuiden van india) die op een tocht van ongeveer 4u zeker, en dan overdrijf ik niet, 35x verkeerd is gereden
+[10:44:38] <Jeroen> en dan ineens levensgevaarlijk uit het niets een u-turn maakte
+[10:44:55] <Jeroen> op de weg terug (precies tegenovergesteld dus) reed ie wéér 35x verkeerd ofzo
+[10:45:05] <Jeroen> dat we op een gegeven moment hadden "lul je moet hier rechts"
+[10:45:13] *** Joins: McM (mcm@31.161.157.248)
+[10:47:18] <DizzyWeb> Dat heb ik altijd als er iemand met 100 voor me rijd terwijl je 120 mag. Lul, je moet hier rechts. Of links. Als je maar weg gaat.
+[10:47:57] <DizzyWeb> rijdt*
+[10:48:31] <Jeroen> ghehe
+[10:49:10] <chem> Jeroen hehe, en waarschijnlijk rijdt-ie die route 2 x per weerk
+[10:49:24] <Jeroen> het zou me niks verbazen
+[10:49:30] <Jeroen> die kerel was sowieso een pannenkoek
+[10:49:32] <Jeroen> unfit for life
+[10:49:35] <Jeroen> die kon gewoon _niks_ :+
+[10:50:00] <chem> [x] ongeschikt
+[10:51:37] *** Quits: rhod (rhod@86.85.193.196) (Exit)
+[10:52:38] <Jeroen> UNCONFIRMED
+[10:52:38] <Jeroen> Italian news outlet reporting wreckage found off island of Karpathos
+[10:55:37] <DizzyWeb> De grote vraag zal toch zijn, wat is er gebeurd?
+[10:56:36] *** Joins: chim0 (a@d5c53ff2.ftth.concepts.nl)
+[10:57:22] *** Quits: chem (chem@180.254.198.105) (Exit)
+[10:57:55] *** Quits: McM (mcm@31.161.157.248) (Ping timeout: 67 seconds)
+[10:58:14] <kees> ja, en dat duurt nog wel een paar weken voordat we dat weten
+[10:59:26] <Chiron> hop hop op naar de zwarte doos
+[10:59:28] <Jeroen> http://www.pornhub.com/insights/eurovision-song-contest-2016
+[11:00:51] *** Joins: smesjz (smesjz@ip-80-113-15-250.ip.prioritytelecom.net)
+[11:00:57] <DizzyWeb> Filmpjes van een vuurbal in de lucht... maar die stond al op youtube 5 uur voor het vliegtuig verdween :')
+[11:01:28] <Chiron> hehe
+[11:06:41] <Kaastosti> dus toen was het al mis
+[11:06:43] *** Quits: smesjz (smesjz@ip-80-113-15-250.ip.prioritytelecom.net) (Exit)
+[11:06:50] <Kaastosti> en de piloot was te koppig om toe te geven en om te keren
+[11:06:55] <Kaastosti> neeeee, 'we redden het wel'
+[11:07:08] <Kaastosti> en maar rond blijven vliegen in je vuurbal
+[11:07:16] <Kaastosti> ja uiteindelijk gaat het dan mis
+[11:09:05] <kees> gha, buren zijn aan het verbouwen, wat een takkeherrie maken sommige machines
+[11:10:45] <Kaastosti> ja die Nespresso's zijn echt lawaaiig he!
+[11:15:56] <kees> gaten boren in muren is irritant
+[11:18:11] *** Joins: grid (grid@dhcp-089-099-194-232.chello.nl)
+[11:22:39] <Ziz> Mijn laptop is van mening dat het echt 50 graden is heir
+[11:22:43] <Ziz> blijft blazen
+[11:22:53] <gdex> terugblazen
+[11:23:04] <Ziz> Klinkt als een plan
+[11:23:05] <gdex> en als het niet helpt, natspuiten met de plantenspuit, helpt bij katten ook
+[11:23:59] <Ziz> ok!
+[11:24:09] <Ziz> Daarna System32 verwijderen. Gaat die sneller van
+[11:24:12] <gdex> inb4 Ping timeout
+[11:24:31] *** Quits: tbosua (tbosua@office.hostnetbv.nl) (Exit)
+[11:33:05] <Ziz> 2 flitsers. Beide op A9, beide dezelfde kant op
+[11:33:15] <DizzyWeb> Ok.
+[11:33:21] <Ziz> 29.9 en 26.2
+[11:33:26] <Ziz> Hoe kansoos
+[11:33:59] <DizzyWeb> Hehe :P
+[11:35:30] *** Joins: nick (nick@84-245-42-224.dsl.cambrium.nl)
+[11:36:55] <Ziz> Sow. Ik zit beetje te hobbyen in powerpoint en excel Gaat er op de gang ineens iemand HELEMAAL los op de printer.
+[11:37:05] <Ziz> hahaha
+[11:37:55] <Nakebod> umad? :+
+[11:38:00] <Ziz> ohh hemad
+[11:38:02] *** LeapingSheep is now known as LeapingSheep_znc
+[11:38:19] <Nakebod> pics van de gesloopte printer!
+[11:38:24] <Ziz> ok!
+[11:38:35] <moto-moi> office space!
+[11:39:02] <Chiron> https://sureasimbreathingnoceiling.files.wordpress.com/2014/05/office-space-gif.gif%3Fw%3D646
+[11:39:22] <Ziz> awh
+[11:39:31] <Ziz> Arm IT loop jongetje heeft hem weer in elkaar gezet
+[11:42:08] *** Joins: Tweaker_3837 (Mibbit@134-161.wlan-int.ru.nl)
+[11:43:29] *** Joins: McM (mcm@31.161.157.248)
+[11:43:58] *** LeapingSheep_znc is now known as LeapingSheep
+[11:44:12] *** Quits: Tweaker_3837 (Mibbit@134-161.wlan-int.ru.nl) (Exit)
+[11:46:15] *** Joins: Tweaker_0383 (Mibbit@134-161.wlan-int.ru.nl)
+[11:49:21] *** Quits: Tweaker_0383 (Mibbit@134-161.wlan-int.ru.nl) (Exit)
+[11:55:31] <Ziz> K. Team van 20 engineers 1 vrouw.. Zij stond op het lijstje van vorige manager als iemand die het slecht deed. Zit ook aan der 3de verlenging dus wilde haar een vast contract geven, is als het goed is vanmiddag klaar. Komt bezorgd bij mij. Ja eh. Mijn contract loopt over een maand af en eh.. Ja.. Ik moet vertellen... Ik ben zwanger..
+[11:56:28] <Ziz> Nou van harte gefeliciteerd. Met betrekking tot jou contract, ik zal hier met HR nog naar kijken.
+[11:56:28] <fee-tje> die mag je toch gewoon ontslaan als het contract afloopt
+[11:56:33] <Ziz> Ja
+[11:56:38] <Ziz> Maar wil ik niet.
+[11:56:40] <fee-tje> lekker slim om het nu al aan te kondigen
+[11:56:42] <Ziz> De vorige manager was een eikel
+[11:56:48] <Ziz> True
+[11:57:04] <Ziz> Als ik echt een ontsla klootzak was. Wat sommige hier denken :P 
+[11:57:15] <moto-moi> sommige?
+[11:57:16] <Ziz> had dat gekunt. Maar ik ga haar vanmiddag gewoon een vast contract geven
+[11:57:17] <Kaastosti> de enige vrouw... die wil je er dan over het algemeen wel bij houden
+[11:57:18] <gdex> je geeft nu eerst hoop
+[11:57:22] <gdex> en dan daarna toch ontslaan
+[11:57:30] <moto-moi> ah, da's extra evil ja
+[11:57:35] <moto-moi> that's the Ziz-way
+[11:58:01] <gdex> als Ziz dagdroomt dan bedenkt hij hoe hij al die mensen wiens baan hij behouden heeft, toch kan ontslaan
+[11:58:03] <Kaastosti> maar _waarom_ stond ze op het lijstje van mensen die het slecht deden?
+[11:58:09] *** Quits: GodFather (p00p@a83152.upc-a.chello.nl) (Exit)
+[11:58:13] *** Quits: Ziz (Mibbit@129.253.243.10) (Exit)
+[11:58:17] <gdex> oei :+
+[11:58:18] *** Joins: Ziz (Mibbit@129.253.243.10)
+[11:58:21] <Ziz> rip
+[11:58:23] <Kaastosti> en als dat echt zo is, is er dan een dossier opgebouwd?
+[11:58:32] <Ziz> Door de vorige manager
+[11:58:33] <fee-tje> ik zou dat serieus echt niet zeggen een maand voor mn contract afliep :D :D
+[11:58:36] <Ziz> Dossier opbouwen
+[11:58:36] <kees> omdat managers soms eikels zijn die het slechste in mensen naar boven halen
+[11:58:47] <gdex> kees: en vooral in zichzelf
+[11:59:07] <Kaastosti> eeeh ja... als je iemand slecht vindt presteren, moet je aan dossieropbouw gaan doen
+[11:59:13] <Kaastosti> en iemand de kans geven te verbeteren
+[11:59:14] <Ziz> Vind ik ook
+[11:59:35] <Kaastosti> anders heb je echt een slecht verhaal als je van iemand af zou willen
+[11:59:46] <Ziz> Maar die is er niet. Ze heeft vorige keer tijdens haar evaluatie een below target gehad. Ik zie wel wat punten staan om aan te werken. Maar niet echt enge dingen
+[11:59:48] <Kaastosti> ja nee, het gaat al jaaaaren niet goed, dat zie ik al heel lang... dus
+[11:59:56] *** Joins: GodFather (p00p@a83152.upc-a.chello.nl)
+[12:00:02] <Kaastosti> below target lijkjt me meetbaar
+[12:00:15] <Kaastosti> anders zet je geen target neer
+[12:00:28] <Ziz> Targets worden door de mensen zelf neergezet
+[12:00:35] <Kaastosti> helemaal prima
+[12:00:36] <Ziz> Goed gekeurd door de manager.
+[12:00:45] <Ziz> En na een half jaar ga je kijken hoe het ging
+[12:00:46] <Kaastosti> en daarna getoetst
+[12:00:54] <Ziz> Juist
+[12:00:54] <Ziz> Maar
+[12:01:06] <Kaastosti> en hier komt het :P
+[12:01:54] <Ziz> De targets die ze stelde waren niet smart. Vaag to say the least. Alsnog goed gekeurd door de manager, en na een half jaar heeft ze de meeste vage targets niet gehaald omdat de interpertatie van de manager anders was.
+[12:02:14] <Ziz> Zo haal je een goed systeem onderuit ja,.
+[12:02:14] <Kaastosti> vage targets... zucht
+[12:02:23] <Ziz> Ja ff zoeken
+[12:02:28] <Ziz> Was een hele mooie hahaha
+[12:02:45] <Kaastosti> "werken aan verbetering van het systeem"
+[12:03:17] *** Quits: McM (mcm@31.161.157.248) (Ping timeout: 60 seconds)
+[12:03:39] <Ziz> Oh ja. Ze moeten 1 development goal hebben. "I will try to improve future processes regarding helpdesk and business solutions. The current set seem to work now but might become inefficient in the future".
+[12:03:43] <Ziz> lolwhut
+[12:03:54] <Kaastosti> "try" daar gaat het al mis
+[12:03:58] <Ziz> ja
+[12:03:58] <Kaastosti> per definitie geslaagd
+[12:04:28] <Ziz> Dus je gaat proberen een process te verbeteren die werkt maar in de ondefineerbare toekomst misschien niet werkt
+[12:04:45] <Kaastosti> nee, zelfs dat niet
+[12:04:49] <Kaastosti> het _lijkt_ te werken
+[12:04:57] <Ziz> Oh ja. En de processen die je wilt verbeteren niet defineren.
+[12:05:05] <Ziz> anyhow.
+[12:05:28] <Ziz> Denk maar eens dat ik mensen moet gaan introduceren met SMART goals.
+[12:05:38] <Kaastosti> sounds like a SMART move :P
+[12:05:44] <rogue> padum tish
+[12:05:47] <Ziz> :P
+[12:05:53] <Kaastosti> en een contract aanbieden geeft ook wel een positieve vibe
+[12:05:59] <Ziz> Ja
+[12:06:06] <Ziz> Kan wel zeggen je hebt het kut gedaan vorige keer
+[12:06:13] <Ziz> Maar niet zeggen wat kut ging :P
+[12:06:17] <Ziz> want het is allemaal vaag
+[12:06:17] <Kaastosti> geen misbruik maken van de omstandigheden, gewoon open en eerlijk
+[12:06:41] <Kaastosti> dat kun je wel als stok achter de deur hebben natuurlijk... prima, maar we gaan het wel meetbaar maken
+[12:06:42] <Ziz> Dus ze krijgt van mij een vast contract. Mag lekker gaan werken aan smart goals. 1 daar van is een gezond kind op de wereld zetten
+[12:06:55] <gdex> is gezond meetbaar genoeg?
+[12:06:59] <Kaastosti> nee
+[12:07:09] <Kaastosti> dat is aan interpretatie onderhevig
+[12:07:17] <Kaastosti> in 1 stuk, dat helpt al
+[12:07:18] <Ziz> Ik ga niet alle lichaamsdelen defineren
+[12:07:19] <Ziz> hahahah
+[12:07:22] <gdex> :P
+[12:07:26] <Kaastosti> aldanniet met Schwanz
+[12:07:31] <Ziz> Hoe kut is het. Heeft dat kind een dingetje
+[12:07:34] <Kaastosti> da's een XOR
+[12:07:37] <Ziz> Faalt ze in haar target op het werk
+[12:07:41] <Kaastosti> haha
+[12:07:54] <Ziz> Ja sorry geen bonus want je kind is een downie
+[12:07:59] <Kaastosti> 'waar hoop je op?' -DAT HET _GEEN_ PIEMEL HEEFT
+[12:08:10] <Kaastosti> staat in m'n contract dat dat niet mag
+[12:08:20] <Ziz> Maar goed.
+[12:08:41] <Kaastosti> ja ga maar weer aan het werk
+[12:08:47] *** Joins: tbosua (tbosua@office.hostnetbv.nl)
+[12:08:49] <Kaastosti> de rest van de afdeling er uit tyfen :P
+[12:09:01] <Kaastosti> zit ze daar alleen...
+[12:11:44] <Ziz> lol
+[12:11:56] <Ziz> Vast contract maar niemand omdat mee te vieren 
+[12:12:00] <Kaastosti> dat heeft m'n zusje nu
+[12:12:10] *** Quits: GodFather (p00p@a83152.upc-a.chello.nl) (Exit)
+[12:12:11] <Kaastosti> hele tent ontslagen, maar ze is zwanger, dus dat mag niet
+[12:12:24] <Ziz> lol
+[12:12:33] <Ziz> Alles in de tent 50%
+[12:14:04] <Jeroen> wat is illustrator toch een hoerig traag programma
+[12:15:20] <Kaastosti> jij bent gewoon te snel Jeroen
+[12:15:33] <Jeroen> jwz
+[12:16:36] <rogue> that's what she said
+[12:18:23] <Kaastosti> padum tish
+[12:18:53] <Kaastosti> nou dan gaan we maar eens een broodje scoren
+[12:19:05] *** Joins: Saggler (Saggler@131-052-158-163.dynamic.caiway.nl)
+[12:21:17] <DizzyWeb> Tis gvd koud hier.
+[12:23:05] <rogue> kut voor je
+[12:23:08] <rogue> vrouw
+[12:23:43] <Jeroen> dr<tab>
+[12:23:46] <Jeroen> waar zit die jongen nu weer
+[12:23:51] <Jeroen> 't is niet alsof ie aan het werk is
+[12:23:52] <gdex> te werken
+[12:23:55] <gdex> zouden meer mensen moeten doen
+[12:24:15] <Jeroen> pff arbeiders
+[12:39:10] *** Quits: fee-tje (fee-tje@137-109-201-31.ftth.glasoperator.nl) (Exit)
+[12:40:08] *** Quits: Jeroen (Jeroen@ip82-139-124-155.lijbrandt.net) (Exit)
+[12:40:30] *** Quits: nick (nick@84-245-42-224.dsl.cambrium.nl) (Ping timeout: 60 seconds)
+[12:45:39] <jasper> heej. drawert is er niet
+[12:51:37] *** Quits: A1AD (jeron@d54c0bed2.access.telenet.be) (Ping timeout: 60 seconds)
+[12:54:41] <Kaastosti> ja we zijn allemaal een beetje van slag
+[12:59:34] <Ziz> posters ophangen met zijn hoofd. vermist. Drawer. Indien gevonden bel amivedi
+[13:00:58] *** Joins: A1AD (jeron@d54c0bed2.access.telenet.be)
+[13:01:36] *** Joins: Drawer (Mibbit@80.255.245.203)
+[13:01:47] <Drawer> hello
+[13:02:29] <Kaastosti> en daar is hij!
+[13:02:38] <Kaastosti> 's Neerlandsch hoop in bange dagen
+[13:02:53] <Kaastosti> laduh
+[13:03:04] <jasper> heej! jou zocht ik. sort by price is useless op searchingpanda!
+[13:03:06] <Ziz> en Drawer is er ook
+[13:03:15] <Drawer> oh
+[13:03:17] <Drawer> dat kan jasper
+[13:03:18] <Ziz> Kaastosti: 
+[13:03:20] <jasper> </klagen>
+[13:03:36] * mimic paast de rogue een bakje koffie
+[13:03:43] <Drawer> hij werkt toch jasper 
+[13:03:43] <jasper> of heb je die site al verkocht aan een rijke venture capitalist?
+[13:03:47] <Drawer> \o/
+[13:03:49] <Drawer> neuh
+[13:03:58] *** Quits: grid (grid@dhcp-089-099-194-232.chello.nl) (Ping timeout: 61 seconds)
+[13:04:24] <Kaastosti> een dubieuze panda fetisjist met een voorliefde voor zoeken
+[13:04:31] <jasper> het probleem is mer dat als je meer dan 1 zoekterm hebt, dan zijn je Most Relevant degenen die het allemaal hebben, maar als je sort by price dan is het dom OR en dan sort by price, wat eigenlijk nooit is wat je wil
+[13:04:41] <Drawer> ja klopt
+[13:04:46] <Drawer> t is niet heel erg goed :P
+[13:04:55] <Drawer> elasticsearch is best pittig
+[13:04:59] <jasper> dat was mijn punt ja :)
+[13:05:10] <jasper> yeah, ik weet het, het is geen solved problem
+[13:05:25] <jasper> maar goed, feedback geven enzo
+[13:05:31] <Drawer> zeker
+[13:05:37] <Drawer> moet t eens goed gaan onder handen nemene
+[13:05:39] <Drawer> maar geen zin/tijd
+[13:05:52] <jasper> (zou een and/or switch mogelijk zijn?
+[13:05:54] <jasper> )
+[13:06:06] <jasper> gewoon een vinkje ergens ernaast
+[13:06:15] <Drawer> het is and volgens mij hoor
+[13:06:40] <jasper> https://searchingpanda.com/search/cps-3205%2Bpower%2Bsupply?sort=price-lowtohigh <- rly?
+[13:06:53] <Drawer> die krijg je ook als je op iphone case zoekt
+[13:06:56] <Drawer> en low-high doet
+[13:06:57] <Drawer> :D
+[13:07:22] <jasper> some of them, idd
+[13:07:25] <jasper> wtf dude :)
+[13:08:29] <jasper> (overigens: de Relevance sortering is pretty good)
+[13:08:46] <Drawer> juh
+[13:09:03] *** Joins: Jeroen (Jeroen@ip82-139-124-155.lijbrandt.net)
+[13:09:14] <Drawer> http://www.wooniezie.nl/woningaanbod/socialehuur/zoekresultaat/alles
+[13:09:16] <Drawer> kijk dit
+[13:09:21] <Drawer> overal 200-300 man die reageert
+[13:09:22] <Drawer> op 1 woning
+[13:09:23] <Drawer> :D
+[13:09:24] <Jeroen> één ding moet je weten
+[13:09:28] <Jeroen> heel stoer aan de buitenkant
+[13:09:33] <Jeroen> van binnen niets aan de hand
+[13:09:36] <Drawer> t schijnt een roddel te zijn Jeroen 
+[13:09:36] <Drawer> :(
+[13:09:39] <Jeroen> o
+[13:09:40] <Jeroen> ghey
+[13:10:19] <Jeroen> gelukkig heb ik risotto met kip
+[13:10:43] <jasper> waar heeft die jeroen het nou weer over?
+[13:10:45] <Dubbeldrank> zeg, zal ik eens even een open deur intrappen? 
+[13:10:49] <Dubbeldrank> http://www.telegraaf.nl/binnenland/25820041/__Milieuzone_in_stad_blijkt_zinloos__.html
+[13:11:14] <jasper> Telegraaf vindt milieu zinloos, film at eleven
+[13:11:28] <gdex> ik heb elders genuanceerdere conclusies gehoord Dubbeldrank 
+[13:11:29] <Jeroen> http://www.omroepbrabant.nl/?news/249321652/Meidengroep+OG3NE+uit+Fijnaart+naar+het+songfestival+in+2017+in+Kiev.aspx jasper 
+[13:11:35] <Dubbeldrank> jasper leest nuiet en lult maar wat
+[13:11:54] <gdex> bijvoorbeeld http://nos.nl/artikel/2105884-utrechtse-lucht-vermoedelijk-schoner-door-milieuzone.html
+[13:12:10] <Jeroen> De uitkomst van het TNO-rapport verbaast VVD-Kamerlid Barbara Visser niet. „We moeten Europese afspraken maken. Lucht houdt zich niet aan gemeentegrenzen. Wat wil Utrecht, een hek om de stad?”
+[13:12:22] <Jeroen> volgens barbara visser is het in lapland ook dezelfde temperatuur als in de sahara
+[13:12:23] <Chiron> under the dome
+[13:12:30] <jasper> Dubbeldrank: of misschien hoef ik het neit te lezen omdat ik weet op welke site het staat en dus ook wat erin staat
+[13:12:42] <jasper> en inderdaad: er staat precies in wat je denkt uit telegraaf + headline
+[13:12:43] <Dubbeldrank> oh, je bent er zo 1
+[13:12:49] <gdex> ik heb nog geen slim woord uit die barbara visser horen komen
+[13:12:56] <Dubbeldrank> nee ok, oordelen zonder iets te weten
+[13:13:06] *** Joins: Tweaker_0019 (Mibbit@46.44.189.34)
+[13:13:18] *** Quits: Tweaker_0019 (Mibbit@46.44.189.34) (Exit)
+[13:13:18] <gdex> Dubbeldrank: het rapport zegt, voor zover ik heb kunnen nagaan, "luchtkwaliteit in utrecht is relatief meer verbeterd dan andere grote steden, het zou aan de milieuzone kunnen liggen maar dat is niet te bewijzen"
+[13:13:21] <SJ> Rotterdam zelfde verhaal 
+[13:13:39] <Dubbeldrank> Rotterdam is niet te redden
+[13:13:46] <SJ> milieuzones zijn kansloos 
+[13:13:48] <Dubbeldrank> maar dat komt meer door de industrie er omheen
+[13:13:51] <Huigie> plat ermee
+[13:13:51] <gdex> lefty-spin: "milieuzone verbetert luchtkwaliteit", telegraaf-spin: "bewezen dat milieuzone niet helpt"
+[13:13:56] <gdex> realiteit: "geen idee"
+[13:14:12] <SJ> Huigie: hebben de duitsers al geprobeerd, is niet gelukt 
+[13:14:24] <jasper> gdex: exact dat
+[13:14:38] <Dubbeldrank> mja, in Duitsland moet je die vignetten hebben, en nog een aantal verschillende ook
+[13:14:48] <gdex> verschillende inmiddels?
+[13:14:48] <SJ> verschillende?
+[13:14:51] <SJ> nee jog
+[13:14:53] <gdex> je hebt toch gewoon die rood/geel/groene dingen
+[13:14:55] <moto-moi> gewoon 1 per kar?
+[13:14:59] <SJ> is er nog steeds 1 per auto 
+[13:15:08] <SJ> ik heb er net 1 besteld ;-) 
+[13:15:11] <Dubbeldrank> ja, maar als je in verschillende steden komt met andere kleuren?
+[13:15:15] <SJ> nee
+[13:15:24] <moto-moi> je hebt een kleur en dan mag je wel of niet naar binnen
+[13:15:25] <Jeroen> hebben we niet gewoon het rapport zelf
+[13:15:25] <gdex> in italie moet je een vergunning aanvragen, en niet hebben en toch de zone inrijden is ka-ching paar honderd euro boete
+[13:15:32] <Jeroen> of wordt dat weer geheim gehouden
+[13:15:33] <gdex> automagisch met camera's op 10m achter het bord
+[13:15:34] <SJ> die andere kleuren zijn afhankelijk van de uitstoot
+[13:15:35] <jasper> zijn die kleuren niet gewoon van "mijn auto is kut/gaat/woehoe!"?
+[13:15:42] <SJ> ja, dat 
+[13:15:42] <moto-moi> jasper: jup
+[13:15:44] <gdex> Jeroen: tno-rapporten zijn volgens mij doorgaans niet gratis in te zien
+[13:15:48] <Dubbeldrank> oh ok
+[13:15:50] <gdex> kan het mishebben tho
+[13:15:55] <moto-moi> Dubbeldrank: paniekzaaier!
+[13:16:01] <Dubbeldrank> hoe kutter je auto, hoe roder het wordt
+[13:16:12] <jasper> dit TNO rapport zal wel in opdracht van de gemeente utrecht zijn gemaakt
+[13:16:12] <SJ> die milieuzone in rotterdam is helemaal bizar 
+[13:16:23] <jasper> als ik het nos dingetje lees
+[13:16:24] <SJ> je kan 4 keer per jaar ontheffing voor 24 uur aanvragen 
+[13:16:24] <Dubbeldrank> dat denk ik ook jasper
+[13:16:30] <SJ> kost maar 29,- !
+[13:16:37] <jasper> dus met een beetje geluk is ie publiek aan de stukken van de meneeteraad toegevoegd oid
+[13:16:48] <jasper> gemeenteraad
+[13:16:54] <gdex> WOBben die hap
+[13:16:57] <moto-moi> meneerrraad
+[13:17:05] <jasper> (wtf keyboard, hoe kwam je daar nou bij)
+[13:17:06] <SJ> plus dat ik het bizar vind dat alles over 1 kam geschoren wordt 
+[13:17:12] <Dubbeldrank> als je op het Neude zit wordt je nog steeds vergast door de stadsbussen
+[13:17:13] <Jeroen> https://pbs.twimg.com/media/Ciz1VMcVEAAAG-A.jpg
+[13:17:28] <SJ> "Ik ga altijd op de fiets naar m'n werk maar ik heb wel een klassieke auto" Jammer dan
+[13:17:52] <jasper> zoals ik het zie is die milieuzone met name een manier om tegelijkertijd de gemeentekas te spekken en bewoners aan te sporen om hun ouwe kutdiesels eindelijk te vervangen
+[13:18:10] <jasper> nou zou ik persoonlijk liever een emissietest zien dan een jaartal, maar soit, je doet het met wat je kan
+[13:18:17] <SJ> jasper: ja, dat 
+[13:18:19] <gdex> SJ: dan parkeer je die klassieke auto lekker in een garagebox buiten de zone
+[13:18:20] *** Quits: Saggler (Saggler@131-052-158-163.dynamic.caiway.nl) (Exit)
+[13:18:35] <gdex> als je uitzonderingen gaat stapelen schiet het ook niet op
+[13:18:35] <SJ> gdex: omdat?
+[13:18:35] <Dubbeldrank> België wil nu ook tol gaan invoeren voor iedereen net als Duitsland
+[13:18:41] <gdex> omdat hij de stad niet in mag
+[13:18:42] <gdex> zo simpel is het
+[13:18:53] <jasper> Dubbeldrank: De nieuwe stadsbussen zijn best goed tegenwoordig
+[13:18:53] <SJ> gdex: ja, en dat vind ik volstrekt bezopen 
+[13:18:57] <Jeroen> er zijn ook uitzonderingen afaik
+[13:18:58] <jasper> niet te vergelijken emt 20 jaar geleden
+[13:19:10] <Dubbeldrank> nee klopt, maar ze stinken nog steeds
+[13:19:11] <gdex> SJ: je vindt milieuzones uberhaupt bezopen?
+[13:19:15] <SJ> gdex: ja 
+[13:19:18] <gdex> ok, dat mag
+[13:19:21] <Dubbeldrank> auto's zijn ook niet te vergelijken met 20 jaar geleden
+[13:19:27] <jasper> precies
+[13:19:30] <Jeroen> http://nos.nl/artikel/2075894-kamer-wil-af-van-milieuzones-voor-auto-s.html
+[13:19:32] <Jeroen> overigens
+[13:19:33] <Dubbeldrank> maar geen zwarte wolken meer iig
+[13:19:33] <gdex> zolang je maar niet gaat roepen dat het in 1 situatie wel bezopen is en in de andere niet
+[13:19:35] <jasper> en daarom mogen de autos van 20 jaar geleden er dus neit in
+[13:19:37] <jasper> cirkeltje is rond
+[13:19:59] <SJ> gdex: ik kan me voorstellen dat je vervuilend vrachtverkeer niet in je centrum wil hebben  
+[13:20:08] <gdex> Dubbeldrank: er komt waarschijnlijk zelfs een regeling om de overgang naar volledig elektrische stadsbussen te versnellen
+[13:20:24] <SJ> maar ik vind het raar dat de 'buckshot approach' wordt toegepast 
+[13:20:29] <Dubbeldrank> in Utrecht rijden al elektrische bussen
+[13:20:33] <gdex> ja, 3
+[13:20:35] <jasper> overigens, dat het verwarrend is is bullshit
+[13:20:38] <Dubbeldrank> oh :D
+[13:20:42] <gdex> SJ: het is de meest eerlijke manier die er is
+[13:20:45] <Dubbeldrank> nou, dan heb ik er toevallig in gezeten 
+[13:20:50] <SJ> nee, dat ben ik niet met je eens 
+[13:20:50] <gdex> anders krijg je mensen die net wel of net niet een uitzondering zijn
+[13:20:51] <jasper> de milieuzone is de binnenstad plus het hoekje wittevrouwen
+[13:20:54] <gdex> Dubbeldrank: lijn 2?
+[13:20:57] <jasper> en er staan overal borden
+[13:21:07] <Dubbeldrank> komt die langs het ledig erf?
+[13:21:07] <Drawer> zo
+[13:21:10] <Jeroen> "er staan overal borden"
+[13:21:11] <jasper> lijn 2 is die elektrisch of hybride?
+[13:21:11] <gdex> ja
+[13:21:11] <Jeroen> ja
+[13:21:11] <Jeroen> leuk
+[13:21:12] <Dubbeldrank> geen idee welke dat is
+[13:21:12] <Drawer> ODB2 sensor met bluetootj gekocht
+[13:21:14] <Drawer> zou dat werken?
+[13:21:15] <Drawer> 4 euro
+[13:21:17] <Dubbeldrank> ah
+[13:21:19] <gdex> kleine busjes
+[13:21:19] <SJ> de oude diesels voor dagelijks gebruik, of de oldtimer die 12 keer per jaar gereden wordt vind ik nogal een verschil 
+[13:21:20] <jasper> lijn 2 is het binnenstad lijntje
+[13:21:21] <Drawer> torque app erbij
+[13:21:22] <gdex> sommige met nijntje erop
+[13:21:23] <Dubbeldrank> nou, die dus gdex
+[13:21:25] <Dubbeldrank> jup
+[13:21:26] <Jeroen> het is rotterdam ook zo onduidelijk als de tyfus
+[13:21:31] <Dubbeldrank> reed verder prima
+[13:21:33] <jasper> vroeger reed die nog daadwerkelijk onder de dom door
+[13:21:34] <gdex> dat is de enige lijn die een paar elektrische bussen heeft
+[13:21:40] <jasper> over de mariaplaatse naar de dom
+[13:21:47] <gdex> de rest is redelijk efficiente diesel
+[13:21:49] <Jeroen> in lettertype 14 staat op een of ander kutbordje welke auto's er precies niet mogen komen
+[13:21:56] <Jeroen> probeer dat maar eens te lezen
+[13:21:58] *** Quits: kees (kees@office.tweaknet.net) (Input/output error)
+[13:21:59] <Dubbeldrank> i see
+[13:22:05] <gdex> SJ: het is een verschil, maar in de praktijk kun je dat verschil niet eerlijk in de wet vastleggen
+[13:22:12] <gdex> is 14 dagen per jaar ermee rijden net wel te veel?
+[13:22:15] <jasper> Jeroen: Right, want je weet niet dat je auto een oudm kutkreng is...
+[13:22:15] <gdex> en hoe ga je het controleren?
+[13:22:28] <Jeroen> jasper is een diesel uit 2000 zo stokoud
+[13:22:30] <Jeroen> ?
+[13:22:35] <jasper> 16? ja
+[13:22:39] <SJ> gdex: daarnaast, de gemeente rotterdam weigert om de effecten te meten 
+[13:22:39] <gdex> Jeroen: bij twijfel gewoon niet er inrijden
+[13:22:48] <gdex> dat is kwalijk ja SJ 
+[13:22:50] <Jeroen> het is niet alsof je daar makkelijk kan stoppen, gdex :+
+[13:23:06] <gdex> volgens mij heb je uit alle richtingen al vooraankondigingen Jeroen 
+[13:23:07] <Jeroen> mijn auto mag rotterdam gewoon in maar ik had ook zoiets van "eh, milieuzone?"
+[13:23:09] <gdex> iig op de hoofdwegen wel
+[13:23:13] <Jeroen> op internet dus op moeten zoeken of ik erin mocht of niet
+[13:23:24] <gdex> maar in duitsland hebben ze dat wel beter voor elkaar
+[13:23:30] <Jeroen> ja leuk, dan rijd je op een hoofdweg als iemand die er niet bekend is
+[13:23:30] <jasper> jeroen: oh, dus je hebt het bord neit hoeven lezen
+[13:23:34] <jasper> PROBLEM SOLVED
+[13:23:37] <gdex> mgoed, dat gaat hier niet gebeuren zolang de VVD landelijk een vinger in de pap heeft
+[13:23:46] <Jeroen> ja jasper, want als je daar als onbekende komt ga je ff googelen, midden op de weg
+[13:23:47] <Jeroen> 8)7
+[13:24:02] <jasper> bij twijfel niet inrijden :)
+[13:24:05] <SJ> "In oktober 2015 liet de gemeente Rotterdam nogmaals een autotelling uitvoeren. Daaruit bleek dat het percentage personen- en bestelvoertuigen (diesel) in werkelijkheid ruim de helft lager ligt dan in 2012 werd verondersteld. En voor benzineverkeer lag dit percentage zelfs driekwart lager."
+[13:24:24] <gdex> idd wat jasper zegt, bij twijfel niet inrijden
+[13:24:25] <Jeroen> jasper ja dat is handig als je ergens moet zijn
+[13:24:28] <Jeroen> :D
+[13:24:34] <gdex> in italie snap ik die borden ook niet
+[13:24:38] <gdex> er zijn tig uitzonderingen op die milieuzones
+[13:24:43] <gdex> bij twijfel gewoon niet erheen
+[13:24:50] <gdex> als je daar in die zone moet zijn heb je ook pech
+[13:24:59] <Jeroen> het is in rotterdam niet alleen de binnenstad he
+[13:25:02] <SJ> nope 
+[13:25:10] <gdex> geen idee, kom daar nooit
+[13:25:17] <Jeroen> als je daar de a16 af rijdt bij de brienenoord kom je na 100m zo'n bordje tegen
+[13:25:19] <gdex> enige wat ik daar ooit doe is de lucht vervuilen vanaf de snelweg :+
+[13:25:22] <SJ> het is veel meer dan dat 
+[13:25:28] <Jeroen> leuk als je over 20min een afspraak hebt
+[13:25:33] <jasper> aaaaaanyway
+[13:25:42] <Jeroen> jullie hebben geen auto zeker :+
+[13:25:52] <jasper> dan had je maar neit in een oud wrak moeten rijden!
+[13:26:01] <gdex> jawel Jeroen 
+[13:26:04] <gdex> maar ik plan mijn reizen
+[13:26:09] <SJ> of in een leuke klassieker 
+[13:26:12] <gdex> en wat jasper zegt, mijn auto is 10 jaar oud ipv 20
+[13:26:23] <Jeroen> de mijne 19 maar dat is gelukkig een benzine
+[13:26:23] <SJ> die veelal (nagenoeg altijd) op bezine rijden 
+[13:26:38] <jasper> SJ: Bezine mag dan ook ouder zijn
+[13:26:52] <SJ> jasper: ja, maar niet oud genoeg veelal 
+[13:27:06] <jasper> maar de overjarige benzine-autos, of het nou "leuke klassiekers" zijn of niet, zijn meestal ook best wel smerig
+[13:27:23] <SJ> jasper: hoe vaak zie je die in je stadscentrum ?
+[13:27:29] <Jeroen> ik ben niet tegen het concept milieuzone maar ik denk dat we er nog eens goed naar moeten kijken met wetenschappelijke bewijzen en vooral _niet_ gemeenten plaatselijk moeten laten aankloten
+[13:27:31] <jasper> en als je hem hebt om in het weekend leuke toertochtjes te maken dan hoef je dus niet de binnenstad in
+[13:27:31] <gdex> inmiddels niet meer SJ 
+[13:27:34] <gdex> want het mag niet meer :+
+[13:27:44] <jasper> yeah dat
+[13:27:49] <SJ> jasper: en vooral, naar rotterdams model kun je 4 keer per jaar met een ontheffing gewoon de binnenstad inrijden 
+[13:27:52] <gdex> Jeroen: ik ben voor een landelijk milieuzone systeem
+[13:27:58] <jasper> overjarige benzine autos kwam je vroeger nog best tegen
+[13:27:59] <SJ> a 29 euro 
+[13:28:02] <Jeroen> áls het werkt zou dat een oplossing zijn
+[13:28:06] <Jeroen> vooralsnog betwijfel ik het, gdex
+[13:28:11] <SJ> het is pure symboolpolitiek 
+[13:28:15] <gdex> al is het maar om de binnensteden rustiger te maken, wat ook en mooi bij-effect is
+[13:28:17] <Jeroen> daar lijkt het sterk op
+[13:28:17] <jasper> wat mij betreft doen we het op z'n duits
+[13:28:25] <Jeroen> daar zijn andere methoden voor, gdex
+[13:28:28] <gdex> tuurlijk
+[13:28:30] <Drawer> zeker geen auto he jasper !
+[13:28:32] <gdex> ik denk trouwens dat het wel helpt
+[13:28:35] <Jeroen> en betere methoden
+[13:28:36] <Jeroen> vooral
+[13:28:36] <gdex> misschien niet veel, maar alle beetjes helpen
+[13:28:39] <gdex> en er is geen bewijs voor of tegen
+[13:28:49] <jasper> met een kleurtje die zo mag voeren obv kenteken, plus een uitzondering als je een emissietest doet
+[13:28:51] <Jeroen> ja maar je straft nu onevenredig om je zij-effect te bewerkstelligen
+[13:29:02] <gdex> ok Jeroen, vergeet dat zij-effect
+[13:29:06] <SJ> Jeroen: dat ja 
+[13:29:06] <gdex> je hebt gelijk
+[13:29:17] <gdex> (lijst dit in, dat ga ik niet vaak zeggen ;))
+[13:29:20] <Jeroen> :+
+[13:29:24] <jasper> voor rustiger maakt het geen fluit uit
+[13:29:29] <Tomcat_ha> https://www.theguardian.com/science/2016/may/18/complex-life-on-earth-began-billion-years-earlier-than-previously-thought-study-argues?CMP=twt_a-science_b-gdnscience huh
+[13:29:30] <Jeroen> in delft heb je bepaalde delen waar maar 1 auto per kwartier de binnenstad in mag
+[13:29:32] <Jeroen> doe dan zoiets
+[13:29:42] <gdex> wut
+[13:29:46] <gdex> vind ik ook krom
+[13:29:47] <Jeroen> grachten he
+[13:29:48] <Drawer> lol
+[13:29:50] <jasper> laten we wel wezen, het percentage ouwe kutauto's is zo hoog niet.
+[13:29:52] <Jeroen> sommige stukken zijn echt niet geschikt voor auto's
+[13:29:53] <gdex> maargoed, delft :+
+[13:29:54] <Drawer> kutdelft
+[13:29:56] <Jeroen> maar je zou maar eens moeten verhuizen
+[13:30:02] <jasper> Wat dfat betreft is een loden-style congestion charge *wel* effectief
+[13:30:06] <jasper> *londen
+[13:30:12] <SJ> jasper: en veel lager dan vooraf was ingeschat 
+[13:30:21] <Jeroen> totdat de rijken schonere auto's kunnen kopen, jasper 
+[13:30:26] <Jeroen> ik dacht dat jij tegen ongelijkheid was :+
+[13:30:30] <SJ> de regels voor youngtimers en oldtimers zijn al aangescherpt 
+[13:30:35] <gdex> relatief aan je inkomen maken Jeroen 
+[13:30:35] <gdex> opgelost
+[13:30:40] <Jeroen> ghehe
+[13:30:47] <gdex> alles relatief aan je inkomen
+[13:30:47] <gdex> stukken beter
+[13:30:53] <jasper> jeroen: Congestion charge moet je geen uitzonderingen op maken voor schone autos
+[13:30:59] <jasper> congestion is congestion, niet milieu
+[13:31:01] <Jeroen> dat is nu wel
+[13:31:05] <jasper> I know
+[13:31:07] <SJ> gdex: aha! Allemaal even arm! :) 
+[13:31:24] <jasper> dus ik bedoel dan ook het platonische ideaal van een congestion charge en niet zoals ie nu is ingeschaald :)
+[13:31:26] <gdex> nah SJ, maar als je een miljoen per jaar op je rekening krijgt is 100 euro voor een snelheidsovertreding peanuts
+[13:31:30] <Jeroen> laten we ook niet vergeten dat londen natuurlijk onvergelijkbaar is met fucking utrecht
+[13:31:32] <Jeroen> laat staan rotterdam
+[13:31:35] <gdex> en bij minimumloon is het belachelijk veel
+[13:31:40] <SJ> gdex: sure, ik snap je ;-) 
+[13:31:54] <Jeroen> dat is een andere discussie, gdex :+
+[13:32:13] <gdex> klopt Jeroen 
+[13:32:28] <jasper> Jeroen: het is een andere problematiek entirely, maar ook in o0nze nederlandse steden hebben we net zo goed congestie als in de londense binnenstad.
+[13:33:01] <Jeroen> overigens werkt in rotterdam, net als in londen, de park+ride redelijk
+[13:33:04] <Jeroen> want metro
+[13:33:07] <jasper> de hoeveelheid auto's in abxolute termen is veel kleiner, maar de capaciteit van de weggetjes in onze binnensteden ook
+[13:33:12] <gdex> die P+R is prima ja Jeroen 
+[13:33:18] <gdex> hell, in den bosch heb je ook nog een prima P+R met een bus
+[13:33:29] <Jeroen> mja P+R met de bus, daar begin ik niet aan :+
+[13:33:30] <jasper> P+R westraven en papendorp enzo lijken me allemaal heel vreselijk om te gebruiken idd
+[13:33:37] <jasper> met die bussen
+[13:33:41] <gdex> dat dacht ik ook Jeroen 
+[13:33:47] <gdex> maar dat is 10 minuten in de bus, die elke 5 minuten rijdt
+[13:33:50] <gdex> viel me nog best mee
+[13:34:00] <gdex> jasper: westraven heeft een tramhalte
+[13:34:01] <Jeroen> nouja goed dat valt me nog mee ja
+[13:34:07] <jasper> papendorp is ook zo geweldig, die had een bus die reed tot 22:00. En dan een P+R eraan koppelen
+[13:34:10] <Jeroen> in roffa heb je overigens doorgaans vaker een metro die ook een stuk sneller is
+[13:34:12] <jasper> FUCK YOU
+[13:34:15] <gdex> metro is beter ja
+[13:34:16] <Jeroen> en ik gok dat ie ook sneller de stad in komt
+[13:34:20] <SJ> zeker
+[13:34:28] <gdex> tijd voor meer metro in nederland
+[13:34:34] <SJ> ik rijd de stad nooit in in Rotterdam 
+[13:34:36] <Jeroen> metro is het enige acceptabele OV
+[13:34:37] <jasper> gdex: Mjah, de trams gaan op dit moment lang neit vaak genoeg tho
+[13:34:41] <SJ> altijd P+R en dan metro 
+[13:34:59] <gdex> jasper: 8x per uur toch?
+[13:35:01] <gdex> iig overdag
+[13:35:02] <jasper> Jeroen: Sneltram an sich werkt, maar het meoten er genoeg zijn
+[13:35:04] <gdex> 's avonds 4x
+[13:35:20] <jasper> te weinig om een metro te kunnen vervangen imho :)
+[13:35:31] <jasper> maar het kan zijn, ik moet eigenlijk nooit die kant op
+[13:35:42] <Jeroen> zolang een sneltram op een afgesloten stuk rijdt met geen kruisingen of ander verkeer en in de stad als het even kan onder de grond ligt, dan werkt een sneltram ja, jasper :+
+[13:35:53] <jasper> het wordt echt hoog tijd dat de tram naar de uithof opent
+[13:36:06] <Jeroen> in delft komt er misschien ook ooit nog een tram
+[13:36:06] <gdex> Jeroen: premetro dus eigenlijk
+[13:36:16] <Jeroen> geen idee wat premetro is, maar ongetwijfeld
+[13:36:18] <jasper> Jeroen: Dat is het punt van een sneltram, dat ie zo goed als geen kruisingen heeft en waar ze wel zijn dat hij voorrang krijgt op de stoplichten
+[13:36:26] <jasper> daarom is het een *snel* tram ipv een tram
+[13:36:29] <gdex> zoals in antwerpen Jeroen 
+[13:36:33] <gdex> daar hebben ze tunnels gemaakt voor de tram
+[13:36:40] <Jeroen> ja dat schiet wel op
+[13:36:40] <gdex> met als idee om het ooit te upgraden naar metro
+[13:36:42] <gdex> maar dat is nooit gebeurd
+[13:36:50] <Jeroen> nja min of meer hetzelfde concept nu natuurlijk
+[13:36:55] <gdex> sterker nog, ik geloof dat bijna de helft van die tunnels na 40 jaar nog steeds niet in gebruik is
+[13:37:05] <jasper> wat is dan het verschil tussen een tram in een tunnel en een metro?
+[13:37:13] <SJ> Metro is gewoon een Rotterdamse uitvinding, klaar :)
+[13:37:19] <gdex> een metro blijft altijd afgescheiden rijden, die trams daar niet
+[13:37:21] <jasper> want metros gaan meestal ook alleen odnergronds in eht centrum
+[13:37:25] <gdex> die komen op een gegeven moment ook gewoon in het verkeer terecht
+[13:37:36] <gdex> maar wel buiten het centrum, met relatief weinig kruisingen
+[13:37:43] <DataGhostS> happy 13:37!
+[13:38:10] <jasper> ik moet zeggen, ik gebruik die tram van ons in utrecht dus zelden tot nooit, maar de keren dat ik erin hgeb gezeten heb ik nooit het idee gehad dat we voor verkeer moesten wachten
+[13:38:32] <jasper> de lichten gaan egwoon ruim voor de doorkomst op rood en ze staan dus al stil
+[13:38:46] <DataGhostS> *hnnnggggggBOEMgggggggggBEUKggggggggggggggggggggggg*
+[13:39:13] <jasper> yeah, ongelukjes daargelaten 
+[13:39:13] <gdex> ik mag er op de fiets (en soms met de auto) lang genoeg op wachten als 'ie voorbij wil ja jasper 
+[13:39:17] <Jeroen> haha ja comfortabel zal het nooit worden
+[13:39:30] <Jeroen> mja dat is dus ook kut voor de doorstroming, gdex :+
+[13:39:30] <jasper> maar ook die zijn vrij zeldzaam, de haagse en amksterdamse trams gaanv aker ergens tegenaan
+[13:39:32] <Jeroen> daarom gewoon tunnelen
+[13:39:35] <Jeroen> geen geezeik
+[13:39:39] <gdex> tunnelen is beter ja Jeroen 
+[13:39:47] <gdex> al moet je hier in utrecht wel wat dieper gaan ivm al die grachten
+[13:39:54] <gdex> direct onder de straat leggen werkt dan niet echt lekker
+[13:40:03] <jasper> tunnelen kan vaak niet wegens archeologie, vooral ind e echte binnensteden
+[13:40:08] <Jeroen> ahjoh wat kost grondverzet nou :+
+[13:40:10] <SJ> amfibische metro> 
+[13:40:12] <SJ> ?
+[13:40:17] <Jeroen> zoals amsterdam, jasper? :p
+[13:40:18] <Jeroen> of den haag
+[13:40:29] <jasper> gdex: OTOH de utrechtse binnenstad is zo kleind at er echt geen metro in hoeft
+[13:40:41] <jasper> Jeroen: Precies
+[13:40:43] <Jeroen> en londen is ook niet de jongste stad, alhoewel ze daar zijn begonnen toen ze er nog geen flikker om gaven, natuurlijk
+[13:40:53] <jasper> het is neit voor niks dat die noord zuid lijn 20 keer zoveel kost als begroot :)
+[13:40:54] <gdex> jasper: de busbaan tussen janskerkhof/stadsschouwburg past daar eigenlijk niet (in de breedte)
+[13:41:02] <gdex> en qua drukte loopt die busbaan ook al bijna vast
+[13:41:10] <gdex> daar iets ondertunnelen zou veel schelen
+[13:41:12] <SJ> Rotterdam was vrij simpel toen ze de Metro aanlegden 
+[13:41:12] <Jeroen> dat is vooral de zompige grond afaik
+[13:41:14] <gdex> maar op die ene tunnel na is het niet nodig
+[13:41:15] <jasper> gdex: die wordt dan ook vervangen door een tram over de andere kant
+[13:41:21] <Jeroen> dat heb je minder in u-town
+[13:41:27] <jasper> althans, een flink stuk van de capaciteit
+[13:41:29] <gdex> dat helpt ook maar een paar jaar jasper 
+[13:41:32] <SJ> het enige historische daar in de grond is een blindganger ;-)
+[13:41:32] <Jeroen> je kan ook een metro bovengrond aanleggen
+[13:41:45] <gdex> ik geloof dat die extra capaciteit binnen 5 jaar weer opgebruikt zal zijn
+[13:41:47] <Jeroen> op van die mooie verhogingen
+[13:41:51] <gdex> doorgerekend enzo
+[13:42:13] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Ping timeout: 60 seconds)
+[13:42:15] <gdex> Jeroen: dat doen we hier in utrecht al met het spoor
+[13:42:17] <jasper> gdex: maar de breedte lijkt me niet inadekwaat eigenlijk?
+[13:42:21] <jasper> op de nobelstraat
+[13:42:25] <gdex> jawel jasper, dat past niet
+[13:42:31] <gdex> met een druk fietspad en geen ruimte op de stoep
+[13:42:46] <gdex> die smalle 200 meter zijn gewoon veel te druk
+[13:42:46] <jasper> [rima ruimte voor fietspad en stoep daar
+[13:42:58] <Jeroen> kutfietsers
+[13:43:00] <jasper> de fietsers ginegen vroeger over de voorstraat
+[13:43:01] <gdex> je fietst nooit in de spits zeker?
+[13:43:11] <Jeroen> ik had het gisteren trouwens nog aan de stok met een verkeersregelaar
+[13:43:14] <jasper> daar hebben ze ze juist weggehaald omdat ze op de nobelstraat beter pasen
+[13:43:22] <jasper> gdex: Dagelijks?
+[13:43:34] <Jeroen> hier in delft heb je een berucht knooppunt waar ze ieder jaar 23423 studenten doodrijden dus daar staan tegenwoordig verkeersregelaars 
+[13:43:35] <gdex> de voorstraat past ook niet nee :P
+[13:43:37] <Jeroen> en in de spits doen ze soms ook nog wat
+[13:43:49] <Jeroen> meneer vond dat ik moest stoppen precies op het moment dat hij wees
+[13:43:50] <gdex> jasper: elke keer als ik daar fiets moet ik echt oppassen dat ik tegen niemand aan fiets
+[13:43:55] <gdex> en inhalen is praktisch onmogelijk als het echt druk is
+[13:44:01] <Jeroen> maar ik reed 3 meter door want dan zou ik voor een fietsoversteekplek staan
+[13:44:03] <Jeroen> nounounou
+[13:44:06] <jasper> gdex: Neither of those seems like a problem
+[13:44:07] <Jeroen> je had 'm moeten zien
+[13:44:15] <gdex> is het wel
+[13:44:17] <jasper> oppassen dat je tegen niemand aan fietst lijkt me *altijd* een goed idee
+[13:44:22] *** LeapingSheep is now known as LeapingSheep_znc
+[13:44:26] <jasper> en idd, inhalen moet je neit willen net op dat stukje
+[13:44:31] *** Joins: mexxus (Mibbit@89.184.168.160)
+[13:45:02] *** Quits: mexxus (Mibbit@89.184.168.160) (Exit)
+[13:45:12] <gdex> ik heb geen bronnen meer bij de hand, maar ze hebben ooit uitgerekend dat de fietspaden daar ~2x zo breed moeten zijn voor een goede en veilige doorstroming
+[13:45:21] <gdex> neem het met een korrel zout omdat ik geen bronnen heb
+[13:45:25] <gdex> oh, en daar lopend langs is ook geen pretje
+[13:45:32] <jasper> het zou ongetwijfeld prettig zijn
+[13:45:56] <jasper> maar of *dat* nou genoeg is een tunnel aan te leggen? vooral over het janskerkhof...
+[13:46:07] <gdex> maar als er een bus/tramtunnel onder de stad liep, en dat stukje maar 1 rijbaan ipv 2 zou hebben zou het allemaal een stuk beter passen
+[13:46:08] <jasper> lopen meot je ergens anders doen idd
+[13:46:10] <jasper> eens
+[13:46:43] <Jeroen> gewoon een bom in de grond
+[13:46:45] <gdex> en die tunnel kan prima onder de voorstraat trouwens, onder de grond is daar nog wel ruimte zat
+[13:46:54] <Jeroen> als ie groot genoeg is hoef je het gat alleen maar dicht te maken en je hebt een tunnel
+[13:46:59] <Jeroen> [/engineering met jeroen]
+[13:47:09] <gdex> :P
+[13:47:13] <Huigie> en dat studeert in delft...
+[13:47:14] <jasper> punt is een beetje, zo'n tunnel gaat dan dwars door een aantal van de meest bodemarchief-rijke stukjes van utrecht, en is sowieso al vreselijk duur
+[13:48:05] <jasper> waar wou de ingang dan hebben?
+[13:48:14] <jasper> ondergronds doortrekken tot het station?
+[13:48:24] <Huigie> details...
+[13:48:30] <jasper> of tussen oudegracht en neude naar beneden?
+[13:48:32] <gdex> jaarbeurs zelfs
+[13:48:48] <Jeroen> ingangen zijn voor bovengrondsen
+[13:48:55] <Jeroen> middle earthers assemble!
+[13:48:58] <gdex> maar dat werkt alleen als je er bijvoorbeeld een tram in legt, en wat bussen opheft
+[13:49:02] <jasper> een tunnel heeft een ingang nodig
+[13:49:10] <gdex> gewoon, een trap bij het station :+
+[13:49:12] <jasper> je weet wel, zo'n schuin stukje
+[13:49:23] <jasper> voor de bussen en trams, niet voor de passagiers
+[13:49:29] <jasper> passagiers zijn altijd wel in te passen
+[13:49:53] <Jeroen> gewoon een gat recht naar beneden en iedereen een pogostick
+[13:49:59] <jasper> tbh denk ik dat je voor naaar het stationsgebied dan uit zou komen op een diepe TBM-tunnel
+[13:50:02] <gdex> bussen en trams met een lift
+[13:50:09] <jasper> maar hij is dan weer neit lang genoeg voor zo'n ding
+[13:50:27] <Jeroen> dan trek je de tunnel door naar een nieuwe p+r
+[13:50:33] <jasper> gdex: in Hamburg hebben ze zo'n ding
+[13:50:47] <gdex> in phantasialand hebben ze ook een achtbaan die met een lift begint
+[13:50:55] <Jeroen> https://www.youtube.com/watch?v=A739p5HkRZ8 dit is ook een mooie
+[13:50:56] <jasper> onder de Elbe door met een tunnel op 20-30 meter diep, en gewoon liften voor personen en paard en wagen (want zo oud is het ding)
+[13:50:56] <gdex> dat had ik niet verwacht toen ik instapte
+[13:51:14] <jasper> tegenwoordig dus voor personenautos en fietsen :)
+[13:51:58] <jasper> cool, nieuwe tom scott
+[13:53:30] <gdex> grappig Jeroen 
+[13:54:17] <jasper> https://www.youtube.com/watch?annotation_id=de370e68-1a47-4a6c-b4c2-c3090b7e5474&feature=cards&src_vid=A739p5HkRZ8&v=QXuTz-5N1Aw <- ik dacht al, had ik dat ding niet eerst bij tom scott gezien voor ik hem zelf ben gaan bekijken :)
+[13:54:25] <jasper> (was de suggested video)
+[13:54:55] <Kaastosti> ik ben twintig minuutjes weg en meteen mis ik het hele gesprek
+[13:55:02] *** Joins: rhod (rhod@86.85.193.196)
+[14:00:42] <Jeroen> misschien zegt dat wel wat over jou, Kaastosti 
+[14:01:08] <Jeroen> in other news
+[14:01:10] <Jeroen> net een poster gefixt
+[14:01:14] <Jeroen> zie ik er nu 2 fouten in
+[14:01:16] <Jeroen> @ˆ%@#&%ˆ@#&%ˆ
+[14:01:42] <Kaastosti> en er staan twee woorden op?
+[14:01:50] <gdex> of 2 woorden niet
+[14:02:15] <Jeroen> ghehe
+[14:03:28] <Jeroen> ook vervelend als je een vector --> pixel workflow hebt
+[14:03:41] <Jeroen> want je moet editen in de vector en dan moet je het pixelgebeuren deels over doen :+
+[14:03:50] <gdex> het is ook vervelend als je een afbeelding hebt die pixelig hoort te zijn, en je moet hem perse als vector aanleveren
+[14:04:09] <Jeroen> ghehehe
+[14:04:26] <gdex> in other news, ik ken iemand die een scriptje gemaakt heeft die pixel->vector kan doen door allemaal vierkantjes in de vector te zetten :+
+[14:04:36] <Jeroen> *open AI* *save as JPEG* *trace in AI* *save*
+[14:04:42] <Jeroen> hahaha
+[14:04:44] <Jeroen> whyyy
+[14:05:17] <gdex> dat is sneller te maken dan AI installeren
+[14:05:26] *** Joins: smesjz (smesjz@dhcp-089-098-025-154.chello.nl)
+[14:05:57] *** LeapingSheep_znc is now known as LeapingSheep
+[14:07:11] <Jeroen> ...
+[14:14:38] <Drawer> zo Jeroen 
+[14:14:43] <Drawer> als 2 machine learning scripts gemaakt
+[14:14:45] <Drawer> naive bayes
+[14:14:53] <Drawer> en svm
+[14:14:53] <Jeroen> hippe shit
+[14:14:56] <Drawer> \o/
+[14:14:59] <Drawer> 99% accuracy
+[14:15:04] <Jeroen> nice
+[14:15:08] <Drawer> op het vinden van de auteur van een email
+[14:15:08] <Drawer> jaja
+[14:16:29] <Kaastosti> gewoon het stukje tekst achter 'Met vriendelijke groet,'
+[14:16:42] <Kaastosti> of voor de @
+[14:16:48] <Kaastosti> en anders gewoon defaulten
+[14:17:44] <Drawer> :>
+[14:17:50] <Drawer> gebaseerd op de tekst jonge
+[14:19:08] <Kaastosti> welke mailer gaat zichzelf nogmaals identificeren in de mail?
+[14:19:18] <Kaastosti> da's toch hooguit in een onderschrift
+[14:19:31] <Kaastosti> daarom wil ik, Kaastosti, aan jou, Lade, vragen om... blahdiblah
+[14:19:40] <Kaastosti> dat doet toch niemand
+[14:19:59] <Nakebod> Nee, jij spreekt jezelf altijd aan met: Edelachtbare heer Kaastosti
+[14:20:05] <Nakebod> Dus je voorbeeld is stuk!
+[14:20:11] <Kaastosti> nee, derde persoon enkelvoud
+[14:20:16] <Drawer> JONGUHHHHHHH
+[14:20:17] <Kaastosti> met hoofdletter
+[14:20:30] <Kaastosti> en daarom zal Hij u nu antwoorden
+[14:20:55] <Nakebod> En toen bleef het stil :+
+[14:21:11] <Kaastosti> ja gast wat verwacht je nou... hier een beetje stoer komen doen met je machine learning scripts, terwijl we in een paar simpele voorbeelden je hele theorie aan bagger trekken
+[14:21:26] <Kaastosti> nou ja... 'we'... ik voornamelijk
+[14:21:31] <Nakebod> ^^
+[14:21:36] <Kaastosti> want zo ben ik
+[14:21:41] <Kaastosti> sorry, zo is Hij
+[14:21:50] <Nakebod> Heeft Hij geleerd van eh, machines...
+[14:21:59] <Nakebod> Geen emotie, geen begrip.
+[14:22:11] <Kaastosti> keihard van achteren
+[14:22:15] <Kaastosti> zonder aankondiging
+[14:22:23] <Nakebod> *proest*
+[14:22:25] <Kaastosti> en dan gaat alles stuk
+[14:22:31] <Kaastosti> zoals Lades theorie
+[14:22:32] <Ziz> huh
+[14:22:32] <Ziz> wat
+[14:22:43] <Nakebod> Ja Kaastosti verkracht even Drawer anaal
+[14:22:48] <Ziz> Oh
+[14:22:55] <Kaastosti> derde persoon enkelvoud
+[14:23:04] <Kaastosti> dank u
+[14:23:26] <Ziz> Code of Conduct Profesional Standards dictate... Nothing about anal rape... Go on gentlemen
+[14:23:37] <Kaastosti> allrighty
+[14:24:09] <Kaastosti> Drawer z'n code vindt in een mail de auteur... ook al weet je die natuurlijk al
+[14:24:30] <Kaastosti> dus op basis van een hele lap tekst komt 'ie dan terug met iets als 'ah, dat kan alleen maar Ziz geweest zijn'
+[14:24:38] <Kaastosti> 'vier ontslagen in drie zinnen, dat was een makkelijke'
+[14:25:43] <Ziz> lol
+[14:25:53] <Jeroen> http://www.geenstijl.nl/archives/images/examenmeteenrouwrandje.png
+[14:25:55] <Jeroen> agossie
+[14:26:14] <Jeroen> zo
+[14:26:17] <Jeroen> poster gefixt
+[14:26:19] <Jeroen> zo ff uitdraaien
+[14:26:21] <Jeroen> vethip
+[14:28:28] *** Joins: McM (mcm@193.173.193.100)
+[14:29:37] *** Quits: lmd (lmd@5ED7EC48.cm-7-8d.dynamic.ziggo.nl) (Ping timeout: 61 seconds)
+[14:29:49] <Kaastosti> nou Drawer, leg eens uit, hoe werkt het dan?
+[14:29:54] <Kaastosti> voertuig Hem
+[14:29:58] <Kaastosti> *overtuig
+[14:33:39] <Ziz> Een sysadmin die mij een foto van zijn scherm stuurt ipv print screen....
+[14:33:57] <Nakebod> Hey misschien had ie geen netwerk!
+[14:33:59] <Ziz> ff op z'n bek slaan brb
+[14:35:15] <SJ> Ziz: wat? Da's toch ook een screenshot
+[14:35:19] <SJ> werkt toch :>
+[14:36:09] <Kaastosti> maar waarom is dat erg? als je maar kunt zien wat het probleem is toch?
+[14:36:31] *** Joins: grid (grid@dhcp-089-099-194-232.chello.nl)
+[14:36:33] <Kaastosti> het is niet alsof je op een screenshot ineens _wel_ iets gebeurt als je op de knoppen klikt
+[14:37:22] <Jeroen> als je computer freezet is dat nog wel eens handig? :P
+[14:37:30] <Kaastosti> bijvoorbeeld
+[14:37:44] <Kaastosti> succes met screenshotten bij een BSOD
+[14:37:57] <Jeroen> iemand gister trouwens simons bij DWDD gezien?
+[14:38:05] <Kaastosti> getver nee
+[14:38:14] <Jeroen> :+
+[14:38:15] <Kaastosti> had ze weer overal verstand van?
+[14:38:17] <Jeroen> ik ook niet
+[14:38:20] <Jeroen> no idea
+[14:38:29] <Jeroen> ik wil het ook niet kijken, dus ik denk: misschien kan iemand het gauw duiden :+
+[14:38:36] <Jeroen> ff kijken
+[14:38:39] <Ziz> Ik zag gister een documentaire over een main die naar publieke toiletten ging om het bakje van de toiletborstel leeg te drinken. Dat bolempje
+[14:38:40] <Jeroen> wat moest ik vandaag nog fixen
+[14:38:42] <Ziz> bodempje
+[14:39:02] <Jeroen> hahaha
+[14:39:03] <Jeroen> wat
+[14:39:05] <Jeroen> jambers zeker
+[14:39:07] <Ziz> Ja echt
+[14:39:09] <Kaastosti> waar zocht je precies op dat je dat tegen kwam?
+[14:39:09] <Drawer> nee man
+[14:39:13] <Drawer> zelfs jambers is niet zo ziek
+[14:39:15] <Drawer> die doet alleen
+[14:39:18] <Drawer> 'het is te waaarm'
+[14:39:23] <Drawer> 'ik vind het te waaaarm'
+[14:39:38] <Drawer> https://www.youtube.com/watch?v=HdrR6x_UZtA
+[14:40:12] <Jeroen> hahaha
+[14:40:28] <Ziz> https://www.google.nl/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjam8GslObMAhUs3IMKHZX-AT8QFgglMAE&url=http%3A%2F%2Fwww.skoften.net%2Fitem%2Fdoe_dit_weekend_gewoon_eens_de_toiletborstelwater_challenge&usg=AFQjCNEn5DYptpwlBXUqyPHaBYOrV4F6dQ
+[14:40:31] <Ziz> oh
+[14:40:32] <Ziz> naja
+[14:41:03] <Jeroen> gadverdamme
+[14:41:48] <Drawer> gast
+[14:41:51] <Drawer> :D
+[14:42:06] <Kaastosti> dude... je _wist_ wat het was... en toch klik je er op en gaat kijken
+[14:42:43] <Ziz> Dan smaakt je volgende slok koffie toch net even anders.
+[14:43:56] <Jeroen> hm koffie
+[14:43:58] <Jeroen> geen slecht idee
+[14:45:23] <Drawer> vroeg naar huis
+[14:45:25] <Drawer> geen slecht idee
+[14:45:33] <Drawer> morgen weer naar damsko jeroentje
+[14:45:38] <Drawer> jij toevallig nog een interview?
+[14:45:38] <Ziz> halve dag vrij genomen?
+[14:45:41] <DizzyWeb> Koffie en vroeg naar huis. Beter idee.
+[14:45:47] <Drawer> neuh zi
+[14:45:47] <Drawer> z
+[14:45:48] <DizzyWeb> Maar helaas geen optie :P
+[14:45:50] <Drawer> vroeg beginnen
+[14:45:51] <Drawer> vroeg eindigen
+[14:45:52] <Drawer> :>
+[14:46:05] <Kaastosti> overwerk is een kans
+[14:46:55] <Jeroen> nee Drawer 
+[14:47:11] <Jeroen> wat moet je in damsko doen eigenlijk
+[14:47:26] <Drawer> arbeit machen
+[14:47:43] <Drawer> daar is t iedere vrijdagmiddag borrel Jeroen 
+[14:47:47] <Drawer> 'nuf said?
+[14:48:01] <Jeroen> hahaha
+[14:48:03] <Jeroen> gewoon zuipen dus
+[14:48:07] <Drawer> L+
+[14:48:08] <Drawer> :+
+[14:48:14] <Drawer> en wel wat dingen te doen daar
+[14:49:01] <Drawer> weer lekker met de gele grote vriend
+[14:50:04] <Jeroen> niet met de wagen?
+[14:51:17] <Drawer> nee gek
+[14:51:19] <Drawer> kan je niet zuipen he
+[14:51:19] <Drawer> :D
+[14:52:59] <Jeroen> oh je gaat oo kecht aan de zuip :+
+[14:53:57] <Kaastosti> ach het is toch vrijdag
+[14:54:37] <Jeroen> https://www.youtube.com/watch?v=wJmSGx8AKqI
+[14:54:39] <SJ> bijna maandag \o/
+[14:56:06] <Kaastosti> maandag is toch wel de mooiste dag
+[14:56:12] <Kaastosti> frisse start, lekker uitgerust
+[14:56:17] <Drawer> ja Jeroen 
+[14:56:19] <Drawer> uiteraard
+[14:56:35] <Ziz> haha
+[14:56:35] <Ziz> http://speld.nl/2016/05/18/mannelijke-collegas-vinden-protest-tegen-seksisme-op-werkvloer-sexy/
+[14:56:37] <Jeroen> niet twee maltradler en een slappe bitterbal
+[14:56:50] <Jeroen> had ik laatst, zuipavond bij maat ergens in het midden van het land
+[14:56:54] <Jeroen> kutweer, treinen reden niet
+[14:56:57] <Jeroen> godverdegodver
+[14:57:08] <Drawer> haha
+[14:57:09] <Jeroen> uiteindelijk allemaal aan de maltradler
+[14:57:11] <Jeroen> man man man
+[14:57:16] <Jeroen> toen voelde ik me wel een burger :+
+[14:57:18] <Drawer> gaat ie in zn kutbak die kant op
+[14:57:21] <Kaastosti> heerlijk stukje tekst
+[14:57:22] <Drawer> pooierbak
+[14:57:24] *** Parts: marccom (marc@095-097-114-212.static.chello.nl) ()
+[14:57:33] <Jeroen> niks tegen mijn passoa ja
+[14:57:36] <Kaastosti> “Schitterend als ze hier zo langs paraderen met hun principetjes”, grijnst hij.
+[14:57:52] <Jeroen> ghehe Ziz 
+[14:57:53] <Drawer> als er een kransje rozijnen om je eikel groeit, Jeroen, dan heb je pas soa!
+[14:57:59] <Jeroen> :<
+[14:58:22] <Jeroen> http://speld.nl/2016/05/18/asscher-hogeropgeleiden-moeten-eerder-dood/
+[14:58:23] <Jeroen> :D
+[14:58:47] <Kaastosti> geweldige uitspraken die man
+[14:59:43] <Jeroen> http://www.nrc.nl/nieuws/2016/05/19/bij-de-overheid-breken-vrouwen-wel-door-het-glazen-plafond stiemen is hennis wel een milf
+[14:59:48] * Jeroen rent
+[15:03:58] <moto-moi> Jeroen: alles beter dan die bolle Dijksma :X
+[15:04:03] <Jeroen> hahaha
+[15:04:04] <Jeroen> good god
+[15:04:11] <Jeroen> waarom mogen dergelijk dikke mensen de regering in
+[15:04:17] <Jeroen> beslissingen maken kan ze blijkbaar al niet
+[15:04:19] <moto-moi> die wil ik elke keer voor d'r smoel slaan als ze wat uitkraamt :X
+[15:04:52] <DataGhostS> Jeroen, eigenlijk vind ik dan dat je voorkeursstemmen voor 2 zetels moet hebben
+[15:05:09] <Jeroen> hahaha
+[15:07:55] *** Joins: zomertje (zomertje@pluizigenblauw.xs4all.nl)
+[15:07:55] *** ChanServ sets mode: +o zomertje
+[15:14:43] <Ziz> Je hebt toch die minister van gezondheid in belgië
+[15:15:09] <Ziz> https://www.google.nl/search?q=minister+van+gezondheid+belgie&rlz=1C1NHXL_enUS686US686&biw=1920&bih=979&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwimq6STnObMAhXBpYMKHTShDIMQsAQIGw
+[15:15:45] <Ziz> Dan heb je toch iets niet goed begrepen
+[15:16:50] <Drawer> lolwut
+[15:17:19] <DizzyWeb> Ach, zoiets hadden wij toch als staatssecretaris voor sport en shizzle?
+[15:17:20] *** Quits: grid (grid@dhcp-089-099-194-232.chello.nl) (Ping timeout: 66 seconds)
+[15:17:28] <Drawer> haha
+[15:17:31] *** Joins: grid (grid@dhcp-089-099-194-232.chello.nl)
+[15:17:34] <Drawer> je bedoelt uh
+[15:17:35] <DizzyWeb> Terpstra.
+[15:17:40] <Drawer> die ja
+[15:17:43] <Drawer> was ooit zwemster
+[15:17:45] <Drawer> zou je niet zeggen
+[15:17:46] <Huigie> psies
+[15:17:48] <Ziz> idd
+[15:17:51] <DizzyWeb> Was. Nadruk op was.
+[15:17:56] <Drawer> ja
+[15:17:57] <Drawer> gestopt
+[15:17:58] <DizzyWeb> Nu drijft ze wel beter ja.
+[15:18:00] <Ziz> Dus die haalde daar nog het credit vandaan
+[15:18:05] <Drawer> en toen heel veel kroketten en frikandellen eten
+[15:18:23] <Ziz> Maar deze walrus van volksgezondheid in belgië is gewoon
+[15:18:34] <Ziz> ja
+[15:18:36] <Ziz> vie
+[15:18:37] <Ziz> s
+[15:19:19] <DizzyWeb> Nouja, je kan zeggen wat je wil, maar deze dame weet in ieder geval hoe het NIET moet...
+[15:19:19] <Kaastosti> maar je hoeft toch zelf ook niet gezond te zijn om weloverwogen te kunnen sturen?
+[15:19:21] <moto-moi> jzs
+[15:19:28] <moto-moi> die zal niet snel van honger sterven
+[15:19:36] <Kaastosti> projectmanagers hebben meestal ook de ballen verstand van wat er in het project gebeurt... maar managen kunnen ze (meestal)
+[15:20:06] <Kaastosti> alhoewel dit echt wel een bizar voorbeeld is
+[15:20:09] <Ziz> Elke zelfstandige IT'er vind zichtzelf projectmanager
+[15:20:10] <Drawer> ej
+[15:20:13] <Drawer> ik heb geen zin
+[15:20:14] <Drawer> meer
+[15:20:21] <Ziz> Dan ga je naar huis
+[15:20:29] <Drawer> die kans zit eraan te komen ja
+[15:21:05] <Kaastosti> de kans is er altijd, die kan er niet aan komen
+[15:21:09] <Drawer> oke
+[15:21:14] <Drawer> die kans begint steeds groter te worden dan
+[15:21:22] <Kaastosti> voorzekers
+[15:21:25] <Drawer> mss zo nog ff stukkie hardlopen thuis
+[15:21:34] <Kaastosti> mjah dat komt vanavond wel weer
+[15:21:40] <Kaastosti> op naar de Dam tot Dam :P
+[15:23:02] <Jeroen> ik moet ook meer hardlopen
+[15:23:07] <Jeroen> moet ff een korte broek regelen
+[15:23:10] <Jeroen> fucking warm laatst
+[15:23:14] <Drawer> ik doe ookmee Kaastosti 
+[15:23:15] <Drawer> :)
+[15:24:49] <Drawer> hmm
+[15:24:54] <Drawer> mss zondag 5 mijl van tilburg doen
+[15:24:56] <Drawer> doe je mee Jeroen ?
+[15:24:57] <Drawer> :>
+[15:25:12] <Jeroen> deze zondag heb ik al een wedstrijd :+
+[15:25:14] <Jeroen> en de 18e ook
+[15:25:17] <Jeroen> september dan
+[15:25:25] <Drawer> goeie smoes
+[15:25:42] <Jeroen> "smoes" 
+[15:26:02] <Jeroen> ik heb een NK op 17-18 sept
+[15:26:03] <Jeroen> :p
+[15:31:03] <Kaastosti> 5 mijl is te doen
+[15:31:10] <Drawer> juh
+[15:31:14] <Drawer> maar ben mss druk zondag
+[15:31:16] <Drawer> + kutweer
+[15:31:19] <Kaastosti> ik zeg combineer die dingen... Drawer gaat hollen, Jeroen gaat schieten
+[15:31:26] <Kaastosti> als Drawer het redt, verliest Jeroen
+[15:31:29] <Drawer> laatste wat ik liep was 17.3km vorige week zondag Kaastosti 
+[15:31:29] <Drawer> :D
+[15:31:37] <Kaastosti> ah netjes
+[15:31:38] <Drawer> heb nogsteeds blaren op mn poten
+[15:31:43] <Drawer> na 1.5 week niet lopen
+[15:31:45] <Kaastosti> mijn max ligt nu rond 12km met 3km strand
+[15:31:46] <Drawer> tyfussssssssssszooi
+[15:31:51] <Drawer> mijn max op 21.5
+[15:31:56] <Jeroen> je zit in een rolstoel?
+[15:32:00] <Jeroen> ik heb ook een blaar van vorige week
+[15:32:02] <Drawer> ja Jeroen 
+[15:32:04] <Jeroen> op m'n hiel
+[15:32:06] <Jeroen> ;(
+[15:32:06] <Kaastosti> ik doe twee keer per week nu met hardloopgroep mee, beetje constructief opbouwen
+[15:32:07] <Huigie> fapblaar
+[15:32:08] <Drawer> op mn tenen
+[15:32:28] <Drawer> ja dat is me te lafjes en te bindend Kaastosti 
+[15:32:28] <Kaastosti> stok achter de deur, zo'n groep... anders haak je snel af
+[15:32:31] <Drawer> neuh
+[15:32:32] <Jeroen> ik ben meer van het destructief opbouwen, Kaastosti 
+[15:32:33] <Drawer> ik loop wel
+[15:32:39] <Drawer> ik loop mezelf wel de tering in
+[15:32:40] <Drawer> :D
+[15:32:43] <Kaastosti> ik ga ook graag gewoon aan de gewichten hangen
+[15:32:53] <Jeroen> ik moet eigenlijk ook zo'n groepje hebben
+[15:32:53] <Kaastosti> zit er eentje in die groep... de tering zeg, die gaat hard
+[15:33:03] <Drawer> kom naar ehv Jeroen 
+[15:33:05] <Drawer> ik loop wel mee
+[15:33:13] <Jeroen> haha
+[15:33:15] <Kaastosti> loop ik met echt vol gaan een rondje in 3:40... komt hij aan met 2:50
+[15:33:21] <Drawer> 3:40?
+[15:33:24] <Drawer> op de baan?
+[15:33:26] <Kaastosti> neuh
+[15:33:29] <Kaastosti> gewoon in het bos
+[15:33:33] <Drawer> wat is een rondje
+[15:33:36] <Drawer> 1k?
+[15:33:36] <Drawer> :X
+[15:33:38] <Kaastosti> daarom zet ik er geen afstand bij, geen idee
+[15:33:40] <Drawer> oooh
+[15:33:43] <Drawer> wil net zeggen
+[15:33:45] <Kaastosti> heh nee I wish, dan ging ik wel hard
+[15:35:12] *** Quits: rhod (rhod@86.85.193.196) (Exit)
+[15:36:09] <Jeroen> dat kan ik net fietsen
+[15:36:10] <Jeroen> :+
+[15:38:46] <Drawer> ga wel ff lopen vanmiddag
+[15:38:52] <Drawer> en zie ik wel hoe t gaat of ik me inschrijf voor zondag
+[15:38:55] <Drawer> want ik ken mezelf
+[15:39:03] <Drawer> loop me weer helemaal de tyfus op 5mile
+[15:39:04] <Drawer> :D
+[15:41:40] <Jeroen> niet de 8mile?
+[15:41:44] <Drawer> :>
+[15:42:09] <Drawer> doei he
+[15:43:15] <Jeroen> laatz
+[15:43:47] <Huigie> laatz....
+[15:45:23] <Jeroen> melaatz
+[15:46:16] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[15:47:13] *** Quits: Drawer (Mibbit@80.255.245.203) (Exit)
+[15:48:36] *** Joins: rhod (rhod@86.85.193.196)
+[15:51:26] *** Quits: jk-5 (jk-5@D549D0E1.cm-10-1b.dynamic.ziggo.nl) (Ping timeout: 66 seconds)
+[15:52:37] *** Joins: jk-5 (jk-5@D549D0E1.cm-10-1b.dynamic.ziggo.nl)
+[15:58:52] *** Quits: Destruction (Destructio@507230E5.cm-15.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[15:58:59] *** Joins: Destruction (Destructio@507230E5.cm-15.dynamic.ziggo.nl)
+[16:02:58] *** Quits: jk-5 (jk-5@D549D0E1.cm-10-1b.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[16:07:41] *** Quits: bdalenoord (bas@195.35.227.200) (Ping timeout: 60 seconds)
+[16:08:09] *** Joins: fee-tje (fee-tje@137-109-201-31.ftth.glasoperator.nl)
+[16:08:51] *** Joins: kees (kees@office.tweaknet.net)
+[16:10:08] * moto-moi geeft fee-tje een koekje
+[16:17:14] *** Quits: Madpilot (Madpilot@46.144.181.34) (Exit)
+[16:17:38] *** Joins: chem (chem@114.125.170.128)
+[16:18:18] *** Joins: jk-5 (jk-5@D549D0E1.cm-10-1b.dynamic.ziggo.nl)
+[16:18:40] *** Quits: DataGhostS (vincent@5ED2C6DE.cm-7-3d.dynamic.ziggo.nl) (Ping timeout: 64 seconds)
+[16:22:20] *** Quits: Kaastosti (Kaastosti@185.19.103.3) (Exit)
+[16:23:37] *** Joins: GodFather (p00p@a83152.upc-a.chello.nl)
+[16:25:10] <tozzert> zzzzzzzletjezzzzzzz
+[16:25:33] <chem> je moeder
+[16:28:04] *** Quits: chem (chem@114.125.170.128) (Ping timeout: 60 seconds)
+[16:29:49] <Ziz> Hit and run van chem
+[16:30:38] *** moto-moi is now known as moto-moi|afk
+[16:32:39] <mimic> https://www.youtube.com/watch?v=B2XkzZR4R0U
+[16:36:31] <tozzert> jeroen, straffe hendrik quadrupel
+[16:36:33] <tozzert> kendedie?
+[16:36:42] <Jeroen> niet bewust
+[16:36:47] <tozzert> is me net aangesmeerd
+[16:36:49] <tozzert> ;)
+[16:36:54] <tozzert> ben benieuwd
+[16:37:16] *** Quits: sponsje (spons@54199BE2.cm-5-2c.dynamic.ziggo.nl) (Ping timeout: 66 seconds)
+[16:37:49] <SJ> straffe hendrik \o/
+[16:37:50] <tozzert> even lekker geouwehoerd over drank met slijter
+[16:37:59] <SJ> lekkah
+[16:38:00] <tozzert> was toch geen reet te doen
+[16:38:10] <tozzert> vond het wel vermakelijk denk ik
+[16:39:43] <Jeroen> vaste klant zeker
+[16:40:00] <gdex> met vasteklantenkorting
+[16:41:12] *** Quits: fee-tje (fee-tje@137-109-201-31.ftth.glasoperator.nl) (Exit)
+[16:41:20] *** Joins: Anthor (Anthor@cust.7.103.adsl.cistron.nl)
+[16:41:37] *** Quits: smesjz (smesjz@dhcp-089-098-025-154.chello.nl) (Exit)
+[16:42:02] <tozzert> het was in bergen op zoom
+[16:42:05] <tozzert> dus nee
+[16:42:11] <tozzert> niet mijn vaste slijter
+[16:42:12] <tozzert> ;p
+[16:45:03] <tozzert> overigens kwam ik laatst met tanken een Audi RS6R tegen
+[16:45:09] <tozzert> klonk wel heul bruut
+[16:45:15] <tozzert> is die nog rapper dan de "gewone" RS6?
+[16:45:35] <tozzert> had het nog nooit eerder gezien
+[16:55:36] *** Quits: DCM360 (DCM360@535509EC.cm-6-6a.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[16:55:53] *** Joins: bdalenoord (bas@86.85.116.123)
+[16:56:09] *** Joins: DCM360 (DCM360@535509EC.cm-6-6a.dynamic.ziggo.nl)

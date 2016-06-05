@@ -1,0 +1,690 @@
+[00:03:24] *** Quits: klaveRCX (michiel@klaver.it) (Ping timeout: 66 seconds)
+[00:07:17] *** Joins: klaveRCX (michiel@klaver.it)
+[00:07:45] *** Joins: omarrr (omarrr@115-89-201-31.ftth.glasoperator.nl)
+[00:22:46] *** Joins: SCHAPiE (dorian@dhcp-077-249-247-124.chello.nl)
+[00:41:16] *** Quits: Guyver2 (Guyver2@guyver2.xs4all.nl) (Client exited)
+[00:55:58] *** Quits: omarrr (omarrr@115-89-201-31.ftth.glasoperator.nl) (Exit)
+[01:21:28] <Fermata> !mannen++
+[01:21:31] <digiweed> Fermata: Karma for mannen is now: 11
+[01:43:11] <rawplayer> giggity
+[01:43:58] <Fermata> Dan maar op blijven
+[01:56:20] *** Quits: QORRiE (dorian@dhcp-077-249-247-124.chello.nl) (Exit)
+[01:56:26] <wirky> lkkr erop blijven
+[01:57:11] <wirky> suup 
+[02:22:49] <wirky> de chat is aan
+[02:23:54] *** Joins: mrwazoo (mrwazoo@h102136.upc-h.chello.nl)
+[02:26:27] <Fermata> !koffie++
+[02:26:28] <digiweed> Fermata: Karma for koffie is now: 1805
+[02:35:02] <wirky> goed idee
+[02:36:19] <mimic> moge
+[02:39:04] <wirky> suup sander
+[02:39:25] <mimic> nm
+[02:39:26] <mimic> bier
+[02:39:52] <wirky> koffie hier en roken & dromen
+[02:40:01] *** Quits: SCHAPiE (dorian@dhcp-077-249-247-124.chello.nl) (Exit)
+[02:41:38] <Fermata> Ha mimic
+[02:41:52] <mimic> sup Fermata 
+[02:43:24] <Fermata> Geen slaap
+[02:43:39] <Fermata> Om 8:00 word ik ergens verwacht
+[02:43:44] <Fermata> meh
+[02:43:46] <Fermata> !koffie++
+[02:43:49] <digiweed> Fermata: Karma for koffie is now: 1806
+[02:47:38] <mimic> geen slaap?
+[02:47:44] <mimic> beter 4 uur slaap dan geen slaap
+[02:50:17] <Fermata> Ja.
+[02:50:29] <Fermata> Maar in slaap vallen lukte niet :3
+[02:50:35] <Fermata> En nu helemaal niet meer :p
+[02:52:31] <mimic> heh
+[02:52:33] <mimic> lekekr brak morgen
+[02:53:10] <Fermata> Niet heel veel te doen, dat scheelt.
+[02:53:35] <t4rt4rus> goedemorgen
+[02:53:53] <Fermata> ohi
+[02:57:10] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Ping timeout: 61 seconds)
+[02:58:54] <Fermata> Nog eens proberen, dat slaap
+[03:04:23] <mimic> http://i.imgur.com/kbBecZ5.jpg
+[06:21:33] <Fermata> Beetje slaap gehad /o/
+[07:51:13] <nomadz> cool
+[07:51:21] <nomadz> transip doet nu dane en sshfp dns records
+[08:00:22] <Dubbeldrank> dane is toch alleen nuttig als iedereen het gebruikt?
+[08:06:47] <nomadz> postfix gebruikt het nu standaard
+[08:07:15] <nomadz> althans dane dus
+[08:41:46] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[09:19:19] <rawplayer> hoi
+[09:21:32] <the_Ye-Ti> !gamen++
+[09:21:35] <digiweed> the_Ye-Ti: Karma for gamen is now: 38
+[09:51:26] <surrounder> https://scontent-ams3-1.xx.fbcdn.net/v/t1.0-0/s480x480/13124951_1262982327063543_7491942113575207948_n.png?oh=15f1efcf5b3f285e072d5be7597e6931&oe=57DC2D0A - lol
+[10:03:56] *** Quits: Twizzlerz (M@178-84-226-29.dynamic.upc.nl) (Ping timeout: 60 seconds)
+[10:04:07] *** Joins: Guyver2 (Guyver2@guyver2.xs4all.nl)
+[10:12:21] *** Joins: Twizzlerz (M@178-84-226-29.dynamic.upc.nl)
+[10:18:17] *** Joins: koolaid (koolaid@2a02:a212:280:1c00:8005:abc3:3b71:1055)
+[10:19:11] <werrum103> rawplayer ^^
+[10:20:26] <Fermata> surrounder! 103!@
+[10:23:47] *** Joins: SCHAPiE (dorian@dhcp-077-249-247-124.chello.nl)
+[10:27:26] <Fermata> Goed nieuws: ik heb Mone Brownie
+[10:27:27] <Fermata> :3
+[10:29:48] <Fermata> Mona*
+[10:29:51] <SCHAPiE> zo, de Belastingdienst is snel dit jaar met de teruggave
+[10:29:57] <SCHAPiE> heb 'm al binnen
+[10:31:15] <Fermata> M; n ouders ook al
+[10:31:21] <Fermata> Ik moet nog even wachten, schijnbaar
+[10:35:37] <Boots> Wanneer heb je ingediend?
+[10:35:49] <SCHAPiE> volgens mij de eerste dat dag het kon
+[10:35:59] <Fermata> Ik op 13 februari
+[10:36:05] <Fermata> Hee Boots
+[10:36:05] <Fermata> wtf
+[10:36:09] <Fermata> Dacht dat ik in #nerds zat :p
+[10:36:16] <Fermata> O dat zit ik ook
+[10:36:20] * Fermata slaat zichzelf
+[10:36:22] <SCHAPiE> klopt
+[10:36:30] <Boots> Nee slaat
+[10:36:40] <Boots> ooo ja vroeg indienen helpt
+[10:36:50] <Boots> Ik denk dat ik nog een maandje of 2 kan wachten
+[10:38:06] <Fermata> Ik heb een complexe aangifte, blijkbaar :')
+[10:39:07] <surrounder> haha ja net als hitler
+[10:39:25] <Fermata> Nu moet je oppassen
+[10:39:37] <Boots> Op wie
+[10:39:42] <Boots> Jou zeker
+[10:39:43] <Boots> hh
+[10:39:43] <Boots> haha
+[10:39:45] <Boots> hah
+[10:39:46] <Boots> hahah
+[10:39:53] <surrounder> :D:D:D;d;d;XDddXdXDd:D
+[10:40:11] <bReChThOu> komt zeker omdat je het hetero vakje op je aangifte niet hebt aangevinkt Fermata
+[10:40:27] <Boots> [x] Het is ingewikkeld
+[10:40:33] <surrounder> lol
+[10:40:42] <surrounder> !Boots++
+[10:40:45] <digiweed> surrounder: Karma for Boots is now: 436
+[10:41:03] <Boots> Facebookoptie toch?
+[10:41:06] <Boots> Of niet meer?
+[10:41:09] <Boots> Of was het Hyves?
+[10:41:35] <surrounder> feestboek
+[10:42:11] <SCHAPiE> vleesboek
+[10:43:59] <Fermata> bReChThOu: bent u hetero, gay, raging faggot
+[10:44:03] <Fermata> [x] raging faggot
+[10:46:33] <bReChThOu> en dat heb je ook aangevinkt bij muziekinstrument
+[10:46:36] <bReChThOu> vandaar de consternatie
+[10:47:22] <Fermata> Probeer het morgen maar weer met die grapjes.
+[10:49:29] <bReChThOu> dit is geen grap
+[10:49:32] <bReChThOu> itt jouw hoofd
+[10:49:58] <Fermata> *slowclap*
+[10:52:56] <Boots> Dat is een fagot
+[10:53:17] <bReChThOu> nee, bassoon
+[10:53:28] <bReChThOu> de zin is immers in het engels
+[10:53:44] <Boots> Ragende fagot
+[10:54:19] <bReChThOu> klinkt als een album van suske e nwiske
+[10:54:40] <Boots> Maå het allitereert niet
+[10:54:40] <Boots> damn
+[10:54:58] <Boots> maar*
+[10:55:21] <bReChThOu> Een man die onschuldig pleitte tijdens zijn proces voor drugsfeiten, kreeg van de rechter te horen dat hij na zijn opknoping wel naar de hemel zou gaan als hij effectief onschuldig was.
+[10:55:22] <bReChThOu> lol
+[10:55:38] <bReChThOu> er zijn veel albumtitels die niet allitereren
+[10:55:46] <Boots> o
+[10:55:50] <Boots> Ja weetikveel
+[10:55:59] <Boots> Ik heb niet alle 5973 delen in de kast
+[10:57:43] <bReChThOu> schandalig
+[10:57:57] <bReChThOu> ik heb er zo'n 150 denk ik
+[11:07:58] <Boots> nerd
+[11:08:11] <bReChThOu> :/
+[11:08:16] <bReChThOu> !nerds--
+[11:08:19] <digiweed> bReChThOu: Karma for nerds is now: -1012
+[11:17:45] *** Quits: koolaid (koolaid@2a02:a212:280:1c00:8005:abc3:3b71:1055) (Ping timeout: 61 seconds)
+[11:25:58] *** Quits: Guyver2 (Guyver2@guyver2.xs4all.nl) (Exit)
+[11:25:59] *** Joins: koolaid (koolaid@2a02:a212:280:1c00:f817:a05:9fd0:348a)
+[11:26:17] <the_Ye-Ti> wb ka
+[11:27:10] *** Quits: koolaid (koolaid@2a02:a212:280:1c00:f817:a05:9fd0:348a) (Ping timeout: 66 seconds)
+[11:28:22] *** Joins: koolaid (koolaid@2a02:a212:280:1c00:20c9:5505:c070:999b)
+[11:30:20] <the_Ye-Ti> wb ka
+[11:30:54] *** Quits: koolaid (koolaid@2a02:a212:280:1c00:20c9:5505:c070:999b) (Ping timeout: 62 seconds)
+[11:38:17] *** Joins: koolaid (koolaid@2a02:a212:280:1c00:e482:54f:b5da:a286)
+[11:38:44] <the_Ye-Ti> wb ka?
+[11:39:16] <Fermata> Hij haat ons
+[11:39:26] *** Quits: koolaid (koolaid@2a02:a212:280:1c00:e482:54f:b5da:a286) (Ping timeout: 64 seconds)
+[11:39:32] *** Joins: koolaid (koolaid@2a02:a212:280:1c00:d8ca:2950:8e74:8eb3)
+[11:39:44] <the_Ye-Ti> pvd
+[11:40:39] *** Quits: koolaid (koolaid@2a02:a212:280:1c00:d8ca:2950:8e74:8eb3) (Ping timeout: 60 seconds)
+[11:51:16] <werrum103> rawplayer: https://media.licdn.com/media-proxy/ext?w=531&h=400&f=n&hash=hAJN8rkmVoWDWbwAUMvj73nHXJw%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWjrLZbaLOCirUAeKipQjQA2Kbm1EWXlFI67fYjufIgjg5TlIZn5aRUPbhU4hGUB5sE-Pg
+[11:53:04] * Fermata braakt wat
+[11:53:14] <werrum103> heel goed
+[11:53:28] *** werrum103 is now known as nietzowerrum103
+[11:53:55] *** Joins: koolaid (koolaid@2a02:a212:280:1c00:7d5d:d44c:7535:a836)
+[11:57:30] *** Quits: koolaid (koolaid@2a02:a212:280:1c00:7d5d:d44c:7535:a836) (Ping timeout: 60 seconds)
+[11:58:05] *** Joins: koolaid (koolaid@2a02:a212:280:1c00:45c1:61df:2afa:5d85)
+[11:58:28] <the_Ye-Ti> beste koolaid 
+[11:58:40] <koolaid> ja mn modem is kut
+[11:59:21] <the_Ye-Ti> hoe gaan we dat oplossen?
+[11:59:35] <koolaid> a) jullie houden gewoon op met klagen
+[11:59:49] <koolaid> b) ik zet m in bridge mode en haal een apart ding voor de  wifi etc
+[11:59:58] <the_Ye-Ti> a is het probleem ontkennen
+[12:00:00] <Fermata> !gewoon--
+[12:00:02] <digiweed> Fermata: Karma for gewoon is now: -8
+[12:00:16] <koolaid> nee dat is niet ontkennen dat is gewoon niet zeuren :)
+[12:00:29] <koolaid> hide gewoon joins/quits in je irc client
+[12:00:30] <the_Ye-Ti> want je wil een goed werkend modem lijkt me
+[12:00:48] <surrounder> !gewoon--
+[12:00:50] <digiweed> surrounder: Karma for gewoon is now: -9
+[12:00:54] <the_Ye-Ti> of is het goedwerkend?
+[12:01:16] <koolaid> bekabeld werkt prima
+[12:01:17] <koolaid> maar wifi gaat random over de zeik
+[12:01:19] <Fermata> Nou ja
+[12:01:20] <koolaid> ik vermoed dat het te maken heeft met de myprotein site
+[12:01:22] <koolaid> even proberen
+[12:01:23] <Fermata> Heel random is het niet meer he
+[12:02:11] <the_Ye-Ti> koolaid: maar je hebt er dan toch ook last van bij dingen als uh youtube?
+[12:04:27] <koolaid> nope
+[12:04:37] <koolaid> sowieso houdt ie het weken uit
+[12:04:40] <koolaid> en dan krak
+[12:04:44] <koolaid> en dan stekker eruit en die onzin
+[12:04:54] <koolaid> en dan vrij rap kan ie weer stuk
+[12:07:19] <the_Ye-Ti> al een andere overwogen?
+[12:08:19] <koolaid> ja deze in bridge zetten
+[12:08:28] <koolaid> en dan iets fatsoenlijks daarvoor
+[12:08:37] <koolaid> ben verder niet zon netwerk nerd
+[12:08:38] <mimic> moge
+[12:08:44] <the_Ye-Ti> \o mimiq
+[12:09:00] <koolaid> magoed het poeder is besteld dus so far so good
+[12:09:52] <the_Ye-Ti> dat maakt alles weer goed
+[12:11:55] <koolaid> fijn zo
+[12:20:29] <mimic> http://i.imgur.com/ilXmZ3q.jpg
+[12:20:32] <mimic> the_Ye-Ti: \\o
+[12:21:02] <syf_> haha
+[12:21:11] <syf_> net als crossfit!
+[12:21:22] <the_Ye-Ti> \o syfjan
+[12:22:53] <mimic> http://i.imgur.com/QNDSZpG.jpg
+[12:40:16] <syf_> true
+[12:47:01] <t4rt4rus> goedemorgen
+[12:47:06] <mimic> nee
+[12:47:17] <t4rt4rus> ja
+[12:59:08] <mimic> https://www.youtube.com/watch?v=RGBID5G2RB0
+[12:59:11] <digiweed> Title: What if Captain Americas Shield Hit You? - YouTube (at www.youtube.com)
+[13:00:02] *** Joins: grid (grid@dhcp-089-099-194-232.chello.nl)
+[13:26:16] <justaguy> Fermata die deepthroat: https://www.youtube.com/watch?v=OAVL61yeCYs&feature=youtu.be&t=09s
+[13:26:18] <digiweed> Title: E.T. the Walrus practices his vocalizations at Point Defiance Zoo & Aquarium - YouTube (at www.youtube.com)
+[13:27:05] <rawplayer> koolaid: !!!!!!!
+[13:27:31] <Fermata> justaguy: lol
+[13:28:06] <koolaid> hallo rawplayer
+[13:28:15] <rawplayer> o/
+[13:28:19] <rawplayer> fijn dat je er bent
+[13:28:19] <koolaid> zocht je me
+[13:28:23] <rawplayer> ja
+[13:28:26] <koolaid> op andere irc netwerken
+[13:28:37] <rawplayer> ja 103 zei dat je ons zat was
+[13:28:52] <koolaid> oh nou ik had blijkbaar niet opgemerkt dat ik limechat niet had opgestart
+[13:28:55] <koolaid> zegt ook wel wat he :)
+[13:29:29] <koolaid> zat is ook wel een groot woord. maar ik heb wel ns positievere irc kanalen meegemaakt
+[13:29:36] <rawplayer> ja
+[13:29:41] <rawplayer> ik weet het
+[13:29:50] <rawplayer> ik vind dat hier ook soms vervelend :<
+[13:42:47] <syf_> koolaid!
+[13:42:54] <syf_> ouwe hoe is het dan
+[13:43:18] <syf_> wil je dat nooit meer doen zo weg gaan
+[13:44:25] *** Quits: koolaid (koolaid@2a02:a212:280:1c00:45c1:61df:2afa:5d85) (Ping timeout: 60 seconds)
+[13:44:31] <syf_> godver
+[13:44:37] <rawplayer> |
+[13:44:39] <rawplayer> :|
+[13:44:57] *** Joins: koolaid (koolaid@2a02:a212:280:1c00:b923:cf00:2352:edaa)
+[13:45:16] <syf_> koolaid !
+[13:45:30] <koolaid> hallo
+[13:45:46] <koolaid> hebben jullie me gemist!
+[13:46:25] <syf_> zeker
+[13:46:42] <syf_> hoe is t dan?
+[13:47:08] <koolaid> prima hoor
+[13:47:09] <koolaid> bijna jarig
+[13:47:34] <syf_> nice
+[13:48:31] <syf_> hoe oud word je?
+[13:49:13] <koolaid> 38 geloof ik
+[13:50:02] <syf_> \o/
+[13:52:57] <syf_> https://www.youtube.com/watch?v=uzHwsW5EVvw vetk ut
+[13:53:00] <digiweed> Title: Incredible time lapse of birds nest. - YouTube (at www.youtube.com)
+[14:12:14] <Boots> awwww
+[14:13:18] <rawplayer> koolaid: ja
+[14:13:27] <rawplayer> koolaid: nog gesport?
+[14:13:34] <koolaid> gister nog
+[14:13:36] <rawplayer> ik gister 20 minuten pul ups
+[14:13:42] <rawplayer> elke minuut 1 rep meer
+[14:13:50] <rawplayer> beginnen met 1 minuut
+[14:13:52] <rawplayer> 1 rep
+[14:14:57] <rawplayer> en er na 12 minuten 2x6 reps kb row (24kg), 12kb swings en 16 situps
+[14:15:06] <rawplayer> erg zwaar
+[14:15:08] <rawplayer> overal pierpijn nu
+[14:15:11] <rawplayer> en wat heb jij gedaan?
+[14:19:59] <the_Ye-Ti> jaag m nou niet gelijk weer weg
+[14:22:50] <koolaid> haha
+[14:23:02] <koolaid> 50 pushups, 50 pullups, en wat andere meuk
+[14:23:42] <koolaid> woensdag was het zo 20 kb swings, daarna traplopen en dan 19 swings + traplopen
+[14:23:44] <koolaid> t/m 10
+[14:24:04] <koolaid> met 24 kilo kb
+[14:24:23] <Fermata> !l #nerds as plek voor positiviteit
+[14:24:27] <digiweed> Fermata: The operation succeeded.
+[14:24:51] <Fermata> !#nerds
+[14:25:06] <Fermata> Hm
+[14:25:07] <Fermata> !#nerds
+[14:25:37] <syf_> https://www.youtube.com/watch?v=zaGFsfoEpGw
+[14:25:40] <digiweed> Title: Fursonas - YouTube (at www.youtube.com)
+[14:25:42] <syf_> nsfl
+[14:25:56] <syf_> maar mss wel iets voor Fermata !
+[14:26:12] <syf_> This documentary follows a few groups of Furries, as a social commentary of this fandom, its stigmas and how it is perceived through sensational media coverage
+[14:26:35] <rawplayer> nice
+[14:26:39] <rawplayer> koolaid: klinkt lekker
+[14:26:40] <rawplayer> <3
+[14:27:06] <Fermata> syf_: nee dank je
+[14:27:23] <the_Ye-Ti> ik doe ook weleens traplopen
+[14:27:41] <the_Ye-Ti> *positief doe*
+[14:27:49] <syf_> ik ook.. maar je moet wel tellen
+[14:30:14] <nietzowerrum103> pijn in de pier
+[14:30:42] <the_Ye-Ti> \o 103
+[14:30:51] <rawplayer> o/ 103
+[14:36:18] <the_Ye-Ti> welk een gezelligheid
+[14:37:08] <rawplayer> !kakken++
+[14:37:10] <digiweed> rawplayer: Karma for kakken is now: 292
+[14:37:16] <the_Ye-Ti> :(
+[14:37:25] * rawplayer geeft tyt een hand
+[14:37:43] <the_Ye-Ti> iewl
+[14:51:20] *** Quits: grid (grid@dhcp-089-099-194-232.chello.nl) (Ping timeout: 60 seconds)
+[14:57:24] <koolaid> zitten er hier ook furries?
+[14:58:52] <appeltje> jij toch
+[14:59:56] *** Quits: koolaid (koolaid@2a02:a212:280:1c00:b923:cf00:2352:edaa) (Ping timeout: 60 seconds)
+[15:00:23] *** Joins: koolaid (koolaid@2a02:a212:280:1c00:8dff:1611:7521:2013)
+[15:18:57] *** Quits: koolaid (koolaid@2a02:a212:280:1c00:8dff:1611:7521:2013) (Client exited)
+[15:43:27] *** Joins: koolaid (koolaid@2a02:a212:280:1c00:8dff:1611:7521:2013)
+[15:43:29] *** Quits: koolaid (koolaid@2a02:a212:280:1c00:8dff:1611:7521:2013) (Client exited)
+[15:43:29] *** Joins: koolaid (koolaid@2a02:a212:280:1c00:8dff:1611:7521:2013)
+[15:43:33] <arvid> http://i.imgur.com/u6nOi46.jpg
+[15:53:36] <surrounder> HOI! ^_______________________^
+[15:55:22] <Fermata> O nee he
+[15:56:23] <surrounder> Fermata: HOI :D
+[15:57:15] <Fermata> hoi surrounder 
+[15:57:16] <Fermata> hoi
+[15:58:10] <surrounder> hoi
+[15:58:47] <Fermata> Alles wel?
+[15:59:18] <surrounder> zeker wel
+[16:00:34] *** Quits: koolaid (koolaid@2a02:a212:280:1c00:8dff:1611:7521:2013) (Client exited)
+[16:01:11] <NoxiousPluK> leugens
+[16:01:27] <surrounder> wat negatief NoxiousPluK :(
+[16:02:25] <NoxiousPluK> haha
+[16:02:27] <NoxiousPluK> zo ben ik :3
+[16:05:24] <the_Ye-Ti> YesxiousPluK
+[16:06:48] <surrounder> lol
+[16:07:13] <Fermata> Het bekt belabberd, dat wel.
+[16:07:19] <Fermata> inb4 "That what he said!"
+[16:07:55] <Fermata> inb4 "Haha je vergat de 's!"
+[16:07:58] <Fermata> !mensen--
+[16:08:00] <Fermata> !koffie++
+[16:08:00] <digiweed> Fermata: Karma for mensen is now: -241
+[16:08:02] <digiweed> Fermata: Karma for koffie is now: 1807
+[16:09:15] <surrounder> lol
+[16:09:17] <the_Ye-Ti> 'she ?
+[16:09:21] * surrounder aait de Fermatatatata
+[16:11:45] <Fermata> Ja dat zeg je nu wel zo mooi!
+[16:11:48] <Fermata> Maar ik voel het niet.
+[16:12:58] <the_Ye-Ti> oh, ben jij Fermatatatata?
+[16:14:28] <Fermata> I have been so informed.
+[16:18:03] *** Joins: QORRiE (dorian@dhcp-077-249-247-124.chello.nl)
+[16:21:29] *** Joins: koolaid (koolaid@ip-213-127-118-32.ip.prioritytelecom.net)
+[16:21:30] *** Quits: koolaid (koolaid@ip-213-127-118-32.ip.prioritytelecom.net) (Client exited)
+[16:21:30] *** Joins: koolaid (koolaid@2a02:a212:280:1c00:8dff:1611:7521:2013)
+[16:41:15] <NoxiousPluK> o.O
+[16:41:33] * Fermata betast NoxiousPluK 
+[16:41:37] <NoxiousPluK> rare jongens die bundyvillers
+[16:41:54] * NoxiousPluK aait Fermata
+[16:44:04] <the_Ye-Ti> gaan we nog wat coden vandaag?
+[16:48:05] <Fermata> We?
+[16:49:19] <SCHAPiE> kheb gisteren al wat gecode
+[16:50:07] <the_Ye-Ti> oh ja dan uh
+[16:52:11] <SCHAPiE> openvpn-build geforked
+[16:52:25] <SCHAPiE> alternatief build scriptje toegevoegd om LibreSSL ipv OpenSSL te gebruiken
+[16:52:28] <SCHAPiE> https://github.com/woohooyeah/openvpn-build
+[16:52:33] <digiweed> Title: GitHub - woohooyeah/openvpn-build: OpenVPN Build - with an extra buildscript to use LibreSSL instead of OpenSSL (at github.com)
+[16:54:06] <SCHAPiE> ook patchje ingestuurd naar openvpn's lijst, om CHACHA20-POLY1305 ciphersuite namen + IANA name translations in src/openvpn/ssl.c te zetten
+[16:54:55] <SCHAPiE> zo maar ns een boodschapje doen
+[16:57:16] <the_Ye-Ti> heb je t ook op msvc getest?
+[16:57:32] <syf_> in bundyville heb je dat allemaal niet nodig
+[16:58:01] <SCHAPiE> dat msvc gedeelte is niet echt goed onderhouden, had ik begrepen
+[16:58:14] <SCHAPiE> heb alleen de GCC crosscompiles getest op linux i386 en amd64
+[16:58:20] <syf_> slecht
+[16:58:46] <SCHAPiE> naar windows x86, x64, en native
+[16:58:53] <SCHAPiE> windows binaries werken prima iig
+[16:59:11] <SCHAPiE> http://woohooyeah.nl/openvpn-built-with-libressl-windows-binaries/
+[16:59:15] <digiweed> Title: OpenVPN built with LibreSSL Windows binaries | Woohoo Yeah (at woohooyeah.nl)
+[16:59:42] <SCHAPiE> officiele installer gebruiken, en dan de /bin vervangen met de juiste zip
+[17:06:34] <justaguy> woohooyeah
+[17:06:36] <justaguy> :P
+[17:11:26] <Fermata> Nerd
+[17:13:13] <syf_> hoe is de nieuwe doom dan?
+[17:15:38] <Fermata> Schieterig?
+[17:16:34] <syf_> oh dan hoeft het niet
+[17:22:53] <surrounder> lol
+[17:24:13] <the_Ye-Ti> syf_: wat had je dan verwacht?
+[17:24:17] <Fermata> pew pew
+[17:29:29] <mimic> DENG DENG DENG DENG
+[17:29:34] <mimic> <Fermata> RAM BAM BAM BAM
+[17:29:48] <Fermata> RAM BAM BAM BAM 
+[17:30:16] <the_Ye-Ti> mimic: heeft meneer cerror het erg druk?
+[17:30:20] <surrounder> UNF UNF UNF UNF UNF
+[17:30:39] <bReChThOu> HerrMata o/
+[17:30:44] <bReChThOu> sHOERrounderrrrrrrrrrrrrppppp
+[17:30:49] <bReChThOu> yeti o/
+[17:31:01] <Fermata> bReChThOu :3
+[17:31:26] <the_Ye-Ti> `tHou
+[17:31:29] <surrounder> bReChThOeRtjE <3
+[17:31:42] <bReChThOu> gaan julie vanavond wel genoeg alcohol consumeren ?
+[17:31:53] <surrounder> ga er wel een paar drinken ja
+[17:32:01] <surrounder> nja, nog wat meer
+[17:32:07] <surrounder> ben eigenlijk al een paar uur bezig
+[17:32:12] <surrounder> !F1++
+[17:32:13] <bReChThOu> beter
+[17:32:16] <digiweed> surrounder: Karma for F1 is now: 19
+[17:32:16] <bReChThOu> eizn einz rinz
+[17:32:20] <bReChThOu> -typo's
+[17:32:50] <Fermata> Ik heb niemand om alcohol mee te consumeren
+[17:32:56] <Fermata> Maar wel nog een fles whisky die op moet
+[17:32:58] <Fermata> Komt goed
+[17:33:12] <the_Ye-Ti> misschien eens palm proberen nu het een nederlands product is
+[17:33:33] <surrounder> Fermata: mixen met highway cola (tm) en atten die bende, komt vast goed!
+[17:33:58] <Fermata> Ik hoop dat er iemand in je bier rochelt.
+[17:34:06] <the_Ye-Ti> /o\
+[17:34:43] <syf_> nee, fritz-kola! of fentimans
+[17:34:58] <surrounder> Fermata: <3
+[17:35:17] <surrounder> Fermata: wat negatief!
+[17:35:18] <Fermata> Jij lul <3
+[17:35:25] <the_Ye-Ti> maareh hoe doet max t?
+[17:35:35] <surrounder> goed!
+[17:35:50] <the_Ye-Ti> snapt ie zn nieuwe auto al een beetje?
+[17:35:53] <surrounder> in q1 en q2 voor z'n teammaat, in q3 helaas niet maar alsnog p4!
+[17:36:08] <surrounder> alleen de mercedessen en z'n teammaat voor hem
+[17:36:36] <the_Ye-Ti> nice
+[17:37:16] <bReChThOu> alles buiten de top 3 is waardeloos
+[17:37:19] <bReChThOu> en scheer ik over 1 kam
+[17:37:47] * surrounder knijpt de bReChThOeR in z'n wangetjes
+[17:38:05] <bReChThOu> :3
+[17:39:11] <syf_> bReChThOu: gewoon jaloers op ONZE max
+[17:39:28] <syf_> waren er maar bekende belgen op dutroux na!
+[17:40:15] <bReChThOu> haha nee
+[17:40:15] <surrounder> duurt niet heel lang voordat vandoorne er ook rondrijdt
+[17:40:19] <bReChThOu> !holland--
+[17:40:23] <digiweed> bReChThOu: Karma for holland is now: -34
+[17:40:31] <bReChThOu> aka nederland.
+[17:41:00] <surrounder> spijtig
+[17:42:04] <AlBundy> http://i.imgur.com/naSXzTC.png
+[17:42:18] <AlBundy> syf_: Raymond van het Groenewoud
+[17:42:22] <bReChThOu> :')
+[17:42:30] <bReChThOu> das toch een hollander AlBundy
+[17:42:37] <AlBundy> huh echt?
+[17:42:42] <syf_> lol
+[17:42:48] <AlBundy> https://en.wikipedia.org/wiki/Raymond_van_het_Groenewoud
+[17:42:53] <digiweed> Title: Raymond van het Groenewoud - Wikipedia, the free encyclopedia (at en.wikipedia.org)
+[17:42:55] <bReChThOu> :>
+[17:43:00] <AlBundy> allebei goed :p
+[17:43:11] <AlBundy> Belgian musician of Dutch descent
+[17:43:36] <bReChThOu> mjeh
+[17:45:08] <the_Ye-Ti> eddy wally dan?
+[17:45:20] <AlBundy> ook Vlaams toch?
+[17:47:58] <bReChThOu> DOOD
+[18:05:39] <rawplayer> surrounder: https://pbs.twimg.com/media/CibE5v1VEAEEbKR.jpg:large
+[18:18:02] *** Quits: koolaid (koolaid@2a02:a212:280:1c00:8dff:1611:7521:2013) (Client exited)
+[18:18:11] <rawplayer> :|
+[18:20:39] <syf_> LOLO
+[18:29:21] <justaguy> lol
+[18:30:39] *** Quits: D3RPL3N3 (misfit@russian-business.network) (Ping timeout: 60 seconds)
+[18:31:16] <Fermata> Dag Darleen
+[18:33:27] <surrounder> rawplayer: haha nice
+[18:36:53] <bReChThOu> voedsel in mn mik
+[18:38:02] <SCHAPiE> wat tsjap je dan
+[18:38:47] <SCHAPiE> denk dat ik zo 'n pasta'tje ga maken, of een pizza
+[18:39:03] <bReChThOu> ik had gezond kost
+[18:39:10] <bReChThOu> varkensgebaardje, aardappelpuree, broccoli
+[18:39:14] <bReChThOu> gebraadje* :|
+[18:39:16] <AlBundy> lol
+[18:39:21] <AlBundy> !baard++
+[18:39:23] <digiweed> AlBundy: Karma for baard is now: 223
+[18:40:30] <Fermata> !baard--
+[18:40:30] <Fermata> Nee
+[18:40:33] <digiweed> Fermata: Karma for baard is now: 222
+[18:41:14] <surrounder> !baard++
+[18:41:17] <digiweed> surrounder: Karma for baard is now: 223
+[18:43:34] *** Joins: weazle (weazle@82-136-231-238.ip.telfort.nl)
+[18:43:50] *** Joins: D3RPL3N3 (misfit@2a02:2770:12:0:21a:4aff:fe07:7b2c)
+[18:44:09] <Fermata> !iphone++
+[18:44:11] <digiweed> Fermata: Karma for iphone is now: -2
+[18:44:27] <Fermata> !ios++
+[18:44:31] <digiweed> Fermata: Karma for ios is now: 3
+[18:44:31] <bReChThOu> :s
+[18:44:39] <bReChThOu> ik ga ff douchen
+[18:44:47] <Fermata> hf
+[18:44:55] <bReChThOu> komt goed
+[18:48:44] <mimic> http://i.imgur.com/wAdsrS8.gifv
+[18:51:43] <surrounder> !windows phone++
+[18:51:45] <surrounder> !lumia++
+[18:51:47] <digiweed> surrounder: Karma for windows-- phone is now: 23
+[18:51:49] <digiweed> surrounder: Karma for lumia is now: 18
+[18:52:31] <Fermata> https://scontent-ams3-1.xx.fbcdn.net/v/t1.0-9/13139325_1027923150649163_4180787283668396561_n.jpg?oh=9ff39ed879c61b4c644658146a6891a6&oe=57D8763B -- :D
+[18:53:05] <surrounder> mgiihiii
+[18:53:55] <BarthezZ> lijkt mij ook het beste, als je zo dom bent te verdwalen is 't puur darwinisme :$
+[18:54:34] <surrounder> Barthelemeus! \o/
+[18:56:15] <BarthezZ> omringert \o/ 
+[18:59:35] <BarthezZ> hoe maakt u het? 
+[19:02:05] <surrounder> prima hoor
+[19:02:07] <surrounder> met u?
+[19:02:12] <mimic> ej surrounder 
+[19:02:15] <mimic> ik heb slecht nieuws voor je
+[19:02:23] <mimic> je vakantie is bijna om
+[19:02:44] <surrounder> ikr
+[19:03:07] <mimic> balen man
+[19:03:14] <surrounder> och
+[19:03:23] <mimic> of verveel je je al?
+[19:03:39] <surrounder> neuh dat niet, maar heel erg vind ik het niet om weer te beginnen
+[19:05:06] <mimic> :o
+[19:05:12] <mimic> dat moet ik even opslaan
+[19:07:14] <bReChThOu> het douchen is compleet
+[19:07:39] <surrounder> \o/
+[19:07:51] <bReChThOu> dinsdag weer aan de noeste arbeid ?
+[19:08:28] <surrounder> ja
+[19:09:18] <bReChThOu> nice
+[19:09:23] <bReChThOu> gelijk storingsdienst erbij?
+[19:09:49] <BarthezZ> gaat wel surrounder 
+[19:09:54] <BarthezZ> had je vakantie? \o/
+[19:10:31] <surrounder> BarthezZ: idd
+[19:12:36] <BarthezZ> nice :) 
+[19:12:40] <BarthezZ> hoe was 't? 
+[19:13:00] <surrounder> relaxed en lui
+[19:15:47] <BarthezZ> lekker hoor :) geen wilde ondernemingen uitgehaald? 
+[19:21:52] <surrounder> nope
+[19:33:50] *** Joins: grid (grid@dhcp-089-099-194-232.chello.nl)
+[19:46:09] <nietzowerrum103> hotties & snotties!
+[19:46:10] <nietzowerrum103> https://scontent.xx.fbcdn.net/v/t1.0-9/13241245_1023334141085597_6116783355417527154_n.jpg?oh=455cb610eb68b8a012a150a78f6194b1&oe=57A1C39C
+[19:48:31] <nomadz> yo ho's
+[19:48:39] *** Quits: weazle (weazle@82-136-231-238.ip.telfort.nl) (Ping timeout: 66 seconds)
+[19:50:59] <Fermata> surrounder: https://scontent-ams3-1.xx.fbcdn.net/v/t1.0-9/13245399_719340391539465_6790665614291338451_n.jpg?oh=b7013a4407e5d63ffe051168eafcbf8e&oe=57A89E68
+[19:51:12] <Fermata> nietzowerrum103: waalstrand?
+[19:51:25] <nietzowerrum103> scheveningen
+[19:51:49] <Fermata> Ah
+[19:51:52] <Fermata> Wel een timing he
+[19:51:57] <Fermata> Net nu het weer is omgeslagen.
+[19:52:04] <nietzowerrum103> ja, HEERLIJK
+[19:52:18] <mimic> schijtweer
+[19:52:22] <bReChThOu> wat een pixels
+[19:52:24] <mimic> ik wil regen
+[19:52:29] <bReChThOu> of eerder het gebrek ervan
+[19:52:30] <mimic> bReChThOu: ik dacht hetelfde
+[19:52:31] <mimic> z
+[19:53:15] <surrounder> Fermata: lol
+[19:53:38] <Fermata> https://en.wikipedia.org/wiki/Equestrian_statue_of_the_Duke_of_Wellington,_Glasgow 
+[19:53:41] <digiweed> Title: Equestrian statue of the Duke of Wellington, Glasgow - Wikipedia, the free encyclopedia (at en.wikipedia.org)
+[19:53:42] <Fermata> " Capping the statue with a traffic cone has become a traditional practice in the city, claimed to represent the humour of the local population and believed to date back to the first half of the 1980s if not before."
+[19:53:46] <Fermata> Glasgow <3
+[19:54:19] <bReChThOu> hi-la-risch
+[19:54:25] <bReChThOu> ik stel voor om die stad in de fik te steken
+[19:54:27] <bReChThOu> en een pretpark te bouwen
+[19:55:15] <Fermata> Dat zou in Bundyville nooit gebeuren.
+[19:55:27] <Fermata> #embracethecone
+[19:55:51] <surrounder> alles voor bundyville!
+[20:00:28] *** Joins: koolaid (koolaid@ip-213-127-118-32.ip.prioritytelecom.net)
+[20:00:29] *** Quits: koolaid (koolaid@ip-213-127-118-32.ip.prioritytelecom.net) (Client exited)
+[20:00:29] *** Joins: koolaid (koolaid@2a02:a212:280:1c00:8dff:1611:7521:2013)
+[20:00:37] <mimic> hmm, top gear begint volgende week zondag weer
+[20:00:43] <mimic> ben wel benieuwd hoe crap t is
+[20:03:57] *** Joins: weazle (weazle@82-136-231-238.ip.telfort.nl)
+[20:04:22] <the_Ye-Ti> ongeveer 8 crap denk ik
+[20:04:38] <mimic> hm, das wel erg crap meneer the_Ye-Ti 
+[20:05:18] <the_Ye-Ti> hmm ja ik vond t altijd al 1 crap
+[20:06:41] <mimic> en dat geeft ook niet
+[20:07:11] <koolaid> ik heb t 1 keer gezien en verbaasde me over waarom mensen dat kijken
+[20:08:23] <surrounder> wat een negativiteit!
+[20:08:27] <surrounder> !top gear++
+[20:08:31] <digiweed> surrounder: Karma for top gear is now: 18
+[20:08:39] <surrounder> of iig, wat het was
+[20:12:29] <mimic> daarom ben ik benieuwd
+[20:12:31] <koolaid> Sling: kom je de 21e ook mn bier opdrinken
+[20:12:56] <Sling> koolaid: dan ben ik thuis al bier aan t drinken :p
+[20:12:59] <Sling> party collision and all
+[20:13:04] <koolaid> ja maar tot vroeg hoorde ik ;)
+[20:13:30] <mimic> stalker
+[20:13:44] <Sling> niet iedereen loopt over naar jouw crib :p
+[20:15:18] <bReChThOu> !top gear++
+[20:15:22] <digiweed> bReChThOu: Karma for top gear is now: 19
+[20:16:57] <nietzowerrum103> https://www.youtube.com/watch?v=6CPHnZV0K-k
+[20:17:01] <digiweed> Title: Enter Sandman Metallica by The Mini Band 8 to 10 years old - YouTube (at www.youtube.com)
+[20:26:33] *** bReChThOu is now known as bIeR
+[20:54:53] * mimic slaps ele around with a pink Macintosh
+[20:57:37] <Ou-Tannu> hm
+[20:57:44] * Ou-Tannu gooit een deuk
+[20:57:56] <rawplayer> hoi
+[20:58:13] <justaguy> had ik ele niet @ telegram dan dacht ik dat ie dood was en z'n server gewoon per jaar betaald werd ofzo
+[20:58:15] <justaguy> !seen ele
+[20:58:17] <digiweed> justaguy: ele was last seen in #nerds 1y 9w 4d 13h 17m 47s ago: <ele> helemaal klaar om aan de noeste arbeid te gaan ?
+[20:58:30] <Fermata> D'aw
+[21:01:00] <the_Ye-Ti> de feestelijke zaterdagavond o//
+[21:03:21] <Ou-Tannu> volgens mij was het niet zo snugger om mn "system reserved" partitie te overschrijven :X
+[21:04:16] <Fermata> Joh
+[21:08:34] <BarthezZ> justaguy telegram jij met ele? :o 
+[21:09:02] <justaguy> Nou telegram staat niet meer op m'n phone, heb hem al 2 maand niet gesproke :+
+[21:10:08] <mimic> dus hij kan net zo goed echt dood zijn idd
+[21:11:21] <justaguy> Nah
+[21:12:35] <nietzowerrum103> voor ons is ie dood
+[21:13:03] <Fermata> !names int3nz0r 
+[21:13:05] <Fermata> Uhm
+[21:13:08] <Fermata> !seen int3nz0r 
+[21:13:09] <digiweed> Fermata: I have not seen int3nz0r.
+[21:13:13] <Fermata> WEG
+[21:13:18] <Fermata> !seen bbee
+[21:13:20] <digiweed> Fermata: bbee was last seen in #nerds 2y 13w 0d 23h 17m 49s ago: <bbee> hoi
+[21:13:22] <Fermata> DOOD
+[21:13:30] <justaguy> !seen polischism
+[21:13:31] <digiweed> justaguy: I have not seen polischism.
+[21:13:35] <justaguy> !seen polichism
+[21:13:36] <nietzowerrum103> sukkel
+[21:13:36] <digiweed> justaguy: polichism was last seen in #nerds 2y 5w 3d 6h 54m 9s ago: <polichism> Tilde103Tilde: explain
+[21:13:36] <Fermata> Tiiiihiii
+[21:13:40] <Fermata> DOOD
+[21:13:43] <justaguy> *rent*
+[21:28:37] *** Quits: justaguy (kut@justaguy.pw) (Exit)
+[21:29:30] *** Joins: justaguy (justaguy@justaguy.nl)
+[21:33:34] *** Quits: grid (grid@dhcp-089-099-194-232.chello.nl) (Ping timeout: 64 seconds)
+[21:39:40] *** Joins: grid (grid@dhcp-089-099-194-232.chello.nl)
+[21:42:16] <mimic> https://www.youtube.com/watch?v=tq_OTcncPH0&feature=youtu.be&t=45m26
+[21:42:18] <digiweed> Title: A Real-Time Commute on Autopilot - YouTube (at www.youtube.com)
+[21:57:14] <rawplayer> surrounder https://twitter.com/okoeroo/status/731551530340503553
+[21:57:16] <digiweed> Title: Oscar Koeroo op Twitter: ""And then i told them...", @Max33Verstappen https://t.co/DFqQCMpqJ5" (at twitter.com)
+[21:57:21] <Fermata> nn
+[22:01:33] <mimic> vroeg, Fermata 
+[22:01:40] <mimic> rawplayer: oud
+[22:03:15] <justaguy> hah oscar
+[22:10:23] *** Joins: Tomsworld (tom@91.179.64.24)
+[22:11:44] <justaguy> rawplayer: kijk je ESF?
+[22:19:49] *** Quits: grid (grid@dhcp-089-099-194-232.chello.nl) (Ping timeout: 61 seconds)
+[22:20:41] <rawplayer> uiteraard
+[22:21:20] <Tomsworld> :D
+[22:21:25] * Tomsworld ook 
+[22:21:30] <Tomsworld> lekker fout
+[22:25:13] <rawplayer> nl krijgt 0 punten van oekeaine
+[22:27:49] <nietzowerrum103> en rusland doet een airwolfje?
+[22:28:03] <rawplayer> vast
+[22:34:17] <BarthezZ> rawplayer gay 
+[22:34:20] <BarthezZ> en Tomsworld ook gay
+[22:34:23] <BarthezZ> hoi Fermata O+ 
+[22:34:51] <Tomsworld> so be it
+[22:34:53] <Tomsworld> gewoon fout doen
+[22:36:35] <justaguy> BarthezZ: fermata ook
+[22:37:28] * BarthezZ slaps justaguy around a bit with a large trout
+[22:37:53] <Tomsworld> kijk nu kan nl kijken en hopen te winnen in een europese wedstrijd
+[22:38:14] <Tomsworld> wij kunnen in juni / juli nog eens 4 weken kijken naar een europese wedstrijd en hopen te winnen ;)
+[22:38:27] <Tomsworld> O+
+[22:38:44] <BarthezZ> wat voor homo kijkt nou weer voetbal Tomsworld
+[22:38:54] <BarthezZ> waar word het gehouden? Gaan we erheen een een wedstrijd kijken? 
+[22:38:58] <Tomsworld> ik :)
+[22:39:00] <Tomsworld> frankrijk
+[22:39:07] <BarthezZ> oh bah 
+[22:39:09] <Tomsworld> onmogelijk om tickets te regelen
+[22:39:12] <Tomsworld> maar ik nodig jullie wel uit
+[22:39:22] <Tomsworld> om ergens hier live es oplucht te gaan kijken :D
+[22:39:26] <BarthezZ> jij regelt wel weer een skybox via proximus ofzo? :P
+[22:39:38] <Tomsworld> was echt leuk tijdens het laatste WK
+[22:39:44] <Tomsworld> lukt niet :(
+[22:39:50] <BarthezZ> :\
+[22:39:58] <Tomsworld> geraak zelfs niet aan kaarten voor de kwalificaties voordien
+[22:40:15] <BarthezZ> jezus, kut leverancier
+[22:40:27] <Tomsworld> https://nl.wikipedia.org/wiki/Europees_kampioenschap_voetbal_2016#Speelsteden
+[22:40:31] <justaguy> is dit #belgie
+[22:40:32] <digiweed> Title: Europees kampioenschap voetbal 2016 - Wikipedia (at nl.wikipedia.org)
+[22:40:33] <justaguy> :D
+[22:40:44] <Tomsworld> zitten er veel dicht bij be nochtans
+[22:40:51] <Tomsworld> justaguy jep :P
+[22:41:08] <justaguy> kijk
+[22:41:09] *** Quits: justaguy (justaguy@justaguy.nl) (Exit)
+[22:41:10] *** Joins: justaguy (justaguy@justaguy.nl)
+[22:41:17] <justaguy> .nl
+[22:41:22] * justaguy rent
+[22:41:38] * Tomsworld tackelt justaguy 
+[22:42:03] <justaguy> nah doe maar niet
+[22:42:07] <Tomsworld> echt zonde dat ik mijn rechten hier meer heb zoals vroeger
+[22:42:13] <justaguy> je was toch oper ofzo
+[22:42:21] <Tomsworld> dan maakte is er ff @justaguy.be van
+[22:42:31] <Tomsworld> justaguy jep lang geleden
+[22:42:31] <BarthezZ> lol
+[22:42:38] <justaguy> heb al 1 maand met krukken gelopen dit jaar :P
+[22:42:40] <justaguy> dus doe maar niet
+[22:42:45] <BarthezZ> /svsnick justaguy justabelg 
+[22:42:54] <Tomsworld> maar niet meer doordat ik een paar jaartjes niet meer tijd kon besteden door omstandigheden
+[22:43:03] <Tomsworld> BarthezZ zo'n dingen ondermeer
+[22:43:14] <Tomsworld> of sethost
+[22:43:17] <justaguy> sanick toch
+[22:43:23] <justaguy> idk al die shi
+[22:43:23] <justaguy> t
+[22:43:30] <BarthezZ> die meid nu heeft wel fijne tieten in die jurk :9 
+[22:43:33] <BarthezZ> @ ESF 
+[22:45:18] <Tomsworld> justaguy svsnick omdat het hier via de services ging
+[22:45:36] *** Joins: Xyphoid (Xyphoid@i210097.upc-i.chello.nl)
+[22:51:18] <BarthezZ> Tomsworld wie is je favoriet so far?
+[22:51:27] <BarthezZ> die van oostenrijk is wel heel cute O+ 
+[22:51:52] <BarthezZ> http://gathering.tweakers.net/forum/list_messages/1690519/last laat ik jullie die niet onthouden :+
+[22:51:54] <digiweed> Title: Tweakers (at gathering.tweakers.net)
+[23:01:47] *** Quits: Xyphoid (Xyphoid@i210097.upc-i.chello.nl) (Client exited)
+[23:02:43] <wirky> blauwe dop
+[23:03:09] *** Joins: Xyphoid (Xyphoid@i210097.upc-i.chello.nl)
+[23:05:43] <rawplayer> wirky
+[23:05:59] <wirky> ja man
+[23:06:03] <wirky> suup
+[23:06:09] <rawplayer> groetjes terug
+[23:06:14] <wirky> thx
+[23:08:04] <wirky> zie jij erop toe dat 1 en ander op de juiste manier verloopt vanavond
+[23:10:22] <Xyphoid> Avond iedereen. Kom ff lurken terwijl mijn vrouw Songfestival kijkt
+[23:12:20] * BarthezZ slaat rawplayer
+[23:21:23] <rawplayer> :/
+[23:22:36] <justaguy> zeg BarthezZ 
+[23:22:40] <justaguy> doe eens niet
+[23:22:41] <justaguy> BarthezZ: weetje
+[23:22:52] <justaguy> mijn hoofd denkt constant dat jij belg bent
+[23:22:54] <justaguy> idk why
+[23:22:54] <BarthezZ> zeg justaguy
+[23:22:56] <BarthezZ> justaguy weet je 
+[23:23:02] <BarthezZ> je moeder :\
+[23:23:22] <justaguy> BarthezZMilfHunter
+[23:23:27] <rawplayer> hatwr
+[23:23:37] <BarthezZ> rawplayer waarom is justaguy zo gemeen? 
+[23:23:43] <rawplayer> issie niet
+[23:23:57] <BarthezZ> zo voelt het wel, diep van binnen 
+[23:24:00] <justaguy> ik ben een lieve cyberende jongeman
+[23:24:08] <rawplayer> eww
+[23:24:12] * Tomsworld troost BarthezZ 
+[23:24:31] <Tomsworld> wel aardig dat justaguy die superieure intelligentie ziet bij BarthezZ 
+[23:24:36] <Tomsworld> ;)
+[23:24:36] * BarthezZ kruipt snikkend bij rawplayer op schoot

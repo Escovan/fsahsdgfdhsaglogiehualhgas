@@ -1,0 +1,62 @@
+[00:10:33] *** Joins: Vicarious (diepfriet@sorcery-imt8eu.icario.us)
+[00:32:06] *** Quits: sheenobu (sheenobu@sorcery-jsddm4.hs.gigamonster.net) (Ping timeout: 121 seconds)
+[00:44:50] *** Joins: sheenobu (sheenobu@sorcery-jsddm4.hs.gigamonster.net)
+[02:06:35] *** Awaythysius is now known as Aethysius
+[03:11:50] *** Aethysius is now known as Ahecaur
+[04:40:28] <Fragmint> Ladies and Gentleman, weds. is our weekly lennart poettering fan club meeting
+[04:50:40] <Fragmint> I'd like to present some erotic fiction I wrote about systemd
+[04:51:16] * ankh listens
+[04:54:02] <Fragmint> eff systemd
+[04:54:08] <Fragmint> that is all
+[04:54:20] <Fragmint> (its a haiku)
+[04:56:41] * ankh is ok with systemd, sorry
+[04:56:49] <ankh> even if it might feel a little mainframeish
+[06:34:48] *** Ahecaur is now known as Aethysius
+[07:17:56] *** Quits: sheenobu (sheenobu@sorcery-jsddm4.hs.gigamonster.net) (Ping timeout: 121 seconds)
+[07:18:07] *** Joins: sheenobu (sheenobu@sorcery-jsddm4.hs.gigamonster.net)
+[14:53:27] *** Quits: Thunderguy (thunderguy@sorcery-5cfg9f.at.cox.net) (Server shutdown)
+[14:53:27] *** Quits: ankh (liam@sorcery-sbu.1mf.35.174.IP) (Server shutdown)
+[14:53:27] *** Quits: Neoburner (Neoburner@sorcery-pdsg09.com) (Server shutdown)
+[14:53:27] *** Quits: Fragmint (frag@sorcery-9fd.rd5.203.159.IP) (Server shutdown)
+[14:53:27] *** Quits: Apple_Master (apples@fallemmc.com) (Server shutdown)
+[14:53:32] *** Joins: Neoburner^ (Neoburner@sorcery-pdsg09.com)
+[14:53:34] *** Joins: Apple_Master (apples@sorcery-3pcqfr.infinitive.co.uk)
+[14:53:36] *** Quits: Apple_Master (apples@sorcery-3pcqfr.infinitive.co.uk) (Changing host)
+[14:53:36] *** Joins: Apple_Master (apples@fallemmc.com)
+[14:53:43] *** Joins: ankh (liam@sorcery-sbu.1mf.35.174.IP)
+[14:53:58] *** Joins: Fragmint (frag@sorcery-9fd.rd5.203.159.IP)
+[14:53:58] *** ChanServ sets mode: +o Fragmint
+[14:54:32] *** Quits: Apple_Master (apples@fallemmc.com) (Quit: uh oh znc is ded)
+[14:54:41] *** Joins: Apple_Master (apples@sorcery-3pcqfr.infinitive.co.uk)
+[14:54:42] *** Quits: Apple_Master (apples@sorcery-3pcqfr.infinitive.co.uk) (Changing host)
+[14:54:42] *** Joins: Apple_Master (apples@fallemmc.com)
+[14:58:29] *** Joins: Thunderguy (thunderguy@sorcery-5cfg9f.at.cox.net)
+[16:20:47] *** Quickshot changes topic to 'Have you tested linux 4.6-rc5 yet? Or gcc-5.3? - Have a question? Just ask - Paste: http://pastebin.com - <Broekie> Cue big flashing USER ERROR lights.'
+[16:21:19] <Quickshot> Guess some one wasn't happy with systemd a bit back there. ^^;
+[16:25:56] <StarThorn> I like some aspects of it, and very much dislike a number of others.
+[16:26:22] <StarThorn> I consider it 3 steps forward, and 2 steps back, with a couple of spins in there.
+[16:26:41] <StarThorn> We are left one step ahead of where we were, but we're also dizzy, confused, and at greater risk of falling over.
+[16:26:47] <Quickshot> ^^;
+[16:26:53] <Quickshot> Sounds about right
+[16:27:19] <Quickshot> The two steps back probably being putting everything under the sun in to a single monolithic init package
+[16:29:16] <StarThorn> That's part of it.  I'm also not a fan of how they handled journald, and how systemd in general feels more opaque and harder to troubleshoot (with poorer documentation).
+[16:29:56] <Quickshot> Ah right right
+[16:30:15] <Quickshot> No idea why they thought a database for logging was a good idea
+[16:46:21] * StarThorn smirks.
+[16:46:29] <StarThorn> It amuses me that the following are legitimate command options:
+[16:46:32] <StarThorn> netstat -peanut
+[16:46:34] <StarThorn> netstat -polenta
+[16:54:34] <Quickshot> Heh
+[17:41:38] *** Karolis is now known as Kar
+[19:24:41] <ankh> in theory a db for logging could mean more powerful querying
+[19:25:49] <ankh> strictly speaking systemd is not a monolithic replacement for init - the individual init scripts convert to systemd files and still run as separate tasks
+[20:34:12] <StarThorn> ankh: I've mostly seen the monolithic argument leveled against it from a creeping featurism standpoint.
+[20:34:39] <StarThorn> First it was an init replacement.  Then it was also a syslog replacement.  And a login replacement.  And a cron replacement.
+[20:35:34] <StarThorn> It's continually growing and adding new things that have established modular/separate components, and doing so in a way that makes it difficult or impossible to use some of those components.
+[20:35:42] <StarThorn> (The traditional ones.)
+[21:07:10] <ankh> StarThorn, yes, i agree there isn't agreement about its scope
+[21:15:14] *** Quits: Aethysius (Aethysius@Heywood.Jablome) (Connection closed)
+[22:44:04] *** Joins: Aethysius (Aethysius@Heywood.Jablome)
+[22:44:04] *** ChanServ sets mode: +v Aethysius
+[23:20:58] *** Aethysius is now known as Ahecaur
+[23:38:39] *** Ahecaur is now known as Awaythysius

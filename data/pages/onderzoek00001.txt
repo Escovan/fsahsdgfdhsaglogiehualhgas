@@ -1,0 +1,10 @@
+====== Testresultaten: Cognitie en Vaardigheden ======
+Getest subject: J.M. van der Pal
+
+Onderzoeksmethode door: Thalento
+
+Opdrachtgevers: AuthentICT, [[http://uwv.nl|UWV]]
+
+Datum: 2015 maart
+
+{{::2015_thalento-jmvdpal_cognitie_vaardigheidsonderzoek.pdf|Test resultaat}}

@@ -1,0 +1,138 @@
+[00:06:34] <AcidJell0> hmm
+[00:12:40] <grape> no?
+[00:13:55] <AcidJell0> is that a question ?
+[00:15:41] <grape> yes... a rhetorical one... ;-)
+[00:53:27] <grape> right... I am off
+[00:53:28] <grape> ttfn
+[00:56:37] *** Quits: grape (~grape@CJ-3k1.8q0.194.90.IP) (Quit: Verlassend)
+[04:07:37] *** Quits: opal (h@wowana.me) (Ping timeout: 121 seconds)
+[08:00:31] *** Quits: Emmanuel_Chanel (~emmanuel@CJ-ecl.cua.10.222.IP) (Connection closed)
+[11:08:36] *** Quits: AcidJell0 (~andre_000@dhcp-3c-97-e-da-44-c.cpe.sourcecable.net) (Ping timeout: 121 seconds)
+[11:24:44] *** Joins: AcidJell0 (~andre_000@CJ-51k.kgi.210.207.IP)
+[11:36:49] *** Joins: Emmanuel_Chanel (~emmanuel@CJ-ecl.cua.10.222.IP)
+[16:59:44] *** Joins: LionsMane (~don@CJ-ifj.kbt.9.173.IP)
+[17:53:40] <AcidJell0> ugh
+[17:54:06] <AcidJell0> sun is shining weather is coooold
+[17:54:18] <AcidJell0> super high 20s F
+[18:01:16] *** Quits: Emmanuel_Chanel (~emmanuel@CJ-ecl.cua.10.222.IP) (Connection closed)
+[18:32:25] <LionsMane> yikes!  Yer weather is broke!
+[18:32:34] <LionsMane> I am going to get some lunch.
+[18:49:20] <AcidJell0> aah the rice fried
+[19:44:35] *** Joins: grape (~grape@CJ-3k1.8q0.194.90.IP)
+[19:44:41] <grape> hi all
+[19:52:57] <LionsMane> Howdy grape
+[20:13:00] <AcidJell0> i keep wondering what eating insects tastes like
+[20:13:15] <AcidJell0> theres a whole insect market going nuts here in Toronto
+[20:13:22] <AcidJell0> they sell all sorts of worms and insects
+[20:14:39] <AcidJell0> ofcourse theres the famous chinese cockroach market
+[20:14:48] <AcidJell0> that i wouldnt want to try
+[20:14:53] <AcidJell0> im ok not knowing how those taste
+[20:15:02] * AcidJell0 thinkgs its lunch time
+[20:54:55] <LionsMane> They mostly taste like dirt.
+[20:54:59] <LionsMane> and...
+[20:55:01] <LionsMane> umm
+[20:55:06] <LionsMane> stinky
+[20:58:57] <grape> hi LionsMane 
+[21:00:17] <grape> bbl
+[21:00:34] <grape> oh.. and if somebody could explain to me what ITIL v3 is... I will pick it up later
+[21:23:31] <AcidJell0> itil is this set of IT standards
+[21:23:44] <AcidJell0> basically it describes suggested ways of doing various things in IT
+[21:24:01] <AcidJell0> if you can take the IT spectrum and split it in different chunks
+[21:24:43] <AcidJell0> it basically describes a best way of doing these things
+[21:25:17] <AcidJell0> as far as my understanding goes
+[21:25:58] <AcidJell0> the two parts that im familiar with are change management and deployment management
+[21:26:18] <AcidJell0> basically tells you how to deal with changes to specifications and how to deploy stuff
+[21:26:36] <AcidJell0> you can then take this framework and build on it your own procedures and stuff
+[22:03:39] <grape> thanks AcidJell0 .... but does that mean there is some kind of test or certificate for that?
+[22:17:05] <LionsMane> I would think so.  It sounds like it is a process you'd need to really understand to be able to push it out into your org.
+[22:18:58] *** Joins: lowkey (~lowkey@CJ-612.e6l.163.109.IP)
+[22:19:06] <lowkey> boing
+[22:19:11] <lowkey> hi grape
+[22:20:09] <lowkey> for the record, there is nothing I hate more than when someone is actually using and likes a script I haven't updated for almost a decade and THEY FIND A VALID BUG!
+[22:20:22] <lowkey> bbiab
+[22:20:30] <LionsMane> hahahah
+[22:20:49] <LionsMane> well, shit, quit yer bitchin' that someone found your tools to be actually useful.
+[22:29:22] *** Quits: lowkey (~lowkey@CJ-612.e6l.163.109.IP) (Ping timeout: 121 seconds)
+[22:30:10] *** Joins: lowkey (~lowkey@CJ-tir.t2n.102.94.IP)
+[22:30:21] <lowkey> the problem is I need to figure out what the hell I was thinking when I wrote it
+[22:30:48] <lowkey> silly tor is having connection issues....this should be interesting....
+[22:42:31] <LionsMane> what did the script do?
+[22:42:52] <lowkey> it was a silly little function for vim
+[22:43:05] <lowkey> are you familiar with folding in vim?
+[22:43:55] <LionsMane> I am not.  I use vim to edit the most basic of files.
+[22:44:24] <lowkey> ok, for most people you have folding based on markers or syntax.
+[22:44:55] <lowkey> this script attempted to merge the two for shell, and vim scripts
+[22:45:20] <lowkey> plus limited support for python and c
+[22:45:54] <lowkey> the bug occurs when someone has textwidth=0 and UpdateFoldMarkers enabled.
+[22:46:13] <lowkey> because updated fold markers can never reach a length of zero
+[22:47:01] <lowkey> and it never hit when I used it because I use textwidth=80 as a default for all shell scripts
+[22:47:08] <lowkey> brb
+[22:47:17] <grape> hi lowkey 
+[22:47:31] <grape> ok LionsMane 
+[22:49:30] <lowkey> hi grape
+[22:54:37] <grape> how are you ?
+[22:58:21] <LionsMane> huh, that is a pretty good edge bug to hit, lowkey
+[22:58:42] <LionsMane> So I assume textwidth=0 is meant to disable textwidth entirely?
+[22:59:02] <lowkey> extactly
+[22:59:25] <lowkey> grape: doing ok, just trying to figure out how my brain worked 10 yrs ago
+[22:59:35] <lowkey> if it ever really worked that is
+[22:59:37] <LionsMane> Ah, so no all that much of an edge case.
+[23:00:17] <lowkey> it was an edge case because this function wasn't supposed to be enabled.
+[23:00:37] <lowkey> it was something I was just playing with and included to see if anyone would submit proposed patches
+[23:02:42] <grape> could textwidth=0 stand for dynamic width? i.e. if you resize the shell it will resize the width?
+[23:03:25] <lowkey> yes and no.
+[23:04:04] <lowkey> by default vim won't wrap long lines, so with textwidth=0 you get some very long lines that go off the side of the screen
+[23:04:46] <lowkey> but you can enable wrapping and then it will autowrap  (either for display or actually break the lines depending on config)
+[23:05:00] <AcidJell0> f*k
+[23:05:02] <grape> ok
+[23:05:05] <grape> bbl... shower
+[23:05:11] <lowkey> enjoy
+[23:05:18] <AcidJell0> im connected to more then one client .. im getting confused as to which one im supposed to do what to
+[23:05:24] <AcidJell0> i ended up wiping the wrong db :D
+[23:05:42] <lowkey> LOL
+[23:05:55] <lowkey> i hope you have good backups ;-P
+[23:06:45] <grape> what are back ups?
+[23:06:47] <grape> :P
+[23:06:57] <grape> is that a UPS on its back?
+[23:06:58] <grape> :D
+[23:07:10] <lowkey> its like push ups but upside down
+[23:07:26] <grape> AcidJell0: but I know what you are talking about... I got several shells open... and I am fearing to do that mistake
+[23:08:13] <AcidJell0> yah ... i do sh*t like this all the time so backups are like my jeezus
+[23:08:56] <lowkey> I've started trying to use wrapper scripts as much as possible.  scripts that know to ask me "This is a serious host, are you sure?"
+[23:09:29] <AcidJell0> haha
+[23:09:36] <AcidJell0> heres another crazy thing i learned today
+[23:09:44] <AcidJell0> if i sniff my touch screen the mouse goes nuts
+[23:09:54] <AcidJell0> and i dont mean touch it with my nose
+[23:10:18] * lowkey doesn't want to know what p0rn caused AcidJell0 to want to sniff his screen
+[23:10:41] <AcidJell0> yep those damn japanese interactive porn sites :D
+[23:10:48] <lowkey> scratch-n-sniff screens haven't been invented yet!
+[23:11:01] <lowkey> but it maybe a good idea.
+[23:13:14] <AcidJell0> ... def. no
+[23:13:21] <AcidJell0> most F*N def. no
+[23:13:22] <AcidJell0> NO
+[23:13:29] <AcidJell0> just imagine the goatse prank
+[23:14:07] <lowkey> it would be so worth it
+[23:25:53] <LionsMane> hahahaha
+[23:25:59] <LionsMane> you are broken lowkey
+[23:26:11] <LionsMane> I like it that way, don't change a thing, lowkey
+[23:26:40] <lowkey> thats what happens when you grow up in the age of goatse.  you want others to feel the pain too
+[23:30:04] <lowkey> now I wonder why I set file delimiter lines had to be a minimum of 20 dashes (-) wide
+[23:35:44] <LionsMane> I have no idea, lowkey  Clearly neither do you  hehehe
+[23:36:00] <LionsMane> This is fun watching you step back into the wayback machine of your thought processes.
+[23:36:42] <lowkey> this is another good lesson in why ever instructor tells you to comment you code
+[23:38:22] <lowkey> ok I've reduced it to 10 dashes in a row
+[23:38:59] <LionsMane> Yeah, I find I can't possibilty figure out all the strangeness in my code without comments.
+[23:39:14] <LionsMane> Hell, I loose track of it after 10 months, give or take 10 years.
+[23:40:29] <lowkey> i can't think of any valid reason that I would see 10 dashes in a row in a file
+[23:40:39] <lowkey> other than as a delimiter
+[23:42:11] <lowkey> and all i'm doing is when I save a file, it stretches any it finds to be textwidth
+[23:43:49] <grape> ok.. I am back... I just had to file a patent entitled: the use of sniff-and-sratch screens for higher education
+[23:43:53] <grape> :D
+[23:44:03] <lowkey> lol
+[23:47:22] <lowkey> is this for the "pull-my-finger" department?
+[23:53:23] <grape> no... that is what AcidJell0 discussed earlier on :-)
+[23:53:40] <lowkey> exactly.
+[23:55:03] <lowkey> pull-my-finger must be an american joke.
+[23:55:40] <grape> it must be... as I don't get it
+[23:56:22] <lowkey> its a guy joke.  you tell someone to pull your finger and when they do, you fart
+[23:57:59] <grape> ok

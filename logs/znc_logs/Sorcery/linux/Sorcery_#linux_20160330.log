@@ -1,0 +1,57 @@
+[00:43:10] *** Joins: rain_syazana (.@sorcery-ll8.ugd.142.175.IP)
+[01:15:34] *** Quits: rain_syazana (.@sorcery-ll8.ugd.142.175.IP) (Quit: )
+[02:24:40] *** Quits: Quickshot (Quickshot@sorcery-3a8u0v.l2ae.08va.0981.2001.IP) (Ping timeout: 121 seconds)
+[02:35:15] *** Joins: Quickshot (Quickshot@sorcery-3a8u0v.l2ae.08va.0981.2001.IP)
+[02:35:15] *** ChanServ sets mode: +o Quickshot
+[04:11:23] *** Quits: Herod (Herod@sorcery-kue5b8.cc) (Quit: I'll return.)
+[07:52:10] *** Joins: Escovan (Escovan@sorcery-n6prqj.prutsplek.nl)
+[09:20:55] *** Quits: Sein (random@sorcery-vpr.dkr.153.50.IP) (Ping timeout: 121 seconds)
+[09:33:46] *** Joins: Sein (random@sorcery-g73.6vf.153.50.IP)
+[10:08:44] *** Joins: Karolis2011 (Karolis@sorcery-gbd0em.orgd.bfbo.2b88.2a02.IP)
+[10:09:05] *** Quits: Karolis2011 (Karolis@sorcery-gbd0em.orgd.bfbo.2b88.2a02.IP) (Changing host)
+[10:09:07] *** Joins: Karolis2011 (Karolis@th-166-235.splius.lt)
+[15:27:31] *** Quits: Sein (random@sorcery-g73.6vf.153.50.IP) (Ping timeout: 121 seconds)
+[15:41:42] *** Joins: Sein (random@sorcery-gdd.9up.153.50.IP)
+[16:12:06] *** Quits: ankh (liam@sorcery-sbu.1mf.35.174.IP) (Connection closed)
+[16:16:06] *** Quits: Sein (random@sorcery-gdd.9up.153.50.IP) (Ping timeout: 121 seconds)
+[16:29:30] *** Joins: Sein (random@sorcery-3io.jvm.153.50.IP)
+[17:13:11] *** Quits: Sein (random@sorcery-3io.jvm.153.50.IP) (Ping timeout: 121 seconds)
+[17:26:35] *** Joins: Sein (random@sorcery-t2o.o79.153.50.IP)
+[20:17:10] *** Joins: ankh (liam@sorcery-2nv.931.98.75.IP)
+[20:33:30] *** Joins: ankh_ (liam@sorcery-2nv.931.98.75.IP)
+[20:34:36] *** Quits: ankh (liam@sorcery-2nv.931.98.75.IP) (Ping timeout: 121 seconds)
+[20:37:29] <StarThorn> Holy crap.
+[20:37:34] <StarThorn> http://techcrunch.com/2016/03/30/be-very-afraid-hell-has-frozen-over-bash-is-coming-to-windows-10/
+[20:37:50] <StarThorn> http://blog.dustinkirkland.com/2016/03/ubuntu-on-windows.html
+[20:38:25] <StarThorn> Microsoft is working with Ubuntu to build an ELF/syslcall emulation layer into Windows, and will support being able to run an Ubuntu-based Linux CLI environment on Windows.
+[20:38:46] <StarThorn> It's already functional and will be out for limited testing soon, and is expected to ship with a Windows 10 update this summer.
+[20:42:41] <Ikarus> wait, WHAT
+[20:42:57] <Ikarus> Microsoft has gone slightly mad it seems
+[20:43:55] <Ikarus> ofcourse, the Windows GUI experience is terrible, but it's interestign otherwise
+[20:44:43] <StarThorn> Yeah, it's one of those, "Holy crap, hell is freezing over." things.
+[20:45:12] <StarThorn> But, it also makes a lot of sense.  This makes the OS a lot more developer friendly, especially for people using Perl/Python/Ruby/etc.
+[20:45:24] <StarThorn> And, it helps them support cloud deployments better.
+[20:45:30] <StarThorn> Like it or not, Linux is eating their lunch on the "cloud" deployment front.
+[20:45:37] <StarThorn> If they want to be competitive there, they need to ramp up the remote access, management, and automation support, and slim down the builds.
+[20:45:41] <Ikarus> Well, it is still pointless as the enviroment won't perfectly mirror 
+[20:45:43] <StarThorn> So, it makes sense that they're pushing Windows Server Core, and ssh, Linux utilities, etc.  Things that make supporting hundreds or thousands of cloud machines much, much easier.
+[20:46:08] <StarThorn> I don't mean developing for Linux, I mean people who are doing Windows development but want to use those tools to help them.
+[20:46:25] <Ikarus> My worry, in companies that aren't primary IT shops, but have both developers/admins for servers and desktops, as two seperate teams
+[20:46:35] <StarThorn> Hell, I've got Strawberry Perl installed on my box because it's useful for a lot of things.  I've had cygwin installed for the same reason.
+[20:46:39] <Ikarus> the desktop team forcing Windows on the dev/admin team that primarily works on servers
+[20:46:48] <Ikarus> which is going to be adorably broken
+[20:47:09] <Ikarus> but this is just my experience with companies who even try "Windows desktops and Cygwin" and such
+[20:47:39] <StarThorn> Well, apparently support for this will be rolling out this summer in the next Windows 10 update.
+[20:53:37] <Quickshot> Guess we'll see how it works out in the coming years
+[20:54:58] <StarThorn> From the second article (posted by an Ubuntu developer on the project), it apparently works pretty well already.
+[20:55:28] <StarThorn> In a lot of ways, it's not too far off from the old POSIX Subsystem for NT and Unix Services for Windows that they used to offer.
+[20:59:17] *** Joins: ankh (liam@sorcery-2nv.931.98.75.IP)
+[21:00:07] *** Quits: ankh_ (liam@sorcery-2nv.931.98.75.IP) (Ping timeout: 121 seconds)
+[21:34:08] <Ikarus> StarThorn: well, it's syscall compatible
+[21:37:53] <ankh> the trouble with the posix system was that a process could use *either* Windows or Posix API but not both
+[21:39:56] *** Quits: ankh (liam@sorcery-2nv.931.98.75.IP) (Quit: train arrives)
+[21:41:17] * StarThorn nods.
+[21:41:41] <StarThorn> It'll be interesting to see how well it works and how complete it is when it's released.
+[21:41:56] <StarThorn> I'm excited, though.  I'd love to have a solid *nix environment easily available in Windows.
+[23:30:07] <Thunderguy> And hopefully soon, Windows will start developing an environment for Linux ( such as an officially supported WINE ), but that's wishful thinking
+[23:45:19] <Sein> I would not trust mircosoft with my linux machine

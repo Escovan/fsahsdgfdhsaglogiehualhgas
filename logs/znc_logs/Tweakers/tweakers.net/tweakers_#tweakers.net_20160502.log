@@ -1,0 +1,620 @@
+[00:00:07] *** Quits: coreblink (coreblink@145.132.131.160) (Exit)
+[00:22:49] *** Quits: Guyver2 (Guyver2@guyver2.xs4all.nl) (Exit)
+[00:27:16] *** Joins: Smileface (alexander@25bc408b.ftth.concepts.nl)
+[00:41:00] *** Quits: klaveRCX (michiel@klaver.it) (Ping timeout: 61 seconds)
+[00:41:43] *** Joins: klaveRCX (michiel@klaver.it)
+[01:03:14] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[01:20:00] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[01:22:27] *** Quits: Smileface (alexander@25bc408b.ftth.concepts.nl) (Exit)
+[01:23:42] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[01:40:14] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[01:55:35] *** Quits: Anthor (Anthor@cust.7.103.adsl.cistron.nl) (Exit)
+[02:12:59] *** Quits: wasbak` (Mibbit@095-096-019-148.static.chello.nl) (Exit)
+[02:17:05] *** Quits: KompjoeFriek (roel@541B2230.cm-5-4a.dynamic.ziggo.nl) (Ping timeout: 61 seconds)
+[02:22:11] *** Joins: KompjoeFriek (roel@541B2230.cm-5-4a.dynamic.ziggo.nl)
+[02:58:31] <tozzert> meh
+[03:17:09] *** Quits: Winkey (Winkey@ip4da97a02.direct-adsl.nl) (Exit)
+[03:20:34] *** Joins: Winkey (Winkey@ip4da97a02.direct-adsl.nl)
+[04:06:46] *** Joins: Svardskampe (Svardskamp@109-15-ftth.onsnetstudenten.nl)
+[04:20:06] *** Quits: PCR (PCR@ip54508f13.adsl-surfen.hetnet.nl) (Ping timeout: 60 seconds)
+[04:21:10] *** Joins: PCR (PCR@ip54508f13.adsl-surfen.hetnet.nl)
+[04:49:40] *** Quits: Svardskampe (Svardskamp@109-15-ftth.onsnetstudenten.nl) (Connection reset by peer)
+[05:02:00] *** Quits: A1AD (jeron@d54C08CD2.access.telenet.be) (Ping timeout: 66 seconds)
+[05:11:25] *** Joins: A1AD (jeron@d54c08cd2.access.telenet.be)
+[05:53:11] *** Quits: Chester- (Chester@c77152.upc-c.chello.nl) (Ping timeout: 61 seconds)
+[05:53:45] *** Joins: Chester (Chester@c77152.upc-c.chello.nl)
+[06:11:02] <tozzert> meh
+[06:20:50] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 66 seconds)
+[06:38:27] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[06:51:10] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 67 seconds)
+[07:07:44] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[07:38:21] *** Joins: Rivanov (Rivanov@31-151-31-203.dynamic.upc.nl)
+[07:39:24] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[07:47:55] *** Joins: smesjz (smesjz@dhcp-089-098-025-154.chello.nl)
+[07:49:41] *** Quits: Rivanov (Rivanov@31-151-31-203.dynamic.upc.nl) (Exit)
+[07:50:05] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[07:51:57] *** Joins: Rivanov (Rivanov@31-151-31-203.dynamic.upc.nl)
+[07:54:40] *** Quits: Rivanov (Rivanov@31-151-31-203.dynamic.upc.nl) (Exit)
+[07:56:23] *** Joins: DataGhostS (vincent@5ED2C6DE.cm-7-3d.dynamic.ziggo.nl)
+[08:03:25] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Ping timeout: 66 seconds)
+[08:18:03] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[08:22:21] *** Joins: kees (kees@kees.tweakers.net)
+[08:22:54] *** Quits: mimic (cyka@eindbaas.s4nder.nl) (Ping timeout: 60 seconds)
+[08:28:58] *** Quits: Dirk (Dirk@ip5457fb35.direct-adsl.nl) (Ping timeout: 60 seconds)
+[08:28:59] *** Joins: chem (chem@180.191.107.237)
+[08:30:14] *** Joins: Dirk (Dirk@ip5457fb35.direct-adsl.nl)
+[08:30:14] *** ChanServ sets mode: +v Dirk
+[08:31:18] *** Quits: chem (chem@180.191.107.237) (Exit)
+[08:33:27] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[08:42:57] *** Joins: marccom (marc@095-097-114-212.static.chello.nl)
+[09:01:27] *** Quits: Stuiterbal (Stuit@2001:980:5281:1:84d8:8353:da5f:44d6) (Exit)
+[09:02:48] *** Joins: McM (mcm@188.207.127.182)
+[09:04:36] *** Joins: DinX_Werk (DinX@213.224.57.66)
+[09:08:35] *** Joins: Jeroen (Jeroen@54188FF8.cm-5-1c.dynamic.ziggo.nl)
+[09:08:48] *** Joins: tbosua (tbosua@office.hostnetbv.nl)
+[09:16:06] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Exit)
+[09:29:31] *** Quits: McM (mcm@188.207.127.182) (Ping timeout: 60 seconds)
+[09:31:51] *** Joins: McM (mcm@188.207.127.182)
+[09:49:04] *** Quits: McM (mcm@188.207.127.182) (Ping timeout: 61 seconds)
+[09:55:03] *** Joins: Guyver2 (Guyver2@guyver2.xs4all.nl)
+[10:10:30] *** Joins: chem (chem@180.191.107.101)
+[10:11:19] *** Quits: DataGhostS (vincent@5ED2C6DE.cm-7-3d.dynamic.ziggo.nl) (Exit)
+[10:11:19] *** Joins: mimic (cyka@eindbaas.s4nder.nl)
+[10:12:26] *** Joins: DataGhostS (vincent@5ED2C6DE.cm-7-3d.dynamic.ziggo.nl)
+[10:14:21] *** moto-moi|afk is now known as moto-moi
+[10:15:28] <chem> sletjes
+[10:16:32] <gdex> ga eens vakantie vieren
+[10:16:59] *** Quits: DataGhostS (vincent@5ED2C6DE.cm-7-3d.dynamic.ziggo.nl) (Client exited)
+[10:18:03] <chem> doe ik toch
+[10:18:07] <Escovan> hoi
+[10:20:26] *** Joins: Ziz (Mibbit@129.253.243.10)
+[10:25:06] <Tweaker62071> ik ga echt superhard op vakantie donderdag :)
+[10:25:08] *** Tweaker62071 is now known as tobias
+[10:25:13] *** ChanServ sets mode: +o tobias
+[10:25:25] *** Joins: DataGhostS (vincent@5ED2C6DE.cm-7-3d.dynamic.ziggo.nl)
+[10:25:31] *** Quits: BarthezZ (bart@monitoring.deheij-ict.nl) (Ping timeout: 66 seconds)
+[10:25:36] <chem> https://www.youtube.com/watch?v=qvoCB-dNWJ8 @ tobias 
+[10:26:55] <tobias> dat ja
+[10:35:44] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 66 seconds)
+[10:40:36] <chem> zit je enorm hard te nerden
+[10:43:53] <DizzyWeb> Zitten wij hier niet allemaal altijd enorm hard te nerden?
+[10:44:05] <chem> meh
+[10:44:32] <gdex> ssssht DizzyWeb, dadelijk hebben ze het door
+[10:44:55] <DizzyWeb> Wie? De overige nerds die net zo hard nerden?
+[10:47:43] <gdex> je baas
+[10:48:55] <chem> Sorcerer ?
+[10:50:39] <DataGhostS> mooi mooi
+[10:50:47] <DataGhostS> ik probeer shit te doen op een server hier
+[10:50:50] <DataGhostS> werkt allemaal niet
+[10:50:53] <DataGhostS> blijk ik naar mn eigen laptop gessht te hebben
+[10:51:04] <DizzyWeb> :'D
+[10:52:23] <chem> carry on.
+[10:53:06] <chem> http://www.nu.nl/opmerkelijk/4255072/medewerkster-vrt-verstuurde-echtgenoot-geheime-berichten-via-teletekst.html
+[10:53:07] <chem> hehe
+[10:55:09] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[11:00:45] <Dubbeldrank> dat er nog steeds mensen nu.nl bezoeken, het is een soort zelfkastijding :P
+[11:00:52] *** Joins: McM (mcm@188.207.127.182)
+[11:02:23] <chem> hehe
+[11:02:28] <chem> wat anders?
+[11:02:38] *** Quits: Guyver2 (Guyver2@guyver2.xs4all.nl) (Exit)
+[11:02:41] <chem> news.google.nl is vreselijk irritant
+[11:02:45] <Dubbeldrank> juh
+[11:03:28] <Dubbeldrank> mijn probleem met nu.nl is dat ik niet genoeg vingers aan mijn hand heb om weer te geven hoevaak hun advertentienetwerk misbruikt is voor malware verspreiding
+[11:04:53] <chem> maar wie heeft er geen adblocker+ghostery etc aan staan?
+[11:05:19] <Dubbeldrank> news.google.nl is trouwens wel een raar ding, als google stopt met indexeren storten bij $krant de views in elkaar
+[11:05:32] <Dubbeldrank> maar persoonlijk ken ik niemand die news.googl.nl gebruikt
+[11:05:39] <Dubbeldrank> +e
+[11:05:53] <Dubbeldrank> true chem, ghostery+ublock hier
+[11:05:56] <Dubbeldrank> maar zelfde idee
+[11:06:27] <chem> en ik wil gewoon zien wat er zo ongeveer gebeurd, geen interesse in tl;dr meuk
+[11:06:58] <Dubbeldrank> uhuh
+[11:07:09] <gdex> Jeroen: chem maakt d/t fouten
+[11:07:18] <chem> boeiuh
+[11:07:32] <gdex> ik moet die jongen wel helpen met z'n bloed laten koken he
+[11:07:33] <chem> alsof die jongen nog meer SOG voer nodig heeft
+[11:07:37] <gdex> of eigenlijk
+[11:07:45] <gdex> ik moed die jongen wel helpen med z'n bloet laden koken he
+[11:07:50] <Dubbeldrank> :D
+[11:08:12] <Dubbeldrank> ik taalnazi niet meer op irc, onbegonnen werk
+[11:08:28] <gdex> https://xkcd.com/386/
+[11:09:20] <Dubbeldrank> jammer dat er geen datum bij die strip staat
+[11:09:35] <Dubbeldrank> zo oud en nog steeds actueel
+[11:10:22] <gdex> 2008: http://www.explainxkcd.com/wiki/index.php/386
+[11:11:06] <gdex> en in het verlengde heb je deze natuurlijk: https://meta.wikimedia.org/wiki/Cunningham%27s_Law
+[11:12:52] <chem> cities i've visited maar weer eens bijwerken
+[11:13:00] <Dubbeldrank> cool gdex
+[11:13:04] <Dubbeldrank> thx
+[11:15:43] <chem> zo, 226 cities visited so far
+[11:40:49] <Dubbeldrank> waar zit je nu?
+[11:41:25] <chem> moalboal
+[11:41:26] <kees> vast ergens in een hangmatje met 30+ graden terwijl wij genieten van nachtvorst
+[11:41:35] <Dubbeldrank> :D
+[11:41:36] <chem> .ph
+[11:41:36] <chem> geen hangmat helaas
+[11:41:42] <kees> pff
+[11:41:54] <kees> ik type dat in op google en krijg wel mooie stranden te zien
+[11:42:16] *** Joins: coreblink (coreblink@145.132.131.160)
+[11:43:18] <chem> dat wel ja
+[11:43:25] <chem> morgen duiken met MILJARD sardines enzo
+[11:43:36] <Ziz> Nageteld?
+[11:45:39] <moto-moi> ga je vissen, chem?
+[11:45:50] <chem> nee duiken he
+[11:46:01] <chem> met een beetje mazzel komt er nog wat leuks op de sardines af
+[11:46:16] <chem> https://www.google.com.ph/search?q=moalboal+sardines&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjAuafkjbvMAhVDJpQKHda7DJAQ_AUIBygB&biw=1189&bih=727
+[11:46:18] <chem> dit soort dingen
+[11:47:20] <Ziz> Zo lopen mensen ook om mij heen na een dagje niet douchen.
+[11:50:51] <Escovan> de reden om dat af en toe eens niet te doen!
+[11:59:26] <Jeroen> dus als ik zo in een blik sardientjes duik, heb ik hetzelfde gevoel, chem?
+[12:00:50] <klaveRCX> alarm!
+[12:00:51] <Jeroen> DE RUSSEN
+[12:05:38] *** Quits: chem (chem@180.191.107.101) (Exit)
+[12:08:06] *** Joins: mcborder (Mibbit@170.75.128.112)
+[12:08:40] *** Quits: mcborder (Mibbit@170.75.128.112) (Exit)
+[12:27:51] *** Quits: marccom (marc@095-097-114-212.static.chello.nl) (Client exited)
+[12:28:46] *** Joins: marccom (marc@095-097-114-212.static.chello.nl)
+[12:30:42] *** Quits: McM (mcm@188.207.127.182) (Connection reset by peer)
+[12:33:35] *** Joins: McM (mcm@188.207.127.182)
+[12:34:53] *** Quits: smesjz (smesjz@dhcp-089-098-025-154.chello.nl) (Ping timeout: 60 seconds)
+[12:38:10] *** Quits: McM (mcm@188.207.127.182) (Ping timeout: 66 seconds)
+[12:38:59] *** Joins: Anthor (Anthor@cust.7.103.adsl.cistron.nl)
+[12:39:18] *** Quits: Jeroen (Jeroen@54188FF8.cm-5-1c.dynamic.ziggo.nl) (Exit)
+[12:40:25] *** Joins: McM (mcm@188.207.127.182)
+[12:42:28] *** Joins: mib_t2w2ud (Mibbit@170.75.128.112)
+[12:42:42] *** Quits: mib_t2w2ud (Mibbit@170.75.128.112) (Exit)
+[12:47:41] <mimic> GOEDEMORGEN ZONNESTRAALTJES \o/ \o/
+[12:49:44] *** Joins: Saggler (Saggler@131-052-158-163.dynamic.caiway.nl)
+[12:51:39] <Ziz> Happy Monday everyone!
+[12:58:01] *** Quits: McM (mcm@188.207.127.182) (Ping timeout: 66 seconds)
+[13:01:01] *** Joins: smesjz (smesjz@dhcp-089-098-025-154.chello.nl)
+[13:02:28] *** Joins: Drawer (Mibbit@80.255.245.203)
+[13:27:32] <Ziz> Pfiew dank je wel dell voor nieuwe CAB files! Zo te zien waren er veel driver veranderingen!
+[13:27:33] <Ziz> http://en.community.dell.com/techcenter/enterprise-client/w/wiki/11567.latitude-e54505450-windows-10-driver-pack
+[13:31:57] <Nakebod> Kunnen ze tenminste zeggen dat de drivers regelmatig worden geupdate 
+[13:34:06] <Ziz> idd
+[13:34:21] *** Joins: Kaastosti (Kaastosti@185.19.103.3)
+[13:35:05] *** Joins: Robin (robin@5419F052.cm-5-2d.dynamic.ziggo.nl)
+[13:35:05] *** ChanServ sets mode: +v Robin
+[13:35:56] <Kaastosti> slaapt iedereen nog?
+[13:36:02] <Nakebod> Ja
+[13:36:36] <Kaastosti> dan zal ik zachtjes praten
+[13:36:45] <HarmoniousVibe> Sssshh
+[13:37:18] <Kaastosti> ey die hoofdletter s was wel hard
+[13:38:05] <gdex> sssshH
+[13:38:15] <Nakebod> ssh!
+[13:38:20] *** Quits: otwin (meh@213.154.252.196) (Connection reset by peer)
+[13:38:25] <HarmoniousVibe> Hmm, ik heb wel zin in een tosti kaas
+[13:38:29] <HarmoniousVibe> Maar dan met ham
+[13:38:33] <HarmoniousVibe> en sambal
+[13:38:33] <Escovan> Hoe weten jullie hoe het openen van mijn drankje nu klinkt?!
+[13:38:35] <Kaastosti> goede kaas behoeft geen ham
+[13:39:02] <Nakebod> Maar een goede hamkaastosti vereist wel ham :+
+[13:39:18] <gdex> die jongen heet toch geen Hamkaastosti
+[13:39:22] <Kaastosti> correct, tevens juist
+[13:39:22] <gdex> je leest ook maar wat je wil Nakebod 
+[13:39:36] <gdex> of is Kaastosti z'n achternaam, en zijn z'n voorletters H.A.M. ?
+[13:39:38] <Nakebod> Ik wil nu inderdaad een hamkaastosti.. en bedankt he!
+[13:39:54] <Kaastosti> Hendrikus Antonius Marinus
+[13:40:05] <gdex> Marinus van "gemarineerd"?
+[13:40:25] <Nakebod> Oh, ook nog peper en zout erop?
+[13:40:26] <Kaastosti> nee, van de Marinademix
+[13:40:32] <gdex> ik heb net geluncht, en begin nu alweer trek te krijgen zo :P
+[13:40:43] <Kaastosti> dan heb je niet genoeg gegeten, ik zit nog vol zat
+[13:41:24] <gdex> anders blijf ik dik he
+[13:42:32] <HarmoniousVibe> Marinademix, dat klinkt als een karakter uit Asterix en Obelix
+[13:42:35] <sanderr> gdex: Maak je niet dik! :)
+[13:44:21] <gdex> dat hoeft ook niet meer sanderr B)
+[13:51:29] <Kaastosti> dikke pret
+[13:51:37] <gdex> vet grappig
+[13:51:47] <Kaastosti> bolle boel
+[13:51:51] <Kaastosti> *dolle
+[13:53:57] *** Joins: BarthezZ (bart@monitoring.deheij-ict.nl)
+[13:55:28] *** Quits: Tomcat_ha (user@a83-162-255-205.adsl.xs4all.nl) (Exit)
+[13:56:10] <HarmoniousVibe> Dolletjes
+[14:31:28] <Ziz> Iemand van het gebouw hier tegenover gesprongen.
+[14:31:31] <Ziz> Pff
+[14:31:40] <HarmoniousVibe> Ai
+[14:32:03] <moto-moi> Ziz: en niet gehaald tot het gebouw waar jij inzat?
+[14:32:07] <moto-moi> klinkt als slechte voorbereiding
+[14:32:09] <Ziz> GGZ zit hier tegenover.
+[14:32:11] <Ziz> haha
+[14:33:37] <Ziz> http://www.bredavandaag.nl/nieuws/politie/2016-05-02/verwarde-man-springt-uit-raam-ggz-op-oude-vest
+[14:34:31] <moto-moi> oh, gelukkig hadden ze een kussen neergelegd
+[14:34:33] <Ziz> Blijkbaar leeft die nog. Daarom jongens en meisjes. Kwaliteitstouw kopen
+[14:36:37] <Ziz> Je val breken door touw dat om je nek zit is Saddam slechter afgelopen.
+[14:38:48] *** Joins: Huigie (Huigie@D57D516A.static.ziggozakelijk.nl)
+[14:41:37] <Kaastosti> maar je had dus weer een exitgesprek?
+[14:42:17] <Ziz> Hehe ik zit er tegenover bij Rabobank.
+[14:47:41] *** Quits: Saggler (Saggler@131-052-158-163.dynamic.caiway.nl) (Exit)
+[14:49:55] *** Quits: kees (kees@kees.tweakers.net) (Ping timeout: 66 seconds)
+[14:50:46] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[14:50:47] <Nakebod> Zeker zo een dun touwtje van 1mm dik gebruikt
+[14:51:34] *** Joins: kees (kees@kees.tweakers.net)
+[14:52:14] <Escovan> Er bestaat niet zoiets als ¨verwarde mensen¨ ... er bestaan alleen mensen ... en een willekeurige daarvan kan op een willekeurig tijdstip verward raken.
+[14:52:27] <Ziz> Zoals ik. Door jou zin.
+[14:52:33] <Escovan> :P
+[14:53:16] <Kaastosti> jouW
+[14:53:33] <Escovan> semantische dementie Kaastosti sssst
+[14:53:38] <Ziz> Verward is een correcte benaming voor iemand die om welke reden dan ook van mening was zichzelf van een gebouw af werpen het beste idée van Nederland was.
+[14:54:06] <Kaastosti> en er bestaat een kans, hoe klein ook, dat deze persoon daar op dat moment gelijk in had
+[14:54:11] <Ziz> Indien die niet verward was. Had die wel steviger touw gehad.
+[14:54:40] <Ziz> Die kans is idd aanwezig.
+[14:54:42] <Escovan> Gestoord is een mooi woord. Want waardoor werd deze persoon gestoord? En waar stoorde het hem van? 
+[14:54:45] <Kaastosti> er zijn subtielere manieren om er een eind aan te maken
+[14:55:05] <Kaastosti> met minder bende en geshockeerde mensen
+[14:55:16] <Ziz> Ik noemde niemand gestoord.
+[14:55:18] <Escovan> Ik rook... ik ga langzaam. Kan iedereen nog afscheid nemen.
+[14:55:27] <Kaastosti> doei!
+[14:55:35] <Kaastosti> zo, hebben we dat in ieder geval gehad
+[14:55:41] <Escovan> *kuch* *rochel* ja later :D
+[14:55:49] <Kaastosti> kan ik ook vast een plakje cake komen halen?
+[14:55:55] <Kaastosti> met een laf bakje koffie
+[14:55:58] <Ziz> Met slappe koffie
+[14:55:59] <Ziz> idd
+[14:56:14] <Ziz> Moet Woensdag weer. Pff
+[14:56:44] <Ziz> Met 80 zichzelf in een boom geboord.
+[14:57:12] <Kaastosti> treurig
+[14:57:35] <Escovan> De mensen zijn zwak, en de wereld is wreed. 
+[14:58:05] <Ziz> Jup. Weg vol flitspalen dus iedereen op cruise control 80. Let even niet op. Raakt van de weg. Klaar.
+[14:58:05] <Kaastosti> als soort kunnen we echt verdomd weinig hebben voor we stuk gaan
+[14:58:27] <Ziz> idd
+[14:58:32] <Kaastosti> en dan wint de boom
+[14:58:44] <Kaastosti> met overtuiging
+[14:58:48] <Ziz> Zijn weinig situaties waar boom verliest
+[14:58:55] <moto-moi> daar hebben ze kettingzagen voor
+[14:59:02] <Ziz> hehe
+[14:59:04] <Kaastosti> bij ons in de tuin heeft een aantal bomen het toch verloren
+[14:59:07] <Kaastosti> van een andere boom dan wel
+[14:59:13] *** Joins: Svardskampe (Svardskamp@109-15-ftth.onsnetstudenten.nl)
+[14:59:15] <Kaastosti> nou ja... boompjes
+[14:59:16] <gdex> moto-moi: jij rijdt preventief rond met kettingzagen voor op je motorkap?
+[14:59:27] <moto-moi> jij niet dan? :o
+[14:59:33] <gdex> nee, ik kan wel rijden
+[14:59:41] <gdex> [/te makkelijk]
+[14:59:47] <moto-moi> tss, ik heb nog nooit een ongeluk gehad met een auto!
+[14:59:55] <moto-moi> fiets en motor wil ik het even niet over hebben O-)
+[14:59:59] <gdex> :P
+[15:00:25] <Kaastosti> oh ja fiets en motor heb ik ook
+[15:00:38] <Kaastosti> en met de auto alleen mensen achterop gehad
+[15:01:07] <moto-moi> dat heb ik ook 1 keer gehad bij een stoplicht, heb ik een nieuwe achterbumper gekregen
+[15:01:16] <moto-moi> ik kon wel remmen, hij met z'n fabia blijkbaar niet
+[15:07:12] <Ziz> http://imgur.com/gallery/sWOKeAy/new
+[15:07:39] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[15:12:00] <Kaastosti> by 0?
+[15:12:06] <Kaastosti> ik zie de grap even niet
+[15:12:58] <Ziz> https://themathbehindthemagic.files.wordpress.com/2014/03/divide-by-zero1.jpg
+[15:23:12] *** Ziz is now known as Ziz`aw
+[15:24:13] *** Joins: McM (mcm@188.207.127.182)
+[15:28:32] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 61 seconds)
+[15:31:38] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[15:34:42] *** Joins: mib_tkhn2i (Mibbit@66.87.115.52)
+[15:35:00] *** Quits: mib_tkhn2i (Mibbit@66.87.115.52) (Exit)
+[15:35:03] *** Joins: mib_tkhn2i (Mibbit@66.87.115.52)
+[15:35:10] *** Quits: mib_tkhn2i (Mibbit@66.87.115.52) (Exit)
+[15:49:48] *** Quits: McM (mcm@188.207.127.182) (Ping timeout: 60 seconds)
+[15:56:52] *** Quits: Drawer (Mibbit@80.255.245.203) (Exit)
+[16:01:06] *** Joins: Jeroen (Jeroen@ip82-139-124-155.lijbrandt.net)
+[16:01:33] *** Quits: DataGhostS (vincent@5ED2C6DE.cm-7-3d.dynamic.ziggo.nl) (Ping timeout: 63 seconds)
+[16:06:17] <Kaastosti> wat een duffe maandag zeg
+[16:14:15] <Jeroen> tell me about it
+[16:18:32] *** Quits: Kaastosti (Kaastosti@185.19.103.3) (Exit)
+[16:20:15] <Hooglander1> tozzert: mijn zuster
+[16:24:09] *** Quits: kees (kees@kees.tweakers.net) (Input/output error)
+[16:24:35] <Jeroen> op een houtvlot?
+[16:27:25] *** Joins: Guyver2 (Guyver2@guyver2.xs4all.nl)
+[16:29:54] *** Quits: DinX_Werk (DinX@213.224.57.66) (Connection reset by peer)
+[16:30:15] *** Joins: NBS (NBS4@ip5657cc38.direct-adsl.nl)
+[16:30:25] *** Quits: DizzyWeb (arjen@ip56508964.direct-adsl.nl) (Ping timeout: 60 seconds)
+[16:31:00] *** Joins: DizzyWeb (arjen@ip56508964.direct-adsl.nl)
+[16:35:59] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[16:43:20] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[17:06:06] *** Joins: Smileface (alexander@25bc408b.ftth.concepts.nl)
+[17:06:58] *** Joins: mark66031 (Mibbit@234-21-159-88.business.edutel.nl)
+[17:08:34] *** Quits: mark66031 (Mibbit@234-21-159-88.business.edutel.nl) (Exit)
+[17:14:22] *** Joins: Vipertje (tweak@54182E79.cm-5-1a.dynamic.ziggo.nl)
+[17:17:07] <Jeroen> http://www.nu.nl/muziek/4255917/feestdjruud-stopt-met-optreden.html laat het drawer maar niet horen
+[17:22:52] *** Quits: smesjz (smesjz@dhcp-089-098-025-154.chello.nl) (Exit)
+[17:27:20] <tozzert> jouw zuster Hooglander1?
+[17:27:21] <tozzert> whut?
+[17:27:37] <moto-moi> hij heeft een zus? Ik haat haar nu al
+[17:31:37] *** Quits: Smileface (alexander@25bc408b.ftth.concepts.nl) (Exit)
+[17:35:53] <Escovan> hey, hebben jullie wel genoeg geld verdiend voor mij vandaag?
+[17:35:58] *** Joins: Sponge (Sponge@149.210.150.92)
+[17:36:08] <Escovan> binnenkort vt-geld he
+[17:38:17] <Escovan> stel dat het geld op is!
+[17:38:24] <Escovan> wat moeten we dan!!!!111
+[17:43:21] <wirky> vt-geld wat is dat
+[17:43:35] <wirky> moet ik koekelen
+[17:44:23] <wirky> geeft geen hits
+[17:46:58] <wirky> virtueel
+[17:47:07] <Escovan> Vrije Tijds geld ofwel Vakantiegeld
+[17:47:15] <wirky> ow
+[17:48:42] *** Joins: Francis (Francis@5468C56E.cm-12-1d.dynamic.ziggo.nl)
+[17:49:34] <Huigie> lekker zeg, het hele jaar geen flikker doen en dan nog vakantiegeld krijgen ook
+[17:50:10] *** Quits: Chiron (Chiron@ip5652834f.adsl-surfen.hetnet.nl) (Client exited)
+[17:51:27] <moto-moi> Huigie: dat beschrijft 99% van de mensen in ict volgens mij :+
+[17:51:39] <Huigie> (sssst)
+[17:51:49] <Francis> ohai
+[17:51:54] <moto-moi> sowwy :P
+[17:51:57] *** Parts: marccom (marc@095-097-114-212.static.chello.nl) ()
+[17:56:37] * tozzert likt Huigie over z'n kale bolleke
+[17:56:44] <Huigie> prrr
+[17:56:59] <Huigie> even fappen, brb
+[17:57:00] *** Quits: Huigie (Huigie@D57D516A.static.ziggozakelijk.nl) (Exit)
+[18:06:47] *** Quits: welly7 (willy@ip503c7f23.speed.planet.nl) (Ping timeout: 61 seconds)
+[18:06:48] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Ping timeout: 68 seconds)
+[18:07:33] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[18:07:51] *** Joins: welly7 (willy@ip503c7f23.speed.planet.nl)
+[18:09:01] <tozzert> vandaag even in de nieuwe auto gekeken
+[18:09:04] <tozzert> geen navigatie
+[18:09:05] *** Joins: maxschouten (Mibbit@149.86.117.194)
+[18:09:12] <tozzert> amper opbergmogelijkheden voor
+[18:09:18] <tozzert> veul minder dan dat ik nu heb iig
+[18:09:19] <tozzert> :/
+[18:09:22] <tozzert> armoe
+[18:09:32] <tozzert> geen lade onder stoel
+[18:09:52] <tozzert> geen A4-formaat vak op dashboard
+[18:09:54] <tozzert> man man man
+[18:10:10] <tozzert> kutkar
+[18:21:45] *** Quits: maxschouten (Mibbit@149.86.117.194) (Exit)
+[18:29:56] *** Joins: Resistor (Resistor@ip5456d91b.speed.planet.nl)
+[18:36:09] *** Joins: Metalfrost (Metalfrost@46.166.188.224)
+[18:36:33] <moto-moi> tozzert: klinkt als een goede upgrade, wanneer ga je wisselen? O-)
+[18:42:57] *** Quits: tbosua (tbosua@office.hostnetbv.nl) (Exit)
+[18:44:03] <Jeroen> héhé
+[18:44:08] <Jeroen> GoT begint eindelijk
+[18:46:06] *** Joins: Stuiterbal (Stuit@2001:980:5281:1:49a1:d04e:4b96:167a)
+[18:47:34] <Metalfrost> spoiler?
+[18:47:38] <Metalfrost> spoilerspoilerspoiler?
+[18:47:45] <Metalfrost> spoilerspoilerspoilerspoiler?
+[18:47:55] <Metalfrost> net een haiku
+[18:49:58] <Jeroen> gin spoilers
+[18:50:21] <Resistor> Er gaat iemand dood.
+[18:53:32] <tozzert> GoT begint?
+[18:53:38] <tozzert> is dat niet ergens in de jaren 90 begonnen?
+[18:54:48] <moto-moi> je kan je beter afvragen waneer die vent eens die boeken afmaakt
+[18:56:03] <tozzert> storing
+[19:01:18] <Jeroen> die gaat volgens mij dood voordat ie de boeken afkrijgt, moto-moi 
+[19:04:03] <moto-moi> in dit tempo zeker
+[19:04:14] <moto-moi> 2005 laatste boek lees ik op wikipedia, en er komen er in ieder geval nog 2 8)7
+[19:05:19] <tozzert> nou
+[19:05:22] <tozzert> ik ga rijden hè
+[19:05:23] <tozzert> dag hè
+[19:05:27] <tozzert> ...
+[19:05:32] <tozzert> rogue
+[19:05:37] <moto-moi> in je nieuwe wagen?
+[19:05:39] <tozzert> wakker worden
+[19:05:41] <moto-moi> veel plezier!
+[19:05:43] <tozzert> nope
+[19:05:55] <tozzert> ik heb gezegd dat ze die maar in hun reet kunnen steken!
+[19:06:13] *** Quits: Francis (Francis@5468C56E.cm-12-1d.dynamic.ziggo.nl) (Exit)
+[19:06:30] <moto-moi> :D
+[19:10:51] *** Quits: Korvaag (sjoerd@sinas.rename-it.nl) (Ping timeout: 60 seconds)
+[19:10:51] *** Quits: tobias (tobias@sinas.rename-it.nl) (Ping timeout: 60 seconds)
+[19:13:33] *** Joins: Matthew (Matthew@178-117-75-230.access.telenet.be)
+[19:17:39] *** Joins: Rollie (Rollie@53550C92.cm-6-6a.dynamic.ziggo.nl)
+[19:18:11] *** Quits: Rollie (Rollie@53550C92.cm-6-6a.dynamic.ziggo.nl) (Exit)
+[19:18:16] *** Joins: Rollie (Rollie@53550C92.cm-6-6a.dynamic.ziggo.nl)
+[19:20:51] *** Joins: tobias (tobias@sinas.rename-it.nl)
+[19:20:51] *** Joins: Korvaag (sjoerd@sinas.rename-it.nl)
+[19:21:53] *** tobias is now known as Tweaker14577
+[19:29:14] *** Quits: Vipertje (tweak@54182E79.cm-5-1a.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[19:30:12] *** Joins: gakkethijs (gakkethijs@84-245-42-16.dsl.cambrium.nl)
+[19:31:57] *** Quits: NBS (NBS4@ip5657cc38.direct-adsl.nl) (Ping timeout: 67 seconds)
+[19:46:38] *** Joins: Tweaker_2238 (Mibbit@D979BACC.cm-3-2c.dynamic.ziggo.nl)
+[19:56:10] *** Quits: Tweaker_2238 (Mibbit@D979BACC.cm-3-2c.dynamic.ziggo.nl) (Exit)
+[19:56:17] *** Joins: Tweaker_5717 (Mibbit@D979BACC.cm-3-2c.dynamic.ziggo.nl)
+[19:58:47] *** Quits: Tweaker_5717 (Mibbit@D979BACC.cm-3-2c.dynamic.ziggo.nl) (Exit)
+[20:04:02] <Hooglander1> Is het zo raar dat ik een zus heb?
+[20:04:55] <moto-moi> ja
+[20:05:07] <Hooglander1> O
+[20:05:09] <moto-moi> nog meer vragen? :P
+[20:06:26] <Hooglander1> Nee
+[20:06:39] <moto-moi> en weer verlaat een tevreden klant het pand
+[20:06:40] <Hooglander1> Ik vind tozzert een laffe baas
+[20:06:48] <Hooglander1> Ik vind dattie verplicht zijn nieuwe kar moet
+[20:07:05] <moto-moi> ach, hij heeft het al moeilijk genoeg met z'na ccent enzo
+[20:07:47] <Hooglander1> True dat
+[20:16:00] *** Joins: Vipertje (tweak@54182E79.cm-5-1a.dynamic.ziggo.nl)
+[20:42:32] <tozzert> zeau
+[20:43:07] <tozzert> maar waarom blaatte je in een keer uit het niets 'mijn zuster'?
+[20:43:17] <tozzert> Hooglander1tje
+[20:44:15] <tozzert> en de volgende storing is een feit
+[20:44:18] <tozzert> de kak
+[20:45:22] <tozzert> en de volgende ook
+[20:45:23] <tozzert> FFS
+[20:46:30] <Prof_NaPo^^> Wat is er met jouw zuster tozzert?!
+[20:53:18] *** Joins: McM (mcm@d30008.upc-d.chello.nl)
+[20:55:52] *** Joins: Nelicquele (Nelicquele@i244127.upc-i.chello.nl)
+[20:58:22] *** Quits: Ou-Tannu (Ou-Tannu@5249248B.cm-4-2a.dynamic.ziggo.nl) (Ping timeout: 61 seconds)
+[20:58:41] <Hooglander1> Dat was @ jou tozzert 
+[20:59:12] <Hooglander1> Omdat je vroeg waar ik naar toe ging in Engeland
+[20:59:16] <tozzert> wat @ mij?
+[20:59:20] <tozzert> ah
+[20:59:21] <tozzert> dat
+[20:59:25] <Prof_NaPo^^> ga je alweer naar UK?
+[20:59:45] <Nelicquele> Avond
+[20:59:47] *** Joins: Ou-Tannu (Ou-Tannu@5249248B.cm-4-2a.dynamic.ziggo.nl)
+[20:59:48] <Prof_NaPo^^> meer vakantie dan dat je werkt Hooglander1 
+[20:59:55] <Hooglander1> Was het maar waar
+[21:00:02] <Hooglander1> Laatste keer was vorig jaar ergens
+[21:00:27] <tozzert> nou
+[21:00:41] <tozzert> 1 van de 2 storingen die tegelijk binnenkwamen heb ik telefonisch kunnen verhelpen
+[21:00:49] <tozzert> nu de andere nog en daar moet ik wel weer heen
+[21:00:50] <tozzert> :(
+[21:00:52] <Hooglander1> Whehe
+[21:00:59] <Hooglander1> Had je nu maar een nieuwe kar he
+[21:01:03] <moto-moi> hahaha
+[21:01:04] <tozzert> want?
+[21:01:11] <moto-moi> ik wilde hetzelfde typen _o-
+[21:05:00] <Hooglander1> :+
+[21:06:36] *** Quits: Ou-Tannu (Ou-Tannu@5249248B.cm-4-2a.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[21:10:31] *** Joins: NBS (NBS4@ip5657cc38.direct-adsl.nl)
+[21:11:34] <Hooglander1> Vandaag en morgen dienst tozzert 
+[21:11:37] <Hooglander1> En volgende week toch
+[21:11:43] <Hooglander1> Nakebod! Waar Ben je?
+[21:12:00] *** Joins: Ou-Tannu (Ou-Tannu@5249248B.cm-4-2a.dynamic.ziggo.nl)
+[21:12:31] *** Quits: McM (mcm@d30008.upc-d.chello.nl) (Ping timeout: 61 seconds)
+[21:12:44] *** Prof_NaPo^^ is now known as Prof_Away^^
+[21:13:36] <freebee666> g'avond :)
+[21:15:53] *** Quits: A1AD (jeron@d54c08cd2.access.telenet.be) (Ping timeout: 66 seconds)
+[21:18:23] *** Quits: Mrwazig (mrwazoo@h102136.upc-h.chello.nl) (Connection reset by peer)
+[21:23:46] *** Joins: Mary1995 (Mibbit@92-111-40-2.static.chello.nl)
+[21:24:18] <Hooglander1> moto-moi: en dan issie er bijna en dan hopen dat het afgebeld word :+
+[21:24:21] *** Joins: A1AD (jeron@d54c08cd2.access.telenet.be)
+[21:24:39] *** Quits: Mary1995 (Mibbit@92-111-40-2.static.chello.nl) (Exit)
+[21:24:48] *** Joins: Mary1995 (Mibbit@92-111-40-2.static.chello.nl)
+[21:25:05] <moto-moi> Hooglander1: en dan het hele eind terughinken in die bak _o- :P
+[21:25:13] <Hooglander1> Whehehe
+[21:25:20] <Hooglander1> Hij heeft nu zijn ouwe nog he
+[21:25:26] <Hooglander1> 120hele pk's :+
+[21:25:27] <moto-moi> ja, da's wel jammer :/
+[21:27:53] <Hooglander1> Ach ja
+[21:27:58] <Hooglander1> Storingsdienst in een kutbak
+[21:28:01] <Hooglander1> Zou wel heel erg zijn
+[21:29:34] <moto-moi> heel erg leuk ja
+[21:29:38] <Hooglander1> Ghihi
+[21:29:39] <moto-moi> voor ons :P
+[21:29:45] <moto-moi> nuchter in een kutbak rondrijden
+[21:29:53] <moto-moi> zwaar sjago
+[21:30:07] <Hooglander1> Zo jammer dat we niet mee kunnen kijken
+[21:30:20] <moto-moi> dat zou een apart netflix kanaal kunnen zijn
+[21:30:33] *** Quits: gakkethijs (gakkethijs@84-245-42-16.dsl.cambrium.nl) (Exit)
+[21:30:44] <Hooglander1> Daar is periscope toch voor uitgevonden?
+[21:30:59] <moto-moi> ik denk dat niet tozzert daaraan mee zou werken :/
+[21:31:05] *** Quits: Svardskampe (Svardskamp@109-15-ftth.onsnetstudenten.nl) (Connection reset by peer)
+[21:32:38] *** Quits: Mary1995 (Mibbit@92-111-40-2.static.chello.nl) (Exit)
+[21:32:45] *** Joins: Bitage (Bitage@82-171-45-9.ip.telfort.nl)
+[21:33:16] *** Quits: Hooglander1 (Hoog@2001:984:ef56:1:211:32ff:fe51:1415) (Ping timeout: 60 seconds)
+[21:34:05] *** Joins: Hooglander1 (Hoog@2001:984:ef56:1:211:32ff:fe51:1415)
+[21:35:03] <Hooglander1> Camera monteren in zijn nieuwe zaak moto
+[21:35:04] <Hooglander1> *kar
+[21:35:05] <Hooglander1> Livestream 24/7
+[21:35:08] <Hooglander1> En met micropayments
+[21:35:19] <Hooglander1> Elke euro die je doneert neemt 1 uur lang 1pk weg
+[21:35:37] <moto-moi> :D
+[21:36:01] <Hooglander1> Gat in de markt
+[21:40:19] *** Joins: NBS2 (NBS4@ip5657cc38.direct-adsl.nl)
+[21:40:44] *** Quits: NBS (NBS4@ip5657cc38.direct-adsl.nl) (Ping timeout: 66 seconds)
+[21:41:42] *** Quits: NBS2 (NBS4@ip5657cc38.direct-adsl.nl) (Exit)
+[21:41:48] *** Joins: NBS2 (NBS4@ip5657cc38.direct-adsl.nl)
+[21:43:04] *** Quits: PCR (PCR@ip54508f13.adsl-surfen.hetnet.nl) (Exit)
+[21:43:13] *** Joins: PCR (PCR@D9642D35.static.ziggozakelijk.nl)
+[21:44:45] *** Joins: GodFather (p00p@a83152.upc-a.chello.nl)
+[21:54:27] <Nakebod> Hooglander1! 
+[21:54:31] <Nakebod> ik ben hier, denk ik
+[21:54:43] <Hooglander1> tozzert, storingsdienst
+[21:54:50] <Hooglander1> En zo
+[21:54:51] <Nakebod> ooh ooh realtime!
+[21:54:58] <Hooglander1> Jupjup
+[21:55:13] <Hooglander1> Hij is al weer 55 mins weg
+[21:55:20] <Nakebod> ja slome dat het is
+[21:56:15] <Hooglander1> Komt door zijn wagen
+[21:56:16] <Hooglander1> :+
+[21:56:38] <Nakebod> wat dacht je dan dat ik bedoelde :+
+[21:57:03] <Nakebod> https://goo.gl/photos/k3nQ7Z35RgPpuChaA  \o/ nieuw nieuw
+[21:57:46] <Nakebod> Oude was aan vervanging toe, reserve onderdelen waren onderhand net zo duur als een nieuwe, en simba deed niets met mijn project boom :(
+[21:58:12] <moto-moi> jzs, wat een cheapass ding Nakebod..
+[21:58:14] <moto-moi> valt me van je tegen
+[21:58:31] <Nakebod> Hij moet ook niet langer meegaan dan de kat he
+[21:58:39] <moto-moi> 'sign in to get updates'.. waarover google, over z'n poezetoren.. 8)7
+[21:59:01] <Nakebod> want die updates komen er!
+[21:59:13] <Hooglander1> :D
+[21:59:19] <Hooglander1> Mooi ding wel 
+[21:59:24] <Hooglander1> En jammer van project boom
+[21:59:26] <Hooglander1> Vond hem wel cool
+[21:59:31] <Nakebod> https://goo.gl/photos/MJV9bSx9MbMFMkZp8 die viel ongeveer uit elkaar
+[21:59:50] <Nakebod> heb hem wel recycled, tis nu een 2e 'mini'krabpaal geworden
+[22:00:05] <Nakebod> https://goo.gl/photos/p9kH5AridPgKCNCeA
+[22:00:21] <Hooglander1> Ghehe
+[22:00:29] <Nakebod> Mjah, boom is met pluisje mee, hopen dat ie nog wat gebruikt gaat worden
+[22:00:40] <Hooglander1> Waar is pluis dan?
+[22:00:55] <Hooglander1> Zag net dat de cam offline was, was al benieuwd
+[22:00:55] <Nakebod> Niet meer hier
+[22:01:07] <Hooglander1> Ahw, ging het niet werken?
+[22:01:23] <Nakebod> Ging niet echt, ze zat nog steeds in het hoekje de meeste tijd
+[22:01:35] <Hooglander1> Dat is ook geen doen inderdaad
+[22:01:41] <Nakebod> Dus.. buurvrouw was nog katloos, Pluisje erheen, en lopen maar
+[22:01:56] <Nakebod> Beest is echt bang voor Simba en/of andere katten
+[22:02:20] <Hooglander1> Andere buuf, of buufbuuf
+[22:02:29] <Hooglander1> Want daar woonde ie toch eerst
+[22:02:32] <Nakebod> Ondanks dat ze het niet echt liet merken terwijl ze op het bureau leefde, ze kwam op schoot, speelde enorm in het hoekje, etc
+[22:02:36] <Nakebod> dezelfde
+[22:02:38] <moto-moi> wacht, tozzert z'n buuf kent Nakebod ook?
+[22:02:50] <Hooglander1> Andere buufbuuf moto
+[22:02:53] <Hooglander1> Wel opletten be
+[22:02:55] <Hooglander1> *he
+[22:02:56] <moto-moi> pff
+[22:02:57] <Nakebod> Hoop ik wel ja :+
+[22:03:13] <moto-moi> zou lullig zijn om er nu opeens achter te komen dat de man die naast die vrouw woont tozzert is _o-
+[22:03:15] <Nakebod> Of is tozzert die vervelende buurman
+[22:03:41] <Nakebod> Nee ik heb de fout niet gemaakt om in tilburg te gaan eh, verblijven.
+[22:03:43] <Hooglander1> Maar wilde buuf pluis wel terug dan?
+[22:03:53] <Hooglander1> Want die wilde haar toch eerst niet
+[22:03:59] <Hooglander1> Ik nie snap 
+[22:04:10] <Nakebod> Dat is ingewikkeld :+
+[22:04:32] <Nakebod> Destijds was ze bang dat pluisje altijd enorm bang zou blijven, en dat zocht ze niet in een kat
+[22:04:52] <Nakebod> Maar ze zag ook dat het beest hier wel redelijk los kwam, totdat simba in de buurt was
+[22:05:14] <Nakebod> Dus we hebben besloten, voordat Pluisje terug naar het asiel moet, om het toch nog eens te proberen
+[22:05:31] <Hooglander1> :) dat is wel nobel
+[22:05:49] <Hooglander1> Hopelijk gaat het toch werken daar
+[22:06:00] <Nakebod> En we gingen uit van terugval, verstoppen weer etc. Maar na 10-15 minuten bij buuf en even vanuit een hoekje toekijken is ze gaan wandelen
+[22:06:02] <Hooglander1> Leek pluis nog wat relaxed na de verhuizing?
+[22:06:08] <Hooglander1> Ah, check
+[22:06:12] <Nakebod> En toen lager er ineens speeltjes, die waren ook leuk!
+[22:06:15] <Hooglander1> Dat is wel een goed teken
+[22:06:28] <Nakebod> En later op de avond sprong ze op de bank, ging Pluis op mijn schoot liggen
+[22:07:13] <Nakebod> Dus ik gok .. dat het met Pluisje helemaal goed gaat komen, de combo Simba-Pluis was gewoon geen succes
+[22:07:25] <Nakebod> En dan niet dat Simba het probleem was
+[22:08:00] <Hooglander1> Ahuh
+[22:08:11] <Hooglander1> Misschien heeft ze er ook wel dingen van geleerd
+[22:08:15] <Hooglander1> Dat rondlopen goed is en zo
+[22:09:07] <Nakebod> Ze schijnt wel een trekje van Simba overgenomen te hebben, al deed ze dat hier niet.. Eerst alle brokjes uit de voerbank hengelen
+[22:10:16] <Hooglander1> Ghehehe
+[22:10:31] <Hooglander1> Een mooie puinzooi van maken
+[22:11:13] <Nakebod> Daar is het een kat voor :P
+[22:11:38] <Nakebod> Maar goed, binnenkort, of na mijn pre-zomervakantie, toch weer voor een 2e rondkijken 
+[22:18:36] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Exit)
+[22:29:33] <tozzert> hallo Hooglander1
+[22:29:36] <tozzert> ik ben er weer
+[22:29:40] <tozzert> eens zien voor hoelang nu
+[22:29:47] <tozzert> daar straks toch zeker 15 minuten thuisgeweest
+[22:31:04] <tozzert> hmm
+[22:31:10] <tozzert> gumball 3k weer begonnen ziet ik?
+[22:31:17] <Matthew> goffedomme zeg
+[22:31:18] <tozzert> en 1 kar al in de puinpoeier
+[22:31:31] <tozzert> https://youtu.be/SnyOzEDHCbc
+[22:31:35] <Matthew> is het de gumpert apollo?
+[22:32:00] <Hooglander1> tozzert: al gebeld?
+[22:32:00] <tozzert> jawohl herr methue
+[22:32:03] <Matthew> extreme otoo
+[22:32:35] *** Quits: Resistor (Resistor@ip5456d91b.speed.planet.nl) (Exit)
+[22:33:47] <Hooglander1> Wel een beetje gek
+[22:33:54] <Hooglander1> Om op zulk asfalt te spinnen
+[22:34:01] <Hooglander1> Dan weet je echt niet waar je mee bezig bent
+[22:34:51] <tozzert> of hij heeft meer dan 75pk
+[22:34:55] <tozzert> kan ook
+[22:35:47] <tozzert> zeker weten doe ik het niet
+[22:35:53] <tozzert> want 75pk is natuurlijk al bizar veel
+[22:36:14] *** Quits: grid (grid@dhcp-089-099-194-232.chello.nl) (Ping timeout: 66 seconds)
+[22:38:13] <Jeroen> m'n waterkoker heeft 76pk
+[22:38:26] <moto-moi> :P
+[22:43:00] *** Quits: Matthew (Matthew@178-117-75-230.access.telenet.be) (Connection reset by peer)
+[22:49:30] *** Quits: NBS2 (NBS4@ip5657cc38.direct-adsl.nl) (Exit)
+[22:52:29] *** Quits: coreblink (coreblink@145.132.131.160) (Exit)
+[22:57:04] *** Quits: Vipertje (tweak@54182E79.cm-5-1a.dynamic.ziggo.nl) (Connection reset by peer)
+[23:01:19] *** Joins: Rivanov (Rivanov@31-151-31-203.dynamic.upc.nl)
+[23:09:38] *** Quits: Rollie (Rollie@53550C92.cm-6-6a.dynamic.ziggo.nl) (Connection reset by peer)
+[23:11:35] *** Joins: Tomcat_hatt (user@193.107.221.57)
+[23:17:29] *** Quits: Jeroen (Jeroen@ip82-139-124-155.lijbrandt.net) (Exit)
+[23:17:55] <tozzert> nou
+[23:18:04] <tozzert> weltrusten hè!
+[23:18:11] <tozzert> huftertjes
+[23:18:15] <Stuiterbal> opzouten
+[23:19:17] <tozzert> precies
+[23:19:40] *** Quits: Sponge (Sponge@149.210.150.92) (Exit)
+[23:21:25] *** Quits: Rivanov (Rivanov@31-151-31-203.dynamic.upc.nl) (Exit)
+[23:21:33] *** Joins: grid (grid@dhcp-089-099-194-232.chello.nl)
+[23:24:37] *** moto-moi is now known as moto-moi|afl
+[23:24:39] *** moto-moi|afl is now known as moto-moi|afk
+[23:28:26] *** Quits: Nelicquele (Nelicquele@i244127.upc-i.chello.nl) (Exit)
+[23:40:50] *** Quits: Robin (robin@5419F052.cm-5-2d.dynamic.ziggo.nl) (Exit)

@@ -1,0 +1,96 @@
+[00:12:04] *** Joins: grape (~grape@CJ-tf3.bbc.216.2.IP)
+[00:12:30] <grape> hi all
+[00:21:15] *** Quits: synic (~squish@li74-118.members.linode.com) (Ping timeout: 121 seconds)
+[00:24:28] *** Joins: lowkey (~lowkey@CJ-8h8.usn.166.46.IP)
+[00:24:49] <lowkey> hi all
+[00:24:52] <lowkey> hi grape
+[00:25:06] *** Joins: synic (~squish@CJ-3gc.v3q.207.74.IP)
+[00:25:08] <grape> hi lowkey 
+[00:25:12] <grape> how are you?
+[00:25:26] <lowkey> good.  it is a good day.
+[00:25:56] <grape> good to hear
+[00:26:02] <lowkey> I just added more RAM to my laptop than what seemed unbelievable a few years ago
+[00:26:11] <lowkey> +8GB
+[00:27:14] <lowkey> with a total of 12GB, my laptop now has the most RAM of any system I have
+[00:27:15] <grape> I remember a time when a hard drive of 1 GB was considered to be *BIG*
+[00:27:22] <grape> that is impressive
+[00:27:44] <lowkey> I still own our old IBM PC-XT which had 640K of RAM
+[00:27:51] <grape> I only got 6GB on my desktop at work
+[00:28:48] <lowkey> well the laptop had 6GB (but I had to take out a 2GB stick)
+[00:29:04] <lowkey> but Qubes ran into a few issues if I ran too many VMs
+[00:29:35] <lowkey> this should give me enough room to play around
+[00:30:18] <lowkey> tempted to get another 8GB stick and see if I can replace the 4GB it has.
+[00:30:35] <lowkey> so then I will have 16G instead of 8G
+[00:31:01] <lowkey> not sure I need it but it would be cool
+[00:31:29] <grape> does your mother board support that much RAM?
+[00:31:55] <lowkey> according to ASUS the limit is 8GB total.  so I'm already above what they certify
+[00:32:23] <grape> and Linux does see all the RAM? same goes for the BIOS?
+[00:32:36] <lowkey> yep
+[00:32:42] <lowkey> and XEN sees it all
+[00:33:38] <grape> good
+[00:35:22] <lowkey> have to do some testing to verify that its still stable with the extra ram
+[00:35:30] <lowkey> but so far so good...
+[00:35:45] <grape> sounds good...
+[00:36:41] <grape> right... don't get me wrong but it is late here and tomorrow will be another long day... so I better get my beauty sleep
+[00:37:03] <lowkey> sleep well grape!
+[00:37:03] <lowkey> I've got testing to do!
+[00:37:06] <lowkey> :-)
+[00:37:43] <grape> good luck... and I will learn tomorrow about testing :-)
+[00:37:44] <grape> ttfn
+[00:38:07] <lowkey> g'nite :-)
+[00:39:13] <grape> :-)
+[00:39:14] *** Quits: grape (~grape@CJ-tf3.bbc.216.2.IP) (Quit: Verlassend)
+[00:42:39] *** Joins: Seq (~seq@CJ-n99.3i3.164.69.IP)
+[01:15:15] <lowkey> nite all
+[01:15:19] *** Quits: lowkey (~lowkey@CJ-8h8.usn.166.46.IP) (Quit: leaving)
+[16:29:41] <AcidJell0> lo
+[17:49:36] *** Joins: LionsMane (~don@tower.lionsmane.org)
+[18:11:52] <AcidJell0> sup dud
+[18:11:53] <AcidJell0> e
+[18:11:55] <AcidJell0> :)
+[18:11:58] <AcidJell0> ww2 pinus hot :)
+[18:12:02] <AcidJell0> lol
+[18:12:07] <AcidJell0> my kb skills are shite today
+[18:12:15] <AcidJell0> ww2 pinups hot :)
+[18:15:50] <LionsMane> hohoho that got a chuckle from me.
+[18:15:53] <LionsMane> pinus?
+[18:16:17] <LionsMane> Sounds like a southern drawl way of saying penis.
+[18:25:52] <AcidJell0> lol
+[18:26:05] <AcidJell0> its why i felt i had to correct that :D
+[18:27:42] <LionsMane> hahah  You aren't into man sausage, AcidJell0?
+[18:28:30] <AcidJell0> i am but only mine
+[18:28:51] <LionsMane> You could have fooled me!  :O
+[18:28:52] <LionsMane> hahahah
+[18:29:16] <LionsMane> Annnnde on that note, lookie there, time for lunch!
+[18:29:19] <LionsMane> bbl
+[18:29:26] <AcidJell0> enjoy :D
+[18:29:49] <AcidJell0> i guess you had sausage on the brain :D
+[18:30:43] <LionsMane> no no, for me it is chicken as in chicken breast.  Gonna git me sum rice and chicken in chinatown today.
+[18:31:12] <LionsMane> (There really is no need to "project" about you own desires AcidJell0)
+[18:31:17] <AcidJell0> hmm you into the chinese chicken breast huh :D
+[18:31:25] * LionsMane snorts and bows out
+[18:31:27] *** Quits: LionsMane (~don@tower.lionsmane.org) (Quit: Leaving.)
+[19:36:16] *** Joins: LionsMane (~don@tower.lionsmane.org)
+[19:36:46] <LionsMane> wakka wakka wakka!
+[19:36:55] * LionsMane giggles some more
+[20:58:52] <AcidJell0> did you meet ms pacman ?
+[21:20:25] *** Quits: zach (~zach@dev.suzanneshousecleaning.com) (Quit: leaving)
+[21:25:50] <LionsMane> Ah yeah, something like that, but not at all.
+[21:26:07] <LionsMane> I was mimicing a '50s comedian..
+[21:39:53] <AcidJell0> hmm
+[21:39:58] <AcidJell0> 50's comedians
+[21:40:53] <AcidJell0> i think the oldest i go is whatever time George Carlin
+[21:52:12] *** Joins: lowkey (~lowkey@CJ-m6r.k0c.242.94.IP)
+[21:52:22] <lowkey> boing
+[22:26:32] <LionsMane> Yeah, well, I used to listen to much older comedians when I was young.  Records my uncles gave me, material that my high school friend and I used to find.
+[22:26:48] <LionsMane> We loved George Carlin, so we tried to find the old stuff.
+[22:56:09] *** Joins: grape (~grape@CJ-tf3.bbc.216.2.IP)
+[22:56:14] <grape> hi all
+[22:56:15] <grape> hi LionsMane 
+[22:56:16] <grape> hi lowkey 
+[22:58:59] <grape> bbl
+[23:00:43] <LionsMane> Howdy grape
+[23:15:02] <grape> how are you doing LionsMane ?
+[23:15:14] <grape> did you manage to get your man-in-the-middle attack going?
+[23:48:25] *** Quits: Emmanuel_Chanel (~emmanuel@CJ-dq9.p1k.10.222.IP) (Quit: Leaving)
+[23:49:05] *** Joins: Emmanuel_Chanel (~emmanuel@CJ-dq9.p1k.10.222.IP)

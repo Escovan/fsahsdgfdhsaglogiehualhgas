@@ -1,0 +1,145 @@
+[00:48:27] <grape> I am off
+[00:48:30] <grape> ttfn
+[00:48:30] *** Quits: grape (~grape@CJ-3k1.8q0.194.90.IP) (Quit: Verlassend)
+[01:30:35] *** Joins: orion69 (~orion69@c-73-22-205-19.hsd1.il.comcast.net)
+[01:31:11] *** orion69 is now known as plasticbox
+[01:35:54] *** plasticbox is now known as orion
+[01:37:28] *** orion is now known as plasticbox
+[01:55:09] <plasticbox> ugh gawd I have not been in the room for ages
+[02:02:25] <plasticbox> Watching american music countdown yeehaw
+[02:18:11] <plasticbox> exit
+[02:18:17] <plasticbox> hmm
+[02:18:26] *** Quits: plasticbox (~orion69@c-73-22-205-19.hsd1.il.comcast.net) (Quit: leaving)
+[07:55:16] *** Quits: anand (~anand@CJ-cnft0v.dynamic.mtsallstream.net) (Quit: Leaving)
+[17:04:03] *** Joins: LionsMane (~don@CJ-ifj.kbt.9.173.IP)
+[17:33:19] <AcidJell0> Hello LionsMane 
+[17:35:16] <LionsMane> Good morning, AcidJell0
+[17:36:00] <AcidJell0> its starting good
+[17:37:07] <LionsMane> Don't you have to do timesheets today?
+[17:44:49] <AcidJell0> done already
+[17:44:56] <LionsMane> Nice.
+[17:44:59] <AcidJell0> its not hard to do when i have actual quantifiable work
+[17:45:07] <AcidJell0> its all the bs that i have a hard time clocking
+[17:45:30] <AcidJell0> like when i have to talk to people hours and hours over days to get them to allow some actual work
+[17:45:52] <AcidJell0> ive always suggestedd to my company to ask for payment upfront
+[17:46:09] <AcidJell0> well do the estimate and documentation with it
+[17:46:19] <AcidJell0> they can think about it agree or not and when they agree pay
+[17:46:32] <AcidJell0> if they agree with a 200 hour work bill then pay 200 hours up front
+[17:47:03] <AcidJell0> this way youll see how much faster they come up with specs and mobilize resources to cater to timelines
+[17:54:22] <LionsMane> yeah, I hear the wisdom of your idea.  And… some projects will always fill the space allocated to it.
+[17:55:31] <LionsMane> ok, i am getting lunch, bbiab.  Today is Marvel Monday.
+[17:56:20] *** Quits: LionsMane (~don@CJ-ifj.kbt.9.173.IP) (Quit: Leaving.)
+[18:15:03] *** Joins: LionsMane (~don@tower.lionsmane.org)
+[18:25:06] <AcidJell0> holly sh*t its lunch time already
+[18:41:33] <LionsMane> yup
+[18:45:05] <LionsMane> I am doing Marvel Monday.
+[18:45:11] <LionsMane> Today we are finishing antMan.
+[18:51:45] <AcidJell0> if i recall correctly ant was some sort of java build or compiler something about java
+[18:52:07] <AcidJell0> cant say i have much against antman :)
+[18:52:13] <AcidJell0> i dont really like the Daredevil
+[18:52:28] <LionsMane> Ah, yes, there is a build system for java called ant.
+[18:52:31] <AcidJell0> but hes associated with Punisher so ... i tolerate him by proxy :)
+[18:52:46] <LionsMane> It is is basically cmake for java, written in java.
+[19:02:06] <AcidJell0> hmm
+[19:02:12] <AcidJell0> its lunch time
+[19:02:29] <AcidJell0> when you say cmake and i see cake :D sort of sure of it
+[19:09:24] <LionsMane> hahaha,  yeah, ok.
+[19:25:33] *** Joins: grape (~grape@CJ-3k1.8q0.194.90.IP)
+[19:28:07] <grape> hi all
+[19:28:08] <grape> hi LionsMane 
+[19:28:32] <LionsMane> Howday grape
+[19:33:05] <grape> ho was your day?
+[19:41:25] <LionsMane> This one is a "not so good one"
+[19:44:41] <grape> does not sound good...
+[19:50:02] <LionsMane> It is not the most horrible day.  But I am not feeling like being at work.
+[19:50:13] <LionsMane> It was very nearly a mental health day today.
+[19:50:24] <LionsMane> But I talked myself into going into the office.
+[19:54:05] <grape> too much stress?
+[19:54:16] <LionsMane> The depression.
+[19:54:25] <grape> :-(
+[19:54:41] <grape> I am usually better here once spring is around
+[19:56:25] <grape> what do you do against that? for me my garden works wonders here...
+[20:00:02] <LionsMane> My Dr said to try to exercise 20 minutes, three times a week.
+[20:00:19] <LionsMane> And we are working thru the issues of what triggered the depression.
+[20:00:30] <LionsMane> OK, Sprint Retro, bbl
+[20:00:55] <LionsMane> Actually, screw, I'll bing this laptop into retro.
+[20:05:17] <grape> I get told that excercise is good as well... but then I cycle 2 x around 10 mins a day...
+[20:05:22] <grape> and walk the stairs... etc
+[20:05:23] <LionsMane> Anway
+[20:06:11] <grape> how was your weekend?
+[20:07:24] <LionsMane> Yeah, I could simply bicycle to work three times a week and that would satisfy his ask that I exercise for an hour, total, a week.
+[20:09:47] <grape> the point is not to tick boxes.. the point is to get physically exhausted... 
+[20:11:17] <grape> in this respect living in Graz was better for me... it is quite flat there so I could jump on my bike and cycle for 1h or so
+[20:11:20] <grape> too hilly here..
+[20:18:14] <LionsMane> One could argue that hilly could really tire you out, but only if one is willing to hop on the bike knowing that one would get hammered.
+[20:19:51] <grape> the problem is the hills are right from the start... so my body is 'cold'...
+[20:20:47] <grape> also.. my bike does not really have the right gears to do some of the hills.. and some of them are on a busy main road... so I don't really want to wobble around and struggle to go uphill...
+[20:22:24] <LionsMane> Ah yea. 
+[20:24:44] <grape> and yes, I am old.... 
+[20:24:47] <grape> very old
+[20:28:50] <LionsMane> Bah, just lazy.
+[20:28:52] <LionsMane> hehehe
+[20:28:57] * LionsMane runs and ducks
+[20:28:58] <LionsMane> heheh
+[20:29:02] <grape> is that not the same? :D
+[20:34:38] <LionsMane> Very much different.
+[20:34:46] <LionsMane> You can be lazy young or old.  
+[20:35:23] <LionsMane> "Old Ed" was this guy that I used to bike with as a kid.  He was in his late 80s and he was still kicking ass and taking name.
+[20:35:25] <grape> ok... 
+[20:35:38] <grape> well...
+[20:36:19] <grape> right... time for some food I guess... bbl
+[21:04:53] <AcidJell0> oh this is terrible
+[21:05:01] <AcidJell0> my mouse ran out of batteries
+[21:09:48] *** Quits: LionsMane (~don@tower.lionsmane.org) (Quit: Leaving.)
+[21:34:03] <grape> how about feeding it with some cheese? :D
+[21:36:33] <AcidJell0> ill try stuffing some cheese in its battery slot see if it helps
+[21:36:36] <AcidJell0> got plenty of cheeses :)
+[21:40:56] *** Joins: LionsMane (~don@CJ-ipmqdb.lionsmane.org)
+[21:41:27] <grape> wb LionsMane 
+[21:42:58] <LionsMane> Thanks.
+[21:43:14] <LionsMane> I don't know why I disconnected.
+[21:49:28] <grape> batterie maybe?
+[22:04:26] <AcidJell0> mondays are stressful
+[22:04:30] <AcidJell0> time sheets and bills day
+[22:05:04] *** Joins: chalcedny (~llhull@adsl-72-152-76-192.asm.bellsouth.net)
+[22:05:40] <LionsMane> Oh, maybe it was the sleep on the laptop.
+[22:05:50] <LionsMane> If it is not plugged in, it'll go to sleep after a while.
+[22:06:44] <LionsMane> I chat on my personal laptop, but I do MOST of my work on my work laptop.  Taht is part of the reason why I don't see messages from channel right away, i am not constantly looking at the machine with the chat window on it.
+[22:07:59] *** Quits: chalcedony (~llhull@CJ-f7i.cvs.152.72.IP) (Ping timeout: 121 seconds)
+[22:08:29] <AcidJell0> me three
+[22:08:40] <AcidJell0> i have my own laptop i have xchat on
+[22:09:17] <AcidJell0> problem i have is the work laptop is infront of xchat laptop
+[22:09:30] <AcidJell0> so i have to hug the work laptop to get my arms around to type
+[22:20:30] <LionsMane> Yup, not exactly the same problem, but, in effect, the same.
+[22:25:59] <grape> I don't do that at work... no time for me to chat... :-(
+[22:26:15] <grape> the only time I am using IRC is if and when I need to pester the guys from central IT
+[22:55:33] <LionsMane> That was way more phone conversation than I ever want to have.
+[22:55:56] <LionsMane> And so boring and unwanted, but I have my old insurance number so the people that did my labs can get paid.
+[22:56:17] <LionsMane> hahah you can pester us, grape,  we'll just give you the wrong answers.
+[22:56:21] <LionsMane> :O
+[23:14:41] <AcidJell0> sometimes i think i hear voices
+[23:14:54] <AcidJell0> it just is one of the HDs seeking stuff
+[23:21:38] <LionsMane> Oh lucky you.
+[23:21:47] <LionsMane> I have committees in my head.
+[23:21:59] <LionsMane> All fn telling me to do bad shit to people.
+[23:32:04] <AcidJell0> are they in agreement ? or is there a few in there taking the opposition ? :D
+[23:40:16] *** Quits: LionsMane (~don@CJ-ipmqdb.lionsmane.org) (Connection closed)
+[23:41:39] *** Joins: LionsMane (~don@CJ-ifj.kbt.9.173.IP)
+[23:41:45] <LionsMane> That time, my phone rang.
+[23:42:20] <LionsMane> I am tethered to my phone, and doesn't pass data and voice at the same time.  So if my phone rings, it stops any downloads I have going.
+[23:42:56] <LionsMane> AcidJell0: The voices in agreement??!?!  Are you fucking shitting me??!  No they are not.  Not at all.  Usually not even a little bit.
+[23:43:19] <AcidJell0> thats good :)
+[23:43:24] <AcidJell0> if they agreed id be worried :)
+[23:43:34] <LionsMane> I think it is the only thing that keeps me sane.  If they all spoke the same voice, trying to convence me in a single coordinated voice, fuck, I'd be doomed.
+[23:46:52] <AcidJell0> indeed
+[23:47:45] <AcidJell0> i can see two possible outcomes. 1. you either will turn into a postal worker 2. extremist churchie
+[23:55:37] * LionsMane shudders at both defective options.
+[23:55:38] <LionsMane> No
+[23:55:40] <LionsMane> just 
+[23:55:40] <LionsMane> no
+[23:56:24] <grape> back
+[23:57:29] <grape> you guys are so lucky... when I worked in oxford and done night shifts I had this french radio station in my head... and the guy was rattling on for ages!
+[23:57:44] <grape> problem was: I don't speak any french at all!
+[23:57:51] <grape> so I got no idea what he was on about
+[23:57:52] <grape> :-(
+[23:57:58] <grape> (and no kidding here)

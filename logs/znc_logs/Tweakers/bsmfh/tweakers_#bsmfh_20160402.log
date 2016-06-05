@@ -1,0 +1,13 @@
+[01:06:44] *** Quits: kees (kees@office.tweaknet.net) (Input/output error)
+[09:01:57] *** Joins: McM (mcm@d30008.upc-d.chello.nl)
+[09:14:54] *** Quits: McM (mcm@d30008.upc-d.chello.nl) (Ping timeout: 67 seconds)
+[09:52:52] <Escovan> hmmm ZNC doet iets interessants als de verbinding verbroken wordt: Hij denkt dat ik 2x zo vaak ingelogd ben. Sessie wordt dus niet goed afgesloten, totdat ik de client afsluit.
+[09:54:18] *** Quits: BarthezZ (bart@monitoring.deheij-ict.nl) (Ping timeout: 60 seconds)
+[10:41:03] *** Joins: kees (kees@office.tweaknet.net)
+[15:26:52] *** Quits: lmd (lmd@5ED7EC48.cm-7-8d.dynamic.ziggo.nl) (Connection reset by peer)
+[15:54:40] *** Joins: lmd (lmd@5ED7EC48.cm-7-8d.dynamic.ziggo.nl)
+[16:04:52] *** Quits: Aherin (Aherin@092-111-239-066.static.chello.nl) (Ping timeout: 67 seconds)
+[18:32:57] *** Joins: Aherin (Aherin@092-111-239-066.static.chello.nl)
+[18:37:52] *** Quits: Aherin (Aherin@092-111-239-066.static.chello.nl) (Exit)
+[22:47:15] *** Quits: AjDuLion (sid50412@id-50412.charlton.irccloud.com) (Ping timeout: 60 seconds)
+[22:48:05] *** Joins: AjDuLion (sid50412@id-50412.charlton.irccloud.com)

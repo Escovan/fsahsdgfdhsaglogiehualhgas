@@ -1,0 +1,760 @@
+[00:03:01] *** Quits: grid (grid@dhcp-089-099-194-232.chello.nl) (Exit)
+[00:29:41] *** Quits: SCHAPiE (dorian@dhcp-077-249-247-124.chello.nl) (Exit)
+[00:55:31] *** Quits: klaveRCX (michiel@klaver.it) (Ping timeout: 67 seconds)
+[00:55:46] *** Joins: klaveRCX (michiel@klaver.it)
+[01:18:53] *** Quits: mrwazoo (mrwazoo@h102136.upc-h.chello.nl) (Exit)
+[01:42:49] *** Joins: koolaid (koolaid@2a02:a212:280:1c00:19ce:9fe8:314e:85df)
+[01:43:52] *** Quits: koolaid (koolaid@2a02:a212:280:1c00:19ce:9fe8:314e:85df) (Ping timeout: 60 seconds)
+[01:58:05] *** Quits: Guyver2 (Guyver2@guyver2.xs4all.nl) (Exit)
+[03:23:54] *** Quits: appy (appy@d121019.upc-d.chello.nl) (Ping timeout: 60 seconds)
+[03:23:57] *** Joins: appy (appy@d121019.upc-d.chello.nl)
+[06:17:02] <nomadz> slaapkoppen
+[07:07:27] <Fermata> Mogge
+[07:11:46] <rawplayer> o/
+[07:19:30] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[07:44:42] *** Joins: koolaid (koolaid@2a02:a212:280:1c00:19ce:9fe8:314e:85df)
+[07:45:26] <rawplayer> koolaid: o/
+[07:46:17] *** Quits: koolaid (koolaid@2a02:a212:280:1c00:19ce:9fe8:314e:85df) (Ping timeout: 60 seconds)
+[07:47:26] <wirky> 64 bit
+[07:55:28] <Fermata>  /w 2
+[08:36:51] *** Joins: WvdL (WvdL@52492574.cm-4-2a.dynamic.ziggo.nl)
+[08:38:07] <rawplayer> wilm
+[08:40:52] <WvdL> rawns.
+[08:41:04] <rawplayer> ik heb zin in mcdonalds
+[08:41:07] <WvdL> bah, koude koffie
+[08:41:07] <rawplayer> als ontbijt
+[08:41:13] <WvdL> wat let je?
+[08:41:22] <rawplayer> dat ik er nog niet ben :D
+[08:41:29] <WvdL> ga er heen dan?
+[08:41:32] <rawplayer> ja
+[08:41:34] <rawplayer> :D
+[08:41:42] <rawplayer> maestroburger
+[08:41:43] <rawplayer> O+
+[08:46:56] <syf_> mogguh o/
+[08:47:19] <AlBundy> http://www.welt.de/vermischtes/article154359940/Was-hat-denn-Koenigin-Maxima-da-fuer-einen-Mantel-an.html
+[08:48:35] *** Joins: koolaid (koolaid@2a02:a212:280:1c00:19ce:9fe8:314e:85df)
+[08:50:49] *** Quits: WvdL (WvdL@52492574.cm-4-2a.dynamic.ziggo.nl) (Exit)
+[08:51:22] *** Joins: WvdL (WvdL@52492574.cm-4-2a.dynamic.ziggo.nl)
+[08:51:46] <AlBundy> Maxima dacht: haha :卍
+[08:56:02] *** Quits: WvdL (WvdL@52492574.cm-4-2a.dynamic.ziggo.nl) (Connection reset by peer)
+[08:58:03] <bReChThOu> ih
+[09:00:57] <Escovan> YES YES YES YES!
+[09:01:16] <Escovan> Unbreakable Kimmy Schmidt S2 - Helemaal! Bingewatching!
+[09:11:34] <koolaid> oei
+[09:11:44] <koolaid> s1 vond ik wel vermakelijk
+[09:19:07] <syf_> yow
+[09:37:24] <syf_> Escovan: chickserie man!
+[09:37:51] <Escovan> Nee, gewoon geniaal.
+[09:38:22] <Escovan> Als je van foute stereotypering houdt, is dit het beste.
+[09:39:14] <koolaid> en al was het een chickserie
+[09:41:34] <Escovan> dan wel over een hele maffe chick :P
+[09:56:32] <Fermata> !chick--
+[09:56:34] <digiweed> Fermata: Karma for chick is now: 0
+[09:56:36] <SJ> mogge
+[09:56:47] <Fermata> SloopJanus!
+[09:59:35] <SJ> ola!
+[10:05:37] <SJ> zo
+[10:05:37] <rawplayer> SJ: o/
+[10:05:42] <SJ> dat was interessant gisteren 
+[10:05:45] <rawplayer> uhu
+[10:05:48] <SJ> rawplayer: o/
+[10:05:50] <rawplayer> tis alweer druk
+[10:05:51] <rawplayer> op kantoor
+[10:05:55] <SJ> ja, dat zal 
+[10:05:56] <SJ> :)
+[10:06:08] <rawplayer> ik heb poettering al zien zitten!
+[10:06:34] <SJ> ik heb gisteren nog 20 minuten met poettering staan praten 
+[10:07:08] * rawplayer ook nog even
+[10:07:20] <rawplayer> mbt resolved
+[10:07:46] <rawplayer> je kan er dus mee interfacen en vanuit apps hele dnssec chains valideren
+[10:07:48] <rawplayer> das wel nice
+[10:09:12] <syf_> SJ: haha
+[10:09:18] <syf_> heb je hem klap voor zijn bek gegeven?
+[10:09:23] *** Joins: Guyver2 (Guyver2@guyver2.xs4all.nl)
+[10:10:25] <rawplayer> tuttut
+[10:10:27] <rawplayer> geen geweld
+[10:11:55] <rawplayer> !havermout++
+[10:11:59] <digiweed> rawplayer: Karma for havermout is now: 104
+[10:12:03] <rawplayer> er liggen overal koekjes
+[10:12:29] <syf_> poettering moet echt node.js gaan programmeren ofzo
+[10:13:05] <SJ> syf_: mwah, ik ben pro systemd 
+[10:13:25] <SJ> ik vind het een prima idee 
+[10:14:51] <syf_> een lobotomie is ook een prima idee
+[10:16:06] <SJ> syf_: dat mag je vinden :)
+[10:16:16] <SJ> init was verre van ideaal 
+[10:16:26] <SJ> alleen was iedereen daaraan gewerkt 
+[10:16:30] <SJ> *gewend
+[10:18:45] <SJ> ik vind systemd een prima idee
+[10:20:38] <syf_> https://gist.github.com/rofl0r/6168719#file-init-c
+[10:20:40] <digiweed> Title: minimal init daemon by rich felker, author of musl libc · GitHub (at gist.github.com)
+[10:21:23] <rawplayer> :/
+[10:22:19] <SJ> syf_: mja
+[10:22:26] <rawplayer> http://0pointer.de/public/systemd-man/systemd-resolved.html
+[10:22:27] <digiweed> Title: systemd-resolved.service (at 0pointer.de)
+[10:22:42] <SJ> syf_: heb je al eens serieus gekeken naar systemd?
+[10:28:43] <syf_> ja
+[10:29:07] <rawplayer> en toen?
+[10:29:18] <syf_> ik haakte af toen ik erachter kwam dat systemd zo ongeveer je halve linux systeem overneemt
+[10:29:30] <rawplayer> :s
+[10:30:36] <syf_> er zit zelfs een crond replacement in, echt gaaf he
+[10:31:38] <Fermata> Wat was er mis met crond dan?
+[10:31:54] <syf_> maar ik weet ook wel dat er best wat mensen zijn die OK zijn met systemd, whatever works 
+[10:32:46] <appeltje> als het nou zou werken
+[10:34:21] <Fermata> http://www.powned.tv/nieuws/buitenland/2016/04/sorry_voor_de_aanslagen_af.html -- :D
+[10:34:25] <digiweed> Title: PowNed : Abdeslam zegt sorry... (at www.powned.tv)
+[10:36:07] <AlBundy> https://49.media.tumblr.com/a4915eb76cebf6d9bed2e1b1230ddcc1/tumblr_nw3i87pilP1u7gnm9o1_400.gif
+[10:37:28] <AlBundy> !systemd--
+[10:37:32] <digiweed> AlBundy: Karma for systemd is now: -19
+[10:38:01] <AlBundy> ik ben blij dat ik stop met ict over een maandje
+[10:38:33] <Fermata> Wat ga je dan doen?
+[10:39:23] *** Quits: Twizzlerz (M@178-84-226-29.dynamic.upc.nl) (Ping timeout: 66 seconds)
+[10:39:34] <rawplayer> !ict--
+[10:39:36] <digiweed> rawplayer: Karma for ict is now: -17
+[10:39:48] <rawplayer> coevoetverkoop
+[10:39:48] <rawplayer> ?
+[10:40:12] <SJ> ik snap het probleem niet zo
+[10:40:24] <SJ> wat maakt het uit of systemd cron vervangt of niet?
+[10:40:34] * rawplayer vindt 1 universele config stijl wel nice
+[10:40:44] <SJ> ja, dat
+[10:41:04] <SJ> afhankelijkheden tussen services 
+[10:41:43] <SJ> journald
+[10:44:58] <syf_> bah
+[10:45:22] <syf_> gelukkig heb ik er vrij weinig mee te maken dus dat is wel +
+[10:46:56] <SJ> wat is er 'bah' dan? 
+[10:47:02] <syf_> het hele concept
+[10:47:06] <SJ> want?
+[10:47:35] *** Joins: Twizzlerz (M@178-84-226-29.dynamic.upc.nl)
+[10:47:50] <syf_> beter vraag je waarom het nodig was?
+[10:48:25] <SJ> omdat dit ontzettend prettig werkt, omdat het structuur biedt, omdat het je tijd scheelt 
+[10:48:48] <SJ> omdat je nu niet meer in 3 logs hoeft te greppen als een service niet start 
+[10:49:05] <SJ> to name a few 
+[10:49:06] <syf_> uh
+[10:49:16] <syf_> ok
+[10:49:29] <SJ> omdat je services afhankelijk van elkaar kunt maken 
+[10:49:43] <syf_> ik denk dat wij sowieso heel anders werken
+[10:49:55] <SJ> syf_: solaris doet dit al jaren 
+[10:51:26] <SJ> maar waarom ben je ertegen? 
+[10:54:13] <rawplayer> bleh, koffie smaakt weer niet
+[10:54:15] <rawplayer> raar altijd
+[10:54:30] <rawplayer> die linkerautomaat is raaarrrr
+[10:54:36] <rawplayer> tis nu erg sterk
+[10:54:49] <Boots> https://scontent.xx.fbcdn.net/hphotos-xpa1/t31.0-8/fr/cp0/e15/q65/12984062_968526943216648_8149692642472177895_o.jpg?efg=eyJpIjoidCJ9
+[10:58:03] <linzen103> !systemd++
+[10:58:06] <digiweed> linzen103: Karma for systemd is now: -18
+[10:58:09] <linzen103> !lennart++
+[10:58:12] <digiweed> linzen103: Karma for lennart is now: 2
+[10:58:24] <linzen103> wat een schatje
+[10:58:58] <AlBundy> Fermata: hobo zijn
+[11:00:29] <AlBundy> liftend de wereld rond, plaatjes draaien op festivals, misschien een paar maanden mediteren in een Indiase tempel
+[11:00:30] <SJ> !systemd++
+[11:00:33] <digiweed> SJ: Karma for systemd is now: -17
+[11:01:03] <AlBundy> certificaat thaise massage level 2 halen
+[11:01:30] *** Joins: WvdL (uid21241@id-21241.ealing.irccloud.com)
+[11:02:12] <AlBundy> een boot liften naar zuid-amerika zou mooi meegenomen zijn
+[11:04:17] <rawplayer> syrie /win 2
+[11:04:59] <AlBundy> nah
+[11:05:17] <AlBundy> msischien wel een paar weken meehelpen in macedonie
+[11:05:22] <AlBundy> met aiddeliverymission
+[11:05:52] <linzen103> !systemd++
+[11:05:53] <linzen103> !go++
+[11:05:57] <digiweed> linzen103: Karma for systemd is now: -16
+[11:05:58] <digiweed> linzen103: Karma for go is now: 416
+[11:06:00] <AlBundy> http://aiddeliverymission.org/
+[11:06:02] <digiweed> Title: AID DELIVERY MISSION DELIVERING AID TO AN EVER CHANGING & CHAOTIC REFUGEE CRISIS (at aiddeliverymission.org)
+[11:06:21] <AlBundy> bestaat voor een deel uit kennissen van me van Bajesdorp
+[11:06:38] <AlBundy> 7000 maaltijden koken per dag
+[11:08:18] <syf_> liever jij dan ik
+[11:08:39] <AlBundy> :)
+[11:11:06] <rawplayer> als je ze maar niet doorstuurd naar nederland
+[11:11:44] <AlBundy> als ik een manier kon verzinnen om zonder geweld de grens open te krijgen daar, zou ik het meteen doen
+[11:11:56] <AlBundy> het is behoorlijk onmenselijk hoe het er daar aan toegaat
+[11:13:29] <syf_> rawplayer: blijkt dat ze ze dus in NL pas helpen
+[11:13:43] <rawplayer> wie?
+[11:14:00] <syf_> aiddeliverymission
+[11:14:10] <rawplayer> met welk geld?
+[11:14:14] <AlBundy> hoe bedoel je?
+[11:14:36] <AlBundy> niet van subsidies iig
+[11:14:37] <AlBundy> van donaties
+[11:14:46] <AlBundy> het is onafhankelijke hulp, niet gebonden aan een land of ngo
+[11:14:55] <syf_> maar waar waren de do-gooders toen er 5+ miljoen doden waren tijdens de congo oorlog tussen `98 - `03?
+[11:14:58] <AlBundy> compleet uit eigen initiatief
+[11:15:01] <syf_> of kregen die geen aandacht omdat ze niet massaal naar europa kwamen
+[11:15:17] <AlBundy> wat een domme opmerking
+[11:15:29] <AlBundy> dat is afleiding
+[11:16:27] <AlBundy> in 1998 was internet nog niet (zo) gemeengoed, was er geen crowdfunding
+[11:17:02] <AlBundy> en wij weten allebei niet of en wie daar naartoe zijn gegaan om te helpen
+[11:18:03] <AlBundy> verder heb ik geen idee of Europa destijds in de Congo bombardementen uitvoerde
+[11:18:28] <AlBundy> ook ligt Congo in Centraal Afrika, vanaf daar loop je niet echt naar Europa toe
+[11:18:48] <syf_> mja dan is het wel raar dat we ook pakistaanse vluchtelingen krijgen
+[11:18:50] <AlBundy> vanaf Syrie is dat minder lastig te realiseren
+[11:19:19] <syf_> maar je hebt gelijk, internet was idd nog niet zo gemeengoed destijds
+[11:19:59] <AlBundy> anyway, ik vind het mooi hoe er mensen al hun tijd opgeven om andere mensen te helpen, terwijl de massa ze zonder reden uitkotst
+[11:20:57] <syf_> mja, het is mooi dat ze iets te eten hebben, maar daarvoor komen ze niet naar europa
+[11:21:00] <AlBundy> omdat de media en politiek deze mensen dehumaniseren door er een labeltje op te plakken, er een godsdienst aan te koppelen en wat angst erbij
+[11:21:09] <syf_> ze komen hier om een waardig bestaan te hebben, beter helpen we ze aan een baan
+[11:21:21] <syf_> maar dat kunnen we ze allemaal niet bieden 
+[11:21:21] <AlBundy> ja, dat zou het beste zijn
+[11:21:37] <AlBundy> meeste worden opgevangen in de regio
+[11:21:55] <AlBundy> het beste wat 'we' kunnen doen is geen bommen gooien
+[11:23:36] <syf_> yup
+[11:24:16] <bReChThOu> of grotere bommen
+[11:25:39] <AlBundy> lol
+[11:26:48] <AlBundy> ik ben al benieuwd wat voor vergeldingsaanval we gaan krijgen in Amsterdam, met Koningsdag of Bevrijdingsdag, of misschien wel allebei
+[11:27:13] <AlBundy> Na Parijs en Brussel lijkt Amsterdam een logisch vervolg
+[11:29:38] <Boots> Tellen bommetjes in het zqembad ook?
+[11:29:39] <Boots> zwembad
+[11:30:12] <AlBundy> ja hoor
+[11:31:39] <syf_> AlBundy: ja want belgie heeft ook zoveel gedaan in die landen
+[11:31:53] <syf_> zoveel aanslagen vanuit rwanda enzo!
+[11:34:04] <syf_> http://www.telegraph.co.uk/news/uknews/terrorism-in-the-uk/12204593/We-must-stop-blaming-ourselves-for-Islamist-terrorism.html
+[11:34:06] <digiweed> Title: We must stop blaming ourselves for Islamist terrorism (at www.telegraph.co.uk)
+[11:34:51] <rawplayer> http://www.nu.nl/politiek/4247346/oud-kamerlid-wassila-hachchi-zegt-lidmaatschap-d66.html
+[11:35:02] <rawplayer> kuthoer
+[11:35:08] <rawplayer> ik had ooit vertrouwen in haar
+[11:35:08] <rawplayer> ;[
+[11:36:49] <syf_> :(
+[11:36:59] <SJ> AlBundy: als je daadwerkelijk denkt dat stoppen met bommen gooien de boel in syrie oplost dan ben je wat naief, op z'n best 
+[11:37:22] <SJ> de hele arabische wereld is al 1400 jaar in oorlog
+[11:37:30] <SJ> niet met het westen dan wel onderling 
+[11:37:59] <syf_> !sj++
+[11:38:02] <digiweed> syf_: Karma for sj is now: 140
+[11:38:06] *** rawplayer is now known as moppersmurf
+[11:38:08] <syf_> och ze plegen ook aanslagen elders
+[11:38:17] <syf_> niet alleen in het westen
+[11:38:32] <SJ> dat 
+[11:38:38] <syf_> ik word een beetje moe van de mentaliteit dat we het allemaal aan onszelf te danken hebben
+[11:38:50] <SJ> ja, precies
+[11:39:43] <AlBundy> syf_: in Brussel zit het EU parlement, lijkt me een logisch doelwit voor een vergeldingsactie
+[11:40:26] <SJ> AlBundy: Het is geen vergelding
+[11:40:46] <AlBundy> ik zeg niet dat het de boel in syrie zal oplossen, maar het zal zeker een goed idee zijn als we de boel daar lekker de boel laten en mensen geen reden geven om een hekel aan ons te hebben
+[11:40:53] <SJ> AlBundy: het is 'jullie hebben geen sharia en ik spuug op de westerse cultuur' 
+[11:41:26] <AlBundy> en stoppen met het in het zadel houden van evil dictators en een oogje dichtknijpen omdat het goedkope olie oplevert
+[11:41:49] <AlBundy> dat is zoals de media het brengen ja
+[11:41:50] <moppersmurf> erm.. ze hoeven ook geen hekel aan ons te hebben?
+[11:41:53] <moppersmurf> ze moeten gewoon daar blijvene
+[11:41:58] <moppersmurf> en niet hierheen komen :)
+[11:42:09] <AlBundy> het lijkt meer op: Jullie hebben sharis en wij spugen op jullie cultuur en zijn er bang voor
+[11:42:20] <moppersmurf> misschien moet je ook tijger als huisdier nemen
+[11:42:23] <moppersmurf> kan je lekker knuffelen
+[11:42:24] <SJ> AlBundy: werkelijk? 
+[11:42:26] <AlBundy> tjiger als huisdier kan wel
+[11:42:38] <SJ> AlBundy: ik spuug op niemands cultuur 
+[11:42:41] <AlBundy> SJ: wat zij ook vinden van ons, we hebben daar niks te zoeken
+[11:42:44] <AlBundy> nee ik zeg ook niet jij :p
+[11:42:49] <moppersmurf> het werkt gewoon niet
+[11:42:50] <SJ> het punt is 
+[11:42:51] <moppersmurf> oosten en westen
+[11:42:59] <syf_> AlBundy: je kan ook zeggen dat we een grotere bom er op moeten laten vallen
+[11:43:04] <AlBundy> maar er is echt geen oorlog omdat we van ideologie verschillen
+[11:43:06] <syf_> AlBundy: dat werkte destijds wel met japan
+[11:43:10] <SJ> de radicale islam kent 1 ideologie 
+[11:43:19] <SJ> daar voldoe je of volledig aan
+[11:43:27] <SJ> of je verdient het om afgeslacht te worden 
+[11:43:33] <SJ> that simple
+[11:43:35] <AlBundy> de radicale * kent 1 ideologie
+[11:43:35] <AlBundy> FTFY
+[11:44:10] <AlBundy> het is niet veel anders dan radicaal christendom
+[11:44:15] <AlBundy> zoals je in de VS ziet
+[11:44:25] <syf_> in Parijs zat iemand die een tekening gemaakt had, dat was blijkbaar ook een logisch doelwit
+[11:44:25] <moppersmurf> wat zie je in de VS dan?
+[11:44:40] <moppersmurf> nou, nog dichterbij huis
+[11:44:44] <syf_> gristenen in de VS die zich massaal opblazen
+[11:44:44] <moppersmurf> duitsland en erdolf
+[11:44:45] <AlBundy> moppersmurf: dat is zo duidelijk daar ga ik niet eens op antwoorden
+[11:44:49] <syf_> met bomgordels
+[11:44:51] <syf_> elke week weer
+[11:44:54] <moppersmurf> huh
+[11:44:57] <moppersmurf> dat mis ik dus
+[11:44:59] <moppersmurf> in het nieuws?
+[11:45:13] <syf_> nee want die gekkies doen dat dus
+[11:45:20] <AlBundy> al die hillbillies, tea party ellende, die lui gooien graag bommen op moslims
+[11:45:26] <syf_> dikke onzin dus
+[11:45:36] <AlBundy> en zijn net zo goed aan het juichen als er weer eens een islamitisch doelwit is geraakt
+[11:45:49] <AlBundy> maar als er dan eens een paar moslims blij zijn met aanslagen hier, dan wordt dat breedu itgemeten
+[11:45:54] <AlBundy> alsof alle moslims blij zijn
+[11:46:15] <AlBundy> hier roepen mensen net zo hard dat we er lekker bommen op moeten gooien
+[11:46:30] <AlBundy> en dat een paar burgerslachtoffers erbij hoort
+[11:46:33] <AlBundy> als collateral damage
+[11:47:06] <syf_> is Erdogan ook onze schuld?
+[11:47:08] <AlBundy> maar o wee als het andersom is, dan springen we hoog en laag en geven die 'kutmoslims' de schuld dat ze zo gemeen zijn
+[11:47:15] <AlBundy> niks is onze schuld
+[11:47:23] <syf_> oh daar leek het wel op net
+[11:47:34] <AlBundy> schuld en verantwoordelijkheid zijn verschillende dingen
+[11:47:48] <AlBundy> maar wij zijn niet verantwoordelijk voor erdogan
+[11:47:54] *** Quits: jk-5 (jk-5@D549D0E1.cm-10-1b.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[11:49:46] <AlBundy> het gaat om actie/reactie, niet om schuld, we zijn al veel te ver heen om uberhaupt nog een schuldige te kunnen aanwijzen
+[11:50:25] <AlBundy> daarnaast weten wij alleen wat de media ons vertellen, dus we moeten er maar op vertrouwen dat ze een compleet, objectief beeld geven
+[11:51:07] <AlBundy> zo naïef ben ik niet
+[11:51:09] <AlBundy> anyway, roken
+[11:52:13] <moppersmurf> het idee van alle mensen zijn gelijk is in theorie leuk ;) maar praktijk wijst andere dingen
+[11:53:18] <WvdL> da zijn ook van die niet kloppende uitspraken
+[11:53:34] <moppersmurf> welks wilm
+[11:53:46] <WvdL> ja, over het algemeen heeft iedereen 2 armen, 2 benen en 1 hoofd
+[11:53:55] <WvdL> maar dan houdt het gemeenschappelijk wel op :p
+[11:53:56] <moppersmurf> ja, een aap toch ook?:)
+[11:54:05] <moppersmurf> ja precies
+[11:54:50] <WvdL> alles auto's zijn gelijk.. ze hebben wielen en kunnen zich verplaatsen  /o\
+[11:54:55] <moppersmurf> /o\
+[11:55:52] *** Joins: jk-5 (jk-5@D549D0E1.cm-10-1b.dynamic.ziggo.nl)
+[11:56:20] <Boots> KOUD
+[11:58:03] <syf_> bestwel
+[11:58:07] <AlBundy> we zijn allemaal mensen, elke suggestie die ongelijkheid suggereert komt voort uit onze gedachten en conditionering
+[11:58:21] <AlBundy> hm stmome zin, suggereren dubbel,m aar strekking duidelijk
+[11:58:39] <moppersmurf> ja leuk, die theorie
+[11:58:50] <AlBundy> werkt ook in praktijk
+[11:58:57] <moppersmurf> vrij beperkt
+[11:59:02] <linzen103> !systemd++
+[11:59:06] <digiweed> linzen103: Karma for systemd is now: -15
+[11:59:26] <moppersmurf> linzen103: !
+[12:02:32] <AlBundy> ik sluit af met een quote die mijn gedachtengang beschrijft 
+[12:02:34] <AlBundy> When you call yourself an Indian or a Muslim or a Christian or a European, or anything else, you are being violent. Do you see why it is violent? Because you are separating yourself from the rest of mankind. When you separate yourself by belief, by nationality, by tradition, it breeds violence. So a man who is seeking to understand violence does not belong to any country, to any religion, to any political party or partial system; he is concerned with the tot
+[12:02:41] <AlBundy> - Jiddu Krishnamurti
+[12:03:29] <appeltje> he is concerned with the tot
+[12:03:33] <appeltje> maak je zin eens af
+[12:03:45] <linzen103> AlBundy: deze onzin hebben we toch allemaal in de jaren 70-80 gehad?
+[12:04:00] * moppersmurf kroelt appeltje 
+[12:04:44] <syf_> AlBundy: zo wat een onzin
+[12:05:15] <syf_> hier nog 1tje: when you're appropriating someone elses culture you're being violent
+[12:05:16] <syf_> alstu
+[12:06:47] <syf_> leuk voor de tatas hier die denken dat ze uit nepal/tibet komen
+[12:06:55] <syf_> namaste!
+[12:08:20] *** Quits: Remie (Remie@5ED5F214.cm-7-6d.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[12:09:32] <surrounder> kunnen we niet gewoon iedereen haten?
+[12:09:54] <syf_> surrounder: dat doet isis al
+[12:10:20] <surrounder> die krijgen toch een stiffie van eea mohammed?
+[12:10:26] <surrounder> *eoa
+[12:10:29] <WvdL> TIMO!
+[12:10:33] <surrounder> WILLEM!
+[12:10:34] <WvdL> surrounder:  *brofist*
+[12:10:37] <surrounder> WvdL: *brohoof*
+[12:10:38] <WvdL> weet je
+[12:10:43] <surrounder> nee
+[12:10:56] <WvdL> ik was hier vanochtend even op weechat via mijn pi
+[12:10:57] <WvdL> :+
+[12:11:02] <surrounder> OH EM GEE
+[12:11:11] <WvdL> kan er niet mee over weg
+[12:11:22] <WvdL> voelde heel banaal aan :o
+[12:11:37] <WvdL> zie maar 1 channel tegelijk :/
+[12:12:09] <surrounder> gelukkig wel
+[12:13:10] <bReChThOu> omg
+[12:13:14] <bReChThOu> surrounder is in het huis
+[12:13:23] <surrounder> bReChThOeRtjE <3
+[12:22:38] <mimic> moge
+[12:24:31] <surrounder> MIMIEKJE
+[12:24:38] * surrounder paast de mimic een mok koffie
+[12:26:38] <mimic> dat kan ik wel gebruiken
+[12:26:59] <mimic> http://img.pr0gramm.com/2016/04/14/102d1b105eb59e5a.jpg
+[12:27:14] <surrounder> mgihihi
+[12:28:25] <mimic> lol @ "Have you ever wondered what sort of noise someone's 12V LED floodlight would make when they inadvertently connected it directly to the mains? Well wonder no more."
+[12:29:08] <WvdL> hoort een filmpje bij?
+[12:30:42] <mimic> https://www.youtube.com/watch?v=cgVAUKf6bwc&feature=em-uploademail
+[12:30:45] <digiweed> Title: 12V 10W LED floodlight overclock on 240V. - YouTube (at www.youtube.com)
+[12:31:28] *** Joins: Remie (Remie@5ED5F214.cm-7-6d.dynamic.ziggo.nl)
+[12:31:29] <surrounder> http://www.geenstijl.nl/mt/archieven/2016/04/hoi_bel.html - juustem!
+[12:31:32] <digiweed> Title: GeenStijl: En nu de gedigt 'Geitenneuker'. Door @ANanninga (at www.geenstijl.nl)
+[12:34:02] <surrounder> http://imgur.com/nyQVsco - mgihi
+[12:34:05] <digiweed> Title: Imgur: The most awesome images on the Internet (at imgur.com)
+[12:34:11] *** Quits: koolaid (koolaid@2a02:a212:280:1c00:19ce:9fe8:314e:85df) (Client exited)
+[12:34:20] <moppersmurf> !hamburger++
+[12:34:23] <digiweed> moppersmurf: Karma for hamburger is now: 52
+[12:34:26] <moppersmurf> bbq staat op kantoor te roken
+[12:34:26] <moppersmurf> O+
+[12:34:45] <mimic> heeft rawplayer weer een gare nickname?
+[12:35:55] <surrounder> nu heb ik zin in een hamburger
+[12:35:56] <surrounder> !hamburger++
+[12:35:58] <digiweed> surrounder: Karma for hamburger is now: 53
+[12:36:05] <moppersmurf> er is altijd zin voor hamburger
+[12:36:27] <AlBundy> wat mis ik in dat plaatje met die #mimimimimi advertentie
+[12:36:39] <AlBundy> tweede keer dat ik hem zie, maar ik zie nog steeds de grap niet
+[12:36:40] <mimic> AlBundy: mimimimi
+[12:36:43] <AlBundy> mimic?
+[12:36:44] <AlBundy> :p
+[12:36:50] <AlBundy> mimimimimimimic
+[12:37:13] <AlBundy> daarom?
+[12:37:21] <mimic> misschien als je later groot bent snap je m
+[12:37:36] <AlBundy> ik ben al groot, dus je zal hem toch meoten uitleggen
+[12:37:40] <AlBundy> nou ja, je moet niks :p
+[12:37:44] <mimic> :D :D:DD:D:D:DD:
+[12:37:45] <surrounder> AlBundy: mimimi
+[12:37:45] <AlBundy> maar ik zou het tof vinden
+[12:37:55] <mimic> aww, voor AlBundy; https://www.youtube.com/watch?v=GU4lZkBxUOY
+[12:37:59] <digiweed> Title: mimimi - YouTube (at www.youtube.com)
+[12:38:13] <AlBundy> nooit gezien
+[12:38:33] <mimic> klopt
+[12:38:51] <AlBundy> verklaart een hoop
+[12:38:59] <AlBundy> goed, lunchtijd
+[12:40:36] <linzen103> !systemd++
+[12:40:39] <digiweed> linzen103: Karma for systemd is now: -14
+[12:41:40] <surrounder> linzen103: ga je mond spoelen
+[12:44:56] <surrounder> ow help, ineens vele fanbois 
+[12:44:59] <surrounder> !systemd--
+[12:45:04] <digiweed> surrounder: Karma for systemd is now: -15
+[12:45:08] <surrounder> was 't leuk bij lennart ja?
+[12:45:39] <WvdL> pff
+[12:45:44] <WvdL> ben er weer bijna klaar mee
+[12:45:51] * WvdL gooit handen in de lucht
+[12:45:53] <WvdL> :D
+[12:45:59] <WvdL> *tableflip*
+[12:49:15] <moppersmurf> surrounder: ja
+[12:49:20] <moppersmurf> surrounder: hij kan leuk praten
+[12:49:23] <moppersmurf> en spreekt goed engels voor een duitser!
+[12:51:09] <surrounder> aye, wel eens talks van hem gehoord
+[12:53:15] *** Joins: Kirth (Kirth@62.4.155.42)
+[12:58:36] <moppersmurf> Kirth: o/
+[12:58:52] * Kirth aait moppersmurf 
+[12:59:44] <moppersmurf> Kirth: ik heb gister 70kg medicijnbal shoulder to overhead gedaan
+[12:59:51] <moppersmurf> 1 rep
+[12:59:52] <moppersmurf> :')
+[13:00:39] <Kirth> That's a lot of drugs.
+[13:02:32] <Kirth> gz tho
+[13:12:52] <appy> mogguh
+[13:13:14] <Boots> lol
+[13:14:30] <moppersmurf> lol Kirth 
+[13:14:32] <moppersmurf> !koffie++
+[13:14:35] <moppersmurf> !more koffie++
+[13:14:36] <digiweed> moppersmurf: Karma for koffie is now: 1761
+[13:14:46] <Boots> Wie is moppersmurf
+[13:15:00] <moppersmurf> !water++
+[13:15:03] <digiweed> moppersmurf: Karma for water is now: 45
+[13:15:04] <Boots> o rawp
+[13:15:05] <Boots> hou
+[13:15:15] <Boots> hoi
+[13:15:35] <Kirth> On unknown nickname: /who rawplayer
+[13:15:42] <moppersmurf> !seen rawplayer
+[13:15:43] <digiweed> moppersmurf: rawplayer was last seen in #nerds 1h 40m 33s ago: <rawplayer> ;[
+[13:16:58] <syf_> medicijnbal is toch voor vrouwe
+[13:17:19] <moppersmurf> ja
+[13:21:04] <Aim> kiiiiirrtttth :D
+[13:21:10] * Aim knuffelt Kirth <3
+[13:22:30] * Kirth pats Aim
+[13:33:47] <moppersmurf> http://www.nu.nl/buitenland/4247465/merkel-maakt-weg-vrij-vervolging-komiek-beledigen-erdogan.html
+[13:37:02] <surrounder> buuuh
+[13:37:06] <surrounder> bukken merkel! bukken!
+[13:37:06] <syf_> moppersmurf: wat vind je daar nou van
+[13:37:25] <moppersmurf> triest
+[13:37:45] <moppersmurf> merkel bukt voor erdolf
+[13:40:10] <AlBundy> lol zwaar overdreven weer
+[13:40:51] <AlBundy> lijkt me niet meer dan logisch dat er vervolging plaatsvindt, dat betekent puur dat er een rechtszaak komt
+[13:41:06] <AlBundy> die ongetwijfeld door ome erdogan wordt verloren
+[13:41:35] <AlBundy> en dan hoeft er daarna nooit meer zo'n geval als dit behandeld te worden
+[13:41:40] <Fermata> !mensen--
+[13:41:41] <AlBundy> scheelt een hoop gezeik daarna
+[13:41:43] <digiweed> Fermata: Karma for mensen is now: -233
+[13:41:45] <Fermata> !kinderen--
+[13:41:48] <digiweed> Fermata: Karma for kinderen is now: -39
+[13:43:02] *** Quits: Kirth (Kirth@62.4.155.42) (Ping timeout: 66 seconds)
+[13:43:19] <AlBundy> We noticed you’re using an ad blocker. Support Slate’s journalism and help us reduce our dependence on advertising
+[13:43:25] <AlBundy> does not compute
+[13:55:21] <moppersmurf> !mensen--
+[13:55:24] <digiweed> moppersmurf: Karma for mensen is now: -234
+[13:55:28] <moppersmurf> !kinderen--
+[13:55:30] <digiweed> moppersmurf: Karma for kinderen is now: -40
+[13:56:42] <SJ> mij lijkt het niet meer dan logisch dat een komiek een staatshoofd op alle mogelijke manieren mag beledigen 
+[13:57:15] <SJ> als er dan een ambassadeur naar aanleiding van een komiek op het matje geroepen wordt 
+[13:57:18] <SJ> sja...
+[13:58:01] <syf_> tja
+[13:58:01] <SJ> vervolging is bizar 
+[13:58:05] <syf_> ze kunnen daar niet tegen kritiek he
+[13:58:46] <SJ> syf_: als ik duitsland was geweest had ik de turkse ambassadeur naar huis gestuurd 
+[13:59:12] <SJ> dit is duitsland, hier hebben we vrijheid van meningsuiting, toedels 
+[13:59:25] <syf_> dan heb je een kans dat ie nog terug komt 
+[13:59:28] <syf_> dat is ook kut
+[13:59:43] <Fermata> En Turkijke neemt ons surplus vluchtelingen op (ahaha) dus die moeten we te vriend houden.
+[13:59:51] <syf_> maar je hebt in duitsland niet echt vrijheid van meningsuiting
+[14:00:12] <syf_> ontken de holocaust maar eens publiekelijk
+[14:06:46] <AlBundy> zelfde in nederland
+[14:07:51] <AlBundy> zelfs als je onderzoek zou doen en daar zou uitkomen dat de holocaust niet is gebeurd zoals in de boeken staat
+[14:08:00] <AlBundy> dan is die onderzoekuitslag illegaal en strafbaar
+[14:09:13] <Fermata> Jammer, zoits
+[14:09:57] <AlBundy> mja  't is nie anders
+[14:10:17] <syf_> ja je kan natuurlijk mensen niet zomaar iets laten roepen he
+[14:19:15] <Aim> kitchen converge
+[14:21:47] <AlBundy> kan wel, maar aangezien al die landen tegenwoordig allerlei verdragen met elkaar hebben e.d., kan je ook iemand aanklagen in een ander land, en dan kan de staat tot vervolging overgaan
+[14:21:53] <AlBundy> vervolging is geen straf
+[14:27:15] <AlBundy> https://i.imgur.com/6W6edvq.jpg
+[14:31:29] <AlBundy> https://i.imgur.com/FQY9fKa.jpg :(
+[14:35:01] *** Joins: koolaid (koolaid@ip-213-127-118-32.ip.prioritytelecom.net)
+[14:36:14] *** Quits: koolaid (koolaid@ip-213-127-118-32.ip.prioritytelecom.net) (Ping timeout: 66 seconds)
+[14:36:39] <appy> die laatste.. dat heet scrabble toch? :')
+[14:59:52] <AlBundy> ja en pictionary
+[15:00:02] <AlBundy> http://imgur.com/a/VZQXk dit is wel cool
+[15:00:05] <digiweed> Title: As it turns out, most people cannot draw a bike. - Album on Imgur (at imgur.com)
+[15:00:47] <appy> hehe
+[15:01:57] <bReChThOu> ey APPY
+[15:02:04] <appy> oi BRECHTHOER
+[15:17:11] <moppersmurf> !koffie++
+[15:17:14] <digiweed> moppersmurf: Karma for koffie is now: 1762
+[15:19:22] *** Joins: twistit (uid156026@id-156026.tooting.irccloud.com)
+[15:20:48] <the_Ye-Ti> over sociale vraagstukken gesproken
+[15:21:04] <the_Ye-Ti> !wekeEnd++
+[15:21:06] <digiweed> the_Ye-Ti: Karma for wekeEnd is now: 95
+[15:21:14] <moppersmurf> !wekeEnd++
+[15:21:18] <digiweed> moppersmurf: Karma for wekeEnd is now: 96
+[15:29:34] <moppersmurf> !ei++
+[15:29:38] <digiweed> moppersmurf: Karma for ei is now: 244
+[15:30:20] <justaguy> HEY
+[15:30:51] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Exit)
+[15:34:36] <moppersmurf> wat een gezeur over merkel
+[15:34:41] <moppersmurf> dit komt voor de rechter
+[15:34:53] <moppersmurf> rechter zegt: vrijheid meningsuitding
+[15:34:53] <moppersmurf> klaar
+[15:36:08] <syf_> moppersmurf: ja vast
+[15:38:50] <moppersmurf> xd
+[15:42:35] *** Joins: Kirth (Kirth@62.4.133.171)
+[16:00:38] *** Quits: Kirth (Kirth@62.4.133.171) (Ping timeout: 66 seconds)
+[16:21:30] <snors> http://tweakers.net/geek/110365/verwijderde-hostingprovider-per-ongeluk-al-zijn-data-met-kort-bash-script.html
+[16:21:31] <snors> lol
+[16:21:32] <snors> :')
+[16:21:34] <digiweed> Title: Tweakers (at tweakers.net)
+[16:21:45] <justaguy> justaguy.htll
+[16:25:36] <SJ> snors doet een Dubbeldrankje :)
+[16:25:52] <AlBundy> hoax
+[16:26:00] <AlBundy> publiciteitsstunt
+[16:26:01] <snors> oh, link ik iets wat al was gelinked :x
+[16:26:08] <AlBundy> geen idee :p
+[16:26:51] <SJ> snors: 2 dagen geleden pas ;-) 
+[16:27:00] <snors> oh
+[16:27:12] <snors> kut man, zo op de vrijdagmiddag
+[16:27:14] <SJ> niettemin, lastig om te geloven 
+[16:29:20] * mimic is listening to HÆLOS – Intro/Spectrum
+[16:33:27] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[16:34:54] <AlBundy> !bier++
+[16:34:58] <digiweed> AlBundy: Karma for bier is now: 447
+[16:35:11] <AlBundy> http://www.independent.co.uk/news/world/americas/jamaica-may-legalise-weed-and-get-rid-of-the-queen-a6985156.html
+[16:35:13] <digiweed> Title: Jamaica may legalise weed and get rid of the Queen | Americas | News | The Independent (at www.independent.co.uk)
+[16:43:17] <linzen103> !systemd++
+[16:43:20] <digiweed> linzen103: Karma for systemd is now: -14
+[16:44:14] <SJ> https://www.facebook.com/despeld/photos/a.336858728411.150217.31292063411/10153644565023412
+[16:44:17] <digiweed> Title: Tijdlijnfotos (at www.facebook.com)
+[16:44:19] <SJ> !speld++
+[16:44:22] <digiweed> SJ: Karma for speld is now: 37
+[17:00:54] <AlBundy> http://www.therestartpage.com
+[17:00:56] <digiweed> Title: The Restart Page - Free unlimited rebooting experience from vintage operating systems (at www.therestartpage.com)
+[17:42:26] *** Joins: Kirth (Kirth@127.230-242-81.adsl-dyn.isp.belgacom.be)
+[17:42:30] *** Quits: sofie (saartj@obs.wzff.de) (Exit)
+[17:42:30] *** Joins: sofie_ (saartj@obs.wzff.de)
+[17:44:59] *** Joins: koolaid (koolaid@2a02:a212:280:1c00:88a6:3f19:5462:3e31)
+[17:46:03] *** Quits: koolaid (koolaid@2a02:a212:280:1c00:88a6:3f19:5462:3e31) (Client exited)
+[17:48:06] *** Joins: koolaid (koolaid@2a02:a212:280:1c00:5193:fa99:f587:c697)
+[17:49:06] *** Quits: Kirth (Kirth@127.230-242-81.adsl-dyn.isp.belgacom.be) (Ping timeout: 60 seconds)
+[17:50:03] *** Joins: Kirth (Kirth@127.230-242-81.adsl-dyn.isp.belgacom.be)
+[17:51:26] *** Quits: Kirth (Kirth@127.230-242-81.adsl-dyn.isp.belgacom.be) (Ping timeout: 61 seconds)
+[18:11:33] *** Quits: WvdL (uid21241@id-21241.ealing.irccloud.com) (Exit)
+[18:28:03] <justaguy> heh
+[18:28:05] <justaguy> motorola++
+[18:28:10] <justaguy> !motorola++
+[18:28:13] <digiweed> justaguy: Karma for motorola is now: 4
+[18:28:39] <surrounder> !motorola++
+[18:28:41] <surrounder> !android--
+[18:28:43] <digiweed> surrounder: Karma for motorola is now: 5
+[18:28:45] <digiweed> surrounder: Karma for android is now: -69
+[18:28:57] <mimic> https://www.youtube.com/watch?v=pAC5JZlT-J4
+[18:29:00] <digiweed> Title: 10 Things Gamers With Jobs HATE - YouTube (at www.youtube.com)
+[18:29:35] <AlBundy> #3 Will Amaza You
+[18:29:55] <mimic> shut up
+[18:30:37] <AlBundy> lol
+[18:30:51] <surrounder> trololol
+[18:31:25] <Fermata> #7 made my balls explode
+[18:31:30] <snors> surrounder o//
+[18:31:31] <Fermata> #8 made me buy sneakers!
+[18:31:37] <justaguy> kreeg geen 5.1 dus dacht dat ik forever 5.0 was
+[18:31:43] <snors> \o
+[18:31:46] <AlBundy> ik speel 1 spel op dit moment
+[18:31:46] <snors>  /o
+[18:31:52] <AlBundy> casually
+[18:32:00] <mimic> ik speel Dark Souls 3 casually
+[18:32:03] <mimic> :(
+[18:32:03] <AlBundy> soms speel ik civ5
+[18:32:17] <AlBundy> maar dan ben ik gelijk een paar dagen zoet :p
+[18:33:58] <surrounder> justaguy: ik heb al 4 updates gehad en de 5e staat al klaar!
+[18:35:01] <justaguy> welke phone heb je
+[18:35:32] <surrounder> lumia 550
+[18:36:10] <justaguy> bah
+[18:36:28] <surrounder> niks bah, prachtfoon!
+[18:37:16] <justaguy> 'k zou er geen ingress meer op kunnen doen, dus laat maar :P
+[18:37:37] <surrounder> ingress schmingress
+[18:37:46] <mimic> ingress is ook voor kwijlende autisten
+[18:37:52] <justaguy> nou ik ben dat mimic 
+[18:37:55] <justaguy> -kwijlend
+[18:37:56] <mimic> klopt
+[18:37:58] <mimic> +
+[18:44:28] *** Joins: grid (grid@dhcp-089-099-194-232.chello.nl)
+[18:48:44] <justaguy> surrounder: nah, maar vele apps bestaan niet op windows phone right
+[18:50:26] <surrounder> minder dan op android of op ios, maar ik mis er welgeteld 0
+[18:56:07] <mimic> dat scheelt
+[18:56:14] <mimic> wat je niet weet kun je ook niet missen
+[18:56:55] <PvOESJE> valt best mee hoeveel er niet op wp is.
+[18:56:55] <justaguy> surrounder: jep, dan is het no problem :)
+[18:58:43] <mimic> ik verveel me
+[18:58:48] <mimic> wat zal ik eens gaan doen?
+[18:59:01] <mimic> tropico? citiesskyline?
+[18:59:03] <mimic> ¯\(°_o)/¯
+[18:59:42] <mimic> trpoico it is
+[19:03:06] <koolaid> spacechem
+[19:03:18] *** Joins: Kirth (Kirth@127.230-242-81.adsl-dyn.isp.belgacom.be)
+[19:04:33] <mimic> wat is spacechem, koolaid?
+[19:06:51] <syf_> hoi
+[19:06:52] <syf_> bazenspel
+[19:07:18] <syf_> van de maker van tis-100
+[19:09:29] <surrounder> wie heeft m'n tipboekje gestolen?
+[19:09:35] <koolaid> mimic stiekem is het programmeren
+[19:10:59] <syf_> surrounder: wat voor tips staan er in je tipboekje?
+[19:11:09] <syf_> hihi
+[19:11:56] <syf_> mimic: ik speel de laatste tijd wat enter the gungeon
+[19:11:58] <syf_> dat is wel leuk
+[19:12:08] <syf_> als je weinig tijd hebt heh
+[19:12:57] <surrounder> syf_: mgiiiihiiiii
+[19:15:34] <mimic> hehe
+[19:15:48] <mimic> ik word een fucking casual door al dat gewerk
+[19:19:29] <syf_> jij ook al, MMO's begin ik al niet eens meer aan
+[19:19:50] *** Quits: Kirth (Kirth@127.230-242-81.adsl-dyn.isp.belgacom.be) (Ping timeout: 60 seconds)
+[19:20:21] <mimic> ach ja... 
+[19:23:57] *** Quits: appy (appy@d121019.upc-d.chello.nl) (Ping timeout: 66 seconds)
+[19:25:47] *** Joins: Kirth (Kirth@127.230-242-81.adsl-dyn.isp.belgacom.be)
+[19:28:14] *** Quits: Kirth (Kirth@127.230-242-81.adsl-dyn.isp.belgacom.be) (Ping timeout: 61 seconds)
+[19:28:55] *** Joins: appy (appy@d121019.upc-d.chello.nl)
+[19:31:22] *** Quits: grid (grid@dhcp-089-099-194-232.chello.nl) (Ping timeout: 67 seconds)
+[19:39:04] *** Quits: twistit (uid156026@id-156026.tooting.irccloud.com) (Exit)
+[19:41:04] <linzen103> !systemd++
+[19:41:07] <digiweed> linzen103: Karma for systemd is now: -13
+[19:48:35] <linzen103> mensen
+[19:49:13] <surrounder> !mensen--
+[19:49:16] <digiweed> surrounder: Karma for mensen is now: -235
+[19:50:37] <syf_> linzen103: nog even doorgaan!
+[19:50:53] <syf_> !lobotomie++
+[19:50:56] <digiweed> syf_: Karma for lobotomie is now: 1
+[19:51:01] <syf_> voorlopig nog een stuk fijner dan systemd
+[19:51:07] <linzen103> !go++
+[19:51:11] <surrounder> !linux--
+[19:51:11] <digiweed> linzen103: Karma for go is now: 417
+[19:51:14] <digiweed> surrounder: Karma for linux is now: -452
+[19:51:20] <linzen103> !bsd++
+[19:51:23] <digiweed> linzen103: Karma for bsd is now: 111
+[19:51:27] <linzen103> en weet je wie er gisteren ook was!
+[19:51:35] <linzen103> daniel stenberg!
+[19:51:40] <surrounder> clown bassie?
+[19:51:41] <surrounder> ow
+[19:51:50] <linzen103> teleurstellend, surrounder 
+[19:51:51] <linzen103> ik weet het
+[19:51:58] <linzen103> maar clown bassie kan je gewoon nog boeken
+[19:52:00] <syf_> wie?
+[19:52:08] <surrounder> !bassie++
+[19:52:10] <linzen103> syf_: maker van cURL
+[19:52:11] <digiweed> surrounder: Karma for bassie is now: 3
+[19:52:32] <syf_> fijne utility
+[19:53:17] <surrounder> !curl++
+[19:53:19] <digiweed> surrounder: Karma for curl is now: 2
+[19:53:42] <linzen103> https://scontent.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/12974356_811121815659765_6790529024693078441_n.jpg?oh=3b96d4b9d81f4b9309a51d0758775087&oe=57BEFB1F
+[19:53:51] * linzen103 heimwee
+[20:07:11] <moppersmurf> !file--
+[20:07:13] <digiweed> moppersmurf: Karma for file is now: -8
+[20:07:16] <moppersmurf> !appelsap--
+[20:07:19] <digiweed> moppersmurf: Karma for appelsap is now: 2
+[20:07:30] <syf_> !nederland++
+[20:07:32] <digiweed> syf_: Karma for nederland is now: 45
+[20:08:03] <moppersmurf> ik heb wel asperges!
+[20:08:13] <moppersmurf> van de lokale aspergeboer!
+[20:08:21] <syf_> lekker
+[20:08:31] <moppersmurf> zeker
+[20:08:38] <syf_> witte?
+[20:08:39] <moppersmurf> 13 euro per kilo
+[20:08:41] <moppersmurf> yup
+[20:08:55] <syf_> is het alweer aspergeseizoen
+[20:09:17] <syf_> ja dus
+[20:10:20] <moppersmurf> yup
+[20:10:29] <moppersmurf> zien er mooi uit
+[20:10:35] <moppersmurf> geschild en al
+[20:10:37] <moppersmurf> :9
+[20:10:46] <moppersmurf> morgen maken
+[20:14:38] <syf_> lekker
+[20:27:54] <syf_> https://www.youtube.com/watch?v=ckpXUZK8hBU
+[20:27:57] <digiweed> Title: Military Five Ton B.O.V. - YouTube (at www.youtube.com)
+[21:33:09] <syf_> heh https://www.reddit.com/r/IAmA/comments/4ex98n/we_are_the_team_who_brought_back_old_school/
+[21:33:19] <digiweed> Title: We are the team who brought back Old School RuneScape - Ask us anything! : IAmA (at www.reddit.com)
+[21:51:08] <moppersmurf> hallo
+[21:56:57] *** Joins: SCHAPiE (dorian@dhcp-077-249-247-124.chello.nl)
+[22:01:45] *** Joins: Kirth (Kirth@127.230-242-81.adsl-dyn.isp.belgacom.be)
+[22:01:51] <snors> was me weer een waar genoegen @ de uni
+[22:02:06] <snors> https://image-store.slidesharecdn.com/009eeaae-1cfe-4d2c-bc8e-12c30f9d0750-original.png
+[22:02:12] <snors> de buzzword bingo kaart aardig vol gekregen
+[22:03:52] <linzen103> idIOT
+[22:13:19] *** Quits: Kirth (Kirth@127.230-242-81.adsl-dyn.isp.belgacom.be) (Ping timeout: 60 seconds)
+[22:13:41] *** Joins: Kirth (Kirth@127.230-242-81.adsl-dyn.isp.belgacom.be)
+[22:28:04] <syf_> snors: niet eens gamification?
+[22:28:05] <syf_> jammer
+[22:28:13] <snors> yep, vond ik ook
+[22:28:16] <snors> alles moet tegenwoordig een game zijn
+[22:28:18] <snors> spielerij
+[22:28:20] <snors> <3
+[22:28:37] <syf_> idd
+[22:30:33] *** Quits: Guyver2 (Guyver2@guyver2.xs4all.nl) (Ping timeout: 66 seconds)
+[22:32:17] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Exit)
+[22:48:23] <Dubbeldrank> http://slither.io/
+[22:53:26] <syf_> heh echt cool
+[22:53:36] <snors> kapot
+[22:53:44] <snors> This page (http://slither.io/) is currently offline
+[22:53:45] <snors> :<
+[22:53:57] <digiweed> Title: slither.io (at slither.io)
+[22:56:14] <syf_> nee?
+[22:56:42] *** Joins: Tomsworld (tom@2a02:a03f:12c0:600:a440:a303:451d:78d6)
+[23:00:46] <syf_> best een irritant spel eigenlijk :P
+[23:00:51] <syf_> bedankt dd!
+[23:05:21] <Dubbeldrank> haha
+[23:05:37] <Dubbeldrank> toetsenbord door je monitor heen zometeen :D
+[23:11:59] <syf_> :D
+[23:12:02] <syf_> echt he
+[23:16:37] *** Quits: Kirth (Kirth@127.230-242-81.adsl-dyn.isp.belgacom.be) (Ping timeout: 60 seconds)
+[23:19:00] <AlBundy> http://i.imgur.com/oMjt9wN.jpg
+[23:23:14] *** Joins: Aherin (Aherin@092-111-239-066.static.chello.nl)
+[23:23:44] <moppersmurf> !worst++
+[23:23:46] <digiweed> moppersmurf: Karma for worst is now: 31
+[23:24:23] <justaguy> zelf
+[23:24:24] <justaguy> :p
+[23:24:25] <justaguy> hoi
+[23:24:38] <Fermata> nn y'all
+[23:25:04] <AlBundy> wow het bestaat nog echt ook
+[23:25:12] <AlBundy> https://en.wikipedia.org/wiki/Fucking_Hell
+[23:25:15] <digiweed> Title: Fucking Hell - Wikipedia, the free encyclopedia (at en.wikipedia.org)
+[23:25:17] <moppersmurf> xD
+[23:25:36] * moppersmurf maakt vlechtjes in albundy's baard
+[23:26:06] <AlBundy> ik kan wel dreadlocks doen, voor het davy jones effect
+[23:28:40] <linzen103> moppersmurf: geen poettering vandaag?
+[23:35:59] <AlBundy> !systemd--
+[23:36:02] <digiweed> AlBundy: Karma for systemd is now: -14
+[23:45:56] <moppersmurf> wel gezien!
+[23:47:37] <PvOESJE> nee vlechtjes is beter
+[23:48:13] <appeltje> pics van PvOESJE met vlechtjes <3
+[23:48:51] <PvOESJE> Ik heb geen baard :(
+[23:49:09] <appeltje> hoeft ook niet in je baard
+[23:49:17] <justaguy> ik ben bijna 18 en nog geen baardgroei
+[23:49:25] <justaguy> komt wel ooit i hope
+[23:49:34] <appeltje> die van mij faalt xD
+[23:49:56] <PvOESJE> dan heb je toch al wel picsss van mij met vlecht
+[23:50:08] <appeltje> not saved
+[23:50:19] <PvOESJE> hehehe 
+[23:51:01] <PvOESJE> je bent er niet hé morgen bij lasergame? 
+[23:51:20] <appeltje> nope
+[23:51:22] <PvOESJE> anders had je een foto kunnen maken 
+[23:51:35] <appeltje> morgen HitB meeting
+[23:51:40] <justaguy> ik ben er wel hehe
+[23:51:58] <PvOESJE> jij doet er niet toe justaguy 
+[23:52:24] <appeltje> ik maak op hitb wel foto van je 
+[23:52:30] <justaguy> haat
+[23:52:36] <PvOESJE> hehe veel ditchen hitb meet voor laser 
+[23:52:59] <appeltje> had het door ja
+[23:53:13] <PvOESJE> ja. hitb iedereen verwacht mij er bij geloof ik 
+[23:53:23] <appeltje> je had het over prio's
+[23:53:26] <appeltje> na hitb enzo
+[23:54:21] <PvOESJE> juh ik zal ook wel een. bezoekje brengen en kijken of ik meer kan regelen 
+[23:54:31] <appeltje> :D
+[23:54:55] <PvOESJE> maar iedereen gaat er steeds van uit dat ik er ben 
+[23:55:14] <appeltje> je was me wel voor met het zeggen dat je er zou zijn
+[23:55:19] <justaguy> PvOESJE: meeten morge ?
+[23:55:20] <justaguy> lol
+[23:55:26] <appeltje> want was net aan het typen, neem aan dat je er bent?
+[23:55:58] <PvOESJE> nee ik ga niet meeten ik ben er om te discussiëren en te eten. 
+[23:56:09] <appeltje> discussie?
+[23:56:17] <PvOESJE> plus je zit niet eens in het hackers team 
+[23:56:33] <PvOESJE> hehehe ja er is ook een panel 
+[23:56:58] <justaguy> discussier met me maar PvOESJE wint daarin 
+[23:59:24] <PvOESJE> hehehe 

@@ -1,0 +1,179 @@
+[00:00:00] <lowkey> hi grape 
+[00:04:55] *** Quits: lowkey (~lowkey@CJ-b22.afk.87.192.IP) (Connection closed)
+[00:05:15] *** Joins: lowkey (~lowkey@CJ-0hd.3no.113.64.IP)
+[00:08:16] <lowkey> boing
+[00:29:11] <grape> hi lowkey 
+[00:29:32] <lowkey> hey grape
+[00:29:37] <grape> how are you?
+[00:30:46] <lowkey> fairly good, just losing my mind a little
+[00:30:54] <lowkey> and you?
+[00:31:23] <lowkey> OK. Amarok is going to piss me off.
+[00:31:47] <lowkey> it crashes and holds the sound channel locked.  so no new session can get sound.
+[00:32:00] <lowkey> update this m-fer!
+[00:34:19] <grape> you are lucky it is only the sound which is blocked... in my case it was the gpu
+[00:35:27] <lowkey> I'm so tired of sound issues that I'm ready to buy a new system
+[00:35:47] <lowkey> you'd think they would have worked out the issues with a 10yr old sound card
+[00:36:24] <grape> I guess that is the problem: too old
+[00:36:52] <lowkey> it might be.
+[00:37:02] <lowkey> but its a generic Intel sound chip.
+[00:38:18] <grape> ok
+[00:38:23] <grape> have a look at that:
+[00:38:26] <grape> May 16 18:37:47 deepblue kernel: [70087.059430] [TTM] Failed to find memory space for buffer 0xffff8803de3c4000 eviction
+[00:38:26] <grape> May 16 18:37:47 deepblue kernel: [70087.059431] [TTM] No space for ffff8803de3c4000 (250 pages, 1000K, 0M)
+[00:38:26] <grape> May 16 18:37:47 deepblue kernel: [70087.059432] [TTM]   placement[0]=0x00070002 (1)
+[00:38:26] <grape> May 16 18:37:47 deepblue kernel: [70087.059433] [TTM]     has_type: 1
+[00:38:27] <grape> May 16 18:37:47 deepblue kernel: [70087.059433] [TTM]     use_type: 1
+[00:38:29] <grape> May 16 18:37:47 deepblue kernel: [70087.059434] [TTM]     flags: 0x0000000A
+[00:38:31] <grape> May 16 18:37:47 deepblue kernel: [70087.059434] [TTM]     gpu_offset: 0x00000000
+[00:38:33] <grape> May 16 18:37:47 deepblue kernel: [70087.059435] [TTM]     size: 131072
+[00:38:35] <grape> May 16 18:37:47 deepblue kernel: [70087.059436] [TTM]     available_caching: 0x00070000
+[00:38:37] <grape> May 16 18:37:47 deepblue kernel: [70087.059436] [TTM]     default_caching: 0x00010000
+[00:38:39] <grape> and I got that a zillion times
+[00:38:51] <lowkey> that doesnt seem happy
+[00:39:54] <grape> nope
+[00:39:59] <grape> I had to reboot the machine
+[00:40:14] <lowkey> I just hate having to reboot my system for ...sound.
+[00:40:27] <lowkey> I can restart everything else without a reboot 
+[00:40:39] <lowkey> but not sound.  its like windows.  
+[00:41:23] <grape> have you tried to unload the module?
+[00:42:29] <lowkey> to make that impossible, the module loads about 20 sub-modules
+[00:42:52] <lowkey> so you can't rmmod it without working your way through them and all their dependencies
+[00:44:27] <lowkey> this is what makes me want to just use my laptop 100% of the time.
+[00:44:33] <lowkey> stuff on it just works
+[00:44:49] <lowkey> but a desktop thats way to complicated.
+[00:45:26] <lowkey> although I should probably dump amarok. I dont use KDE and that might be part of the issues....
+[00:47:36] <grape> I am still using xmms for my mp3
+[00:48:48] <lowkey> I probably should
+[00:49:02] <lowkey> either that or xmms2
+[00:49:14] <grape> there is a new one out? I did not know that
+[00:49:29] <lowkey> its more server based.
+[00:49:58] <grape> ok
+[00:50:02] <lowkey> very handy to run the sound out a remote system and control it from your desktop
+[00:50:09] <grape> right... don't get me wrong... but time to go to bed... 
+[00:50:11] <lowkey> or allow multiple users to control it
+[00:50:16] <lowkey> thats cool
+[00:50:29] <lowkey> i should probably reboot to see if that fixes it anyway
+[00:50:33] <grape> it has been a busy day today...
+[00:50:48] <lowkey> thats no good.  its only monday
+[00:51:14] <grape> true
+[00:51:33] <grape> one quick Q: what are web sockets?
+[00:52:15] <lowkey> good question.  my basic understanding is web sockets are services that you connect to over http or https wrappings.
+[00:52:21] <lowkey> but I could be wrong
+[00:53:54] <lowkey> ok pavucontrol to the rescue!
+[00:54:09] <lowkey> damn system set itself to off.
+[00:54:15] <grape> ok
+[00:54:23] <grape> I will tell you tomorrow about it...
+[00:54:26] <grape> bedtime here...
+[00:54:31] <grape> ttfn
+[00:54:37] <lowkey> ok, sleep well!
+[00:54:37] <grape> and good luck with your sound problem
+[00:54:39] <grape> thanks
+[00:54:41] <grape> you too
+[00:54:42] <grape> ttfn
+[00:54:43] *** Quits: grape (~grape@CJ-3k1.8q0.194.90.IP) (Quit: Verlassend)
+[00:54:44] <lowkey> :)
+[02:05:54] *** Quits: lowkey (~lowkey@CJ-0hd.3no.113.64.IP) (Quit: leaving)
+[03:24:23] *** Quits: Emmanuel_Chanel (~emmanuel@CJ-o0h.dup.10.222.IP) (Ping timeout: 121 seconds)
+[03:26:20] *** Joins: Emmanuel_Chanel (~emmanuel@CJ-o0h.dup.10.222.IP)
+[04:47:40] *** Quits: chalcedony (~llhull@CJ-73ggem.asm.bellsouth.net) (nl2.chatjunkies.org at2.chatjunkies.org)
+[04:47:45] *** Quits: ChanServ (ChanServ@services.chatjunkies.org) (de2.chatjunkies.org nl2.chatjunkies.org)
+[04:47:45] *** Quits: banshee (~ban@CJ-d4n.9vj.15.70.IP) (de2.chatjunkies.org nl2.chatjunkies.org)
+[04:47:45] *** Quits: zach (~zach@CJ-g1q.i94.32.45.IP) (de2.chatjunkies.org nl2.chatjunkies.org)
+[04:47:45] *** Quits: synic (~squish@CJ-3gc.v3q.207.74.IP) (de2.chatjunkies.org nl2.chatjunkies.org)
+[04:47:45] *** Quits: \colonel (~bonkers@CJ-v64.4g4.251.162.IP) (de2.chatjunkies.org nl2.chatjunkies.org)
+[04:47:45] *** Quits: Emmanuel_Chanel (~emmanuel@CJ-o0h.dup.10.222.IP) (de2.chatjunkies.org nl2.chatjunkies.org)
+[04:48:41] *** Joins: ChanServ (ChanServ@services.chatjunkies.org)
+[04:48:41] *** Joins: Emmanuel_Chanel (~emmanuel@CJ-o0h.dup.10.222.IP)
+[04:48:41] *** Joins: banshee (~ban@CJ-d4n.9vj.15.70.IP)
+[04:48:41] *** Joins: zach (~zach@CJ-g1q.i94.32.45.IP)
+[04:48:41] *** Joins: synic (~squish@CJ-3gc.v3q.207.74.IP)
+[04:48:41] *** Joins: chalcedony (~llhull@CJ-73ggem.asm.bellsouth.net)
+[04:48:41] *** Joins: \colonel (~bonkers@CJ-v64.4g4.251.162.IP)
+[04:48:41] *** *.chatjunkies.org sets mode: +oy ChanServ \colonel
+[05:04:43] *** Quits: zach (~zach@CJ-g1q.i94.32.45.IP) (Ping timeout: 121 seconds)
+[05:11:28] *** Joins: zach (~zach@CJ-g1q.i94.32.45.IP)
+[05:20:42] *** Quits: AcidJell0 (~andre_000@dhcp-3c-97-e-da-44-c.cpe.sourcecable.net) (Connection closed)
+[16:01:17] *** Joins: AcidJell0 (~andre_000@207.210.48.107)
+[18:21:46] *** Joins: LionsMane (~don@CJ-ifj.kbt.9.173.IP)
+[18:24:24] <AcidJell0> heeey youre alive :)
+[18:24:27] <AcidJell0> wb :)
+[18:24:30] <AcidJell0> how you feeling ?
+[18:28:04] <LionsMane> I was out in Western Mass this weekend, took Friday and Monday off.
+[18:28:17] <LionsMane> ANd i need to get some vittles, I am famished.  bbl.
+[18:30:02] *** Quits: LionsMane (~don@CJ-ifj.kbt.9.173.IP) (Quit: Leaving.)
+[21:16:49] *** Joins: LionsMane (~don@CJ-ipmqdb.lionsmane.org)
+[21:28:31] <AcidJell0> whats a vittles ?
+[21:28:42] <AcidJell0> you said you need to get some vittles before you scootched out
+[21:28:57] <AcidJell0> that sounds like some interesting food
+[22:03:38] <AcidJell0> ok
+[22:03:49] <AcidJell0> google clarified that term for me ... didnt even know it was a bloody word
+[22:16:47] <LionsMane> hahaha
+[22:17:03] <LionsMane> There is much goodness to be fonud in the big wide world web.
+[22:17:19] <LionsMane> It is a nearly obsolete word, tho.
+[22:21:25] *** Joins: grape (~grape@CJ-3k1.8q0.194.90.IP)
+[22:23:05] <grape> hi all
+[22:23:07] <grape> hi LionsMane 
+[22:30:10] <LionsMane> Evening grape
+[22:30:21] <LionsMane> I learned AcidJell0 today.
+[22:30:34] <LionsMane> I learned to him the word vittles
+[22:30:56] * grape is confused
+[22:44:19] <LionsMane> You don't know the word vittles?
+[22:45:31] *** Quits: chalcedony (~llhull@CJ-73ggem.asm.bellsouth.net) (Connection closed)
+[22:45:53] <grape> nope
+[22:46:14] *** Joins: chalcedony (~llhull@adsl-72-152-76-192.asm.bellsouth.net)
+[22:47:24] <grape> wb chalcedony 
+[22:48:58] <grape> bbl
+[23:05:11] *** Joins: lowkey (~lowkey@CJ-612.e6l.163.109.IP)
+[23:06:32] <lowkey> hi grape LionsMane AcidJell0 
+[23:07:08] <LionsMane> Howdy lowkey
+[23:07:36] <LionsMane> grape: Basically, vittles are another word for food, like what you'd cook when camping.
+[23:07:43] <lowkey> see that a British company claims to have invented the Babelfish?  (well for 4 languages)
+[23:09:20] <lowkey> http://www.telegraph.co.uk/technology/2016/05/17/groundbreaking-gadget-claims-to-fit-in-your-ear-and-translate-fo/
+[23:10:06] <grape> hi lowkey #
+[23:10:17] <grape> lowkey: you remember the memory error I posted a few days ago?
+[23:10:30] <lowkey> yeah the GPU one?
+[23:10:45] <grape> well... one of my calculations crashed... so I was running memtester...
+[23:11:02] <lowkey> bad stick of ram?
+[23:11:21] <grape> FAILURE: possible bad address line at offset 0x1a083fb8
+[23:11:26] <grape> looks like it...
+[23:12:00] <lowkey> well, on the plus side its easier to replace RAM than video chips
+[23:12:03] <grape> but at random bits
+[23:12:15] <grape> well.. I put in my old nVidia card ;-)
+[23:12:55] <lowkey> its always good when you have a spare handy
+[23:13:35] <grape> true...
+[23:13:49] <grape> when I selected the motherboard I made sure I got a slot for a video card
+[23:13:58] <grape> LionsMane: thanks for the explaination.. so you been camping?
+[23:14:51] <LionsMane> Quite a bit when I used to live in Maine.
+[23:15:02] <grape> ok
+[23:15:33] <LionsMane> It is not hard to find a spot without electricity… but finding camping without running water, now there is a whole mess of Maine that fits that category that is just amazing.
+[23:16:03] <lowkey> east coast camping is like camping for beginners
+[23:17:09] <grape> never been camping
+[23:18:35] <lowkey> I used to be big on it but the last few years I seldom go further than the WIFI will reach
+[23:20:05] <LionsMane> how so, lowkey?
+[23:20:22] <LionsMane> How is camping in Maine like camping for beginners?
+[23:21:02] <lowkey> real hard core camping is desert camping.  Where you hike in 1 gallon of water (8lbs) for every day out.
+[23:21:53] <lowkey> if a car is involved, its beginner level.   its fun but its not hard core.
+[23:25:09] <lowkey> and for the record, the Appalacian trail is not beginner camping.  thats as close as you can get to hard core without being in the desert
+[23:29:46] <LionsMane> Fair enough.
+[23:29:57] <LionsMane> Yeah, I don't want to work that hard for my vacation.
+[23:30:50] <lowkey> there are some old native sites in southern Utah that are worth the hike in, but it takes some time
+[23:32:42] <AcidJell0> shit
+[23:32:54] <AcidJell0> found some old old friends from grade school
+[23:33:05] <AcidJell0> talked four about an hour ... now i gotta get off work
+[23:33:08] <lowkey> that happens in prison
+[23:36:08] <lowkey> anybody running fwsnort?
+[23:39:37] <lowkey> fark:  Some people die alone. Some people die after banging their heads on the wall while having 'vigorous sex' with a transsexual prostitute in Thailand. Only one will win you posthumous glory around here 
+[23:43:16] <lowkey> the internet never forgets.
+[23:49:13] <lowkey> http://images.dailykos.com/images/252028/story_image/webb3.png?1463431755  < Conservative Congressman released this screenshot of their computer.  Apparently they use Windows 10 and like porn.
+[23:50:28] <lowkey> well he is a candidate for election.
+[23:52:29] <LionsMane> I guess I don't know the staffing service.
+[23:53:56] <lowkey> never heard of them either.  apparently he shared the screenshot as proof for some conspiracy theory
+[23:56:51] <lowkey> GOODYEAR, AZ (KPHO/KTVK) -
+[23:56:53] <lowkey> Goodyear police say a father of four admitted to sacrificing the family dog because he didn't agree with his 17-year-old daughter's T-shirt.
+[23:57:13] <grape> ??
+[23:57:18] <grape> are people mad these days?
+[23:58:13] <lowkey> http://www.azfamily.com/story/31984967/father-upset-with-daughters-t-shirt-sacrifices-family-dog-in-smoker
+[23:58:37] <lowkey> full bat shit insane....or on drugs.  I can't tell which
+[23:59:19] <lowkey> yep.  he smoked marijuana earlier in the day.
+[23:59:24] <lowkey> its the drugs
+[23:59:51] <lowkey> The court paperwork adds that Thompson stated his readings in the Bible required a male sacrifice in this situation and that it wasn't going to be him or his firstborn son. So, the paperwork says, he chose the family dog.

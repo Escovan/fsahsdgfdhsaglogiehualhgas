@@ -1,0 +1,652 @@
+[00:05:52] *** Quits: Guyver2 (Guyver2@guyver2.xs4all.nl) (Exit)
+[00:51:31] *** Quits: SCHAPiE (dorian@dhcp-077-249-247-124.chello.nl) (Exit)
+[00:55:49] *** Joins: koolaid (koolaid@2a02:a212:280:1c00:74fe:9be4:b9db:fdd2)
+[00:58:06] *** Quits: grid (grid@dhcp-089-099-194-232.chello.nl) (Ping timeout: 60 seconds)
+[01:24:18] <Bliksem> gaaaaaaaaaap
+[01:26:41] *** Quits: koolaid (koolaid@2a02:a212:280:1c00:74fe:9be4:b9db:fdd2) (Client exited)
+[01:27:49] *** Quits: klaveRCX (michiel@klaver.it) (Ping timeout: 67 seconds)
+[01:31:40] *** Joins: klaveRCX (michiel@klaver.it)
+[01:39:54] <mimic> https://www.youtube.com/watch?v=Tyxa3dsgR9o
+[01:39:57] <digiweed> Title: Xbox 360 Is DEAD...Share Your Memories - YouTube (at www.youtube.com)
+[01:45:07] *** Quits: int3nz0r (int3nz0r@541A8E1B.cm-5-3c.dynamic.ziggo.nl) (Exit)
+[02:37:40] *** Quits: welly7 (willy@ip503c7f23.speed.planet.nl) (Ping timeout: 60 seconds)
+[02:37:40] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Ping timeout: 60 seconds)
+[02:42:27] *** Joins: welly7 (willy@ip503c7f23.speed.planet.nl)
+[02:54:20] *** Quits: Twizzlerz (M@178-84-226-29.dynamic.upc.nl) (Ping timeout: 60 seconds)
+[02:54:20] *** Quits: mrwazoo (mrwazoo@h102136.upc-h.chello.nl) (Ping timeout: 63 seconds)
+[02:54:31] *** Joins: Twizzlerz (M@178-84-226-29.dynamic.upc.nl)
+[02:54:45] *** Joins: mrwazoo (mrwazoo@h102136.upc-h.chello.nl)
+[06:47:40] <Fermata> Mogge
+[07:21:55] <rawplayer> o/
+[07:38:09] <Boots> middag
+[07:38:31] <rawplayer> ohai
+[07:38:40] <rawplayer> !koffie++
+[07:38:43] <digiweed> rawplayer: Karma for koffie is now: 1771
+[07:46:37] <rawplayer> zoetepiepersoep103: https://media.licdn.com/media-proxy/ext?w=531&h=400&f=n&hash=%2FhsPK0Q6nn7YTGrS7Z%2BtAQmgDVs%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWi9cMWNcLWnokAXfX0GjQA6fuq1ETG3Eo66eN7pe9t32ZexLZX5agYUbhl4j3lK6w
+[07:57:17] <Escovan> mogguh
+[08:07:45] <zoetepiepersoep103> ~
+[08:13:19] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[08:43:59] <rawplayer> o/
+[08:44:19] <bReChThOu> hi nerds
+[08:45:01] <rawplayer> bt
+[08:45:03] <rawplayer> bReChThOu: o/
+[08:46:34] <bReChThOu> rawpie o/
+[09:48:30] *** Joins: Guyver2 (Guyver2@guyver2.xs4all.nl)
+[09:54:23] <SJ> mogge
+[10:00:32] <Fermata> Ohai
+[10:16:28] <AlBundy> goedemorgen pixelvriendjes
+[10:20:09] <Escovan> hey AlBundy ! :)
+[10:20:27] <AlBundy> yo :)
+[10:21:04] <AlBundy> ik wil graag wat db queries dumpen om te kijken hoeveel ruimte ze innemen
+[10:21:11] <AlBundy> ik wil echter niet de data op mijn disk slaan
+[10:21:19] <AlBundy> dus ik wil dumpen naar /dev/null, en er iets tussen pipen
+[10:21:27] <AlBundy> wat de data meet, iemand een idee? :)
+[10:21:35] <Escovan> Waarom meet je niet gewoon de DB zelf? Intern is het toch gecomprimeerd.
+[10:21:37] <AlBundy> misschien dd gebruiken?
+[10:21:45] <AlBundy> omdat het om de grootte van de queries gaat
+[10:22:35] <AlBundy> het moet ergens voor een hackathon worden gebruikt, maar ik weet niet hoeveel ruimte ik nodig ga hebben
+[10:23:38] <AlBundy> mgoed, misschien moet ik het anders proberen eerst
+[10:24:20] <Escovan> df -H voor en na, tada.
+[10:24:35] <AlBundy> ik heb niet genoeg schijfruimte
+[10:24:41] <AlBundy> dus ik moet hetn iet opslaan
+[10:25:29] <AlBundy> mgoed, ik ga het wel effe eerst proberen in lokale db op te slaan, misschien past het wel
+[10:26:01] <AlBundy> 1 table is al ruim een miljard records
+[10:26:14] <AlBundy> eentje zelfs bijna 2
+[10:27:53] <Erik> http://serverfault.com/questions/95639/count-number-of-bytes-piped-from-one-process-to-another
+[10:27:57] <digiweed> Title: bash - Count number of bytes piped from one process to another - Server Fault (at serverfault.com)
+[10:28:02] <Erik> hoe moeilijk is googlen?
+[10:29:40] <AlBundy> googlen is saai
+[10:30:05] <AlBundy> hoe moeilijk is het om een regeltje tekst te typen, zoals Escovan, en zo een medemens te helpen?
+[10:30:39] <AlBundy> waarom moet ik van iets doods gebruik maken als ik een medemens de kans kan geven een ander te helpen?
+[10:31:04] <surrounder> lul maar recht dat  je liever andere mensen voor je laat zoeken
+[10:31:08] <AlBundy> anyway, thanks Erik :)
+[10:32:13] <AlBundy> en dd dus, daar ging ik al vanuit :)
+[10:32:35] <Erik> AlBundy: schrijf jij maar even voor mij dan een goede documentatie wat S14F1 doet van de secs/gem specs
+[10:32:43] <AlBundy> lol
+[10:32:46] <Erik> ik ben ook lui vandaag
+[10:32:54] <AlBundy> het gaat niet om lui zijn
+[10:32:58] <AlBundy> het gaat erom mensen de kans te geven hulp te bieden
+[10:33:20] <AlBundy> voor complexe shit gebruik ik het internet wel
+[10:33:20] <surrounder> ...
+[10:33:24] <Erik> als mensen zelf niks hebben ondernomen wil ik ze eigenlijk geen eens hulp bieden
+[10:33:27] *** Joins: koolaid (koolaid@ip-213-127-118-32.ip.prioritytelecom.net)
+[10:33:34] <surrounder> omgekeerde wereld dit
+[10:33:50] <Boots> !lui++
+[10:33:53] <digiweed> Boots: Karma for lui is now: 275
+[10:34:09] <AlBundy> Erik: ik gaf aan wat ik wilde doen, en kwam ook zelf met een oplossing
+[10:34:21] <AlBundy> 10:21 < AlBundy> misschien dd gebruiken?
+[10:35:04] <Erik> maar niet de moeite nemen even verder te zoeken, maar wachten tot iemand het commando voor zegt voor je
+[10:35:14] <AlBundy> ik zei het al zelf :p
+[10:35:19] <surrounder> gelukkig geeft AlBundy mensen zelfs de kans om hem te helpen! wat een voorrecht
+[10:35:19] <bReChThOu> ey surrounder :>
+[10:35:25] * bReChThOu paast de surrounder een lekker tasje koffie
+[10:35:34] <surrounder> bReChThOu: thanks homie
+[10:35:38] <surrounder> also
+[10:35:39] <surrounder> !lui++
+[10:35:44] <digiweed> surrounder: Karma for lui is now: 276
+[10:35:47] <AlBundy> het ging mer er niet om dat ik wilde weten hoe het moest, maar of mijn idee goed was, misschien dat iemand een beter idee heeft, of zegt van "nee dat moet je niet zo doen"
+[10:35:47] <surrounder> !bankhangen++
+[10:35:51] <digiweed> surrounder: Karma for bankhangen is now: 5
+[10:36:03] <surrounder> !onderburen met veel te harde tyfusherrie--
+[10:36:05] <digiweed> surrounder: Karma for onderburen met veel te harde tyfusherrie is now: -1
+[10:36:07] <bReChThOu> 'ThOu Marley - No coffee no cry
+[10:36:10] <Escovan> Soms vind ik het wel wat ver gaan met de ¨Google het even¨ oplossingen. Als je peers dat toch als parate kennis hebben, waarom zou je het dan niet mogen vragen? Voor hetzelfde geld google je het verkeerde antwoord. Duurt lang veel tijd.
+[10:36:19] <AlBundy> ja idd
+[10:36:19] <surrounder> !bReChThOu++
+[10:36:20] <Fermata> surrounder o\\
+[10:36:22] <digiweed> surrounder: Karma for bReChThOu is now: 427
+[10:36:29] <surrounder> Fermatatada.wav o//
+[10:36:43] <AlBundy> leuk hoor, dat Google, maar niet ten koste van menselijke interactie graag, iig voor mij
+[10:37:00] <AlBundy> als je niet wil antwoorden, antwoord dan gewoon niet :)
+[10:37:02] <bReChThOu> google anders ff hoe je ene irc kanaal verlaat
+[10:37:10] <bReChThOu> Fermata: <3
+[10:37:15] <Fermata> Ja ik heb m'n portie menselijke interactie wel weer gehad gisteravond
+[10:37:20] <Fermata> bReChThOu <3
+[10:37:23] <bReChThOu> wastnoggezellig?
+[10:37:28] <AlBundy> dan was het dus niet voor jou bedoeld
+[10:37:28] <bReChThOu> tuurlijk, want ik was er niet
+[10:37:38] <AlBundy> thanks Escovan en Erik <3
+[10:37:49] <Fermata> bReChThOu: het was lafjes  
+[10:37:52] <Fermata> Prima dus
+[10:38:04] <bReChThOu> ;D
+[10:38:05] <AlBundy> rondje bier voor jullie wanneer we eens meeten
+[10:38:39] <Escovan> We hebben hier een stadsbrouwerij ;)
+[10:38:51] <AlBundy> waar niet tegenwoordig :D
+[10:38:55] <AlBundy> maaruh, waar is hier?
+[10:39:01] <Escovan> Zutphen
+[10:39:08] <Fermata> Schubbekutteveen
+[10:39:10] <Fermata> Oh.
+[10:39:15] <AlBundy> damn waarom woont iedereen die ik tegenwoordig tegenkom in Zutphen
+[10:39:23] <AlBundy> 3e keer in een week tijd :p
+[10:39:28] <Fermata> _IEDEREEN_
+[10:39:36] <AlBundy> ja je weet toch
+[10:39:44] <Fermata> Letterlijk!
+[10:39:47] <AlBundy> wel coole stad
+[10:39:55] <Escovan> Hmja, het is hier lekker rustig. De toeristen zijn bejaard en de popo is mild. Als je niet tegen grote steden kan maar wel het gemak van een stad wil, is zutphen een mooie tussenweg.
+[10:40:02] <AlBundy> nooit geweest natuurlijk
+[10:40:06] <surrounder> mooi stadje is het
+[10:40:12] <surrounder> heb er op de middelbare school gezeten
+[10:40:13] <AlBundy> maar ik laat me niet hinderen door een gebrek aan kennis
+[10:40:16] <surrounder> en m'n moeder woont er
+[10:40:34] <Fermata> !wageningen++
+[10:40:37] <digiweed> Fermata: Karma for wageningen is now: 86
+[10:40:39] <surrounder> !wageningen++
+[10:40:41] <digiweed> surrounder: Karma for wageningen is now: 87
+[10:40:42] <AlBundy> mja, ik kom uit Zaltbommel, zelfde idee
+[10:40:45] <Erik> !gelderland++
+[10:40:47] <digiweed> Erik: Karma for gelderland is now: 30
+[10:40:50] <AlBundy> bejaarde toeristen en vriendelijke politie
+[10:41:07] <Fermata> Praten jullie vaak met agenten of zo?
+[10:41:18] <AlBundy> als ik ze de weg vraag, vertellen ze me niet dat ik maar op google maps moet kijken
+[10:41:33] <Fermata> Nee, dat kennen ze daar nog niet
+[10:41:34] <surrounder> AlBundy: mimimimi
+[10:41:41] <Boots> Ik heb wel eens voor anderen google maps erbij gepakt
+[10:41:43] <AlBundy> jawel, maar die galaxy s5's zijn zo tering traag
+[10:41:48] <Boots> Als er naar de weg gevraagd werd
+[10:41:50] <Fermata> Haha Samsung
+[10:41:51] <AlBundy> ha ja ik ook
+[10:42:13] <bReChThOu> s4 ftw
+[10:42:21] <AlBundy> ik heb nog een S2 liggen
+[10:42:40] <Boots> !samsung--
+[10:42:40] <AlBundy> ik heb ook nog een S1
+[10:42:42] <digiweed> Boots: Karma for samsung is now: -28
+[10:42:46] <AlBundy> dat toestel was awesome
+[10:42:47] <Boots> haha
+[10:42:50] <Boots> -28
+[10:42:58] <AlBundy> 4 dagen op een accu, na 2 jaar geen enkel krasje
+[10:42:59] <Fermata> !samsung--
+[10:43:02] <digiweed> Fermata: Karma for samsung is now: -29
+[10:43:05] <bReChThOu> :@
+[10:43:08] <bReChThOu> !samsung++
+[10:43:08] <Boots> Google G2!
+[10:43:11] <digiweed> bReChThOu: Karma for samsung is now: -28
+[10:43:20] <Fermata> !htc hero++
+[10:43:22] <digiweed> Fermata: Karma for htc hero is now: 1
+[10:43:27] <Boots> Ik mis zoeenrje
+[10:43:28] <Boots> zoeentje
+[10:43:34] <AlBundy> totdat die een vrachtwagen tegenkwam
+[10:43:35] <Boots> G2 <2
+[10:43:37] <Boots> 3
+[10:43:38] <AlBundy> nu ziet-ie er zo uit: http://asset-d.soupcdn.com/asset/7457/1011_d43a_960.jpeg
+[10:43:43] <Boots> oeps
+[10:43:46] <surrounder> !samsung--
+[10:43:48] <digiweed> surrounder: Karma for samsung is now: -29
+[10:43:54] <AlBundy> !samsung++
+[10:43:57] <digiweed> AlBundy: Karma for samsung is now: -28
+[10:44:01] <AlBundy> !oneplus++
+[10:44:03] <Boots> !samsung--
+[10:44:05] <digiweed> AlBundy: Karma for oneplus is now: 3
+[10:44:06] <surrounder> !android--
+[10:44:06] <digiweed> Boots: Karma for samsung is now: -29
+[10:44:08] <Fermata> !android--
+[10:44:08] <digiweed> surrounder: Karma for android is now: -71
+[10:44:10] <Fermata> TROEP
+[10:44:10] <digiweed> Fermata: Karma for android is now: -72
+[10:44:13] <AlBundy> nee man
+[10:44:13] <Boots> !telefoons--
+[10:44:15] <AlBundy> android is awesome
+[10:44:17] <Boots> !merken--
+[10:44:17] <digiweed> Boots: Karma for telefoons is now: -2
+[10:44:19] <surrounder> !lumia++
+[10:44:19] <digiweed> Boots: Karma for merken is now: -1
+[10:44:20] <AlBundy> cyanogen++
+[10:44:21] <digiweed> surrounder: Karma for lumia is now: 17
+[10:44:23] <surrounder> !w10m++
+[10:44:24] <digiweed> surrounder: Karma for w10m is now: 1
+[10:44:36] <Fermata> !iphone++
+[10:44:36] <Boots> !bellen--
+[10:44:38] <digiweed> Fermata: Karma for iphone is now: -3
+[10:44:39] <Fermata> !crossfit--
+[10:44:40] <Fermata> !crossfit--
+[10:44:40] <digiweed> Boots: Karma for bellen is now: -27
+[10:44:42] <digiweed> Fermata: Karma for crossfit is now: 136
+[10:44:42] <Fermata> !bellen--
+[10:44:42] <Boots> !John's Phone++
+[10:44:44] <digiweed> Fermata: Karma for crossfit is now: 135
+[10:44:46] <digiweed> Fermata: Karma for bellen is now: -28
+[10:44:47] <digiweed> Boots: Karma for John's Phone is now: 1
+[10:44:48] <AlBundy> haha Boots 
+[10:44:49] <Fermata> Boots: jaa :D
+[10:44:50] <AlBundy> idd :D
+[10:44:53] <Fermata> Gaaf ding was dat
+[10:45:00] <surrounder> AlBundy: de ongepatchte XP van de mobiele wereld dan android
+[10:45:04] <AlBundy> ik wil een John's Phone met navigatie
+[10:45:05] <surrounder> soort van SOA is het
+[10:45:12] <AlBundy> gewoon klein pijltje met welke kant je op moet
+[10:45:12] <Boots> Ik overwoog die
+[10:45:20] <Boots> Een kompas?
+[10:45:28] <AlBundy> nee
+[10:45:30] <AlBundy> wel met kennis van de wegen
+[10:45:34] <Fermata> http://www.amazon.com/Johns-Phone-Business-Black-Simplest/dp/B004TF10FG -- voor een tientje heb je een simpele kutAlcatel die meer doet he
+[10:45:34] <Boots> Ohh
+[10:45:38] <AlBundy> maar geen display met kaart
+[10:45:40] <Boots> Dat is wel tof
+[10:45:53] <AlBundy> maar dat bestaat natuurlijk weer niet :p
+[10:45:59] <Boots> Al wil ik ook weten of er een haakse bocht aankomt
+[10:46:15] <Boots> Ik houd niet zo van verrassingen
+[10:46:17] <AlBundy> uit je ogen kijken
+[10:46:33] <surrounder> lol @ john's phone
+[10:46:38] <surrounder> die heb ik helemaal gemist
+[10:46:50] <AlBundy> niet naar je telefoon, maar voor je, dan zie je hem ook aankomen :p
+[10:46:54] <bReChThOu> waqarom de fuckk ost dat 120$
+[10:46:56] <bReChThOu> -typtyfus
+[10:47:14] <surrounder> bReChThOu: hoi willem!
+[10:47:14] <AlBundy> omdat er geen miljoenen van geproduceerd worden
+[10:47:21] <AlBundy> kleinere schaal, hogere variabele kosten
+[10:47:22] <Boots> Oh echt 
+[10:47:25] <Boots> wtf
+[10:47:27] <Boots> !ogen++
+[10:47:29] <digiweed> Boots: Karma for ogen is now: 0
+[10:47:32] <Boots> Klinken handig
+[10:47:34] <Boots> lol
+[10:47:37] <surrounder> niet altijd
+[10:47:38] <Boots> stond op -1
+[10:47:41] <surrounder> soms wou ik dat ik geen ogen had
+[10:47:42] <AlBundy> Boots: ook al eens geprobeerd te ademen?
+[10:47:45] <Boots> Mijn ogen gaan achteruit
+[10:47:47] <Boots> ja same
+[10:47:50] <AlBundy> da's klote
+[10:47:55] <AlBundy> zit je in de auto, wil je vooruit
+[10:47:56] <AlBundy> gaan je ogen achteruit
+[10:48:01] <Boots> :(
+[10:48:03] <Boots> Padum
+[10:48:16] <surrounder> :(
+[10:48:48] <Boots> !ademen++
+[10:48:50] <digiweed> Boots: Karma for ademen is now: 2
+[10:48:56] <Boots> awww yisss
+[10:49:14] <AlBundy> https://www.youtube.com/watch?v=8MMc3f588yc
+[10:49:14] <Fermata> AlBundy: kleinere schaal, sure, maar ~10 keer zo duur als een rijker uitgevoerd toestel?
+[10:49:16] <digiweed> Title: Breathing Commercial - YouTube (at www.youtube.com)
+[10:49:17] <Fermata> Dan laat maar he.
+[10:49:31] <AlBundy> dat toestel koop je dan ook niet om de features
+[10:49:42] <AlBundy> het gebrek aan features is het USP
+[10:49:46] <Fermata> http://www.amazon.com/gp/product/B00QWQIBSY/ref=pd_lpo_sbs_dp_ss_2?pf_rd_p=1944687622&pf_rd_s=lpo-top-stripe-1&pf_rd_t=201&pf_rd_i=B004TF10FG&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=06DD0BZN936Z73CQ4FRQ -- hier
+[10:50:52] <Fermata> Dan moet je wel heel graag een vuige stinkhipster willen zijn met je John's Phone
+[10:50:56] <zoetepiepersoep103> ~
+[10:51:00] <AlBundy> ja of oud
+[10:51:42] <AlBundy> of gewoon willen bellen, en niet elke dag dat onding aan de lader wil gooien omdat alles wat niet met bellen te maken heeft de batterij leegzuigt
+[10:51:51] <surrounder> dan ben je sowieso voor eur 30 klaar
+[10:52:00] <surrounder> ook in de winkels hier
+[10:52:10] <Fermata> ^
+[10:52:11] <surrounder> dus wat Fermata zegt
+[10:53:13] <AlBundy> die coofone is wel interessant
+[10:53:21] <AlBundy> als backup phone in de backpack
+[10:53:45] <Fermata> Again.
+[10:53:47] <Fermata> Tientje bij BCC
+[10:53:50] <Fermata> Alcatel-prul
+[10:53:59] <Fermata> Sim-kaart van lebara inclusief, met beltegoed
+[10:54:01] <AlBundy> het creditcardformaat spreekt me wel aan
+[10:54:06] <Fermata> Ook standbytijd voor een week.
+[10:54:11] <Fermata> Want dat is relevant in je backpack?
+[10:54:16] <AlBundy> ja juist
+[10:54:25] <AlBundy> neit per se in de backpack zelf
+[10:54:28] <Erik> geen phone spreekt me wel aan
+[10:54:30] <AlBundy> maar om ergens te kunnen verstoppen
+[10:54:36] <AlBundy> dat in geval van beroving, ik nog een telefoon heb
+[10:54:41] <AlBundy> om shit te regelen
+[10:54:46] <Fermata> Wat begin je dan over je backpack
+[10:54:50] <surrounder> !Erik++
+[10:54:54] <digiweed> surrounder: Karma for Erik is now: 33
+[10:55:11] <AlBundy> s/voor in de backpack/voor het backpacken
+[10:55:29] <AlBundy> Erik: http://www.stephenfry.com/2016/04/off-the-grid/
+[10:55:32] <digiweed> Title: Off the grid - Official site of Stephen Fry (at www.stephenfry.com)
+[10:55:50] <surrounder> alweer
+[10:57:20] <zoetepiepersoep103> mensen
+[10:57:28] <zoetepiepersoep103> wat voor weer is het?!
+[10:57:35] <AlBundy> trouwens, formaat is best wel belangrijk in de backpack :)
+[10:57:42] <Escovan> Eigenlijk geen IRC weer ... 
+[10:57:44] <AlBundy> ik heb hem vaak vol zitten
+[10:57:52] <Escovan> Terrasjes mogen wel open
+[10:57:55] <surrounder> HONDERDDRIE!
+[10:58:02] <Fermata> 103!
+[10:58:09] <Fermata> zoetepiepersoep103: ieks, buiten
+[11:00:02] <AlBundy> !zoetepiepers++
+[11:00:06] <digiweed> AlBundy: Karma for zoetepiepers is now: 1
+[11:00:07] <zoetepiepersoep103> afzeikweer
+[11:00:10] <zoetepiepersoep103> weer
+[11:01:23] <mimic> moge
+[11:01:51] <Fermata> mimiekje!
+[11:01:51] <surrounder> MIMIEKJE
+[11:02:01] <Fermata> !mimic++
+[11:02:06] <digiweed> Fermata: Karma for mimic is now: 771
+[11:02:06] <Fermata> !surrounder++
+[11:02:11] <Fermata> !noxiouspluk++
+[11:02:11] <digiweed> Fermata: Karma for surrounder is now: 1129
+[11:02:12] <Fermata> !appy++
+[11:02:13] <digiweed> Fermata: Karma for noxiouspluk is now: 128
+[11:02:15] <digiweed> Fermata: Karma for appy is now: 414
+[11:02:21] <surrounder> nou ok
+[11:02:25] <surrounder> !Fermata++
+[11:02:28] <digiweed> surrounder: Karma for Fermata is now: 923
+[11:02:34] <mimic> geen koffie?
+[11:02:42] <mimic> pavlov :C
+[11:02:46] <AlBundy> !koffie++
+[11:02:49] <digiweed> AlBundy: Karma for koffie is now: 1772
+[11:03:08] <AlBundy> koffie - mimic = 1001
+[11:03:21] <mimic> ok
+[11:03:26] <AlBundy> weet je dat ook weer
+[11:03:28] * Fermata paast de mimic een bak koffie.
+[11:03:30] <Fermata> Zwart!
+[11:03:37] <mimic> da's nu prima :Y)
+[11:03:42] <zoetepiepersoep103> De Vries!
+[11:03:45] <surrounder> dat zeg je alleen omdat je zwart bent
+[11:03:53] <mimic> mghihihi
+[11:03:53] <Fermata> zoetepiepersoep103: heh :D
+[11:03:56] <Fermata> !103++
+[11:03:58] <digiweed> Fermata: Karma for 103 is now: 222
+[11:04:29] *** Joins: Bitage (Bitage@82-171-45-9.ip.telfort.nl)
+[11:05:20] <zoetepiepersoep103> lul man
+[11:05:46] <mimic> ja?
+[11:06:06] <surrounder> erecte vleeslasso?
+[11:06:34] <zoetepiepersoep103> weertje huh
+[11:06:54] <surrounder> geen idee
+[11:07:07] <surrounder> (nog) geen zon op m'n scherm dus woei
+[11:07:10] <surrounder> !bankhangen++
+[11:07:12] <digiweed> surrounder: Karma for bankhangen is now: 6
+[11:08:44] <mimic> werk je wel genoeg?
+[11:09:05] <surrounder> nimmer
+[11:09:10] <surrounder> werk is m'n lust en m'n leven
+[11:09:18] <surrounder> gelukkig heb ik vanaf 17:00 weer storingsdienst
+[11:09:40] <Erik> wat een feest weer
+[11:10:01] <Fermata> Had ik maar storingsdienst.
+[11:10:08] <surrounder> haha ja
+[11:10:11] <surrounder> Fermata: ujelly!?
+[11:10:32] <Fermata> Ja natuurlijk.
+[11:10:34] <Fermata> Gimme
+[11:12:39] <surrounder> yay onderbuurvrouw heeft de volumeknop gevonden
+[11:12:49] <mimic> is ze lekke?
+[11:12:51] <mimic> r
+[11:13:32] <surrounder> als je van een dik schreeuwend viswijf houdt
+[11:14:24] <Fermata> Bij de volgende meet neem ik dit mee: http://www.amazon.com/Casio-SA-76-Mini-Keyboard-Orange/dp/B003VX1GI8/ref=sr_1_21?s=wireless&ie=UTF8&qid=1461315644&sr=8-21&keywords=synth
+[11:14:34] <Fermata> Kunnen we nog wat professioneler kutherrie maken.
+[11:15:05] <surrounder> den casio van orange heb ik altijd ge-eerd
+[11:15:40] <Fermata> :D
+[11:16:58] <mimic> hal euk
+[11:17:06] <AlBundy> als dat nou midi out had
+[11:17:48] <Fermata> Dan kon je er bij Daniels nog niks mee.
+[11:18:40] <mimic> misschien kun je de midikabel in de kont van die dikkert stoppen
+[11:18:56] <Fermata> NoxiousPluK-over-midi?
+[11:19:28] <mimic> ik dacht aan de barvrouw
+[11:22:10] <Fermata> Oh, heh
+[11:23:27] <surrounder> ik denk wel vaker aan de barvrouw
+[11:24:13] <Escovan> http://www.teamklantenservice.nl/wp-content/uploads/2016/04/Screenshot-14.png
+[11:24:15] <mimic> denk je?
+[11:24:43] <surrounder> haha nee
+[11:25:09] <mimic> dacht ik wel
+[11:28:04] * mimic heeft een foto van Fermata
+[11:29:00] <Fermata> Koester die.
+[11:29:07] <Fermata> Later kan ik 'm signeren en word je rijk.
+[11:29:18] <mimic> hoezo word?
+[11:29:45] <Fermata> Wacht je nog steeds op die betaling?
+[11:29:46] <Escovan> Die mimic
+[11:29:51] <Escovan> komt om in de centen
+[11:29:55] <mimic> Fermata: nope :Y)
+[11:29:59] <Escovan> Maar hoe zit het in de liefde?
+[11:30:06] <Fermata> !liefde--
+[11:30:08] <Fermata> Troep!
+[11:30:09] <mimic> wat denk je, Escovan?
+[11:30:11] <digiweed> Fermata: Karma for liefde is now: 3
+[11:30:24] <Fermata> Heb je mimic wel eens gezien?
+[11:30:28] <Escovan> Hmja, als je hard werkt heb je er geen tijd voor.
+[11:31:02] <Escovan> Misschien een keer parkeren langs de snelweg, maar dan heb je het ook wel gehad.
+[11:31:34] <mimic> nah, sinds ik jou daar tegen kwam ben ik daar mee gestopt
+[11:31:42] <Escovan> hihi
+[11:35:34] <mimic> wil je soms zeggen dat ik knap ben, Fermata?
+[11:36:02] <zoetepiepersoep103> wat denk je mimic
+[11:36:05] <zoetepiepersoep103> jouw klauwen...
+[11:36:27] <mimic> meesterplan
+[11:36:49] <zoetepiepersoep103> ...fermata's aarsch
+[11:37:00] <mimic> meesterplan
+[11:37:11] <surrounder> 5 vuisten diep?
+[11:37:33] <mimic> dan heb ik wel hulp nodig
+[11:37:37] <Fermata> Heb ik hier nog wat over te zeggen?
+[11:37:42] <mimic> nee
+[11:37:43] <bReChThOu> NEE
+[11:37:47] <bReChThOu> bakkes houden en buken
+[11:37:50] <bReChThOu> +k
+[11:38:32] <bReChThOu> bataatdrek103 o/
+[11:38:59] <mimic> bataat++
+[11:39:21] <surrounder> !l mooiewoorden as bataat
+[11:39:24] <digiweed> surrounder: The operation succeeded.
+[11:39:35] * surrounder voert bReChThOu een mongolenboterham
+[11:39:38] *** zoetepiepersoep103 is now known as ei103
+[11:39:49] * bReChThOu nomt en kwispelt
+[12:00:17] <welly7> we gaan richting de andere kant v 12 uur
+[12:00:38] <ei103> we waren er al
+[12:01:04] <welly7> hardlopers
+[12:04:09] <ei103> rawplayer: de spoeling is wat dun
+[12:04:29] <ei103> qua cheesiness
+[12:10:23] <ei103> http://img.pr0gramm.com/2016/04/22/01701861c2682685.jpg
+[12:18:54] <SJ> !drop++
+[12:18:56] <digiweed> SJ: Karma for drop is now: 5
+[12:18:57] <SJ> !snow++
+[12:19:00] <digiweed> SJ: Karma for snow is now: 3
+[12:24:32] <welly7> ei103 der is nu bier uit skeveningen
+[12:25:10] <Fermata> "Morgen ga je heerlijk uit eten bij De Spil Dine & Wine. We sturen je deze mail zodat je alle gegevens bij de hand hebt en je alvast je route kunt plannen. Eet smakelijk!" -- o ja, morgen eten met tuig @ Nijmegen
+[12:25:15] <Fermata> !nijmegen++
+[12:25:18] <digiweed> Fermata: Karma for nijmegen is now: 98
+[12:25:53] <ei103> !nijmegen++
+[12:25:55] <ei103> !despil++
+[12:25:55] <digiweed> ei103: Karma for nijmegen is now: 99
+[12:25:58] <digiweed> ei103: Karma for despil is now: 1
+[12:26:39] <Fermata> !despil++
+[12:26:40] <Fermata> ja.ja
+[12:26:42] <digiweed> Fermata: Karma for despil is now: 2
+[12:28:03] <Fermata> Auto in de Weezenhof dumpen en dan met de bus verder.
+[12:28:08] <Fermata> Vier keer A73 in één week!
+[12:28:09] <Fermata> Gekkenhuis.
+[12:28:15] <bReChThOu> je bent mal
+[12:29:47] <Fermata> Correct.
+[12:31:08] *** Quits: FlutterShy (guntherdw@znc.s.wrongplace.be) (Ping timeout: 61 seconds)
+[13:24:30] <NoxiousPluK> 11:02:03            Fermata | !noxiouspluk++
+[13:24:32] <NoxiousPluK> !wa
+[13:24:35] <NoxiousPluK> !wat
+[13:24:36] <NoxiousPluK> <3
+[13:24:37] <digiweed> NoxiousPluK: "wat" : http://i.imgur.com/Bdh4kIu.jpg
+[13:24:41] <bReChThOu> ey JAPY
+[13:24:45] <NoxiousPluK> oi breggie
+[13:24:58] <NoxiousPluK> verdomme ik krijg hier even de kattenpolio
+[13:25:01] <NoxiousPluK> kutallergie
+[13:25:22] <bReChThOu> zit appy weer in de rui ja ?
+[13:27:45] <NoxiousPluK> lol
+[13:27:47] <NoxiousPluK> zoiets
+[13:30:32] <PvOESJE> ik lees weer eens zoover, een review over een hotel in zuidholland
+[13:30:35] <PvOESJE> Het enige minpuntje: geen Belgische zenders op TV.
+[13:30:36] <PvOESJE> :D 
+[13:30:53] <bReChThOu> <3
+[13:30:57] <bReChThOu> groot gelijk
+[13:31:13] <NoxiousPluK> zelfs in de bak waren er belgische zenders op tv
+[13:31:25] <NoxiousPluK> één, canvas en ketnet
+[13:31:32] <bReChThOu> lol
+[13:31:52] <bReChThOu> IN DE BAJES (cover van In the navy) ~~~~
+[13:31:58] <NoxiousPluK> nice
+[13:32:06] <NoxiousPluK> nu moet dit gebeuren
+[13:32:08] <NoxiousPluK> Fermata: zing eens?
+[13:32:20] <NoxiousPluK> ik bedoel, dat kost niks toch?
+[13:32:26] <NoxiousPluK> dat hele muziekgedoe van jou is toch niet zo serieus?
+[13:32:31] * NoxiousPluK verstopt achter mimic en surrounder
+[13:32:41] <bReChThOu> beter verstop je je achter surrounder's moeder
+[13:32:44] <bReChThOu> dat vinden ze je nooit meer
+[13:32:49] <PvOESJE> ik snap alleen niet dat je op vakantie gaat om belgische zenders op je hotelkamer te kijkej :D
+[13:33:00] <NoxiousPluK> je moet wat als de seks tegenvalt
+[13:33:18] <bReChThOu> ik snap sowieso niet waarom je naar zuidholland op vakantie gaat :')
+[13:33:25] <NoxiousPluK> hey now
+[13:33:36] <NoxiousPluK> vrienden van mij waren laatst op vakantie in Rotterdam
+[13:33:45] <SJ> 010
+[13:33:52] <NoxiousPluK> jwz
+[13:33:59] <SJ> ja toch? Niet dan? Ech wel!
+[13:34:37] <bReChThOu> haha ja
+[13:34:47] <bReChThOu> Rotterdam, het guantanamo van Nederland
+[13:34:49] <NoxiousPluK> haha zellug
+[13:35:36] <PvOESJE> deze is ook leuk, hotel in griekenland ver uit de bewoonde wereld en dan als revieuw
+[13:35:43] <PvOESJE> In de omgeving niks te zien je bent al verplicht een auto te huren . 
+[13:35:45] <PvOESJE> :D
+[13:35:48] <syf_> whehe
+[13:35:51] <syf_> PvOESJE: ja goed he
+[13:35:54] <bReChThOu> nou dat is toch goed om te weten
+[13:36:20] <syf_> of de befaamde naar een kustplaats gaan en dan klagen dat er vissen in het water zaten
+[13:36:43] <bReChThOu> of walvissen
+[13:40:24] <PvOESJE> kamer 1
+[13:40:27] <PvOESJE> Het ontbijt was prima, de schuine wanden op de kamer iets minder
+[13:40:37] <bReChThOu> o_O
+[13:40:37] <PvOESJE> serieus je kamer een 1 geven vanwege schuine wanden :D 
+[13:41:37] <syf_> vakantie.. wat was dat ook alweer
+[13:41:40] <syf_> hmm
+[13:42:17] <ei103> volgende meet is in acqualoreto, syf_ 
+[13:42:19] <ei103> grijp je kans
+[13:42:55] <PvOESJE> hotel naast een discotheek boeken en dan klagen om geluid <3
+[13:42:59] <PvOESJE> Hotelnaast dancing. Oordopjes liggen op de kamer.
+[13:43:51] <syf_> ei103: zegt me niets
+[13:44:16] <ei103> umbrie
+[13:44:26] <ei103> berghelling, zwembadje, lekker weer
+[13:44:33] <ei103> #genieten
+[13:44:51] <syf_> ah nice
+[13:45:33] <syf_> ik doe dat vaker in .pt want kost mij alleen de vlucht heh
+[13:45:36] <syf_> hoewel ik dat echt al jaren niet gedaan heb
+[13:45:54] <syf_> maar dan zit ik ook in the middle of nowhere :p
+[14:23:05] <SJ> dit jaar kroatie, mits goed weer 
+[14:23:15] <SJ> Italie is ook nice
+[14:23:32] <Erik> zal van de zomer nog wel een week naar india moeten voor werk denk ik
+[14:23:42] <SJ> 3 jaar terug Toscane - Rome - Pompeii - Sicilie gedaan 
+[14:24:13] <Fermata> Ja daar kan jij ook niks aan doen.
+[14:24:15] <SJ> Erik: mja, ik vlieg waarschijnlijk binnen een paar weken naar Singapore voor een week, misschien 2 
+[14:24:29] <SJ> maar, da's niet echt vakantie 
+[14:24:42] <Erik> als ik naar singapore ga is het voor 6 maanden
+[14:24:58] <SJ> hmm, da's wat te lang 
+[14:25:12] <Erik> ze gaan daar software afdeling opzetten
+[14:25:35] <SJ> ah
+[14:25:42] <SJ> wel cool opzich :)
+[14:29:13] <AlBundy> http://ftw.usatoday.com/2016/04/beaver-attack-latvia
+[14:35:52] <syf_> Erik: niet vergeten wat cola uit zo een schaafijs kraampje te drinken!
+[14:35:55] <syf_> dat is echt baas in india
+[14:36:15] <AlBundy> thanks for the tip
+[14:36:31] <AlBundy> wel Fritz kola toch?
+[14:36:36] * AlBundy rent
+[14:36:54] <Erik> denk dat ik een week op de WC zit als ik daar naar toe moet
+[14:37:08] <syf_> :D
+[14:37:30] <syf_> SJ: rome is echt ranzig he
+[14:37:43] <syf_> erger dan 010 en 020 bij elkaar!
+[14:37:51] <AlBundy> 010 is best schoon
+[14:37:55] <AlBundy> uh 020
+[14:38:01] <AlBundy> maar 010 ook wel
+[14:39:05] <syf_> het enige wat ik nog weet van rome is dat ik heel erg fucked up was in Testaccio
+[14:39:33] <syf_> !drugs--
+[14:39:38] <digiweed> syf_: Karma for drugs is now: 52
+[14:40:37] <rawplayer> syf <3
+[14:42:20] <syf_> rawplayer o/
+[14:42:42] <SJ> syf_: ja, centrum is wel netjes, maar even erbuiten is het smerig 
+[14:43:20] *** Joins: grid (grid@dhcp-089-099-194-232.chello.nl)
+[15:06:47] <wirky> syf wat had je voor iets genomen
+[15:18:15] *** Joins: int3nz0r (int3nz0r@541A8E1B.cm-5-3c.dynamic.ziggo.nl)
+[15:21:08] *** Quits: Guyver2 (Guyver2@guyver2.xs4all.nl) (Exit)
+[15:29:01] <syf_> ik dacht hash maar dat was vast wel gelaced
+[15:31:41] <AlBundy> http://devco.re/blog/2016/04/21/how-I-hacked-facebook-and-found-someones-backdoor-script-eng-ver/
+[15:31:43] <digiweed> Title: How I Hacked Facebook, and Found Someone's Backdoor Script | DEVCORE 戴夫寇爾 (at devco.re)
+[15:32:23] <AlBundy> syf_: hasj daar schijnt veel beter te zijn dan je hier kan krijgen
+[15:32:46] <ei103> schijnen doet de moan
+[15:33:15] <AlBundy> mja ik weet het nog niet uit eerste hand
+[15:33:57] <syf_> mja
+[15:34:05] <syf_> sowieso niet echt mijn ding
+[16:14:34] <the_Ye-Ti> over ding gesproken
+[16:14:52] <the_Ye-Ti> !wekeEnd++
+[16:14:54] <digiweed> the_Ye-Ti: Karma for wekeEnd is now: 97
+[16:14:56] <ei103> EINDELIJK
+[16:14:57] <ei103> man man
+[16:14:58] <ei103> wat een week
+[16:15:01] <the_Ye-Ti> doei 103
+[16:15:33] <ei103> hei?
+[16:25:33] *** Joins: Kirth (Kirth@109.130.227.237)
+[16:25:55] <justaguy> Kirth: Kirtje
+[16:26:12] * Kirth pat justaguy
+[16:36:45] <syf_> man man man
+[16:42:40] <SJ> !pils++
+[16:42:43] <digiweed> SJ: Karma for pils is now: 31
+[16:42:45] <SJ> !heineken--
+[16:42:49] <digiweed> SJ: Karma for heineken is now: -5
+[16:53:10] <syf_> VIES HE
+[16:56:53] <Boots> https://scontent.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/fr/cp0/e15/q65/13055342_10154155904378188_5868550599445102410_n.jpg?efg=eyJpIjoidCJ9&oh=06e779e31aa61543f2190de7a8f5f2a2&oe=57B9F8DB
+[16:58:59] <syf_> HOAX
+[16:59:37] <ei103> ik geloof niet dat ze zo dom is als zich voordoet: https://www.facebook.com/wrijkholdmeesters
+[16:59:39] <digiweed> Title: Welkom op Facebook (at www.facebook.com)
+[17:01:51] <syf_> want een secretaresse is slim?
+[17:02:16] <ei103> dat zeg ik niet?
+[17:02:31] <ei103> maar haar taalgebruik is daar een factor 1000x beter
+[17:02:38] <ei103> HOAX
+[17:03:05] <syf_> en ik zie ook PETA
+[17:03:09] <Boots> Hehehe
+[17:03:14] <syf_> dus zo slim zal ze wel niet zijn heur
+[17:03:20] <Boots> Ja maar sommigen besteden meer tijd aan fbposts
+[17:03:23] <Boots> dan priveberichten
+[17:03:25] <Boots> https://scontent.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/fr/cp0/e15/q65/13012746_1735533103390687_3394467701826438653_n.jpg?efg=eyJpIjoidCJ9&oh=da011cdc4d4b6da50d9ba1b58a84f06a&oe=57A41C1C
+[17:03:30] <ei103> vast inet zo slim als jij syf_ 
+[17:04:01] <syf_> vast niet
+[17:05:39] *** Quits: Kirth (Kirth@109.130.227.237) (Exit)
+[17:06:04] *** Quits: grid (grid@dhcp-089-099-194-232.chello.nl) (Ping timeout: 66 seconds)
+[17:14:33] <Boots> https://i.imgur.com/b0mXOCS.png
+[17:15:52] <ei103> !seen wasbak
+[17:15:53] <digiweed> ei103: wasbak was last seen in #nerds 2y 19w 3d 6h 19m 29s ago: <wasbak> Kerstman :99
+[17:16:05] <NoxiousPluK> !seen wasbak2
+[17:16:08] <digiweed> NoxiousPluK: I have not seen wasbak2.
+[17:16:11] <NoxiousPluK> aww
+[17:16:53] <ei103> Tweakers/#nerds.log:21:32 < wasbak`> :p
+[17:16:55] <ei103> nuttig
+[17:17:22] <NoxiousPluK> :D
+[17:17:34] <ei103> !seen bacq
+[17:17:35] <digiweed> ei103: bacq was last seen in #nerds 1y 41w 0d 5h 51m 22s ago: <bacq> the_Ye-Ti: so?
+[17:20:30] <ei103> syf_: iq doet er trouwens niet toe: https://scontent.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/12342780_955693417822325_5932690850913691073_n.jpg?oh=6b5f5914289b690fa98971ad541d14ad&oe=57A54CC7
+[17:24:03] <Boots> https://m.imgur.com/gallery/6kvT1
+[17:24:07] <digiweed> Title: Science questions you may have had but didnt want to ask. - Album on Imgur (at m.imgur.com)
+[17:28:09] <mimic> mgoe
+[17:28:12] <mimic> moge
+[17:29:08] *** Quits: Bitage (Bitage@82-171-45-9.ip.telfort.nl) (Exit)
+[17:31:05] <Boots> egom
+[17:33:06] <mimic> en dat soort dingen
+[17:33:59] *** Joins: FlutterShy (guntherdw@ip-83-101-5-155.customer.schedom-europe.net)
+[17:38:13] <mimic> http://nos.nl/op3/artikel/2100834-video-legervoertuigen-vallen-zonder-parachute-uit-vliegtuig.html
+[17:38:15] <mimic> :'D :'D
+[17:38:15] <digiweed> Title: Video: legervoertuigen vallen zonder parachute uit vliegtuig | NOS (at nos.nl)
+[17:40:49] *** Quits: Fermata (stefan@5.157.82.116) (Ping timeout: 60 seconds)
+[17:44:20] *** Joins: grid (grid@dhcp-089-099-194-232.chello.nl)
+[17:45:42] <Escovan> !lamachun++
+[17:45:46] <digiweed> Escovan: Karma for lamachun is now: 4
+[17:45:58] *** Joins: Fermata (stefan@5.157.82.116)
+[17:46:27] <Escovan> Die turk hier 2 blokken verderop levert ze voor 8 euro voor 2 personen met halal döner
+[17:47:06] <mimic> ok
+[17:47:47] * Escovan blij \o/
+[17:47:52] <mimic> o/
+[18:23:38] *** Joins: Tomsworld (tom@2a02:a03f:1223:a800:7931:761e:ca1a:8da)
+[18:35:49] <syf_> ei103: ik snap de foto niet
+[18:35:54] <syf_> Escovan: lekker
+[18:36:13] <syf_> dat is een stuk goedkoper dan hiero
+[18:36:40] <Escovan> we hebben hier veel concurrende broodjes zaken...
+[18:37:23] <Escovan> telkens staat er weer 1 op die een lamachun met salade en vlees en saus voor slechts 4 euro weg doet ... 
+[18:37:59] <syf_> ook maar eens wat troep eten
+[18:38:05] <syf_> !weekend++
+[18:38:07] <digiweed> syf_: Karma for weekend is now: 43
+[18:38:24] <Escovan> deze zelfs vanaf 11:00 in de ochtend. Lekker voor lunch dus
+[18:45:10] <syf_> ei103: heeft die chick nou alles public staan?
+[19:08:53] *** Quits: Tomsworld (tom@2a02:a03f:1223:a800:7931:761e:ca1a:8da) (Ping timeout: 61 seconds)
+[19:09:42] <syf_> https://www.youtube.com/watch?v=6urJejluX44
+[19:09:45] <digiweed> Title: [HTC Vive] Renates first time playing.. The Brookhaven Experiments, 1 wave, and thats enough - YouTube (at www.youtube.com)
+[19:09:47] <syf_> whehe
+[19:10:00] *** Joins: Tomsworld (tom@109.130.187.232)
+[19:56:23] *** Quits: grid (grid@dhcp-089-099-194-232.chello.nl) (Ping timeout: 67 seconds)
+[20:03:20] *** Joins: grid (grid@dhcp-089-099-194-232.chello.nl)
+[20:08:07] *** Joins: SCHAPiE (dorian@dhcp-077-249-247-124.chello.nl)
+[21:31:52] <syf_> o/
+[21:42:30] <Fermata> o/
+[21:43:13] <rawplayer> o/
+[21:52:14] <nomadz> o/
+[21:54:19] <BarthezZ> o/
+[21:54:21] * BarthezZ knuffelt rawplayer O+O+
+[21:54:31] <BarthezZ> wanneer gaan we naar de hoeren? 
+[22:07:01] <Fermata> Stilte.
+[22:16:43] <syf_> nogal
+[22:18:05] <nomadz> gaep
+[22:28:55] <AlBundy> o/
+[22:48:19] *** Quits: Fermata (stefan@5.157.82.116) (Ping timeout: 60 seconds)
+[22:51:43] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Ping timeout: 66 seconds)
+[22:52:08] *** Joins: Fermata (stefan@5.157.82.116)
+[23:26:16] *** Joins: Guyver2 (Guyver2@guyver2.xs4all.nl)
+[23:44:14] *** Quits: Tomsworld (tom@109.130.187.232) (Ping timeout: 61 seconds)
+[23:46:40] *** Joins: Tomsworld (tom@2a02:a03f:1223:a800:c4d7:efb6:bec:90b9)

@@ -1,0 +1,33 @@
+====== MSN gespreksgeschiedenis ======
+Als een ware pionier ga ik voor het hele internet openbaren wat ik 7 jaar geleden met wie te bespreken had. Ik ben alleen nog even zoekende hoe ik ook hele documenten toe voeg. Daar is vast wel een extensie voor. Die ga ik nu eerst opzoeken op [[http://dokuwiki.org|DokuWiki]]. Vooralsnog upload ik gewoon complete logbestanden in HTML-formaat. De Google documentenviewer doet het namelijk alleen als ik deze applicatie openbaar - zonder verplicht inloggen - toegankelijk maak. Misschien doe ik dat ook wel.
+
+==== MSN 2009 ====
+Ik geef hier vast een [[wiki:syntax]] voorbeeldje, maar maak alsjeblieft ook je eigen pagina's aan.
+== februari ==
+  * [[http://logged.be/logs/msn/2009/februari/cloud_nine_live.nl.html]]
+  * [[http://logged.be/logs/msn/2009/februari/esmay_lichtsnel.nl.html]]
+  * [[http://logged.be/logs/msn/2009/februari/felix00_live.nl.html]]
+  * [[http://logged.be/logs/msn/2009/februari/luthienessa_hotmail.com.html]]
+  * [[http://logged.be/logs/msn/2009/februari/marijewispels_hotmail.com.html]]
+  * [[http://logged.be/logs/msn/2009/februari/net4nel_yahoo.com.html]]
+  * [[http://logged.be/logs/msn/2009/februari/sakuyaachan_hotmail.com.html]]
+  * [[http://logged.be/logs/msn/2009/februari/sydneybesselink_hotmail.com.html]]
+  * [[http://logged.be/logs/msn/2009/februari/walking-through-the-rain_hotmail.com.html]]
+
+== maart ==
+  * [[http://logged.be/logs/msn/2009/maart/angelamaas85_hotmail.com.html]]
+  * [[http://logged.be/logs/msn/2009/maart/cloud_nine_live.nl.html]]
+  * [[http://logged.be/logs/msn/2009/maart/esmay_lichtsnel.nl.html]]
+  * [[http://logged.be/logs/msn/2009/maart/esther-vanleeuwen_live.nl.html]]
+  * [[http://logged.be/logs/msn/2009/maart/felix00_live.nl.html]]
+  * [[http://logged.be/logs/msn/2009/maart/gdwesterdijk_hotmail.com.html]]
+  * [[http://logged.be/logs/msn/2009/maart/mirjam0302_hotmail.com.html]]
+  * [[http://logged.be/logs/msn/2009/maart/sakuyaachan_hotmail.com.html]]
+  * [[http://logged.be/logs/msn/2009/maart/stephanietimmer_hotmail.com.html]]
+  * [[http://logged.be/logs/msn/2009/maart/sydneybesselink_hotmail.com.html]]
+
+== april ==
+  * [[http://logged.be/logs/msn/2009/april/angelamaas85_hotmail.com.html]]
+  * [[http://logged.be/logs/msn/2009/april/felix00_live.nl.html]]
+  * [[http://logged.be/logs/msn/2009/april/mirjam0302_hotmail.com.html]]
+  * [[http://logged.be/logs/msn/2009/april/sydneybesselink_hotmail.com.html]]

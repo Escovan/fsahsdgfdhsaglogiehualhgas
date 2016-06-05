@@ -1,0 +1,850 @@
+[00:36:12] *** Joins: japio (Japio@sorcery-gvcm7d.adsl-surfen.hetnet.nl)
+[00:36:13] *** ChanServ sets mode: +o japio
+[00:36:25] <japio> BLURPPPPPP
+[00:36:28] <japio> oeps sorrie
+[00:57:33] *** Quits: japio (Japio@sorcery-gvcm7d.adsl-surfen.hetnet.nl) (Quit: Geen paniek, Ik drukte op het verkeerde kruisje..)
+[00:58:57] *** Joins: japio (Japio@sorcery-gvcm7d.adsl-surfen.hetnet.nl)
+[00:58:57] *** ChanServ sets mode: +o japio
+[01:09:29] *** Quits: japio (Japio@sorcery-gvcm7d.adsl-surfen.hetnet.nl) (Quit: Geen paniek, Ik drukte op het verkeerde kruisje..)
+[01:10:55] *** Joins: japio (Japio@sorcery-gvcm7d.adsl-surfen.hetnet.nl)
+[01:10:56] *** ChanServ sets mode: +o japio
+[01:55:03] *** Quits: har (har@sorcery-ega3j0.dynamic.ziggo.nl) (Quit: )
+[02:22:50] *** Joins: Escovan (Escovan@sorcery-n6prqj.prutsplek.nl)
+[06:52:51] <kuuke> mogge
+[08:48:11] <Grandmasg> Mogge
+[08:50:11] <kuuke> Gilmer!
+[08:51:25] <kuuke> het dak is er af?
+[08:51:43] <Grandmasg> welk dak :)
+[08:52:34] <kuuke> garage oid?
+[08:52:45] <Grandmasg> die is er al af :)
+[08:52:54] <Grandmasg> en de garage deur is er al uit
+[08:53:20] <Grandmasg> moet nog 2 stukjes muur zagen en wegslopen en dan ben ik klaar 
+[08:53:23] <kuuke> okay
+[08:53:35] <kuuke> schier lekker op dan :)
+[08:53:41] <kuuke> zo meteen dus weer verder
+[09:17:12] <kuuke> hmm, hier trekt het weer dicht
+[09:18:26] <Grandmasg> moet nod idd een zeil ophangen om de regen buiten te houden 
+[09:25:07] <kuuke> ja, daar ga je wel last van krijgen
+[09:25:11] <kuuke> maandag de aannemer verder?
+[09:25:32] <Grandmasg> nee heb dit zelf gedaan :)
+[09:25:39] <Grandmasg> aannemer nog niet gezien 
+[09:26:31] <kuuke> aha
+[09:26:52] <kuuke> hmm, straks eens libreElec op de raspberry zetten
+[09:26:56] <Grandmasg> zit asbest op het dak ... dan mag een aannemer niet slopen 
+[09:27:04] <kuuke> fork van OpenElec
+[09:27:12] <kuuke> ow ja, zelf slopen
+[09:27:19] <kuuke> wel adembescherming gebruiken hè!
+[09:27:37] <Grandmasg> platen heel eraf gekregen 
+[09:27:56] <Grandmasg> nou ja nagenoeg :)
+[09:33:09] <kuuke> ach, beetje maakt niks
+[09:33:15] <kuuke> zolang het maar niet alle kanten uitstuift
+[09:33:24] <kuuke> beetje regen erover is altijd handig met asbest
+[09:53:22] <kuuke> gelikkig gaat het richting het nieuwe weekend weer omhoog qua temperatuur
+[09:53:31] <kuuke> heb eik een zin in een druilerig weekje berlijn
+[09:58:31] <kuuke> zo, directadmin maar gezegd dat de spam verwijderd kan worden ipv doorsturen naar mijn mailccount
+[09:58:40] <kuuke> op vsml.nl loopt het de spuigaten uit
+[10:01:51] *** Joins: har (har@sorcery-ega3j0.dynamic.ziggo.nl)
+[10:01:52] *** ChanServ sets mode: +o har
+[10:02:00] <har> morrie
+[10:26:14] <kuuke> mogge har
+[10:26:41] <har> oi huub
+[10:29:20] <kuuke> de desktop eens ontstoffen en kijken of BOINC er toevallig nog op staat
+[10:29:44] <kuuke> als ik dan een weekje Berlijn doe na de volgende week gewoon de pc vergeten uit te zetten :)
+[10:54:40] *** Joins: PjoT (PjoT@sorcery-86v3aj.upc-i.chello.nl)
+[10:54:41] *** ChanServ sets mode: +o PjoT
+[10:58:34] <kuuke> mogge Peter
+[11:04:25] <PjoT> mogge huub
+[11:04:29] <PjoT> het hagelt hier
+[11:04:34] <PjoT> en het is geen venz
+[11:04:43] <kuuke> het begint hir stevig te betrekken
+[11:04:48] <kuuke> de dag begon zonnig enzo
+[11:04:55] <kuuke> maar nu neigt het zwaar naar regen
+[11:06:12] <PjoT> met zo het licht aan gaan doen zo donker is het hier op zolder
+[11:06:35] <PjoT> dak van de schuur is al wit 
+[11:06:38] <PjoT> apart 
+[11:06:45] <PjoT> toch een witte zondag 
+[11:07:52] <PjoT> goed buiten klussen zit er dus niet in vandaag
+[11:08:19] <PjoT> hoop wel dat de wedstrijd om 6uur wel door gaat 
+[11:09:28] <kuuke> en flats: hier begin thet ook te hagelen
+[11:09:46] <kuuke> niet te zuinig
+[11:11:29] <PjoT> tis hier over gegaan in natte sneeuw
+[11:12:28] <har> mja vanmorgen hier ook beste buien
+[11:12:39] <har> nu weer zonnig
+[11:13:13] <har> ik ga doucheren
+[11:13:26] <kuuke> badderze
+[11:14:43] <japio> G-aap
+[11:14:48] <japio> mogguh
+[11:14:55] <PjoT> de eerste keer dit jaar har?
+[11:15:08] <PjoT> een soort voorjaars schoonmaak :)
+[11:15:09] <japio> peter!
+[11:15:12] <japio> har!
+[11:15:14] <PjoT> mogge jaap
+[11:15:15] <japio> huub!
+[11:15:33] <japio> ik ken wel voorjaarsmoeheid
+[11:15:43] <japio> daar heb ik nu ook last van
+[11:16:38] <PjoT> het weer jhelpt ook niet 
+[11:17:28] <PjoT> Zondagochtend lag de gevoelstemperatuur onder meer in het oosten en midden van het land rond de 0 graden. Ook viel er op diverse plekken natte sneeuw en hagel. Het mag met recht een frisse zondag worden genoemd, want normaal is het eind april zo'n 15 tot 16 graden
+[11:17:35] <PjoT> en er over lezen helpt ook al niet
+[11:17:43] <japio> nou ik moet zeggen dat er wel een flinke wind staat maar nagenoeg geen regen gehad hier
+[11:18:31] <japio> hier is de gevoelstemperatuur 2,7 graad
+[11:18:38] <japio> en binnen 19,8
+[11:20:51] <japio> hahahah ik kreeg reactie van NS-online op een antwoord van mij op een grappige vraag
+[11:22:09] <japio> dr was iemand die zich afvroeg of de intercity van utrecht centraal naar schiphol ook een extra stop op amsterdam rai?
+[11:22:47] <japio> ik antwoorde ... door op het juiste moment aan de noodrem te trekken.. dan stopt hij zeker
+[11:23:02] <kuuke> nu weer blauwe lucht
+[11:23:03] <japio> antwoord van NS online was daarop
+[11:23:11] <kuuke> afgezaagde grap Jaap .... :)
+[11:23:28] <japio> dit is idd een mogelijkheid, echter wel een dure strop
+[11:24:26] <japio> ik ga mezelf ff optutten
+[11:24:31] <PjoT> het wordt hier wel lichter maar geen zonnestralen
+[11:24:46] <japio> hier schiujnt op dit moment de zon
+[11:26:36] <kuuke> zo, Akra ook weer betaald
+[11:28:01] <PjoT> tip
+[11:28:09] <PjoT> niet op buienradar kijken
+[11:28:26] <PjoT> word je niet vrolijk van 
+[11:36:43] <kuuke> gheghe, allemaal van die losse buitjes
+[11:36:52] <kuuke> nou ja, heb toch een niks doen dagje
+[11:37:26] <kuuke> alhowel, niks .....
+[11:37:36] <kuuke> druk bezig met de stampede voorbereidingen
+[11:37:55] <PjoT> voorbereiden op de wedstrijd
+[11:38:08] <PjoT> overige bestuursleden willen vanavond vergaderen 
+[11:38:14] <PjoT> ik heb heb gepast
+[11:38:25] <PjoT> ik bel wel na de wedstrijd
+[11:38:50] <PjoT> gisteren avond ook al 2uur aan de telefoon gezeten overhet gezeik
+[11:39:26] <PjoT> joop had ook al de zelfde conclusie getrokken (voorzitter was stoned) 
+[11:39:41] <japio> hahaha
+[11:40:45] <japio> hier wordt het ook zo'n daggie binnen wat koetelen
+[11:40:55] <japio> heb nu een wasje draaien
+[11:41:08] <japio> straks ff nog 2 planten verpotten
+[11:41:21] <japio> alle zooi vanuit de lorrie ff opruimen
+[11:41:50] <japio> en me huisie een systeemherstel geven
+[11:45:21] <PjoT> hmm vaag 
+[11:45:36] <PjoT> een 747 vliegt tot aan de engelse kust vliegt 2 rondjes boven de noordzee 
+[11:45:41] <PjoT> en gaat nu weer landen 
+[11:45:48] <PjoT> zou ie een probleem hebben?
+[11:46:13] <japio> waar ongeveer
+[11:46:32] <kuuke> nu sneeuw
+[11:46:50] <PjoT> dadelijk even naar buiten en sneeuwballen gooien :)
+[11:46:58] <kuuke> aha
+[11:46:59] <PjoT> kl601 jaap
+[11:47:03] <kuuke> rebellie bij de bootjes!!!
+[11:47:21] <PjoT> en terecht 
+[11:47:43] <PjoT> geen erdo aan de leiding , daar zitten we niet op te wachten 
+[11:48:12] <japio> mmm idd peter, rare vlucht 
+[11:51:30] <PjoT> hij staat iig weer op de grond
+[11:51:44] <japio> jep
+[11:52:01] <PjoT> en de vlucht wordt aan gegeven als cancelled 
+[11:52:08] <PjoT> denk dat er problemen zijn 
+[11:52:17] <japio> denk het ook
+[11:53:53] <har> zal es flushen
+[11:54:05] <PjoT>  is ook uit 1989 is al weer een ouwetje
+[11:54:06] <har> zo
+[11:54:12] <har> zal mij benieuwen
+[11:54:23] <kuuke> ah
+[11:54:25] <kuuke> mooi
+[11:54:35] <har> nu ff de hond in Henk zijn tuin legen
+[11:54:40] <kuuke> kan ik eindelijk weer eens over iemand heenflushen >:)
+[11:54:43] <kuuke> doe 'm de groeten
+[11:54:44] <har> :)
+[11:54:50] <kuuke> hij is werken
+[11:55:04] <har> jaja
+[11:55:04] <kuuke> zeg ik fout
+[11:55:13] <kuuke> hij is de laatste weken nauwelijks nog thuis geweest
+[11:55:33] <japio> hij is grote interviews aan het houden met zijn nieuwe karaokeset
+[11:55:41] <har> haha
+[11:55:54] <har> mooi, ik ben buiten
+[11:56:03] <har> het is 6 graden
+[11:56:06] <har> pet op
+[11:56:11] <japio> doe wel iet zwaars in je schoenen har
+[11:56:14] <japio> twaait
+[11:56:21] <har> niet nodig
+[11:56:26] <har> gewicht zat
+[11:56:33] <japio> aaah je ben zelf zwaar genoeg
+[11:56:36] <kuuke> 4 uur voor 1 unit door te rekenen
+[11:56:36] <japio> gheghe
+[11:56:50] <kuuke> hier is het ook weer droog
+[11:56:54] <har> eh hoe vraag je het ook alweer op
+[11:57:03] <kuuke> denk dat ik de bakken met broccoli maar weer even binnen zet
+[11:57:08] <kuuke> anders verzuipt het handeltjes
+[11:57:14] <har> stats
+[11:57:20] <kuuke> !wp
+[11:57:20] <CloudBot> (kuuke) Whatpulse De Apen - http://www.grandmasg.nl/WPNEW/#/daily/offset=0/team=deapen
+[11:57:23] <har> o ja
+[11:57:35] <kuuke> zal wel even duren
+[11:57:36] <har> was t ff kwijt
+[11:57:57] <har> en wie is Escovan?
+[11:58:06] <kuuke> ik geef Henk de eer om er over heen te flushen
+[11:58:07] <japio> geen idee
+[11:58:11] <kuuke> die is hier aan komen waaien
+[11:58:16] <japio> hij is trr al weer een paar dagen
+[11:58:16] <har> ahzo
+[11:58:40] <kuuke> kent KompjoeFriek ergens van
+[11:59:06] <har> oke'
+[11:59:12] <har> nou tot lat0r
+[11:59:22] <har> dochter komt zo eten
+[11:59:35] <har> gaat morgen de oostkust van USA bezoeken
+[11:59:37] <japio> hij staat wel op een apparte plaats peter..
+[11:59:37] <PjoT> laters
+[11:59:42] <PjoT> wordt hier al weer donker 
+[11:59:52] <PjoT> tijdvoor de volgende sneeuw bui
+[12:00:07] <japio> hier trok een klein wolkje over
+[12:00:11] <japio> nu weer zon
+[12:00:11] <kuuke> ik moet eens op zolder gaan opruimen
+[12:00:22] <kuuke> staan dozen die sinds de verhuizing niet zijn aangeraakt zag ik
+[12:00:29] <japio> sooow
+[12:00:37] <kuuke> best wel veel
+[12:00:39] <japio> en hoelang woon je hier nu al??
+[12:02:23] <PjoT> dat betekend dat er veel weg kan als het al jaren bovenstaat zonder gebruikt te worden
+[12:05:54] <Escovan> har http://escovan.net
+[12:07:45] <kuuke> bijna 6 jaar
+[12:07:55] <kuuke> staan wel alle dozen met tijdschriften bij
+[12:08:05] <kuuke> alle sky & telescopes, zenit's, etc
+[12:08:13] <kuuke> alleen de computertijdschriften flikker ik weg
+[12:09:01] <japio> mogelijk regen, onweer en hagel tijdens feestdag
+[12:09:05] <japio> gezellie
+[12:10:37] <kuuke> jup
+[12:10:55] <kuuke> misschien verstandig dat zeal die braderieën en rommelmarkten maar gewoon afblazen
+[12:11:17] <japio> anders worden ze uitgeblazen
+[12:11:40] <PjoT> heb wel een goeie week gekozen om vrij te zijn 
+[12:11:58] * japio deelt deze met je
+[12:12:12] <japio> heb me buitenklusjes gelukkig klaar
+[12:12:47] <kuuke> http://www.telegraaf.nl/binnenland/25661922/__Blijdschap_om_arrestatie_Umar__.html
+[12:12:50] <kuuke> zucht .....
+[12:14:52] <PjoT> de werkelijke zucht is wel dit 
+[12:14:53] <PjoT> van derde en vierde generatie Turkse Nederlanders. Je zou verwachten dat die inmiddels meer Nederlands dan Turks zijn. Maar dat blijkt toch anders te zijn.”
+[12:16:41] <japio> laat die dan ook lekker naar turkije gaan
+[12:16:47] <japio> dat land is groot genoeg
+[12:29:21] *** Joins: Grandmasg1 (ik@sorcery-hkpjep.dynamic.ziggo.nl)
+[12:30:27] <kuuke> even wat bikken
+[12:30:29] <kuuke> laters
+[12:31:36] *** Quits: CloudBot (Cloudbot@sorcery-hkpjep.dynamic.ziggo.nl) (Ping timeout: 121 seconds)
+[12:31:46] *** Quits: Grandmasg (ik@sorcery-hkpjep.dynamic.ziggo.nl) (Ping timeout: 121 seconds)
+[12:31:50] *** Grandmasg1 is now known as Grandmasg
+[12:38:47] <PjoT> goed plan 
+[12:38:50] <PjoT> even wat eten
+[12:44:48] <kuuke> wonton soep
+[12:45:01] <kuuke> haal ik de avond wel mee
+[12:45:58] *** Joins: Grandmasg1 (ik@sorcery-hkpjep.dynamic.ziggo.nl)
+[12:49:48] *** Quits: Grandmasg (ik@sorcery-hkpjep.dynamic.ziggo.nl) (Ping timeout: 121 seconds)
+[12:49:52] <PjoT> uitsmijtertje
+[12:49:56] *** Grandmasg1 is now known as Grandmasg
+[12:50:10] <PjoT> nu even zo de tondueze over het hoofd en lekker douchen
+[12:51:58] <japio> ik heb vrijdag nieuwe veiligheidsschoenen gekocht
+[12:52:10] <japio> veiligheidsfactor 3
+[12:52:19] <japio> is voldoende voor mijn werk
+[12:52:39] <japio> ze lijken op van die sportschoenen en lopen heerlijk
+[12:52:53] <japio> nog ietwat stug maar ze moeten nog ingelopen worden
+[12:56:14] <japio> aaah de oorzaak van KL601 is bekent peter
+[12:56:55] <japio> vogel in motor, dan is de standaard procedure dat eerst brandstof geloost wordt om daarna terug te keren naar vliegveld
+[13:00:32] <kuuke> waar zou die naar toe moeten zijn gevlogen?
+[13:03:35] <PjoT> amerika 
+[13:03:39] <PjoT> LA dacht ik
+[13:03:56] <PjoT> ah bird strike 
+[13:04:13] <PjoT> beetje kerozine in de noordzee 
+[13:04:19] <PjoT> iets met mileu
+[13:05:15] <PjoT> reken maar dat die 747 goed vol zat
+[13:05:27] <PjoT> ff afk
+[13:05:32] <PjoT> wilde haren moeten weg
+[13:05:32] <kuuke> k
+[13:05:36] <kuuke> stomme vogeltjes ook
+[13:05:54] <kuuke> plaats zat om te fladderen en dan nog door een vliegtuigmotor heen willen
+[13:11:56] <japio> jah was onderweg naar LA
+[13:12:05] <kuuke> sja
+[13:12:16] <kuuke> die zullen dan wel met ene gruwelijke vertraging aankomen
+[13:12:35] <japio> jep, ze gaan nu met een ander vliegtuig
+[13:12:58] <japio> dees gaat pas weer als de monteur die gebraden vogel verorberd hebben
+[13:13:09] <japio> s
+[13:13:22] <kuuke> schoonzoon van Henk to the rescue!
+[13:13:29] <japio> gheghe jah
+[13:13:29] <kuuke> ow nee
+[13:13:36] <kuuke> die is van de luchtbussen dacht ik
+[13:13:47] <japio> jah meen van wel
+[13:14:06] <japio> sjees wat een lage luchtvochtigheid zeg
+[13:14:32] <japio> straks de waterverdamper maar ff aanzetten denk
+[13:19:54] <japio> dadelijk maar ff een broodje scoren
+[13:21:12] <kuuke> handig
+[13:37:28] <PjoT> zow de wilde haren ben ik ook weer kwijt
+[13:37:55] <PjoT> wat zal ik eens gaan doen
+[13:38:51] <Henk> over een paar minuten die wetransfer binnentrekken die ik je nu stuur
+[13:38:58] <Henk> re
+[13:39:03] <Henk> zo vrij tot 8 uur vanavond
+[13:39:09] <Henk> je hebt zo meel PjoT 
+[13:39:20] <Henk> mijn nieuwe microfoon werkt gelukkig goed
+[13:39:28] <Henk> kan ik die weer slopen :)
+[13:40:23] <PjoT> ik zie het wel verschijnen henk
+[13:41:09] <Henk> goffe kkkkooouddd nog zo aan het ijsselmeer. moest een paar zeilers van de hansa-klasse intervieuwen voor NH sport
+[13:41:13] <Henk> gehandicapten zeilers
+[13:41:38] <Henk> wel respect hoor. er zeilt een brit mee die is volledig gehandicapt op 2 tenen na, daar bestuurd hij de boot mee
+[13:41:41] <Henk> bestuurt ook
+[13:44:39] <Henk> pjot je kan kwijlen
+[13:45:09] <PjoT> zal de tissue klaar zetten
+[13:45:16] <kuuke> hmm, har heefteen whopping 15K geflusht ...
+[13:45:17] <PjoT> bedankt voor de waarschuwing
+[13:45:39] <PjoT> 15k?
+[13:45:49] <PjoT> eens over heen gaan met 20k?
+[13:46:57] <kuuke> LOL
+[13:47:20] <kuuke> jammer dat ik mijn werkstik niet van huis uit kan flushen
+[13:50:30] <kuuke> mja, voorlopig mag-ie eerstestaan
+[13:50:37] <kuuke> en vijf voor twaalf slaap ik toch :)
+[13:50:41] <PjoT> ja hoor dat mag ie
+[13:59:33] <PjoT> mooie fotos , bedankt henk
+[13:59:44] <Henk> :)
+[14:00:17] <PjoT> n het is inderdaad kwijlen
+[14:01:07] <Henk> vind zelf die transvagina wel geslaagd
+[14:01:13] <Henk> eeh transavia
+[14:04:09] <PjoT> de eerste van air caNADA 
+[14:04:17] <PjoT> en de neus van de 747 
+[14:04:21] <PjoT> zijn erg mooi 
+[14:04:32] <PjoT> niet dat de transavia mis is 
+[14:04:42] <PjoT> dat beetje wolk er achter heeft wel wat 
+[14:04:49] <har> ik vlieg van de zomer met transvagina
+[14:05:11] <PjoT> 737-800 niks mis mee hoor 
+[14:05:16] <PjoT> zo oud is die vloot niet 
+[14:05:39] <PjoT> maar ja tis wel allemaal vakantie vol wat er in zit 
+[14:05:59] <PjoT> hand bagage van 500kilo enzo 
+[14:06:37] <har> vlucht HV 6120
+[14:07:33] <har> Boeing 737-800
+[14:07:48] <PjoT> logisch ze hebben niet anders :P
+[14:08:05] <PjoT> maar ze krijgen wel een paar verse erbij'
+[14:08:22] <PjoT> dus met een beetje mazzel zit je in een hagel nieuwe
+[14:12:56] <har> :)
+[14:14:06] <har> Mijn zwager is in de utrecht stemming
+[14:18:23] <PjoT> mijn hemel 
+[14:18:34] <PjoT> het stadhuis plein staat helemaal afgeladen
+[14:18:41] <PjoT> zou het een beetje leven ?
+[14:19:49] <kuuke> als 010 durft te winnen wel, anders wordt het rellen vanaaf
+[14:20:16] <PjoT> weet ik niet
+[14:20:35] <PjoT> maar denk dat er nu al 30.000 man in het centrum lopen zo niet meer
+[14:21:59] <kuuke> da's bijna heel Geleen :)
+[14:22:14] <kuuke> al kan je dan wel weer blij zijn dat het geen 30k aan limbabnezen zijn
+[14:23:09] <japio> zijn die nu al een plaatsje op de coolsingel aan het zoeken voor de huldiging vanavond...
+[14:23:46] <japio> ennnn we hebben een venz buitje
+[14:24:29] <PjoT> en dit om 2uur vanmiddag zeg maar 3,5 uur voor de wedstrijd 
+[14:25:38] <japio> jah als 30K aan mensen een plaatsje wil zoeken dan moet je er vroeg bij zijn
+[14:31:04] <Grandmasg> https://www.facebook.com/photo.php?fbid=1059887070723651&set=oa.1721988351382808&type=3&theater en weer dicht :)
+[14:32:00] <japio> deze inhoud is momenteel niet beschijbaar...
+[14:32:26] <japio> ook niet beschikbaar
+[14:32:48] <Grandmasg> toegevoegd zou nu wel moeten lukken
+[14:33:30] <japio> ziet ut
+[14:34:26] <Grandmasg> geheim plekje .. maar dan moet je wel iedereen toevoegen 
+[14:36:16] <japio> je gaat er achter een stukje bijbouwen ziet ik
+[14:36:32] <japio> garagedeur eruit en daar komt een enkele deur
+[14:36:43] <Grandmasg> yep
+[14:37:06] <Grandmasg> maar dan wel 80 cm naar achteren om wat ruimte te maken tussen de garage en het huis
+[14:37:15] <japio> de bestaande bijkeuken wordt ook gesloopt
+[14:37:29] <Grandmasg> yep
+[14:37:53] <japio> oow dat is op de oud/nieuw tekening moeilijk te zien
+[14:39:30] <Grandmasg> links onderin is oud .. ernaast is nieuw
+[14:39:46] <japio> jah dat zag ik
+[14:39:55] <Grandmasg> er gaat een vierkantje weg en er komt een dikke L voor terug
+[14:40:05] <japio> maar ik meen te lezen dat de garage 80 cm korter wordt??
+[14:40:18] <Grandmasg> staat niet op tekening
+[14:40:22] <japio> oow oke
+[14:40:58] <Grandmasg> er zou na de verbouwing nog 32 cm tussen de garage en de uitbouw zitten .. is wat krap dus maken we er weer een meter van 
+[14:41:20] <japio> mjah idd 32 cm is wat krapjes
+[14:41:42] <japio> maar wordt de garage alleen korter of gaat de achtermuur ook naar achter?
+[14:41:53] <Grandmasg> leuk als je daar de voegen wil vullen :)
+[14:42:02] <kuuke> half uurtje en dan zijn de eerste drie WCG-units weer doorgerekend
+[14:42:08] <Grandmasg> garage is groot genoeg 
+[14:42:17] <kuuke> jammer dat er zo weinig werk is voor Tuberulose
+[14:42:24] <kuuke> lijkt me een erg zinnig project
+[14:42:33] <kuuke> tuberculose ook
+[14:43:25] <japio> die tuinkamer wordt best groot... ik kan de maten niet goed lezen maar ziet er op tekening heel mooi uit
+[14:43:48] <Grandmasg> zal nog wel een grotere printscreens maken 
+[14:44:17] <Grandmasg> http://nos.nl/artikel/2101183-dronken-bestuurder-parkeert-auto-in-bomen.html lekker gedaan 
+[14:44:31] <japio> whahah jah dat las ik daarstraks ook
+[14:44:38] <japio> 2 mtr hoog in de bomen
+[14:48:34] <japio> ooow je laat aan de rechter achterzijde het dak ook verder doorlopen als een soort luifel zie ik
+[14:48:40] <japio> netjes hoor
+[14:48:56] <Grandmasg> klopt
+[14:49:10] <japio> hoe breed wordt dat?
+[14:49:25] <Grandmasg> samen gemaakt met mijn schoonzus .. die is architekt
+[14:49:47] <japio> wordt een nette woning hoor
+[14:50:56] <Grandmasg> steekt maar .43 cm uit en gheel tot de garage is 4.9 m
+[14:51:03] <kuuke> gheghe, die turken zijn goed bezig. Duitse fotograaf isook het land uitgeschopt
+[14:51:16] <kuuke> die gaan dit jaar bijzonder weinig toeristen trekken volgens mij
+[14:51:27] <japio> oow tis net een beetje een regenopvang zeg maar
+[14:51:27] <Grandmasg> vind dat ze wel wat punten aftrek kunnen doen voor turkije
+[14:52:32] <japio> van turkije zullen we dit jaar ook geen punten krijgen met songfestival
+[14:53:15] <kuuke> ach
+[14:53:28] <kuuke> die kans is met douwe bob toch al bijzonder klein
+[14:53:46] <japio> hahah jah
+[14:54:09] <japio> aaah de buurman besluit de zondagsrust te verpesten
+[14:54:30] <japio> hopelijk is zijn boor niet te lang
+[14:54:46] <japio> anders moet ik er aan mijn kant een schilderijtje voor hangen
+[14:55:27] <Grandmasg> kan je loeren naar de buurvrouw :P
+[14:55:46] <Grandmasg> heb de details er vergroot opgezet ;)
+[14:56:57] <japio> oow euh hoe kwam ik daar ook weer..
+[14:57:41] <Grandmasg> https://www.facebook.com/photo.php?fbid=948757548503271&set=oa.1649733785274932&type=3&theater
+[14:57:47] <japio> nee ben dr al
+[14:58:01] <Grandmasg> :)
+[14:58:16] <japio> zitten nu alleen 2 andere mensen in je nieuwe tuin
+[14:58:29] <Grandmasg> oh 
+[14:58:53] <Grandmasg> zijn ingehuurd .. wil zelf niet in beeld :)
+[14:59:18] <japio> hahahaha
+[14:59:28] <japio> kinderen zijn ook geleend??
+[14:59:45] <Grandmasg> ook idd
+[15:05:30] <japio> sooow ik ga me ff een half uurtje voorbereiden op de wedstrijd
+[15:05:35] <japio> met me ogen dicht
+[15:09:32] <kuuke> ouwe ...
+[15:10:42] <kuuke> CERN geeft 300 TB aan meetgegevens van de LHC vrij
+[15:10:48] <kuuke> die hadden de disken zeker vol zitten :)
+[15:11:09] <Grandmasg> pfff zou niet weten dat te laten :P
+[15:15:38] <kuuke> nee, ik ook niet
+[15:29:27] <kuuke> ben benieuwd
+[15:29:33] <kuuke> draai WCG nu op 3 cores
+[15:30:05] <kuuke> ik kan er ongeveer 15-16 per dag halen
+[15:41:53] *** Joins: Grandmasg1 (ik@sorcery-hkpjep.dynamic.ziggo.nl)
+[15:43:28] *** Quits: Grandmasg (ik@sorcery-hkpjep.dynamic.ziggo.nl) (Ping timeout: 121 seconds)
+[15:43:32] *** Grandmasg1 is now known as Grandmasg
+[15:56:53] <japio> en wederom weer een beste bui venzzz
+[15:57:04] <japio> tis gelijk wit buiten
+[15:58:58] <kuuke> die eksters aan de overkant in de boom zullen het wel frisjes hebben
+[15:59:07] <kuuke> kale boom, helemala bovenin bouwen die zotten dan een nest
+[15:59:12] <kuuke> nest een groot nest
+[15:59:53] <PjoT> de voorbeschouwing gaat zo beginnen
+[15:59:57] <japio> mjah en daken kunnen ze niet maken neem ik aan
+[16:00:04] <japio> om 5 uur toch??
+[16:00:10] <PjoT> het monster even in de ficus gezet
+[16:00:12] <PjoT> nee 6uur
+[16:00:21] <japio> jah 5 uur wedstrijd
+[16:00:35] <japio> maar de voorbeschouwing ik dacht dat die om 5 uur begon
+[16:00:43] <japio> 6 uur wedstrijd
+[16:00:43] <PjoT> nee nu op fox
+[16:00:46] <japio> sorrie
+[16:00:50] <japio> tiepvaud
+[16:00:51] <PjoT> opletten japio:P
+[16:01:06] <japio> ben net wakker hoorrrr
+[16:02:01] <kuuke> oeps
+[16:02:12] <kuuke> boinc gaat ineens voor 5 dagen werkvoorraad ophalen
+[16:02:44] <japio> die A380 heeft wel haast om op hoogte te komen zeg
+[16:03:27] <japio> opgestegen van de 18L/36R en via purmerend en nu boven de veluwe en vliegt al op 20.000 voet
+[16:06:23] <kuuke> moet wel
+[16:06:30] <kuuke> anders schieten ze 'm uit de lucht
+[16:06:41] <kuuke> verstoren van de zondagsrust
+[16:06:50] <japio> gheghe
+[16:06:53] <kuuke> zijn die protestanten makkelijk in
+[16:07:54] <japio> hagelt best in de ardennen
+[16:08:10] <japio> ze zijn de wielrenners met hagel aan het beschieten
+[16:11:10] <kuuke> grom, die units zijn allemaal op 1 mei verlopen
+[16:11:16] <kuuke> net als de stampede begint
+[16:11:16] <japio> stoer hoor... un piper en een chesna nu midden op de noordzee de oversteek naar engeland maken op 4000 en 3000 voet hoogte
+[16:13:08] <PjoT> grasmatje ....
+[16:13:31] <PjoT> 0,2 cm gemaaid
+[16:13:58] <japio> haar op je hoofd??
+[16:14:24] <PjoT> nee in de kuip
+[16:14:31] <japio> haha ooow
+[16:14:50] <PjoT> dr ligt even een grasmatje 
+[16:15:00] <PjoT> daar kan het niet aan liggen
+[16:15:17] <japio> hoe ist weer nu bij jullie
+[16:16:50] <kuuke> hmm, kan een 150kaatje doen vanaaf ...
+[16:16:54] <kuuke> !wp
+[16:16:58] <kuuke> ah
+[16:17:03] <kuuke> de wolkenbot staakt weer
+[16:17:12] <PjoT> scheids mag het veld keuren 
+[16:17:17] <PjoT> die is gauw klaar
+[16:18:51] <PjoT> team zijn binnen 
+[16:19:11] <PjoT> +s
+[16:26:13] <har> ow op de ned tv?
+[16:26:24] <japio> fox
+[16:26:53] <kuuke> laptop
+[16:26:54] <har> fox sport abbo
+[16:26:56] <japio> om 5 uur op sbs6
+[16:27:12] <kuuke> we naderen de buitenwijken van Liege
+[16:27:24] <kuuke> betancur wil weg
+[16:27:40] <kuuke> valverde denkt .....
+[16:27:45] <kuuke> wist niet dat-ie dat kon
+[16:27:46] <japio> wel lekker hoor ziggo sport
+[16:28:02] <kuuke> ja je missen als je ziggo er uit trapt :P
+[16:28:17] <japio> kan je lekker tijdens de neederlandse bekerfinale naar sevilla - real betis kijken
+[16:28:52] * japio kijkt ook nog naar waterfietsende wielrenners
+[16:28:55] <kuuke> sneeuwr bij Liege
+[16:29:19] <japio> straks gaat de bezemwagen voorop rijden om de weg sneeuwvrij te maken
+[16:29:31] <kuuke> nah nee, zo erg is het ook al weer niet
+[16:29:38] <kuuke> betancur heeft de korte broek nog aan
+[16:29:46] <japio> haha jah
+[16:31:22] <har> die horizon tv op de pc heerst
+[16:32:17] <kuuke> hmm, een 100 punten per wu bij wcg
+[16:32:26] <kuuke> geen idee
+[16:32:29] <kuuke> heb geen horizon
+[16:33:10] <kuuke> moet de volgend eweek maandag gruweijk vroef uit de veren
+[16:33:12] <kuuke> 4 uur
+[16:33:14] <japio> dr staan hier huizen voor de horizon dus kijk ik gewoon schotel
+[16:34:04] <kuuke> heb net een schotel hami gua op
+[16:34:09] <japio> hahaha
+[16:34:10] <kuuke> straks frieten met saté
+[16:34:19] <kuuke> da's meloen jaap
+[16:34:22] <kuuke> Chinese meloen
+[16:34:25] <japio> ooow
+[16:34:28] <kuuke> Hami meloen
+[16:34:29] <japio> klinkt goed
+[16:34:43] <kuuke> gua (als je het zo schrijft) is het chinese woord voor meloen
+[16:34:46] <kuuke> en Hami is de soort
+[16:34:50] <kuuke> ja, smakt lekker
+[16:34:51] <japio> ik straks un sla bakkie met appel
+[16:35:12] <japio> en waarschijnlijk frieten
+[16:35:26] <japio> heb daarnet de frietbak schoon gemaakt
+[16:35:38] <kuuke> https://en.wikipedia.org/wiki/Hami_melon
+[16:35:48] <kuuke> lijkt een beetje op een cantaloupe meloen
+[16:35:48] <japio> maar zal wel rond un uur of 8 worden
+[16:36:14] <japio> jah idd
+[16:36:41] <japio> tis geen water meloen maar een sneeuw meloen
+[16:37:25] <kuuke> beetje vreemde naam want ze komen uit een gebeid waar het altijd relatif warm is
+[16:37:42] <japio> jah
+[16:40:24] <kuuke> nog 8 kilometer en dan kunnen de renners ook aan de verse Vlaamse frieten 
+[16:40:40] <kuuke> heerlijk die grote papiren puntzakken met een lekkere klodder mayonaise op
+[16:41:03] <japio> jah zo eet je toch de friet
+[16:41:20] <kuuke> hellinkje van 8.6%
+[16:41:35] <japio> best druk met publiek
+[16:41:43] <kuuke> uhuh
+[16:42:27] <japio> tis daar zo steil dat de buren naast hun boven hun wonen
+[16:42:51] <japio> hahahahahahaha de dorpsgek
+[16:43:30] <kuuke> of vrouw ...
+[16:43:37] <japio> blijft een gek
+[16:43:43] <kuuke> rent nog stevig mee
+[16:43:50] <kuuke> gaat stevig omhoog daar
+[16:51:32] <kuuke> ow, woutertje poels ook nog in de buurt?
+[16:54:20] <kuuke> woutertje gaat geen eerste worden
+[16:54:23] <kuuke> tweede of zo
+[16:54:23] <japio> woutertje wint
+[16:54:28] <japio> op zijn gemakkie
+[16:54:33] <kuuke> nee, woutertje niet
+[16:54:48] <japio> jahwel
+[16:54:51] <kuuke> whoot!!!!
+[16:54:52] <japio> woutertje wint
+[16:55:01] <kuuke> LImbabnees wint Liege-Bastogne-Liege !!!
+[16:55:06] <japio> op zijn gemakkie zelfs
+[16:55:51] <kuuke> albassini was nog ff tricky
+[16:55:57] <japio> jah
+[16:56:35] <kuuke> schön!
+[16:56:40] <kuuke> sehr schön
+[16:57:46] <kuuke> slik
+[16:57:54] <kuuke> Grandmasg doet 25k per dag @ WCG
+[16:58:01] <kuuke> wat heb jij draaien Grandmasg??
+[17:01:22] *** Joins: Grandmasg1 (ik@sorcery-hkpjep.dynamic.ziggo.nl)
+[17:03:50] *** Quits: Grandmasg (ik@sorcery-hkpjep.dynamic.ziggo.nl) (Ping timeout: 121 seconds)
+[17:03:51] *** Grandmasg1 is now known as Grandmasg
+[17:07:46] <japio> hij schrok ervan
+[17:09:12] <kuuke> klapperlijntje
+[17:09:19] <kuuke> teveel torrents draaien denk ik
+[17:09:26] <kuuke> kunnen die ziggo-modempjes niet tegen
+[17:24:12] <japio> gheghe
+[17:24:20] <japio> nou over 2 uur weten we het
+[17:24:29] <japio> of naar de coolsingel of naar de dom
+[17:25:44] <japio> straks ff kijken of peter zijn rood/wit shirt al aan heeft en zijn sjaaltje om zijn nek
+[17:30:02] *** Joins: Grandmasg1 (ik@sorcery-hkpjep.dynamic.ziggo.nl)
+[17:32:51] *** Quits: Grandmasg (ik@sorcery-hkpjep.dynamic.ziggo.nl) (Ping timeout: 121 seconds)
+[17:32:59] *** Grandmasg1 is now known as Grandmasg
+[17:39:43] <kuuke> 3 cores doen hier ± 1600 per dag
+[17:39:55] <kuuke> zou de X6 maximaal draaien dan zou ik rond de 3200 per dag doen
+[17:40:06] <kuuke> Grandmasg kanlt er dus 25000 per dag uit
+[17:40:07] <kuuke> slik
+[17:40:19] * kuuke zit dus weer meteen gruwelijke brok antiek in huis :) 
+[17:41:59] <japio> kuuke is ook un dagje ouwer dan gilmer... dan klopt antiek ook wel
+[17:51:06] <PjoT> zow de maaltijd is weg gewerkt 
+[17:51:34] <PjoT> tartaartje in een griekse tomatensaus met geb aardappelen en sla
+[17:57:01] <japio> ik heb het idee als dat peter nu buitenstaat hij het geluid van de kuip kan horen
+[17:59:52] <japio> mistig in de kuip
+[18:00:27] <japio> we zijn begonnen
+[18:05:04] <japio> jah en zo stonden er ineens 2 vrije mensen voor vermeer
+[18:05:15] <japio> gelukkig speelde hij hem te hoog
+[18:05:36] <japio> maar 4 verdeigers die het hele zakie misrekende
+[18:07:57] <Henk> !$#%!$#!@$@ en nu schijnt die !%$!@%!@#$@#!%^@#$ rot zon en net toen ik dus buiten stond verslag te doen van een opening dikke hagelstenen op mijn kop Y@#$%!@$TY!@%$!@#
+[18:09:24] <kuuke> ja? en?
+[18:11:05] <PjoT> dat heb je in dit land
+[18:11:20] <PjoT> hebben we een uitvinding voor 
+[18:11:23] <PjoT> paraplu
+[18:12:27] <Henk> klote weer
+[18:12:29] <japio> oeps kramer zeg
+[18:12:38] <Henk> en kkkkooouuuddd tijdens die hagelbui
+[18:12:51] <Henk> iep kramer? sven kramer?
+[18:13:02] <Henk> olga kramer?
+[18:13:04] <kuuke> klaas
+[18:13:04] <japio> maar waarom ga je met dat weer dan buiten staan
+[18:13:12] <Henk> omdat ik moest werken
+[18:13:55] <japio> ik kom ook wel eens in een idioot zware regenbui tijdens me werk
+[18:14:12] <japio> maar zit dan heerlijk in me cabine te wachten tot de bui over is
+[18:14:25] <Henk> dat ging dus niet
+[18:14:41] <Henk> zo maar eerst eens in een heet bubbelbad met laag badschuim
+[18:14:50] <japio> hadden ze de auto gestolen?
+[18:15:10] <kuuke> hmm, ik zou gaan voor hoog schuim :)
+[18:15:17] <kuuke> is comfortabeler
+[18:15:26] <japio> op tv zie dat ook dan is er een orkaan en een reporter en heeeeeeeel veel huizen
+[18:15:41] <kuuke> ja jaap
+[18:15:42] <japio> gaat tie buiten in de wind verslag doen
+[18:15:51] <kuuke> als je dan binnen verslag gata doen van die orkaan gelooft niemand je
+[18:16:30] <japio> haha nee tuurlijk
+[18:21:16] <kuuke> filmpje van een orkaan afdraaien kan iedereen
+[18:21:57] <japio> ach als je voor een raam staat of onder een afdak dan gelooft iedereen je wel hoor
+[18:22:01] <kuuke> hmm, ze hebben die prince wel erg rap gecremeerd
+[18:22:51] <PjoT> ja de dope moest snel verwerkt worden
+[18:22:57] <japio> gheghe
+[18:26:54] <kuuke> jehva's getuige lees ik
+[18:27:06] <kuuke> lastig te rijmen met zijn manir van leven en zijn muziek
+[18:32:17] <japio> die karsdorf staat een lekker partijtje te ballen zeg
+[18:40:06] <PjoT> nu alleen die assist nog
+[18:41:38] <PjoT> eindelijk 
+[18:43:04] <PjoT> de vorige had er al in gemoeten 
+[18:45:29] <japio> skafte
+[18:45:32] <japio> 1-0
+[19:05:46] <japio> twordt nu en wedstrijd
+[19:06:37] <japio> 1-1
+[19:31:11] <japio> sjees mooi elia
+[19:31:23] <japio> nul komma nul cm ruimte daar
+[19:31:29] <japio> en hij prikt um dr door
+[19:33:21] <PjoT> daar kwam wat emotie bij los
+[19:33:37] <japio> tranen liepen over zijn wangen
+[19:33:39] <japio> zag je dat
+[19:33:53] <PjoT> ja
+[19:34:12] <japio> daarvoor deed tie nog ff bokito na
+[19:37:28] <kuuke> 2-1
+[19:37:41] <kuuke> gaan die rukkers uit 010 toch nog winnen?
+[19:37:52] <kuuke> deng!
+[19:38:10] <japio> nanananaaaana
+[19:49:11] <kuuke> opa kuijt ...
+[19:49:52] <japio> opa stapte mis 
+[19:50:42] <kuuke> heb het pc-hok eens uitgezogen
+[19:50:56] <kuuke> was wel nodig :)
+[19:50:57] <japio> met een stofzuiger neem ik aan
+[19:51:19] <japio> klaar
+[19:51:24] <japio> feyenoordddddddddddddddddd
+[19:51:30] <PjoT> eindelijk !!!!
+[19:51:49] <japio> nou europaliek is gehaald
+[19:51:53] <japio> az ook blij
+[20:08:05] <kuuke> zo, en lekker gebadderd
+[20:10:07] <kuuke> visumpapieren zijn binnen, kan ik die ook eens op mijn gemak gaan invullen
+[20:46:16] <kuuke> PjoT is zeker de i20 in gesprongen en scheurt nu luid toterend door 010 heen :)
+[20:46:25] <kuuke> toeterend ook
+[20:48:01] <japio> hahahaah en een feyenoordvlag uit het raam hangend
+[20:48:51] <japio> die waterverdamper doet zijn werk goed
+[20:48:57] <japio> tis nu een stuk aangenamer
+[20:52:48] <kuuke> alles kleddernat zeker
+[20:52:53] <japio> nope
+[20:53:25] <japio> water slaat wel neer op de grond maar daar leg je een handoek neer
+[20:53:40] <japio> maar zelfs dat valt enorm mee
+[20:55:50] <kuuke> gheghe
+[20:57:59] <japio> jah hoor tis me gelukt om langer dan 5 minuten naar idols te kijken
+[20:58:13] <japio> moet er wel bij zeggen dat het 4 minuten reclame was
+[21:02:12] <kuuke> denk dat ik zo de bijtertjes eens ga bijvijlen en dan gestrekt ga
+[21:03:23] <japio> alvast truste
+[21:03:36] <japio> ik mag nog ff opblijven
+[21:03:44] <kuuke> jij hebt een weekje vrij
+[21:03:56] <kuuke> ik moet vier dagen afzien en dan een weekje verlof
+[21:04:57] <japio> alweer vrij
+[21:05:04] <japio> pas geleden toch ook al
+[21:05:10] <kuuke> maandje geleden
+[21:05:23] <japio> jah zie je
+[21:05:26] <kuuke> heb mijn verlof dit jaar redelijk gespreid en tot nu toe kan ik alles opnemen
+[21:05:31] <japio> gaat beterr dan voorgaande jaren dus
+[21:05:48] <kuuke> na deze week is het wachten tot ergens tweed ehelft juli voor ik naar china ga
+[21:05:52] <kuuke> dan heb ik drie weken vrij
+[21:05:56] <japio> oke
+[21:06:18] <japio> mjah na deze week weet ik ook niet wanneer er voormij nog een weekje inzit
+[21:07:13] <kuuke> ik moet het voor het hele jaar vastleggen
+[21:07:18] <kuuke> dus de herfstvakantie staat vast
+[21:07:29] <japio> nee voor mij niet
+[21:07:33] <kuuke> en weekje rond mijn verjaardag en een paar dagen eind van het jaar
+[21:07:42] <japio> ik pak meerendeel de rustige weken bij ons
+[21:08:31] <japio> jah ik probeer ook altijd rond mijn verjaardag
+[21:08:40] <japio> deze keer ben ik op vrijdag jarig
+[21:09:55] <japio> mmm dat zie ik nu pas dat kerst op zaterdag en zondag valt en nieuwjaarsdag op zaterdag
+[21:10:49] <kuuke> jup
+[21:10:54] <kuuke> slecht jaar wat dat betreft
+[21:10:57] <kuuke> geene xtra vrije dagen
+[21:11:01] <kuuke> werkgevers allemaal blij
+[21:11:01] <japio> mmm
+[21:11:07] <kuuke> yun heeft met de kerst weer drie weken
+[21:11:12] <japio> kost me ditjaar dus 10 snipperdagen
+[21:11:14] <kuuke> misschien gaan we dan nog een keertje naar china
+[21:13:03] <kuuke> hangt ook een beetje van de financiën af.
+[21:13:08] <japio> mjha
+[21:18:21] <japio> kwas ff buiten en keek naar het westen
+[21:18:34] <japio> daar komen me daar een paar wolken aanzetten
+[21:18:45] <japio> zwart en lijken wel bergen
+[21:18:52] <kuuke> leuk
+[21:18:56] <kuuke> hier wordt het donker
+[21:18:59] <kuuke> dus ik ga afsluiten
+[21:19:03] <kuuke> tot morgen Jaap
+[21:19:09] <japio> truste huub
+[22:06:48] <japio> mmm zou het vanavond studio feyenoord zijn
+[22:06:52] <japio> moet toch wel
+[22:06:57] <har> haha
+[22:07:02] <har> right
+[22:08:07] <japio> maar tom zal er toch zeker een fleugje ajax tussendoor gooien hoor
+[22:25:13] <japio> ik wordt alleen doodmoe van jan mulder
+[22:25:23] <japio> en van de rest ook
+[22:25:31] <har> lol
+[22:25:46] <har> ik zit weer eens aan mn foto's 
+[22:26:00] <har> net effe wat geschoten
+[22:26:27] <japio> oow
+[22:26:36] <har> https://www.flickr.com/photos/har_k/26019593513/
+[22:26:41] <har> staat er net op
+[22:27:20] <japio> leuk wolkje
+[22:27:53] <har> boven het ijsselmaar
+[22:27:56] <har> meeer
+[22:28:08] <japio> jah zag het aan de richting
+[22:30:41] <har> blij met mn 10mm
+[22:30:57] <har> anders krijg je dit er nooit op
+[22:31:22] <japio> oke
+[22:31:39] <japio> ik ga eerst nog ff een bierke dr bij pakken
+[22:31:52] <har> je pakt bijna de wolken boven je
+[22:31:58] <har> doe dat
+[22:32:56] <japio> in het westen hingen aan het begin van de avond een paar zwarte wolken met grijze randen
+[22:33:02] <japio> leken wel bergen
+[22:33:14] <har> ja
+[22:33:29] <har> ik zal er nog 1 uppen
+[22:36:30] <har> https://www.flickr.com/photos/har_k/26596970396/
+[22:38:09] <japio> stoom gemaal
+[22:39:09] <japio> ik gooi je ff naar me lappert
+[22:39:13] *** Quits: japio (Japio@sorcery-gvcm7d.adsl-surfen.hetnet.nl) (Quit: Geen paniek, Ik drukte op het verkeerde kruisje..)
+[22:39:19] *** Joins: japio (japio@sorcery-gvcm7d.adsl-surfen.hetnet.nl)
+[22:39:19] *** ChanServ sets mode: +o japio
+[22:40:28] <har> het regent berichten
+[22:40:44] <har> comments op mijn foto's via flickr
+[22:41:09] <japio> haha
+[22:41:35] <har> weet je wat het mooie is
+[22:41:51] <japio> nou
+[22:41:52] <har> vroeger moest ik veel foto's maken om het te laten slagen
+[22:42:05] <har> nu is bijna alles oke
+[22:42:19] <har> je leert er heel veel van
+[22:42:25] <japio> jah klopt
+[22:42:32] <japio> en ook meer ervaring
+[22:42:51] <har> ik neem het spul ook mee naar Spanje
+[22:42:55] <har> ja klopt
+[22:43:10] <japio> vakantie?
+[22:43:36] <har> ja in juli
+[22:43:45] <japio> ooow
+[22:43:50] <japio> waar in spanje
+[22:44:10] <har> https://www.google.nl/maps/place/29640+Fuengirola,+M%C3%A1laga,+Spanje/@36.5485936,-4.6307649,14z/data=!3m1!4b1!4m2!3m1!1s0x0d72e23e102ffa23:0x2058dc519b1962f4?hl=nl
+[22:44:13] <har> :)
+[22:44:37] <har> https://www.google.nl/maps/place/29640+Fuengirola,+M%C3%A1laga,+Spanje/@36.5485936,-4.6307649,14z/data=!3m1!4b1!4m2!3m1!1s0x0d72e23e102ffa23:0x2058dc519b1962f4?hl=nl
+[22:44:39] <japio> ff kijken
+[22:44:40] <har> ow
+[22:44:47] <har> is het zelde
+[22:44:49] <har> f
+[22:45:14] <japio> oooowjah dat klopt
+[22:45:23] <japio> paar weken geleden liet je me dit zien
+[22:45:43] <japio> met de auto ging je dr heen
+[22:45:47] <japio> vanaf het vliegveld
+[22:45:49] <har> nee man
+[22:45:54] <japio> hahahahaah
+[22:45:58] <har> ik ga vliegon
+[22:46:10] <japio> taxi toch vanaf het vliegveld
+[22:46:13] <har> ow mijn oudste gaat morgen vliegen
+[22:46:49] <har> met bussie van vliegveld 
+[22:46:58] <har> die gaat naar US
+[22:47:04] <japio> waar vliegt ze heen
+[22:47:09] <japio> zooo
+[22:47:18] <japio> uurtje of 6??
+[22:47:25] <har> eerst naar newark
+[22:47:32] <har> 3 weken
+[22:47:45] <har> eindigd in Florida
+[22:48:03] <har> de oostkust dus
+[22:48:05] <japio> kij zo hoort het
+[22:48:29] <har> 2 jaar geleden de westkust gehad
+[22:49:01] <har> als de hond weg is en de jongste de deur uit, ga ik het er ook van nemen
+[22:49:05] <japio> mjah das bijna un half keer zover
+[22:49:21] <har> Klopt
+[22:50:19] <japio> ik zag vanmiddag dat airport middenmeer een vaste webcam heeft
+[22:50:40] <har> https://www.google.nl/maps/place/Newark+Liberty+International+Airport/@40.6856739,-74.1703577,14.25z/data=!4m2!3m1!1s0x89c252e1c5ec0cef:0xb3f3b437c5d7f286?hl=nl
+[22:50:46] <har> HIER LANDEN ZE
+[22:50:49] <har> ow
+[22:51:33] <japio> kan dr alleen nu niet bij
+[22:51:58] <japio> heb ook een mooie cam die de noordzee vanuit de haven van ijmuiden opkijkt
+[22:56:28] <har> aw
+[22:56:31] <har> oke
+[22:57:41] <japio> leuk voor als er onweer aankomt op de noordzee
+[23:02:04] <har> http://prntscr.com/awdmfp
+[23:02:17] <har> ik denk dat ze hier wel ff gaat kijken
+[23:02:40] <japio> klik
+[23:03:07] <japio> jah denk het ook w'l
+[23:04:04] <japio> ik kwam toen net uit me bed (ik had nachtdienst gehad) en zag net het 2e vliegtuig naar binnen vliegen
+[23:04:42] <har> ah
+[23:04:53] <har> ik was bij jongert
+[23:05:02] <har> oude zeug
+[23:05:36] <japio> oke
+[23:05:47] <japio> maar gen tv op dat moment?
+[23:06:30] <har> eh
+[23:06:41] <har> computer
+[23:06:52] <har> slecht internet daar
+[23:07:23] <japio> jah das ver van de bewoonde wereld
+[23:07:28] <japio> vooral toen de tijd
+[23:08:19] <japio> ik ga morgen naar nijmegen en gaan gelijk ff kijken of we de ontvangst van me dongel op kunnen kriken
+[23:08:42] <japio> tis een 4 G dongel
+[23:08:47] <japio> moet meer inzitten
+[23:08:57] <japio> behoudens als ik in de bergen sta 
+[23:09:43] <japio> verdorie die waterverdamper doet goede zaken zeg
+[23:09:56] <japio> leek wel een wintersklimaat in me kamer
+[23:10:15] <japio> had op gegeven moment maar 32% luchtvochtigheid in me kamer
+[23:10:22] <japio> kreeg er hoofdpijn van
+[23:10:30] <japio> zit nu weer op 49%
+[23:28:13] <har> aha
+[23:28:23] <har> was ff snel de hond legen
+[23:28:36] <har> heb je vakantie?
+[23:33:32] <japio> jep een druk weekje thuis
+[23:35:40] <har> lekker
+[23:36:22] <japio> jah een druk weekje hoor
+[23:36:42] <japio> maar meeste is al gedaan
+[23:36:44] <har> ik vond het wel grappig in duitsland, je komt oeral vrachtwagens uit westfriesland tegen en heeeeel veel action wagens
+[23:37:07] <har> die rijden overal en nergens
+[23:37:12] <japio> blijft alleen nog schuur opruimen en buitentafel opknappen en bureaulade maken over
+[23:37:35] <har> je hebt alle tijd
+[23:37:42] <japio> jah nu wel die komen nu door half europa
+[23:37:49] <har> ja klopt
+[23:37:51] <japio> mjah vallen 2 dagen af
+[23:39:13] <har> mja jo
+[23:39:18] <japio> maar ach niet allees hoeft in deze week klaar
+[23:39:27] <har> nijmegen is een stukkie sturen
+[23:39:27] <japio> moet ff de douche ontkalken
+[23:39:37] <japio> 2 uur en 15 minuten
+[23:39:50] <har> dat spul van HG is een topper
+[23:40:08] <japio> voor ontkalken wel jah
+[23:40:16] <har> gaat het om de voegen?
+[23:40:26] <japio> spuitbus en ff met sponsje en dan afspoelen met water
+[23:40:38] <PjoT> truste
+[23:40:39] <japio> nee meer de glazen schermen
+[23:40:44] <har> ok
+[23:40:44] <japio> truste peter
+[23:40:49] <har> truste petert
+[23:41:01] *** Quits: PjoT (PjoT@sorcery-86v3aj.upc-i.chello.nl) (Quit: )
+[23:41:06] <japio> en de sproeier en slang enzo
+[23:41:15] <har> glazen skermen heb je ook spul voor
+[23:41:25] <japio> jah maar werkt heel goed hoor
+[23:41:32] <har> ja
+[23:41:38] <japio> tis ff een kwartiertje werk
+[23:41:41] <har> scheelt een hoop gedoe
+[23:41:54] <japio> maar tis ff adembenemend zeg maar
+[23:42:03] <har> jaaaa dat weer wel
+[23:42:05] <japio> afgesloten ruimte he
+[23:42:11] <har> ventilatie op 10
+[23:42:20] <japio> haah jah
+[23:42:31] <japio> heb er wel afzuiging in maar die trekt dat niet
+[23:42:41] <har> ik heb centrale afzuiging, dat hebben ze toen aangelegd
+[23:42:53] <har> 3 standen
+[23:43:09] <japio> jah heb ik ook7voor keuken en douche
+[23:43:19] <har> ok�
+[23:43:27] <japio> 7 is spatie
+[23:44:54] <japio> mjah en de schuur is veel stof enzo
+[23:45:12] <japio> maar mocht de swiffer niet gebruiken van me buurvrouwtje
+[23:45:21] <japio> of ik moet een nieuwe kopen hahahah
+[23:48:52] <har> lol
+[23:49:26] <har> tuurlijk
+[23:51:51] <japio> regent wer
+[23:52:02] <japio> wordt een natte koningsdag
+[23:54:42] <har> Helaasch
+[23:55:00] <japio> ach ik zou toch nergens heen gaan
+[23:55:13] <japio> weet nog niet eens wat er in middenmeer te doen is
+[23:55:16] <har> ik ga altijd naar hoorn
+[23:55:27] <japio> kan nergens een programmablad vinden
+[23:55:28] <har> kijk wel
+[23:55:32] <japio> wat is daar te doen
+[23:55:47] <har> altijd vrijmarkt
+[23:55:59] <japio> oow oke
+[23:56:05] <har> door de hele stad
+[23:56:16] <japio> mjah in middenmeer was er ook altijd een kofferbakmarkt
+[23:56:38] <har> medemblik ook, maar dat stelt niks voor
+[23:56:53] <japio> nee middenmeer ook niet
+[23:58:59] <japio> nu hebben ze een nieuw bestuur in middenmeer voor de havenfeesten in augustus
+[23:59:14] <japio> ook omdat deze vorigjaar niet doorging
+[23:59:37] <japio> de kapster van middenmeer van ziezoo zit ook in het bestuur
+[23:59:57] <japio> ik zei haar tis nog maar een paar maanden maar er is nergens iets te zien

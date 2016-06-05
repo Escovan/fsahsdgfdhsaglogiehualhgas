@@ -1,0 +1,983 @@
+[00:02:34] *** Quits: Wussie (wussie@220-251.ftth.onsbrabantnet.nl) (Exit)
+[00:10:11] *** Quits: Sponge (Sponge@149.210.150.92) (Exit)
+[00:26:44] *** Joins: McM (mcm@d30008.upc-d.chello.nl)
+[00:27:44] *** Quits: McM (mcm@d30008.upc-d.chello.nl) (Ping timeout: 60 seconds)
+[00:39:19] <freebee666> g'avond
+[00:49:05] <mimic> ha freebee666 
+[00:54:31] <freebee666> aloha
+[01:01:24] *** Quits: questor (questor@office.ipv6.endoria.net) (Ping timeout: 60 seconds)
+[01:02:42] *** Quits: coreblink (coreblink@145.132.131.160) (Exit)
+[01:02:51] *** Quits: Anthor (Anthor@cust.7.103.adsl.cistron.nl) (Exit)
+[01:03:08] *** Quits: Jeroen (Jeroen@ip82-139-124-155.lijbrandt.net) (Exit)
+[01:06:03] *** Joins: Anthor (Anthor@cust.7.103.adsl.cistron.nl)
+[01:07:07] *** Joins: Hoogvlieger (Hoogvliege@ip41-37-211-87.adsl2.static.versatel.nl)
+[01:07:25] *** Quits: Anthor (Anthor@cust.7.103.adsl.cistron.nl) (Exit)
+[01:08:04] *** Joins: questor (questor@office.ipv6.endoria.net)
+[01:13:52] *** Quits: bbee (bbee@53541FA1.cm-6-5a.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[01:17:46] *** Quits: MysterX (MysterX@5468C220.cm-12-1d.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[01:18:40] *** Joins: MysterX (MysterX@5468C220.cm-12-1d.dynamic.ziggo.nl)
+[01:18:47] *** Quits: lmd (lmd@5ED7EC48.cm-7-8d.dynamic.ziggo.nl) (Ping timeout: 67 seconds)
+[01:20:19] *** Joins: lmd (lmd@5ED7EC48.cm-7-8d.dynamic.ziggo.nl)
+[01:26:39] *** Quits: Guyver2 (Guyver2@guyver2.xs4all.nl) (Exit)
+[01:31:56] *** Quits: Tomsworld (tom@109.130.187.232) (Ping timeout: 66 seconds)
+[01:33:50] *** Joins: Anthor (Anthor@cust.7.103.adsl.cistron.nl)
+[01:47:17] *** Joins: bbee (bbee@53541FA1.cm-6-5a.dynamic.ziggo.nl)
+[02:42:38] *** Joins: Tomsworld (tom@2a02:a03f:12c0:600:c10b:c0f9:61a1:7fec)
+[02:42:38] *** ChanServ sets mode: +o Tomsworld
+[02:45:48] *** Quits: Tomsworld (tom@2a02:a03f:12c0:600:c10b:c0f9:61a1:7fec) (Ping timeout: 60 seconds)
+[02:53:14] *** Quits: Prof_Away^^ (~NaPo@92-108-244-176.dynamic.upc.nl) (Ping timeout: 60 seconds)
+[02:53:22] *** Joins: _Aapje (user@i244127.upc-i.chello.nl)
+[02:53:23] *** Quits: Aapje (user@i244127.upc-i.chello.nl) (Ping timeout: 60 seconds)
+[02:54:20] *** Joins: Prof_Away^^ (~NaPo@92-108-244-176.dynamic.upc.nl)
+[02:54:48] *** Prof_Away^^ is now known as Prof_NaPo^^
+[03:21:52] *** Quits: Stuiterbal (Stuit@2001:980:5281:1:35e0:c44e:2028:f9ee) (Exit)
+[03:46:08] *** Joins: Tomsworld (tom@109.130.187.232)
+[03:46:08] *** ChanServ sets mode: +o Tomsworld
+[03:47:44] *** Joins: Svardskampe (Svardskamp@198-14-ftth.onsnetstudenten.nl)
+[03:47:48] *** Quits: Tomsworld (tom@109.130.187.232) (Ping timeout: 66 seconds)
+[04:28:17] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Exit)
+[05:17:48] <Escovan> boe
+[05:29:44] <Spacecowboy> meh
+[06:17:21] <tozzert> meh
+[06:31:51] *** Quits: groentela (GroenteLa@213.154.252.196) (Client exited)
+[06:43:49] *** boekee_away is now known as boekee
+[06:48:50] *** Joins: Tomsworld (tom@109.130.187.232)
+[06:48:50] *** ChanServ sets mode: +o Tomsworld
+[06:49:54] *** Quits: Tomsworld (tom@109.130.187.232) (Ping timeout: 60 seconds)
+[06:50:05] *** boekee is now known as boekee_away
+[07:00:34] <Nakebod> bijna weekend \o
+[07:08:10] *** Quits: AjDuLion (sid50412@id-50412.charlton.irccloud.com) (Ping timeout: 67 seconds)
+[07:08:10] *** Quits: twistit (uid156026@id-156026.tooting.irccloud.com) (Ping timeout: 67 seconds)
+[07:08:10] *** Quits: RandyJC (sid120450@id-120450.brockwell.irccloud.com) (Ping timeout: 67 seconds)
+[07:08:10] *** Quits: ahtanu (sid1256@id-1256.brockwell.irccloud.com) (Ping timeout: 67 seconds)
+[07:08:22] *** Joins: ahtanu (sid1256@id-1256.brockwell.irccloud.com)
+[07:08:22] *** Joins: twistit (uid156026@id-156026.tooting.irccloud.com)
+[07:08:30] *** Joins: RandyJC (sid120450@id-120450.brockwell.irccloud.com)
+[07:08:42] *** Joins: AjDuLion (sid50412@id-50412.charlton.irccloud.com)
+[07:35:40] *** Joins: zomertje (zomertje@pluizigenblauw.xs4all.nl)
+[07:35:40] *** ChanServ sets mode: +o zomertje
+[07:42:25] *** Quits: questor (questor@office.ipv6.endoria.net) (Ping timeout: 61 seconds)
+[07:47:30] <Hooglander1> Mogguh
+[07:48:20] *** Joins: questor (questor@office.ipv6.endoria.net)
+[08:01:25] <rogue> mogge
+[08:05:53] *** Joins: Jeroen (Jeroen@ip82-139-124-155.lijbrandt.net)
+[08:23:52] <Hooglander1> Ey Jeroen 
+[08:23:58] <Hooglander1> Is je scriptie al af
+[08:24:05] <Jeroen> doe's niet zo
+[08:24:26] *** Quits: erratic (erratic@ip-206-125-168-70.netcrave.io) (Ping timeout: 66 seconds)
+[08:24:57] *** moto-moi|afk is now known as moto-moi
+[08:25:18] <Hooglander1> Kusje erop
+[08:25:57] <Jeroen> http://www.nu.nl/algemeen/4243470/britse-premier-cameron-had-toch-offshore-aandelen-van-vader.html
+[08:25:59] <Jeroen> whe
+[08:26:06] <rogue> tmi
+[08:28:40] <Hooglander1> http://m.imgur.com/9EvTWDs
+[08:28:43] <Hooglander1> :D
+[08:28:51] <Hooglander1> Drawer moet dat trucje eens leren
+[08:29:27] <Nakebod> Dat gaat dan niet langzaam :+
+[08:34:39] <Hooglander1> 20mph zone misschien
+[08:34:56] <rogue> hij heeft nog wel zijwieltjes
+[08:35:43] <Nakebod> Dan nog Hooglander1, op je veredelde skelter :+ doodwens much? :P
+[08:35:51] <Hooglander1> Pfft
+[08:35:56] <Hooglander1> Partypooper
+[08:36:00] <Nakebod> zekers!
+[08:36:19] *** Joins: Francis (Francis@5468C56E.cm-12-1d.dynamic.ziggo.nl)
+[08:36:53] *** Parts: Francis (Francis@5468C56E.cm-12-1d.dynamic.ziggo.nl) ()
+[08:37:50] *** Joins: Francis (Francis@5468C56E.cm-12-1d.dynamic.ziggo.nl)
+[08:37:52] *** Quits: Francis (Francis@5468C56E.cm-12-1d.dynamic.ziggo.nl) (Connection reset by peer)
+[08:45:12] *** Joins: Francis (Francis@5468C56E.cm-12-1d.dynamic.ziggo.nl)
+[08:45:39] *** Joins: marccom (marc@095-097-114-212.static.chello.nl)
+[08:51:16] <Chiron> https://www.autobahn.eu/560/nissan-gt-r-1-400-pk-zet-moeder-aller-driftrecords/ lol... dat konden die arabieren allang https://www.youtube.com/watch?v=aHo7VwKCZPM
+[08:56:13] <Chiron> https://www.youtube.com/watch?v=GjsnYmi4z0U ok, het internet kan weer uit
+[08:58:37] <Dubbeldrank> daar zijn ook 24-uurs versies van Chiron ;)
+[08:59:13] <Chiron> holy shit
+[08:59:44] <Francis> ik vond die 20 sec dat ik erna gekeken heb al teveel
+[08:59:56] <Chiron> dan mis je het beste stuk als ie gaat zingen Francis 
+[09:00:12] <Francis> ik heb geskipt, dus helaas meegekregen
+[09:00:17] *** Joins: DinX_Werk (DinX@out.helics.leuven.be)
+[09:00:26] <Chiron> welcome to the hunger games of 2002 _O-
+[09:06:22] *** Joins: Tomsworld (tom@109.130.187.232)
+[09:06:22] *** ChanServ sets mode: +o Tomsworld
+[09:09:26] *** Joins: kees (kees@kees.tweakers.net)
+[09:10:47] *** Quits: Svardskampe (Svardskamp@198-14-ftth.onsnetstudenten.nl) (Connection reset by peer)
+[09:15:42] *** Joins: erratic (erratic@ip-206-125-168-70.netcrave.io)
+[09:16:53] *** Quits: Tomsworld (tom@109.130.187.232) (Ping timeout: 66 seconds)
+[09:20:08] *** Joins: Huigie (Huigie@D57D516A.static.ziggozakelijk.nl)
+[09:25:06] *** Joins: Tomsworld (tom@2a02:a03f:12c0:600:f434:d305:5113:5c24)
+[09:25:06] *** ChanServ sets mode: +o Tomsworld
+[09:25:31] <kees> http://www.superyachts.com/yacht-charter/air-1683/specifications.htm dat bootje kwam net voorbij, helicopter op het achterdek 8)7
+[09:27:03] <Francis> tering, 750k voor een week charter
+[09:28:10] <Hooglander1> er zijn dagen bij dat ik het niet heb
+[09:28:16] <Francis> check
+[09:28:25] <Hooglander1> ik denk dat ik het ding niet eens zou kunnen voltanken
+[09:28:30] <Hooglander1> 175.000:
+[09:28:33] <Hooglander1> Liter
+[09:28:54] <Hooglander1> Sowieso wel mooi, max 14 gasten
+[09:28:57] <Hooglander1> maar wel 24 crew
+[09:29:11] <Francis> 13 playboy bunnies en ik
+[09:29:15] <Francis> ik zeg goed plan
+[09:31:09] <Hooglander1> ook gewoon twee speedbootjes erbij
+[09:32:46] *** Quits: Tomsworld (tom@2a02:a03f:12c0:600:f434:d305:5113:5c24) (Ping timeout: 66 seconds)
+[09:36:22] <kees> '�An employee attempted to silence the audible alarm. Unfortunately in doing so, what he believed to be a reset button was actually an emergency �kill� switch for power, resulting in all the Public Safety Campus work stations losing power and falling offline.�'
+[09:36:28] <kees> waarom heb je uberhaubt zo'n switch?
+[09:37:59] <Jeroen> stroom uit bij brand?
+[09:38:51] <kees> tja, het hielp iig wel voor het alarm
+[09:39:24] <Francis> stroom uit als je gaat blussen met veul water is altijd handig
+[09:39:39] <Francis> er zijn veel grote panden die dat hebbe
+[09:39:40] <Francis> n
+[09:41:53] <Hooglander1> Ahuh, zo heel raar lijkt me dat niet idd
+[09:42:04] <Hooglander1> ik gok zomaar dat een datacenter zoiets ook wel heeft
+[09:44:18] <Jeroen> die waar kees zit niet
+[09:44:25] <Jeroen> die blijft gewoon voor eeuwig draaien
+[09:44:26] <Jeroen> uptime jonge
+[09:44:47] * Francis ** SysInfo ** Client: HexChat 2.10.2 (x64) ** OS: Microsoft Windows 10 Pro ** CPU: AMD FX(tm)-8350 Eight-Core Processor            (4.00 GHz) ** RAM: 16300 MB Total (10950 MB Free) ** VGA: AMD Radeon R9 200 / HD 7900 Series ** Uptime: 1.06 Hours **
+[09:44:51] <Francis> uptime!
+[09:45:21] <Jeroen> uptime?
+[09:47:47] *** Quits: Francis (Francis@5468C56E.cm-12-1d.dynamic.ziggo.nl) (Ping timeout: 61 seconds)
+[09:48:31] *** Joins: Francis (Francis@5468C56E.cm-12-1d.dynamic.ziggo.nl)
+[09:53:44] <Jeroen> http://imgur.com/uGEddqi
+[09:54:22] *** boekee_away is now known as boekee
+[10:02:34] <Dubbeldrank> oeh specs
+[10:02:37] <Dubbeldrank> fap fap fap
+[10:04:12] <boekee> mogge
+[10:04:54] *** Quits: zomertje (zomertje@pluizigenblauw.xs4all.nl) (Exit)
+[10:26:55] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[10:27:11] *** Joins: McM (mcm@31.161.158.153)
+[10:50:27] <Ziz> Pffff dit is echt zo'n vrijdag dat ik me geleefd voel
+[10:51:01] <Ziz> Denk door de leeftijd gaat de ene week beter dan de ander
+[10:53:09] <wirky> hoe oud ben je dan
+[10:55:02] <gdex> bijna net zo oud als Huigie 
+[10:55:27] <moto-moi> ja, niemand is ouder dan Huigie ..
+[10:55:35] <moto-moi> maar dat vertelt ons wat weinig gdex 
+[10:56:54] <wirky> istie zo oud als de wijsheid des levens
+[10:57:52] <gdex> mwoah moto-moi, de ouders van Huigie zijn ouder
+[11:00:46] <Jeroen> is Huigie niet spontaan ontstaan dan
+[11:00:49] <Huigie> oi
+[11:00:50] <Jeroen> als een soort fruitvliegje
+[11:00:59] <Huigie> ameube
+[11:01:45] *** Joins: Loon (Loon@095-096-167-046.static.chello.nl)
+[11:02:40] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[11:03:01] <moto-moi> gdex: wut, die leven nog? :o
+[11:03:44] <moto-moi> http://www.ad.nl/ad/nl/1013/Buitenland/article/detail/3981442/2015/04/25/Oudste-bruidspaar-ter-wereld-breekt-record.dhtml
+[11:03:50] <moto-moi> dus Huigie komt uit engeland?
+[11:03:53] <Huigie> and still going strong
+[11:04:14] <Ziz> 31
+[11:04:23] <Huigie> pfff
+[11:04:25] <Huigie> larfje
+[11:04:42] <Francis> 31?
+[11:04:44] <Francis> feut
+[11:05:37] <Ziz> Doet 60 uur over 6 dagen toch nog wel beetje pijn hoor.
+[11:06:13] <Huigie> je moet ook glijmiddel gebruiken
+[11:06:30] <GekkePrutser> :')
+[11:06:49] <Ziz> hehe
+[11:07:26] <Ziz> Ach ja. Einde van de maand een weekje vrij
+[11:07:37] <Ziz> Maar goed dat staat gelijk aan een weekje geen inkomste
+[11:09:04] <Huigie> dacht dat je contracten had
+[11:15:12] <Ziz> ja maar dat is contracten dat ik op kom draven indien shit fuckt is
+[11:15:19] <Ziz> 24/7
+[11:17:38] <Ziz> En daar zit dat een bepaald tarief aan vast
+[11:17:47] <Ziz> Zonder dat we vooraf onderhandelen
+[11:17:52] *** Quits: McM (mcm@31.161.158.153) (Ping timeout: 66 seconds)
+[11:20:49] *** Joins: McM (mcm@31.161.158.153)
+[11:30:45] <Hooglander1> Dan zet je een nieuwe motorclub op 
+[11:30:48] <Hooglander1> en die noem je de mongols
+[11:30:50] <Hooglander1> seriously?
+[11:31:04] <Ziz> idd
+[11:31:04] <Hooglander1> http://www.retecool.com/wp-content/uploads/2014/11/verrektemongol.jpg
+[11:31:07] <Ziz> dacht ik ook al
+[11:31:20] <Ziz> Allemaal van die rooie
+[11:31:46] <Francis> verrekte mongo!
+[11:32:13] <Ziz> Vandaag ga ik een klant kwijt raken. Toch maar klein bedrijf dus shit happens.. pff
+[11:33:01] <Ziz> 34k aan facturen open staan. Al 9 maanden... Dus nu maar incasso inschakelen
+[11:34:15] <Hooglander1> pfft
+[11:34:30] <Hooglander1> payment terms van 90 dagen normaliter zeker
+[11:34:46] <kees> 'nieuwe' is relatief he Hooglander1 
+[11:35:05] <Ziz> Ik heb het al op 6 maanden staan omdat ik klanten heb met een complex approval process voor mensen in mijn fucntie
+[11:35:06] <kees> ze bestaan al 40 jaar, en 'mongols' heeft niet dezelfde lading in het engels
+[11:35:18] <Ziz> kees is lid
+[11:35:30] <Hooglander1> 6 maanden is echt absurd bij een ZZPér Ziz
+[11:35:33] <kees> yep, motorclub voor mongooltjes, im in
+[11:35:43] <Ziz> Hooglander1: valt mee. Ligt er aan hé
+[11:36:07] <Hooglander1> 1969 idd
+[11:36:31] <Ziz> Vroeger deed het pijn, zo lang wachten. Tegenwoordig heb ik een buffer dus kan ze prima die ruimte geven.
+[11:36:45] <Ziz> Ze warderen het ook.
+[11:37:03] <Hooglander1> dat blijkt...
+[11:37:07] <Hooglander1> *sarcasm*
+[11:37:11] <Ziz> lol
+[11:37:16] <Ziz> deze alleen even niet
+[11:37:25] <Ziz> Maar gaat ook niet goed met dat bedrijf volgens mij
+[11:37:39] <Ziz> Dus zal al blij zijn als ik een stuk van het bedrag krigj
+[11:37:41] <Jeroen> dus jij belt big frank even, Ziz?
+[11:37:42] <kees> ja, ik mag het ook elke keer uitleggen waarom wij een termijn van 60 dagen hanteren :/
+[11:37:51] <Ziz> Jeroen:  die zoch ik idd 
+[11:37:51] <Ziz> hahaha
+[11:37:54] *** Quits: Francis (Francis@5468C56E.cm-12-1d.dynamic.ziggo.nl) (Exit)
+[11:38:08] <Hooglander1> wij hadden wel eens een toko die 90 dagen payment hanteerde
+[11:38:17] <Ziz> kees: het is ook vaak gewoon lui uitstellen
+[11:38:17] <Hooglander1> en dan als ze moesten betalen pas gingen zeiken dat er *iets* niet goed was aan de factuur
+[11:38:18] <Hooglander1> :'(
+[11:38:28] <kees> hmjah, dat is het bij ons niet
+[11:38:35] *** Quits: McM (mcm@31.161.158.153) (Ping timeout: 61 seconds)
+[11:38:39] <kees> we betalen gewoon pas na 60 dagen
+[11:38:44] <Ziz> Klopt. Hooglander1 want DAN pas gaan ze naar de factuur kijken
+[11:39:04] <Hooglander1> eerdere facturen waren wel gewoon betaald, ze gingen opeens bewust streng doen
+[11:39:08] <Hooglander1> gewono zo veel mogelijk afkeuren en uitstellen
+[11:39:08] <Ziz> mja
+[11:39:11] <Hooglander1> kansloos
+[11:39:15] <Ziz> idd
+[11:39:16] <tobias> als de facturen hoog genoeg zijn en de marge groot genoeg kun je dat maken
+[11:39:21] <tobias> maar het is wel een enorm risico voor de leverancier
+[11:39:26] <Hooglander1> gelukkig nog net op tijd het gros betaald gekregen
+[11:39:30] <Hooglander1> toen ging de toko failiet \
+[11:39:31] <kees> bij ons gaat de factuur controleren wel snel, als daar iets mis mee is gaat hij meteen terug
+[11:39:44] <Ziz> kees: zo hoort het
+[11:40:16] <kees> maar daarna moet hij door 3 man/vrouw goedgekeurd worden, gaat hij een heel proces in etc
+[11:40:23] <Ziz> Ik maak ook wel eens foutjes in facturen. Niet vaak maar kan gebeuren. En in 100% van de gevallen komen we er samen uit. Het is alleen irritant als ze er op het laatste moment mee komen
+[11:41:21] <Ziz> Ik ben ook niet 
+[11:41:32] <Ziz>  "Goedkoop" en dan lopen facturen vrij snel erg op.
+[11:41:54] <Ziz> En dan krijg je ineens weer andere processen. Moeten hogere mensjes goedkeuren. Duurt langer enz
+[11:43:34] *** Joins: PCR_ (pcr@2a02:a441:a99f:0:5ce1:2e13:203b:3a4)
+[11:44:00] *** Quits: PCR (PCR@ip54508f13.adsl-surfen.hetnet.nl) (Exit)
+[11:44:04] *** PCR_ is now known as PCR
+[11:45:15] *** Quits: PCR (pcr@2a02:a441:a99f:0:5ce1:2e13:203b:3a4) (Exit)
+[11:45:19] *** Joins: PCR (pcr@2a02:a441:a99f:0:5ce1:2e13:203b:3a4)
+[11:45:25] <kees> over facturen gesproken.. ik hoor een factuur van iemand te krijgen maar nog steeds niets gehad
+[11:45:33] <Jeroen> nou dan is het gratis toch
+[11:45:38] <kees> zul je zien dat ze over 60 dagen ineens moeilijk gaan doen
+[11:46:02] <tobias> haha
+[11:46:28] <kees> nou, het zijn wel ssl certificaten, zou een beetje lullig zijn als ze die ineens revoken daarom :P
+[11:47:50] <kees> ghe, het is 'datacenter stories from hell' dag (uitgeroepen door @internetofshit)
+[11:47:58] <kees> 'Crashed an IRD (NZ's IRS) Cisco router; half their AS400 sessions died. Got onsite to reset (wrong) router; other half went.'
+[11:48:02] <chim0> np: Braulio Stefield - After The Sun (Rolfiek Remix) [07:56m/320kbps/44kHz]
+[11:48:05] <chim0> sorry
+[11:48:16] <tobias> kees: ermagerd
+[11:48:51] *** Joins: McM (mcm@145.131.136.58)
+[11:55:25] <Ziz> kees: voor certs zou ik idd even bellen :P
+[11:55:32] <Ziz> stukje eigenbelang
+[11:55:48] <kees> uhuh
+[11:55:58] <kees> anders krijgen we weer hetzelfde gezeik als met transip :P
+[11:56:09] <Ziz> uhu :P
+[11:56:13] <Ziz> Ezel. Steen
+[11:56:34] <Jeroen> haha
+[11:57:48] <Ziz> <3 kees 
+[11:57:59] *** Quits: PCR (pcr@2a02:a441:a99f:0:5ce1:2e13:203b:3a4) (Exit)
+[12:00:00] <Ziz> tijd voor asprientje coffeïne
+[12:01:47] *** Quits: chim0 (a@d5c53ff2.ftth.concepts.nl) (Exit)
+[12:02:41] *** Joins: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776)
+[12:03:20] <Ziz> Mag MPLS trouwens 100% utilisation raken
+[12:03:28] <Ziz> Dacht dat dan layers in de knoop raakte
+[12:03:48] <Ziz> En die er uit klapt
+[12:11:58] *** Joins: nmorsink (Mibbit@ip5650f908.speed.planet.nl)
+[12:12:08] <nmorsink> Goeden middag
+[12:15:16] *** boekee is now known as boekee_away
+[12:15:42] *** boekee_away is now known as boekee
+[12:25:19] *** boekee is now known as boekee_away
+[12:25:31] <Escovan> Zo. Weekend!
+[12:28:03] <Ziz> Beter bekend als Zondag
+[12:29:21] <Escovan> En ik heb nog een goed gevulde portemonnee ook. Lieve opdrachtgevers :)
+[12:29:45] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Exit)
+[12:33:02] <Loon> Hop, naar het casino dan!
+[12:33:13] *** Quits: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776) (Ping timeout: 60 seconds)
+[12:33:36] *** Joins: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776)
+[12:33:54] <Escovan> Mijn biologische vader was heel lang gokverslaafd, dus ik heb het niet zo op kansspelen met echt geld.
+[12:34:52] <Escovan> [/tmi]
+[12:35:25] *** Joins: Stuiterbal (Stuit@2001:980:5281:1:24e2:86f7:33ac:b99)
+[12:38:33] <Loon> Begrijpelijk Escovan
+[12:39:23] <kees> volgens mij regent het in amsterdam zuid
+[12:39:38] <Chiron> nope
+[12:39:52] <kees> hangen wel erg zwarte wolken daar
+[12:41:33] <Ziz> gaa je mee naar ams.. oh wacht dat is Diemen
+[12:47:43] <Escovan> Of Rome of Parijs.
+[12:47:46] <nmorsink> Bied microsoft een windows boot image aan voor op een USB? Ik heb nog wel de windowscode maar ben de DVD kwijt.
+[12:48:31] <Escovan> Ja
+[12:48:34] <Escovan> moment
+[12:48:47] <Escovan> Windows 10?
+[12:50:08] <Escovan> https://escovan.net/software/MediaCreationToolx64.exe (Ik had het tooltje even naar mijn eigen server gekopieerd, want was lastig te vinden telkens op MS site)
+[12:50:39] <nmorsink> Oh cheers
+[12:52:06] <nmorsink> Ik moet windows op een laptop zetten van z'n 4 jaar oud (niet bij de hand), neem aan dat toen alle laptops al wel waren uitgerust om er x64 op te zetten, of niet?
+[12:52:46] <Escovan> ja denk het wel. Op onze laptop uit 2012 staat ook Windows 10 x64
+[12:55:00] <kees> ja, de laatste 32 bits cpu is al weer vrij oud
+[12:58:18] <kees> de meest recente (consumenten) 32 bits intel cpu kwam uit in maart 2006
+[12:58:24] <Escovan> :o
+[12:58:33] <Escovan> Time flies when having fun :P
+[13:00:58] <nmorsink> Ik heb ook nog een http://tweakers.net/pricewatch/318537/lenovo-thinkpad-edge-e135-%28nzv5ymh%29.html liggen die ik aan mijn schoonzusje heb gegeven
+[13:01:15] <nmorsink> Toen ik de upgradet naar windows 10 deed, was het niet echt een succes qua snelheid
+[13:01:47] <nmorsink> Is het, het nog waard om daar een SSD in te plaatsen of is de CPU, zoals mijn vermoeden is, de harde bottleneck?
+[13:02:19] <Escovan> Is het vragen uurtje daarna over?
+[13:03:20] <nmorsink> Belooft :)
+[13:04:33] *** Quits: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776) (Ping timeout: 60 seconds)
+[13:04:39] <Escovan> Duo core ... Is niet echt snel nee. Denk dat dat het is.
+[13:04:57] *** Joins: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776)
+[13:05:28] <nmorsink> Zal haar het teleurstellende nieuws brengen dat ze toch wat meer moet gaan sparen dan zes tientjes
+[13:07:04] <Hooglander1>  ssd helpt altijd
+[13:07:09] <Hooglander1> juist bij trage cpu's
+[13:08:08] <Escovan> is dat zo? Ow.
+[13:10:35] <Escovan> Tja, mijn eigen SSD/Win10 draait inderdaad supersnel. Maar dat is met een i7 920 - Toch nog een redelijk capabele CPU.
+[13:12:54] <Loon> Ik ontvang binnenkort een heuze Athlon XP 2000+, Palomino core (jaja) voor in mijn oude bakbeest van ~2001
+[13:13:14] <Loon> vijftien jaar later toch die thunderbird cpu eens upgraden =P
+[13:13:50] <Loon> ik wil eigenlijk een xp 2100+ palomino, maar die zijn wat lastiger te vinden
+[13:14:29] <Hooglander1> das ouwe shit man
+[13:14:31] <Hooglander1> :d
+[13:14:31] <Hooglander1> awesome
+[13:15:06] <Loon> hehe, ja, de good old days 
+[13:15:15] <Escovan> Ik heb in de verhuizing van 2014 pas mijn laatste floppies weggegooid :P
+[13:15:42] <Loon> vooral voor die retro systemen is het wel jammer dat de xp support is afgelopen
+[13:16:10] <Loon> al las ik dat je met een bepaalde tweak nog tot 2019 van die upgrades kunt krijgen oid
+[13:16:20] <Loon> eh, updates bedoel ik
+[13:16:36] <Escovan> Dat is een regedit ding voor Windows CE, geen garantie dat het ook werkt.
+[13:17:03] <Loon> Escovan: ja, floppies. Dat moederbord in die oude thunderbird bak van mij boot ook niet van usb
+[13:17:13] <Loon> maar ik heb er nog wel een paar liggen ergens
+[13:18:42] <gdex> ik heb nog een floppydrive en floppies liggen, volgens mij heb ik alleen geen moederbord meer waar een floppydrive op past
+[13:18:55] <Hooglander1> vast wel
+[13:18:59] <Hooglander1> vaak zitten de headers er nog wel gdex
+[13:19:05] <Hooglander1> moet je er zelf ff een connector op beunen
+[13:19:14] <gdex> ik heb veel m-atx bordjes, daar gaan ze die ruimte niet aan verspillen
+[13:19:27] <gdex> nja, veel, as in, volgens mij is alles wat ik heb m-atx
+[13:19:58] <Loon> ik wilde in mijn huidige pc toch nog een dvd drive, zelfs die gebruik je nauwelijks meer
+[13:20:09] <gdex> ik heb al 3.5 jaar geen dvd drive meer
+[13:20:16] <Loon> af en toe een cd'tje voor iemand branden
+[13:20:29] <gdex> ik heb nog een laptop met een brander erin
+[13:20:34] <gdex> maar ook die gebruik ik nog maar zelden
+[13:21:30] *** Joins: Tomsworld (tom@2a02:a03f:12c0:600:7c70:f06a:9573:e8e9)
+[13:21:30] *** ChanServ sets mode: +o Tomsworld
+[13:22:07] <Escovan> Ha ha, 1% kiesgerechtigden falen hard: http://www.geenstijl.nl/mt/archieven/2016/04/het_stembiljet_zorgde_voor_verwarring____en_gegrinnik.html#more 
+[13:22:32] <Ziz> 1% maar>
+[13:22:43] <Escovan> Ja, normaal is het 0,1%
+[13:23:47] <Loon> hmm, koffie
+[13:24:55] <Escovan> En die 67% die niet kwam opdagen falen ook wel iets, betalen ze voor niets contributie aan vereniging Nederland.
+[13:26:50] <nmorsink> Escovan, Ik ben niet gegaan omdat ik vind dat de gemiddelde burger erg slecht kan beoordelen of z'n verdrag nou goed of slecht voor NL is.
+[13:28:48] <Jeroen> same
+[13:28:54] <Loon> hehe, die geintjes in die iphone SE videoreview
+[13:28:59] <Jeroen> ik had gehoopt dat de 30% niet gehaald zou worden
+[13:29:01] *** Quits: Jeroen (Jeroen@ip82-139-124-155.lijbrandt.net) (Exit)
+[13:29:09] <gdex> gaat 'ie zomaar weg
+[13:29:26] <Ziz> Doet die thuis ook zeker
+[13:29:27] <Loon> zet het statement kracht bij gdex
+[13:29:30] <Ziz> Vriendin gaat in discussie 
+[13:29:33] <Stuiterbal> [13:28] <Jeroen> same
+[13:29:34] <Ziz> Jeroen peert hem
+[13:29:35] <Stuiterbal> Prutser
+[13:29:39] *** boekee_away is now known as boekee
+[13:29:55] <Hooglander1> Escovan het 1e voorbeeld is geldig
+[13:30:08] <Hooglander1> ow wacht, zeggen ze ook
+[13:30:09] <Hooglander1> stomme titel dan
+[13:33:00] <kees> http://www.cisco.com/c/en/us/support/docs/field-notices/636/fn63697.html lol, perongeluk een switch resetten door een kabel erin te stoppen 
+[13:34:43] <Hooglander1> whehe
+[13:34:48] <Hooglander1> dat is lullig
+[13:35:55] *** Quits: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776) (Ping timeout: 60 seconds)
+[13:36:25] *** Joins: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776)
+[13:42:55] <Hooglander1> wat zijn er eigenlijk weinig routers die ook voip ondersteunen
+[13:42:56] <Hooglander1> suf is dat
+[13:43:41] <gdex> gebeurt ook weinig dat consumenten een losse voip-dienst gebruiken
+[13:43:48] <gdex> meestal loopt het via de provider, en dan zit het in het modem
+[13:44:29] <Ziz> idd
+[13:45:04] <Ziz> multiprotocol routertjes zijn niet erg populair bij consumenten
+[13:45:15] <Hooglander1> Ik zou best iets anders dan die fritzbox hier willen gebruiken
+[13:45:20] <Hooglander1> maar dan moet ik echt een aparte voip phone regelen
+[13:45:59] <gdex> kan die fritzbox niet gewoon internet bridgen en voip aftappen
+[13:46:28] <Escovan> nmorsink, ik denk dat genoeg mensen de mogelijkheden hebben om zich in de materie te verdiepen, alleen niet de tijd zoals ik. Ik heb uren en uren aan colleges en artikelen besteed voor ik ging stemmen. Maar als je 40 uur werkt zul je dat niet snel doen.
+[13:46:30] <Hooglander1> ik wil het liefst 1 apparaat dat alles kan
+[13:46:43] <Hooglander1> dus ook de NTU vervangen door een router als het ff kan :P
+[13:46:45] <Hooglander1> Maar ja
+[13:46:49] <Hooglander1> misschien moet ik dat gewoon niet willen
+[13:46:54] <Ziz> Heb ik ook. Vrouw. Kan koken, stofzuigen. enz
+[13:47:05] <Escovan> :D
+[13:47:08] <Ziz> Mij op mn bek slaan als ze dit zou lezen
+[13:47:14] <Ziz> erg multifunctioneel
+[13:47:36] <gdex> kan vast wel Hooglander1, alleen niet in het consumenten-segment
+[13:47:44] <Hooglander1> zat al te kijken naar mikrotik
+[13:47:58] <Hooglander1> die doet zowat alles
+[13:48:00] <Ziz> Moet je kijken naar SB cisco routertjes
+[13:48:00] <Hooglander1> maar geen voip
+[13:48:12] <gdex> zijn nog wel one-purpose dingen meestal
+[13:48:37] <gdex> vroegah hadden ze iig ook geen gecombineerde router + AP
+[13:48:42] <gdex> en al helemaal geen 2.4 + 5 GHz dualband
+[13:48:47] <gdex> geen idee hoe dat nu zit
+[13:49:00] <gdex> vroeger deden ze 't iig niet omdat er geen goede dualband chips waren die voor hun genoeg kwaliteit konden leveren
+[13:49:17] <gdex> misschien moet je even aan tobias vragen
+[13:49:23] <gdex> die had iirc zelf iets er aan gehangen
+[13:49:26] <Hooglander1> die doet alles los
+[13:49:29] <Hooglander1> precies wat ik niet wil :P
+[13:49:31] <gdex> ah
+[13:49:40] <Hooglander1> die heeft een edgerouter die glas babbelt
+[13:49:43] <Hooglander1> en dan aparte wifi shizzle
+[13:49:51] <Hooglander1> mgoe, dan maar de fritzlbox houden
+[13:49:57] <Hooglander1> voldoet, is alleen niet leuk speelgoed :P
+[13:50:30] <gdex> tja :P
+[13:51:07] *** Joins: Smileface (alexander@25bc408b.ftth.concepts.nl)
+[13:51:08] <gdex> ik heb wel alles los, al is het maar omdat ik m'n wifi-punt niet in de meterkast aan een uiteinde van het huis wil hebben
+[13:51:15] <gdex> en een losse router omdat die in het ziggo-modem suckt
+[13:51:42] <Hooglander1> ik heb de mazzel dat mijn meterkast centraal in het huis is
+[13:51:57] <Hooglander1> ik vind alleen een ping van 4 of 5 vrij hoog
+[13:52:25] <nmorsink> Escovan, mag ik vragen wat je gestemd hebt en wat je beweeg redenen waren?
+[13:52:26] <gdex> seconden? :+
+[13:52:38] <Hooglander1> ms gdex :P
+[13:52:45] <Hooglander1> de 1e hop na de fritzbox is al 4ms
+[13:52:47] <Hooglander1> das toch suf
+[13:53:27] <gdex> niet perse
+[13:53:55] <gdex> en al helemaal niet als 't via wifi is
+[13:54:13] <Hooglander1> bekabeld uiteraard
+[13:54:15] <Hooglander1> de fritzbox is 1 ms
+[13:54:24] <Hooglander1> dat nog wel
+[13:54:35] <Escovan> nmorsink, ik heb voor gestemd omdat ik in het belang van de oekraïne achtte, dat het de EU geld kost maakt me niet zoveel uit. Meer stabiele landen om ons heen.
+[13:54:36] <gdex> da's nog langzaam :+
+[13:54:40] <gdex> mijn server thuis -> router doet 0.3ms
+[13:54:42] <Hooglander1> <1ms :P
+[13:54:45] <Hooglander1> aldus windows
+[13:54:59] <gdex> en eerste hop erbuiten is 5.5-6 ms
+[13:57:05] <gdex> apart trouwens, als ik iets op de TU/e ping is de eerste hop van surfnet langzamer (20ms) dan de uiteindelijke server (12ms)
+[13:57:48] <kees> kan prima zijn dat die surfnet hop icmp verkeer op de allerlaagste prio heeft staan
+[13:57:58] <kees> (en traceroute verkeer)
+[13:58:18] <kees> moet je een tcptracceroute op poort 80 proberen
+[13:59:20] <gdex> dan krijgt ik veel mer sterretjes
+[13:59:32] <gdex> maar de tijden zijn wel logischer idd
+[13:59:53] <kees> mischien dat ze ttl timeout verkeer wat sneller droppen dan ipv een response te sturen
+[14:00:38] <kees> 't blijft een vieze manier om je route te bepalen, jammer dat er niets beters is
+[14:01:44] <gdex> go fix :+
+[14:01:51] <gdex> maar ach, ik vind het prima zolang het werkt
+[14:01:59] <gdex> en Hooglander1 moet niet zeuren over die 4ms
+[14:02:02] <kees> het werkt alleen niet erg goed :P
+[14:02:11] <kees> je ziet ook veel hosts niet
+[14:02:27] <kees> je zou eigenlijk ook alle switches ertussen willen zien :P
+[14:02:30] <gdex> met 'het' bedoel ik nu 'tcp/ip in het algemeen' :+
+[14:02:33] <Hooglander1> dat zou leuk zijn idd kees
+[14:02:55] <kees> Hooglander1, uiteraard ook een risico
+[14:03:06] <kees> magoed, ik zou het voor mijn eigen netwerk wel heel erg handig vinden
+[14:03:07] <gdex> switches maken niet uit voor je netwerk-topologie in principe
+[14:03:22] <gdex> heeft je fabrikant geen netwerk-map-bouw-tooltje?
+[14:03:36] <kees> geen idee
+[14:03:41] <kees> het is cisco
+[14:04:09] <kees> maar meer dat ik op een server kan zien welke route een packet neemt naar een andere server
+[14:04:20] <gdex> ik meen dat het spul wat ze oa op campzone gebruiken een auto-discovered network map met link utilization kan bouwen
+[14:04:25] <gdex> ahzo
+[14:06:20] <kees> en Cisco Network Assistant: Operating system	Windows 2000 Professional (SP4), Windows 2003 Server, Windows XP Professional (SP2), Windows Vista Ultimate, Windows 2000 Professional (SP3+), Windows XP Professional (SP1+), Macintosh OS Xt
+[14:06:38] <kees> staat maar 1 echt OS tussen en die gebruik ik niet
+[14:06:59] <gdex> VM bouwen
+[14:07:02] <gdex> of wine
+[14:07:19] <Hooglander1> alles uit service of niet
+[14:07:23] <Hooglander1> vista ultimate misschien nog?
+[14:12:08] <kees> ook leuk dat je op de officiele pagina naar versie 5.3 gelinked word
+[14:12:14] <kees> en dat 6.2 al uit is
+[14:19:20] <kees> nog erger
+[14:19:25] <kees> het is gewoon een fucking java tool
+[14:20:57] *** boekee is now known as boekee_away
+[14:38:13] *** Quits: Tomsworld (tom@2a02:a03f:12c0:600:7c70:f06a:9573:e8e9) (Ping timeout: 66 seconds)
+[14:38:39] *** Quits: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776) (Ping timeout: 61 seconds)
+[14:39:03] *** Joins: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776)
+[14:44:35] *** Quits: PerlinNoise (P@D97B0886.cm-3-4a.dynamic.ziggo.nl) (Exit)
+[14:45:57] *** Joins: PerlinNoise (P@D97B0886.cm-3-4a.dynamic.ziggo.nl)
+[14:47:19] *** Joins: Jeroen (Jeroen@54188FF8.cm-5-1c.dynamic.ziggo.nl)
+[14:48:06] *** Quits: LuNaTiC|HJ (blaat@5468D119.cm-12-1d.dynamic.ziggo.nl) (Exit)
+[14:53:49] <Ziz> Cool Senior Sys admin is hier een vrouw
+[14:55:19] <Jeroen> http://www.auto55.be/nieuws/26981-politie-rijdt-elke-dag-7-autos-in-frut
+[14:55:26] <Jeroen> Volgens de VSOA krijgen nieuwe agenten nog steeds louter een theoretische cursus. Waarna ze onmiddellijk met een prioritair voertuig de baan op gestuurd worden. “Gewapend met een simpel rijbewijs B. Dat is eigenlijk niet verantwoord”, aldus de politievakbond.
+[14:55:27] <Jeroen> belgie.
+[14:57:23] *** Joins: digijap (Mibbit@145.132.163.131)
+[14:57:30] *** Joins: Tweaker_9818 (Mibbit@145.132.163.131)
+[14:57:42] *** Quits: Tweaker_9818 (Mibbit@145.132.163.131) (Exit)
+[14:57:55] *** Joins: JasperIsDik (Mibbit@145.132.163.131)
+[14:59:12] <nmorsink> Lijkt mij nou ook niet echt verstandig 
+[14:59:30] <nmorsink> In Nederland krijgen ze wel (uitgebreide) training, toch?
+[14:59:39] <Ziz> ieerst oefenen in botsautotjes
+[14:59:52] <Ziz> om 1ste auto te zijn moet je idd een training gehad hebben
+[15:00:03] <Ziz> volgauto's ook maar een minder strenge
+[15:00:24] <Jeroen> alsnog meer dan een theoretische cursus dus
+[15:00:29] <Ziz> ja
+[15:00:37] <Jeroen> en ik durf ook wel te stellen dat het nederlandse rijbewijs B serieuzer is dan het belgische
+[15:00:45] <Ziz> Dat weet ik niet
+[15:01:00] <Ziz> BE is nog steeds zo dat ouders hun kind mogen opleiden?
+[15:01:32] <kees> ja volgens mij wel
+[15:01:42] <kees> overigens rijden we in .nl ook genoeg politie auto's in de prak
+[15:02:08] *** Joins: Francis (Francis@5468C56E.cm-12-1d.dynamic.ziggo.nl)
+[15:02:10] <Jeroen> ongetwijfeld
+[15:02:25] <Ziz> Shit happens
+[15:03:01] <Ziz> Ik heb (afkloppen) nog nooit een ongeluk gehad. Maar genoeg andere gehad die mij probeerde aan te rijden :P\
+[15:03:54] <Ziz> http://i.imgur.com/0NkXima.gifv
+[15:10:01] *** Quits: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776) (Ping timeout: 60 seconds)
+[15:10:25] *** Joins: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776)
+[15:14:00] *** Joins: zomertje (zomertje@pluizigenblauw.xs4all.nl)
+[15:14:00] *** ChanServ sets mode: +o zomertje
+[15:14:56] <gdex> Ziz: dat snap ik als je ze net ontslagen hebt
+[15:16:04] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[15:17:35] <Ziz> Wat ontslagen heb
+[15:17:40] <Ziz> Heb al wekend niemand ontslagen man!
+[15:17:48] <Ziz> Krijg ontwennings verschijnselen
+[15:21:06] <Hooglander1> we hebben hier wel drie weken rust
+[15:21:10] <Hooglander1> lade zit ergens in spanje
+[15:21:30] <moto-moi> *O*
+[15:21:45] <moto-moi> gedeporteerd in een doos met gaten erin?
+[15:22:00] <gdex> en dan terugliften en het een liftwedstrijd noemen
+[15:22:29] <Hooglander1> goeie
+[15:22:34] <Hooglander1> had ik als suggestie moeten doen
+[15:25:40] <Escovan> man man man
+[15:25:58] <Escovan> 1 uur 18 minuten aan de telefoon met een vriend
+[15:26:11] <Escovan> Ik lijk wel een wijf
+[15:27:09] *** _Aapje is now known as Aapje
+[15:39:43] *** boekee_away is now known as boekee
+[15:41:23] *** Quits: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776) (Ping timeout: 61 seconds)
+[15:41:46] *** Joins: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776)
+[15:46:25] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Exit)
+[15:48:58] *** Quits: Francis (Francis@5468C56E.cm-12-1d.dynamic.ziggo.nl) (Exit)
+[15:49:45] <Jeroen> http://i.imgur.com/VGwidoe.jpg
+[15:49:46] <Jeroen> boink
+[15:50:31] <GekkePrutser> AUw
+[15:50:39] <GekkePrutser> Gelukkig was de piloot er al uit
+[15:50:57] <Ziz> Niet. Was cabrio straaljager
+[15:51:00] <GekkePrutser> Waar/wanneer was dat?
+[15:51:06] <Jeroen> https://www.youtube.com/watch?v=0HDIxzSMp-0
+[15:51:25] <GekkePrutser> Ah Canada
+[15:52:09] <rawplayer> hoi
+[15:52:13] <GekkePrutser> Oef.. Stall zo te zien
+[15:53:03] <Jeroen> ja motor stuk
+[15:53:11] <Jeroen> beetje lullig als dat zo laag gebeurt
+[15:54:03] *** boekee is now known as boekee_away
+[15:54:21] <GekkePrutser> Ja hij kwam best hard neer trouwens, het was best laag ook voor een schietstoel
+[15:55:12] *** Ziz is now known as Ziz`aw
+[15:59:02] <Chiron> oef, die klapt nog hard in het gras idd
+[16:00:59] <Jeroen> http://nypost.com/2016/04/07/hes-a-mechanic-in-germany-and-a-king-in-africa/
+[16:01:12] <Chiron> https://www.youtube.com/watch?v=SwI_0FNMRmk
+[16:02:52] <Jeroen> hey een avro c arrow
+[16:03:37] <Jeroen> jezus wat een kutfilmpje Chiron :+
+[16:04:00] <Chiron> mwoa.. wel met interviews van de crew en piloot, opzich wel grappig
+[16:04:11] <Jeroen> zo ver ben ik niet gekomen
+[16:06:21] *** Quits: digijap (Mibbit@145.132.163.131) (Exit)
+[16:07:02] <Chiron> https://www.youtube.com/watch?v=K2lH7YBqZo0 dit was ook wel een dure :-X
+[16:12:44] *** Quits: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776) (Ping timeout: 60 seconds)
+[16:13:13] *** Joins: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776)
+[16:14:50] <kees> 'UPS battery exploded flaming lithium all over the diesel generator's gas lines. No more datacenter. #dontpushtheredbutton' Oo :D
+[16:14:58] <kees> leuke hashtag op twitter :D
+[16:17:26] *** Quits: kees (kees@kees.tweakers.net) (Input/output error)
+[16:21:34] <PCR> Raar feitje van de dag: de nazis hebben ooit aan de basis gestaan van de aardlekschakelaar, triest maar wel waar (bron: Wiki)
+[16:23:24] <PCR> Ze hebben experimenten op mensen uitgevoerd om te kijken in hoeverre het menselijk lichaam een electrocutie overleeft...
+[16:24:38] <Chiron> duh
+[16:24:42] <Chiron> wel meer dingen
+[16:24:58] <Chiron> resultaten uit experimenten met onderkoeling, worden ook nog steeds gebruikt
+[16:25:33] <PCR> ik geloof direct wel dat er idd meer uitgekomen is
+[16:25:55] <PCR> maar dit wist ik niet
+[16:27:33] *** Quits: McM (mcm@145.131.136.58) (Ping timeout: 66 seconds)
+[16:34:49] *** Quits: JasperIsDik (Mibbit@145.132.163.131) (Exit)
+[16:35:30] *** moto-moi is now known as moto-moi|afk
+[16:37:11] *** Joins: McM (mcm@145.131.136.58)
+[16:42:35] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[16:43:45] *** Quits: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776) (Ping timeout: 60 seconds)
+[16:43:57] *** Joins: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[16:44:14] *** Joins: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776)
+[16:50:17] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[16:51:56] *** boekee_away is now known as boekee
+[17:01:26] <DinX_Werk> https://i.imgur.com/Vi6ximE.png
+[17:01:27] <DinX_Werk> :D
+[17:02:39] *** Joins: janwillem44 (Mibbit@92.67.221.129)
+[17:02:50] <janwillem44> hoi wirky
+[17:03:56] <janwillem44> hoi hoe gaat het
+[17:04:03] <janwillem44> en wie ben je
+[17:05:28] *** Quits: McM (mcm@145.131.136.58) (Ping timeout: 67 seconds)
+[17:06:01] *** Joins: Resistor (Resistor@ip5456d91b.speed.planet.nl)
+[17:08:06] *** Quits: DinX_Werk (DinX@out.helics.leuven.be) (Exit)
+[17:09:57] *** Joins: JasperIsDik (Mibbit@145.132.163.131)
+[17:13:21] *** Quits: janwillem44 (Mibbit@92.67.221.129) (Exit)
+[17:13:55] *** Joins: kees (kees@office.tweaknet.net)
+[17:14:28] *** Joins: Resistor_ (Resistor@ip5456d91b.speed.planet.nl)
+[17:14:39] *** Joins: digijap (Mibbit@145.132.163.131)
+[17:18:02] *** Quits: Resistor (Resistor@ip5456d91b.speed.planet.nl) (Ping timeout: 66 seconds)
+[17:18:05] *** Resistor_ is now known as Resistor
+[17:18:27] *** Quits: Resistor (Resistor@ip5456d91b.speed.planet.nl) (Exit)
+[17:19:33] *** Joins: Resistor (Resistor@ip5456d91b.speed.planet.nl)
+[17:22:19] <tozzert> trutten
+[17:22:47] <kees> bitch
+[17:22:58] <kees> heerlijk instant karma momentje vandaag gezien
+[17:23:27] <kees> werd in een tunnel, over een afgesloten rijbaan ingehaald door een zwarte vrachtauto zonder verlichting waarvan de bestuurder zat te bellen
+[17:24:02] <kees> met vlak daarachter een politieauto die hem inhaalde zodra hij naar rechts ging en die een bordje 'politie, volgen' aan deed
+[17:24:25] <tozzert> begreep die pool dat?
+[17:24:42] <kees> ik hoop het voor hem
+[17:24:58] <kees> eens zien of er een achtervolging is geweest op de A10 rond 16:45
+[17:25:10] <tozzert> BREAKING NEWS
+[17:25:14] <tozzert> HIGH SPEED CHASE
+[17:25:36] *** Joins: JamesB009 (got@185.65.53.175)
+[17:25:37] *** Quits: JamesB009 (got@185.65.53.175) (Client exited)
+[17:28:00] <boekee> :P
+[17:30:14] *** Joins: Tomsworld (tom@2a02:a03f:12c0:600:10c3:af46:480b:9e2)
+[17:30:14] *** ChanServ sets mode: +o Tomsworld
+[17:32:09] *** Quits: ElectrowolF (DI3@5355D892.cm-6-6d.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[17:33:40] *** Quits: digijap (Mibbit@145.132.163.131) (Exit)
+[17:34:01] *** Joins: ElectrowolF (DI3@5355D892.cm-6-6d.dynamic.ziggo.nl)
+[17:42:29] *** Joins: digijap (Mibbit@145.132.163.131)
+[17:45:58] *** Quits: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776) (Ping timeout: 60 seconds)
+[17:46:25] *** Joins: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776)
+[17:53:39] *** Quits: Hoogvlieger (Hoogvliege@ip41-37-211-87.adsl2.static.versatel.nl) (Exit)
+[17:55:50] *** Parts: marccom (marc@095-097-114-212.static.chello.nl) ()
+[18:04:41] *** Quits: Huigie (Huigie@D57D516A.static.ziggozakelijk.nl) (Exit)
+[18:06:50] *** Quits: JasperIsDik (Mibbit@145.132.163.131) (Exit)
+[18:11:27] *** Quits: digijap (Mibbit@145.132.163.131) (Exit)
+[18:11:43] *** Joins: JasperIsDik (Mibbit@145.132.163.131)
+[18:15:04] <Jeroen> http://www.theguardian.com/us-news/2016/apr/08/us-military-christens-self-driving-sea-hunter-warship
+[18:17:18] *** Quits: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776) (Ping timeout: 60 seconds)
+[18:17:46] *** Joins: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776)
+[18:18:30] *** Joins: digijap (Mibbit@145.132.163.131)
+[18:30:47] <Jeroen> http://i.imgur.com/FTxBlpF.webm
+[18:30:48] <Jeroen> :X :D
+[18:31:50] *** Quits: Tomsworld (tom@2a02:a03f:12c0:600:10c3:af46:480b:9e2) (Ping timeout: 66 seconds)
+[18:32:01] <moto-moi|afk> het verbazende aan dat soort filmpjes vind ik altijd dat ze online komen
+[18:32:11] <moto-moi|afk> ik zou het snel deleten en het snel proberen te vergeten :+
+[18:32:13] *** moto-moi|afk is now known as moto-moi
+[18:32:38] *** Quits: JasperIsDik (Mibbit@145.132.163.131) (Exit)
+[18:33:39] *** Joins: Tweaker_8795 (Mibbit@82.168.31.90)
+[18:33:45] *** Quits: Tweaker_8795 (Mibbit@82.168.31.90) (Exit)
+[18:34:55] *** Quits: digijap (Mibbit@145.132.163.131) (Exit)
+[18:45:32] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Exit)
+[18:48:41] *** Quits: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776) (Ping timeout: 61 seconds)
+[18:49:09] *** Joins: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776)
+[18:50:28] *** Joins: boy_yonder (Seb@82-169-222-71.ip.telfort.nl)
+[18:53:54] <Hooglander1> moto-moi: alleen de gedachte al dat jij zon filmpje gemaakt zou hebben vind ik al vermakelijk
+[18:54:02] <moto-moi> ghehe
+[18:58:13] <Hooglander1> Then again
+[18:58:29] <Hooglander1> De enige foto die ik volgens mij ooit van je heb gezien is met tijgeroortjes :+
+[18:59:13] <moto-moi> gdex heeft vorig jaar nog foto's van me gemaakt, maar die zijn niet veel beter :+
+[18:59:18] <tozzert> wat een poepie
+[19:04:12] *** Joins: gakkethijs (gakkethijs@84-245-42-16.dsl.cambrium.nl)
+[19:13:59] *** Quits: zomertje (zomertje@pluizigenblauw.xs4all.nl) (Exit)
+[19:19:41] *** Quits: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776) (Ping timeout: 60 seconds)
+[19:20:11] *** Joins: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776)
+[19:35:40] *** Joins: Teckna1 (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl)
+[19:36:05] *** Quits: Teckna (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 63 seconds)
+[19:38:23] *** Joins: Sponge (Sponge@149.210.150.92)
+[19:38:57] <tozzert> http://img-9gag-fun.9cache.com/photo/a57xerL_460sv.mp4
+[19:39:03] <tozzert> wat een hufters zijn het ook
+[19:39:07] *** Joins: Matthew (Matthew@178-117-75-230.access.telenet.be)
+[19:49:48] *** Joins: Robin (robin@5419F052.cm-5-2d.dynamic.ziggo.nl)
+[19:49:48] *** ChanServ sets mode: +v Robin
+[19:50:44] *** Quits: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776) (Ping timeout: 60 seconds)
+[19:51:11] *** Joins: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776)
+[19:51:29] <Hooglander1> Whehe
+[19:51:33] <Hooglander1> Mooi tozzert 
+[19:52:55] <tozzert> kun je @ excel cellen verbergen en alleen weer zichtbaar krijgen met password?
+[19:53:12] <gakkethijs> zucht.
+[19:54:14] <Hooglander1> Could Be tozzert 
+[19:54:27] <Hooglander1> Wat ben je nou weer van plan?
+[19:54:32] <tozzert> :>
+[19:54:43] <moto-moi> vieze plaatjes verstoppen in de excel van je baas zeker..
+[19:54:46] <tozzert> ben een nieuwe codegenerator aan het maken
+[19:55:02] <tozzert> voor wat andere doeleinden dan waar ik heb al voor gebruik
+[19:55:05] <tozzert> heb=hem
+[19:55:18] <Hooglander1> Is je dat uiteindelijk gelukt?
+[19:55:21] <tozzert> maar ook al passprotect ik hem
+[19:55:24] <Hooglander1> Die passcodegenerator?
+[19:55:38] <tozzert> cellen kun je zo weer zichtbaar krijgen zonder die code te hebben
+[19:55:39] <tozzert> jazeker
+[19:55:45] <tozzert> workt perfectly
+[19:55:47] <tozzert> works
+[19:56:08] <Hooglander1> https://www.google.nl/search?q=excel+hide+cells+password+protect&oq=hide+cells+pass&aqs=chrome.1.69i57j0l3.4579j0j4&client=ms-android-google&sourceid=chrome-mobile&ie=UTF-8
+[19:56:14] <Hooglander1> Google weet het antwoord al
+[19:57:07] <Hooglander1> http://excelribbon.tips.net/T008069_Hiding_and_Protecting_Columns.html
+[19:57:12] <Hooglander1> Voor de recente versie tozzert 
+[19:57:33] <tozzert> probeer het eens
+[19:57:47] <tozzert> zonder code kun je alsnog alle cellen zichtbaar maken
+[19:58:07] <tozzert> ook al kun je de inhoud ervan (de berekening bijv) wel verborgen houden
+[19:58:07] <tozzert> maja
+[19:58:48] <Hooglander1> Heb je ook dat locked en zo aangevinkt
+[19:59:01] <tozzert> jep
+[19:59:38] <Hooglander1> Ow
+[19:59:46] <Hooglander1> Er staat zelfs dat het niet 100% kan
+[19:59:55] <Hooglander1> Als je de calculatie in een andere worksheet doet dan tozzert 
+[20:00:01] <Hooglander1> En dan de hele worksheet hide
+[20:00:04] <Hooglander1> Kenda
+[20:01:39] <tozzert> geen idee, ff proberen
+[20:03:39] <Hooglander1> Nou?
+[20:04:16] <tozzert> ik kan niet eens een tab toevoegen na unprotected te hebben
+[20:04:17] <tozzert> :D
+[20:04:27] <tozzert> wtf
+[20:04:30] <Hooglander1> Raer
+[20:05:20] <tozzert> ah
+[20:05:24] <tozzert> ook nog beveiligd
+[20:05:29] <tozzert> nu nog pass zien te achterhalen
+[20:05:30] <tozzert> :+
+[20:05:52] <tozzert> ja dus
+[20:07:30] *** Joins: coreblink (coreblink@145.132.131.160)
+[20:08:54] <tozzert> hmmm
+[20:09:06] <tozzert> ergens gaat dan iets met de berekening niet meer lekker
+[20:09:28] <Hooglander1> Dat kun je oplossen
+[20:12:02] <tozzert> je hebt wel vertrouwen in me!
+[20:12:17] <tozzert> hmz, was blijkbaar gisteren nog niet helemaal klaar
+[20:12:26] <tozzert> 1 kolom lijkt niks te doen ofzo
+[20:12:42] <Hooglander1> Hernoem hem: "Jeroen"
+[20:13:09] <tozzert> ik kijk wel uit
+[20:13:30] <Jeroen> ey
+[20:14:17] <Hooglander1> :+
+[20:14:32] <Hooglander1> Waar is rogue als je ondersteuning nodig hebt? :+
+[20:20:36] *** Quits: boy_yonder (Seb@82-169-222-71.ip.telfort.nl) (Exit)
+[20:22:04] *** Quits: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776) (Ping timeout: 60 seconds)
+[20:22:29] *** Joins: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776)
+[20:27:35] <Nakebod> https://goo.gl/photos/95iX5tjEQSMzVdLi6 dat was best dichtbij! en heul erg snel voorbij :+
+[20:28:16] <Hooglander1> \0/
+[20:28:20] <Hooglander1> Iets van toenadering
+[20:28:39] <Nakebod> vandaag zelfs iets meer, iets langer, en 2x achter elkaar!
+[20:29:20] <Nakebod> En toen ging Pluisje ineens in de aanval https://goo.gl/photos/eyA8E7EdT8PoVDFs9 
+[20:30:05] *** Quits: Sponge (Sponge@149.210.150.92) (Ping timeout: 66 seconds)
+[20:30:11] <Hooglander1> Lijkt net alsof ie moest niesen
+[20:30:12] <Nakebod> En de rest van de middag/avond zijn ze naar mijn idee beide een beetje in aanval modus :| 
+[20:30:28] <Nakebod> Behalve dat je de pootjes van Simba nog ziet wegvluchten :D
+[20:30:39] <Hooglander1> Twee stappen vooruit, 1 achteruit
+[20:31:02] <Nakebod> Pluis stond met de reet naar Simba, en Simba kwam snuffelen, dat vond Pluisje toch een minder goed idee iig ;P
+[20:31:16] <Hooglander1> Het is wel een teken dat Simba iig er wel voor open staat
+[20:31:18] <Nakebod> Morgen lukt het vast wel weer een keer om dichtbij elkaar te komen
+[20:31:25] <Hooglander1> Nu Pluis nog ff wennen aan dat idee
+[20:31:48] <Hooglander1> Wel tof dat dat heeeeeeel langzaam beter gaat
+[20:31:57] <Nakebod> Ik blijf erbij dat Pluisje nu al Simba overheerst
+[20:32:12] <Hooglander1> Ghehe
+[20:32:17] <Hooglander1> Zou best kunnen
+[20:32:28] <Hooglander1> Maar ondertussen zit Pluis wel achter de monitor
+[20:32:37] <Nakebod> uhuh :(
+[20:32:37] <Hooglander1> En simba in de rest vh huis
+[20:33:08] *** Quits: Loon (Loon@095-096-167-046.static.chello.nl) (Ping timeout: 67 seconds)
+[20:34:55] *** Joins: Loon (Loon@095-096-167-046.static.chello.nl)
+[20:36:21] <Jeroen> noem eens een cheap kwartshorloge dat met een pak kan
+[20:36:36] <Nakebod> moto360? :+
+[20:36:53] <Hooglander1> Snie cheap
+[20:36:56] <Hooglander1> Wel handig
+[20:36:56] <Hooglander1> :+
+[20:36:57] <Jeroen> en kan niet met pak
+[20:37:02] <Hooglander1> Echt wel
+[20:37:05] <Hooglander1> Dude
+[20:37:13] <Hooglander1> Moto360 is fucking stylish
+[20:37:14] <Jeroen> ga weg man
+[20:37:15] <moto-moi> hello kittie maakt wel mooie roze horloges wat bij een roze pak past?
+[20:37:18] <Jeroen> ja dus
+[20:37:18] <Jeroen> :p
+[20:37:27] <Nakebod> bol.com had laatst die huawei dingen in de aanbieding, die zijn wel erg nice 
+[20:37:31] <Jeroen> hij is voor mij, moto-moi, het is geen cadeautje voor jou
+[20:37:45] <moto-moi> ik heb geen roze pak, je bent in de war met een collega van me
+[20:38:11] <Jeroen> sowieso wil ik niet echt beter bereikbaar zijn
+[20:39:43] <Hooglander1> Ik vind het echt een uitkomst
+[20:39:55] <Hooglander1> Niet meer voor alles je telefoon hoeven pakken
+[20:40:12] <Nakebod> Te duur nog imho
+[20:40:25] <Hooglander1> Snap ik
+[20:40:30] <Hooglander1> Betere accuduur zou ook mooi zijn
+[20:40:34] <Nakebod> uhuh
+[20:40:40] <Hooglander1> Twee dagen kan net
+[20:40:43] <Hooglander1> Maar fijn is het niet
+[20:41:02] <Jeroen> mja Hooglander1 
+[20:41:05] <Jeroen> ze wachten maar ff :+
+[20:41:06] <Nakebod> Ben ook bang dat deze 1st gen smartwatches na een jaar of 2 al zwaar outdated zijn
+[20:41:27] <Jeroen> ik heb sinds een paar weken emailnotificaties uit staan en kijk gewoon 1x in het uur of als ik tijd heb
+[20:41:29] <Jeroen> ideaal
+[20:41:33] <Nakebod> Moet je straks per 2 jaar 1500/2000 euro aan meuk vervangen :+ 
+[20:41:41] <Nakebod> telefoon, tablet, smartwatch
+[20:41:50] <Hooglander1> Tablet heb ik al niet
+[20:41:56] <Jeroen> alsof een tablet nog maar 2 jaar meegaat
+[20:41:59] <Hooglander1> Heb gewoon een fuckhuge telefoon :+
+[20:42:05] <Nakebod> Hier wel :+
+[20:42:07] <Jeroen> hell, een telefoon kan tegenwoordig al langer
+[20:42:17] <Jeroen> moeje geen asusrommel kopen :+
+[20:42:23] <Hooglander1> Je moet ze ook niet stuk gooien Nakebod 
+[20:42:25] <Nakebod> Dat was het probleem niet :P
+[20:42:28] <Nakebod> dat wel :D
+[20:43:45] <Nakebod> Gelukkig is nieuwe tablet goedekopert :P
+[20:44:55] *** Quits: Loon (Loon@095-096-167-046.static.chello.nl) (Exit)
+[20:45:22] <Hooglander1> Ahuh
+[20:45:44] <Hooglander1> Ik zou ooit nog wel eens een cheape foon willen proberen
+[20:45:50] <Hooglander1> Maar dan wel een tablet erbij
+[20:45:58] <Hooglander1> Maar denk dat een phablet nog altijd het beste werkt
+[20:47:27] *** Quits: Resistor (Resistor@ip5456d91b.speed.planet.nl) (Exit)
+[20:48:50] <Nakebod> nokia 3310 met smartwatch support! :+
+[20:53:25] *** Quits: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776) (Ping timeout: 60 seconds)
+[20:53:49] *** Joins: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776)
+[20:55:05] *** Quits: nmorsink (Mibbit@ip5650f908.speed.planet.nl) (Exit)
+[20:55:50] <tozzert> mooi hoor Hooglander1!
+[20:55:55] <tozzert> wat ik gebakken heb
+[20:56:23] <Hooglander1> Werkt het?
+[20:56:34] <tozzert> jazeker
+[20:56:35] <tozzert> :>
+[20:56:41] <tozzert> dank je weer hè!
+[20:58:21] <Nakebod> hoeveel uur heb je er nu aan verprutst
+[20:59:20] *** Joins: Foxke (Mibbit@5ED02204.cm-7-1a.dynamic.ziggo.nl)
+[20:59:40] <tozzert> pfoe
+[20:59:49] <tozzert> deze aanpassing?
+[20:59:59] <tozzert> want ik had al een werkend document
+[21:00:28] <Hooglander1> Die eerste versie veel te veel
+[21:00:29] <tozzert> maar deze aanpassing is voor een installateurscode te maken voor domotica
+[21:00:33] <tozzert> ghehe
+[21:00:36] <tozzert> deze valt mee
+[21:00:41] <tozzert> gister even mee gestoeid
+[21:00:50] <tozzert> mgoe
+[21:01:01] <tozzert> we gebruiken het nu heul intensief
+[21:01:40] <Nakebod> vast zo een hobbybob oplossing
+[21:01:50] <tozzert> heus niet
+[21:01:55] <tozzert> :/
+[21:02:01] <Hooglander1> :+
+[21:02:11] <tozzert> je kunt wel een keygen van het internet plukken
+[21:02:26] <tozzert> en als pietje die instelt als code @ een klant
+[21:02:30] <tozzert> en jantje komt daar vervolgens
+[21:02:37] <tozzert> is het wel handig dat hij de goede code weet
+[21:02:47] <Nakebod> welkom01
+[21:02:50] <Nakebod> werkt altijd!
+[21:03:03] <moto-moi> of 1337, want je bent een nerd
+[21:03:03] <tozzert> ik ben voorstander van lokatiegebonden codes
+[21:03:26] <tozzert> 1 code voor alle lokaties
+[21:03:32] <Nakebod> wc01
+[21:03:32] <tozzert> isniehendignie
+[21:03:53] <tozzert> al is het alleen maar voor als de klant die code wil hebben en ons bedankt...
+[21:04:02] <tozzert> dan wil je er niet eerst langs hoeven
+[21:04:07] <tozzert> ofzo
+[21:04:20] <tozzert> gewoon kwestie van code afgeven
+[21:04:23] <tozzert> al dan niet na betaling
+[21:04:25] <tozzert> :+
+[21:05:24] <Nakebod> achja, het kan erger.. oude konica minolta printermeuk had als wachtwoord 12345678, maarja, dat vonden ze niet veilig genoeg, moest langer...
+[21:05:31] <Nakebod> Dus nu is het 1234567812345678
+[21:05:42] <Nakebod> Want.. safety!
+[21:06:10] <tozzert> ghehe
+[21:07:54] <Jeroen> the nuclear football had in de tijd van clinton de code 0000
+[21:07:56] <Jeroen> dus ach
+[21:08:32] <Hooglander1> Nakebod: lijkt op ons wifi wachtwoord van HQ :X
+[21:08:36] <Hooglander1> Gelukkig recent veranderd
+[21:08:44] <Nakebod> hendig
+[21:08:57] <GekkePrutser> Lol@die printer
+[21:09:08] <Jeroen> naar 123456781234567812345678, Hooglander1? :+
+[21:09:17] <Nakebod> Niet te veilig he!
+[21:09:53] <Hooglander1> Jeroen: nu SSO
+[21:09:58] *** Quits: qlum (qlum@217.19.31.187) (Exit)
+[21:10:20] <Jeroen> met als wachtwoord 12345678? :+
+[21:10:53] *** Joins: qlum (qlum@217.19.31.187)
+[21:11:01] <GekkePrutser> WPA2 Enterprise  is juist sneller te kraken dan WPA2 TKIP
+[21:11:21] <GekkePrutser> Tenminste zoals het meestal geïmplementeerd wordt
+[21:11:30] <Nakebod> Zit wel een klein beetje waarheid in, meeste wachtwoorden zijn kort dus sneller te gokken, dus 16 chars is wel iets veiliger tegen dictionary attacks 
+[21:12:10] <GekkePrutser> Ja plus dat TKIP een 2048x hash bevat die het brute forcen veel langzamer maakt
+[21:12:55] <GekkePrutser> Bij Enterprise moet je een MSCHAPv2 handshake bruteforcen, dat is veel sneller
+[21:13:45] <GekkePrutser> Want voor elke poging met tkip moet je dus 2048 keer hashen
+[21:15:21] <kees> pff, 360000 mensen kijken hoe een watermeloen met elastiek gemold word
+[21:15:37] <Nakebod> En ik weet van niets :(
+[21:15:44] <kees> https://www.facebook.com/BuzzFeed/videos/vb.21898300328/10154535206385329/?type=2&theater
+[21:22:14] <Nakebod> http://jezuswatslecht.nl/aller-aller-aller-slechtste-woordgrappen/ Ik zou bijna zeggen jezus was slecht.. maar tering.. wat slecht!
+[21:24:02] <freebee666> g'avond
+[21:24:07] <Matthew> hoi
+[21:24:10] * Matthew is now listening to: Hooverphonic - Badaboum (Alle Farben Remix) - Radio Edit
+[21:24:14] <Matthew> <3
+[21:24:47] *** Quits: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776) (Ping timeout: 60 seconds)
+[21:25:10] *** Joins: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776)
+[21:27:14] *** Quits: Foxke (Mibbit@5ED02204.cm-7-1a.dynamic.ziggo.nl) (Exit)
+[21:32:40] <Jeroen> http://www.rtlz.nl/business/nyenrode-klaar-met-zuipende-drugsgebruikende-studenten
+[21:32:42] <Jeroen> nyenrode
+[21:32:44] <Jeroen> :')
+[21:33:46] *** Quits: Ziz`aw (Mibbit@129.253.243.10) (Ping timeout: 66 seconds)
+[21:33:53] <Hooglander1> Ik ken er twee die er gestudeerd hebben
+[21:33:59] <Hooglander1> Geen hele hoge pet van op
+[21:34:13] <Jeroen> terecht
+[21:34:23] <Jeroen> de belangrijkste toegangseis is of je de 20k wil ophoesten
+[21:36:09] <Hooglander1> Verder geen hele verkeerde gasten, maar het feit dat ze daar wél hun diploma haalden :+
+[21:36:30] <Jeroen> haha ja precies
+[21:38:45] <Hooglander1> Mgoe, prima loophole wat dat betreft
+[21:38:54] <Hooglander1> Zijn daarna prima terecht gekomen
+[21:39:35] <Jeroen> ik ben tegen loopholes :+
+[21:42:24] *** Joins: Sponge (Sponge@90-145-172-255.bbserv.nl)
+[21:44:09] *** Quits: Teckna1 (jonathan@52487D74.cm-4-1b.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[21:51:15] *** Quits: kees (kees@office.tweaknet.net) (Ping timeout: 66 seconds)
+[21:52:21] *** Joins: kees (kees@office.tweaknet.net)
+[21:53:32] *** Joins: Guyver2 (Guyver2@guyver2.xs4all.nl)
+[21:54:17] *** Quits: gakkethijs (gakkethijs@84-245-42-16.dsl.cambrium.nl) (Ping timeout: 60 seconds)
+[21:55:07] *** Joins: gakkethijs (gakkethijs@84-245-42-16.dsl.cambrium.nl)
+[21:56:10] *** Quits: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776) (Ping timeout: 61 seconds)
+[21:56:32] *** Joins: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776)
+[21:58:34] *** boekee is now known as boekee_away
+[22:01:04] <Hooglander1> Moet jij zeggen Jeroen 
+[22:01:12] <Jeroen> wat
+[22:01:19] <Hooglander1> Loopholes
+[22:01:24] <Jeroen> ?
+[22:01:27] <Hooglander1> Mister ik maak mijn vwo ergens anders af
+[22:01:40] <Jeroen> dat is een wet!
+[22:01:41] <Jeroen> :+
+[22:02:01] <Jeroen> van onze minister-president, nota bene
+[22:02:04] <Jeroen> hoe legit wil je het hebben
+[22:02:19] <Hooglander1> Blijft een loophole
+[22:04:10] <Jeroen> :<
+[22:06:39] *** Joins: marccom (marc@77-172-229-40.ip.telfort.nl)
+[22:07:05] <Jeroen> http://classiccampstoves.com/
+[22:07:06] <Jeroen> dat is een
+[22:07:07] *** Parts: marccom (marc@77-172-229-40.ip.telfort.nl) ()
+[22:07:08] <Jeroen> euh
+[22:07:10] <Jeroen> specifieke  hobby
+[22:07:11] <Jeroen> :D
+[22:07:12] <Stuiterbal> uhh
+[22:15:33] *** Joins: groentela (GroenteLa@213.154.252.196)
+[22:19:46] *** Joins: Vipertje (tweak@54182E79.cm-5-1a.dynamic.ziggo.nl)
+[22:24:03] *** Joins: Teckna (jonathan@3E91C80C.cm-13.dynamic.ziggo.nl)
+[22:27:01] *** moto-moi is now known as moto-moi|afk
+[22:27:03] *** Quits: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776) (Ping timeout: 61 seconds)
+[22:27:26] *** Joins: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776)
+[22:32:07] <tozzert> pijl en boog loopt idd iedereen mee jeroen
+[22:32:31] <tozzert> daarom ga ik niet met het OV
+[22:32:36] *** Joins: Francis (Francis@5468C56E.cm-12-1d.dynamic.ziggo.nl)
+[22:32:39] <tozzert> overal die bogen in je nek
+[22:32:59] <tozzert> fransieboi
+[22:33:06] <Jeroen> haha
+[22:33:19] <Francis> ohai
+[22:34:27] <tobias> Hooglander1: jijhier?
+[22:35:34] <Hooglander1> Yeah tobias 
+[22:35:36] <Hooglander1> Whats up
+[22:36:40] *** Joins: marccom (marc@77-172-229-40.ip.telfort.nl)
+[22:36:49] *** Parts: marccom (marc@77-172-229-40.ip.telfort.nl) ()
+[22:47:09] <DinX> moto-moi|afk, Robin http://teamrock.com/news/2016-01-29/heavycon-is-coming-to-london
+[22:47:17] <DinX> oud nieuws, maar had het nog niet gezien
+[22:50:45] <rawplayer> dinx o/
+[22:51:12] <DinX> e
+[22:53:14] <Dubbeldrank> woop
+[22:53:20] *** boekee_away is now known as boekee
+[22:53:27] <Dubbeldrank> spacex heeft een eerste geslaagde landing op het platform in zee
+[22:53:36] <Dubbeldrank> http://www.nasa.gov/multimedia/nasatv/
+[22:53:40] <Dubbeldrank> daar zie je hem staan
+[22:55:44] *** Quits: gakkethijs (gakkethijs@84-245-42-16.dsl.cambrium.nl) (Ping timeout: 66 seconds)
+[22:55:47] <Hooglander1> Ow
+[22:55:54] <Hooglander1> Wist niet dat ze weer een poging deden
+[22:56:10] <Dubbeldrank> 22:43
+[22:56:17] <Dubbeldrank> ging allemaal best snel
+[22:56:26] <Dubbeldrank> zijn straks vast nog wel wat herhalingen
+[22:56:34] <Dubbeldrank> was ook een mooie lancering, haast geen wolken
+[22:57:18] *** Joins: gakkethijs (gakkethijs@84-245-42-16.dsl.cambrium.nl)
+[22:58:24] *** Quits: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776) (Ping timeout: 61 seconds)
+[22:58:48] *** Joins: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776)
+[23:02:53] *** boekee is now known as boekee_away
+[23:03:59] <GekkePrutser> Ja ik heb het ook gekeken. Was mooi om te zien hoe uitzinnig ze waren. Veel leuker dan die super serieuze NASA
+[23:05:21] <GekkePrutser> Die naam van dat schip ook :') "Of course I still love you"
+[23:12:29] *** Quits: gakkethijs (gakkethijs@84-245-42-16.dsl.cambrium.nl) (Connection reset by peer)
+[23:16:41] *** Quits: Jeroen (Jeroen@54188FF8.cm-5-1c.dynamic.ziggo.nl) (Exit)
+[23:19:47] <Hooglander1> Beter dan boaty mcboatface
+[23:26:30] <tobias> GekkePrutser: hun andere droneship heet 'just read the instructions' :-)
+[23:27:13] <GekkePrutser> Ja echt humor
+[23:28:17] <GekkePrutser> Nerd cultuur FTW :D
+[23:29:09] <Francis> RTFM was leuker geweest
+[23:29:40] *** Quits: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776) (Ping timeout: 60 seconds)
+[23:30:04] *** Joins: PCR (pcr@2a02:a441:a99f:0:8c27:5fb4:5529:4776)
+[23:31:19] <kees> hoeveel kijkers hadden ze?
+[23:31:44] <kees> volgens mij keken er meer mensen naar 2 mensen die elastiekjes om een watermeloen deden
+[23:34:05] <GekkePrutser> Geen idee, dat werd niet vermeld. Of ik heb het gemist
+[23:34:40] <kees> naar die watermeloen keken er dus 800000
+[23:34:41] <GekkePrutser> Geen streaming problemen iig dus het zal wel meevallen :)
+[23:35:13] <GekkePrutser> Zonde van die bandbreedte
+[23:35:14] <Hooglander1> https://mobile.twitter.com/TrevorMahlmann/status/718543149791055873
+[23:35:18] <kees> naar spacex kijken er meestal maar zo'n 40-50k mensen
+[23:35:25] <Hooglander1> Gave landing
+[23:35:44] <Hooglander1> Hoeveel elastiekjes uiteindelijk kees
+[23:35:46] <kees> bah, mobile
+[23:35:56] <kees> 700-nogwat
+[23:36:28] <Hooglander1> Aardig wat
+[23:36:34] *** Quits: Francis (Francis@5468C56E.cm-12-1d.dynamic.ziggo.nl) (Connection reset by peer)
+[23:38:47] *** Joins: Tomsworld (tom@2a02:a03f:12c0:600:d412:9642:324:8ea6)
+[23:38:47] *** ChanServ sets mode: +o Tomsworld
+[23:38:53] *** Quits: Robin (robin@5419F052.cm-5-2d.dynamic.ziggo.nl) (Exit)
+[23:41:15] <Dubbeldrank> https://i.kinja-img.com/gawker-media/image/upload/mqomt32igu3nirewykcv.gif
+[23:41:25] <kees> whoops, ik ben per ongeluk op youtube weer in mijn tijperk gedoken
+[23:41:30] <kees> *tijdperk
+[23:41:30] *** Quits: Tomsworld (tom@2a02:a03f:12c0:600:d412:9642:324:8ea6) (Ping timeout: 60 seconds)
+[23:42:02] <kees> cranberries: zombie, 4 non blondes, R.E.M., no doubt etc
+[23:43:15] <tobias> kees: wut @ elastiekjes
+[23:43:22] <tobias> en dan wachten dat ie implodeert?
+[23:43:32] *** Quits: Sponge (Sponge@90-145-172-255.bbserv.nl) (Exit)
+[23:43:35] *** Joins: Tomsworld (tom@109.130.187.232)
+[23:43:35] *** ChanServ sets mode: +o Tomsworld
+[23:43:38] *** Quits: Smileface (alexander@25bc408b.ftth.concepts.nl) (Exit)
+[23:44:00] <kees> explodeer was het meer
+[23:44:04] <kees> ja, ik keek :/
+[23:44:32] <kees> http://www.buzzfeed.com/tasneemnashrulla/we-blew-up-a-watermelon-and-everyone-lost-their-freaking-min#.ago1Z44ZR
+[23:44:41] *** Quits: Tomsworld (tom@109.130.187.232) (Ping timeout: 60 seconds)
+[23:44:54] <kees> owh, 686 elastiekjes
+[23:47:34] <tobias> hahaha die cheer
+[23:47:36] <tozzert> kak
+[23:47:36] <tobias> HEEEEUUJJJ
+[23:47:38] <tobias> danku kees 
+[23:47:44] <tozzert> ik heb er maar 685

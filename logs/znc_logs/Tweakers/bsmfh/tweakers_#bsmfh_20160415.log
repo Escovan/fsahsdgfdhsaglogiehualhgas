@@ -1,0 +1,66 @@
+[01:06:41] <silverstorm> Nog bedankt Escovan
+[09:09:07] *** Joins: kees (kees@kees.tweakers.net)
+[09:18:58] *** Joins: tbosua (tbosua@office.hostnetbv.nl)
+[09:37:50] *** Joins: JGC (JGC@46.44.132.142)
+[09:42:36] *** Quits: JGC (JGC@46.44.132.142) (Connection reset by peer)
+[09:44:38] *** Joins: JGC (JGC@46.44.132.142)
+[09:47:21] <JGC> hmm, kut windows... gewoon zomaar ineens alles afsluiten, niks opgeslagen omdat dat kut OS een paar updates wil installeren terwijl ik net een flinke query heb zitten pennen in SQL management studio...
+[10:18:03] <Escovan> Plan je updates dan dude
+[10:18:25] <Escovan> Gewoon op 3:00 middennacht zetten, dan moet je toch slapen.
+[10:28:05] *** Joins: McM (mcm@92.69.216.139)
+[10:39:11] <AlBundy> eerste wat ik uitzet, automatische updates
+[10:39:19] <AlBundy> notify and let me decide when to install
+[11:10:23] <Escovan> Ja, in Windows 10 is het iets erger, je kunt alleen een vaste tijd, of overgeleverd aan de grillen van windows 10, of in een domein met WSUS, uit kan niet.
+[11:12:13] <Escovan> tja, je kan een domein opzetten en WSUS lekker niets laten doen, maar dat is omslachtig.
+[11:16:30] *** Quits: McM (mcm@92.69.216.139) (Ping timeout: 67 seconds)
+[11:17:47] *** Joins: McM (mcm@92.69.216.139)
+[11:29:30] <AlBundy> uit kan niet?
+[11:29:35] <AlBundy> challenge accepted
+[11:29:48] <AlBundy> iig, dat betekent voor mij dat Win10 absoluut geen optie gaat zijn
+[11:43:13] <Escovan> ja joh, blijf tot 2024 aan Win7 hangen tot ze daar ook de support voor stoppen :P
+[11:47:54] *** Quits: jk-5 (jk-5@D549D0E1.cm-10-1b.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[11:52:15] <AlBundy> nee ik stap gewoon van Windows af
+[11:52:24] <Escovan> Ghe
+[11:52:32] <Escovan> Dat heb ik ook al keer op keer gedaan
+[11:52:33] <AlBundy> mja, het voldoet niet meer aan mijn eiesen
+[11:52:42] <Escovan> En inderdaad, een Server draait bij mij linux
+[11:52:56] <Escovan> maar voor desktop is er zoveel Windows-only dat ik niet anders kan
+[11:52:59] <AlBundy> echt als ik automatische updates niet kan disablen, dan kan ik het niet draaien
+[11:53:31] <Escovan> Ja, in een domein, kun je WSUS gewoon laten wachten met de updates
+[11:53:35] <Escovan> Ad infinitum
+[11:53:36] <AlBundy> ligt aan de prioriteiten, voor elk Windows-only programma is een Linux of cross platform alternatief
+[11:53:44] <Escovan> Netflix?
+[11:53:46] <AlBundy> een domein is geen optie voor mijn standalone laptop
+[11:53:51] <AlBundy> popcorn time
+[11:53:56] <Escovan> illegaal
+[11:53:58] <AlBundy> en gewoon torrents
+[11:54:00] <AlBundy> lekker belangrijk
+[11:54:19] <Escovan> Voor mij wel, kan geen veroordeling of civiele zaak gebruiken tbh
+[11:54:28] <AlBundy> meer keuze, de mogelijkheid tot spelen overal
+[11:54:50] <AlBundy> ghe, dat zal me echt aan m'n reet roesten :p
+[11:55:52] *** Joins: jk-5 (jk-5@D549D0E1.cm-10-1b.dynamic.ziggo.nl)
+[11:55:57] <AlBundy> ik moet al zitten in Bavaria, Duitsland, prima, vermijd ik die plek lekker voor de komende paar jaar
+[11:56:38] <AlBundy> genoeg andere plekken waari k kan uithangen :p
+[12:03:45] *** Quits: McM (mcm@92.69.216.139) (Ping timeout: 66 seconds)
+[12:13:51] *** Joins: McM (mcm@92.69.216.139)
+[12:33:40] *** Quits: McM (mcm@92.69.216.139) (Ping timeout: 64 seconds)
+[12:34:05] *** Joins: McM (mcm@92.69.216.139)
+[12:41:20] <kees> netflix werkt ook prima onder linux hoor
+[13:03:27] *** Quits: McM (mcm@92.69.216.139) (Ping timeout: 66 seconds)
+[13:48:07] <AlBundy> An analyst looks at code in the malware lab of a cyber security defense lab at the Idaho National Laboratory in Idaho Falls, Idaho September 29, 2011. 
+[13:48:27] <AlBundy> bijschrift onder een foto van iemand die met een hex editor aan het kloten is
+[13:48:35] <AlBundy> http://s3.reutersmedia.net/resources/r/?m=02&d=20160414&t=2&i=1132791601&w=644&fh=&fw=&ll=&pl=&sq=&r=LYNXNPEC3D17M
+[13:56:36] <kees> hmjah, dat kan toch prima? :P
+[13:56:54] <kees> wel erg lege code met veel 00'en
+[14:06:14] <AlBundy> precies :p
+[14:51:24] <Escovan> kees, Ik ben helemaal geïnfecteerd op de desktop, heb OneNote en Skype gekoppeld aan mijn MS Account met Facebook ... No way dat dat similar werkt op *UX
+[14:55:10] <Escovan> Als ik iets in mijn Google Apps zet, helpt Windows mij herinnneren...
+[14:55:22] <Escovan> Echt, ik ben past the point of no return!
+[14:55:37] <Escovan> ¨Microsoft Certificate of Excellence¨ !!!!111
+[16:40:53] *** Quits: kees (kees@kees.tweakers.net) (Input/output error)
+[17:14:11] *** Parts: JGC (JGC@46.44.132.142) ()
+[17:31:44] *** Quits: tbosua (tbosua@office.hostnetbv.nl) (Exit)
+[18:34:42] <AlBundy> mja, proprietary programma's met proprietary protocols
+[18:34:48] <AlBundy> waardoor je vast zit aan een product
+[22:56:42] *** Joins: Tomsworld (tom@2a02:a03f:12c0:600:a440:a303:451d:78d6)
+[23:23:12] *** Joins: Aherin (Aherin@092-111-239-066.static.chello.nl)

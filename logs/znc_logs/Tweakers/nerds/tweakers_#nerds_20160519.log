@@ -1,0 +1,1343 @@
+[00:01:40] *** Quits: Guyver2 (Guyver2@guyver2.xs4all.nl) (Connection reset by peer)
+[00:02:21] <surrounder> !storingsdienst--
+[00:02:24] <digiweed> surrounder: Karma for storingsdienst is now: -138
+[00:02:48] <soeverein103> ik zou het herlabelen surrounder
+[00:02:48] <soeverein103> omdenken
+[00:02:57] <soeverein103> !piketdienst--
+[00:03:01] <digiweed> soeverein103: Karma for piketdienst is now: -2
+[00:03:07] <Sling> ik ga even een beetje afdenken
+[00:03:15] <Sling> aan de binnenkant van m'n ogen
+[00:03:40] <surrounder> daar was ik ook mee bezig ja
+[00:04:41] <Sling> nou sterkte ermee, ik neem het wel van je over
+[00:05:50] <surrounder> :)
+[00:05:52] <surrounder> Sling: nn man
+[00:06:15] <soeverein103> Sling: ken je ook nie ff die storingsdienst van 'm over nemen?
+[00:06:40] <Sling> nou
+[00:06:51] <soeverein103> Beste tilde / nee / groet sling?
+[00:06:57] <Sling> ik kan niet zeggen dat ik het jammer vind dat ik geen storingsdienst meer heb
+[00:07:04] <Sling> dus daar ga ik dan nog maar even een nachtje over slapen
+[00:13:00] *** Quits: Tomsworld (tom@2a02:a03f:2698:3700:c90:e42a:4d09:1059) (Ping timeout: 60 seconds)
+[00:15:10] *** Joins: Tomsworld (tom@251.168-66-87.adsl-dyn.isp.belgacom.be)
+[00:34:59] *** Quits: grid (grid@dhcp-089-099-194-232.chello.nl) (Ping timeout: 66 seconds)
+[00:35:11] *** Quits: Fermata (stefan@5.157.82.116) (Ping timeout: 68 seconds)
+[00:35:16] *** Quits: Sling (Sling@1.0.0.127.in-addr.nl) (Ping timeout: 64 seconds)
+[00:35:39] *** Quits: Mrwazig (mrwazoo@h102136.upc-h.chello.nl) (Connection reset by peer)
+[00:35:54] *** Joins: Mrwazig (mrwazoo@h102136.upc-h.chello.nl)
+[00:35:55] *** Quits: digiweed (supybot@solar.opperschaap.net) (Ping timeout: 60 seconds)
+[00:36:04] *** Quits: justaguy (justaguy@justaguy.nl) (Ping timeout: 60 seconds)
+[00:37:38] *** Joins: Fermata (stefan@5.157.82.116)
+[00:37:45] *** Joins: Sling (Sling@1.0.0.127.in-addr.nl)
+[00:38:05] *** Joins: justaguy (justaguy@justaguy.nl)
+[00:39:59] *** Joins: digiweed (supybot@solar.opperschaap.net)
+[00:47:02] *** Joins: kooljarigd (koolaid@2a02:a212:280:1c00:f982:6d6c:1cdc:e955)
+[00:53:21] *** Quits: Tomsworld (tom@251.168-66-87.adsl-dyn.isp.belgacom.be) (Ping timeout: 66 seconds)
+[00:58:21] *** Quits: Sling (Sling@1.0.0.127.in-addr.nl) (Ping timeout: 61 seconds)
+[00:59:52] *** Quits: justaguy (justaguy@justaguy.nl) (Ping timeout: 60 seconds)
+[01:02:25] *** Joins: Sling (Sling@1.0.0.127.in-addr.nl)
+[01:03:50] *** Joins: justaguy (justaguy@justaguy.nl)
+[01:16:23] *** Quits: klaveRCX (michiel@klaver.it) (Ping timeout: 66 seconds)
+[01:16:34] *** Joins: klaveRCX (michiel@klaver.it)
+[01:25:13] *** Quits: kooljarigd (koolaid@2a02:a212:280:1c00:f982:6d6c:1cdc:e955) (Client exited)
+[02:09:22] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Ping timeout: 60 seconds)
+[02:31:53] *** Quits: WvdL (uid21241@id-21241.ealing.irccloud.com) (Exit)
+[03:47:30] *** Quits: zwiep (zwiep@d54c03c0d.access.telenet.be) (Ping timeout: 61 seconds)
+[03:57:07] *** Joins: zwiep (zwiep@d54c03c0d.access.telenet.be)
+[06:38:51] <Fermata> Mogge
+[08:03:26] *** Joins: Tomsworld (tom@2a02:a03f:2698:3700:da:ccb4:a54e:8148)
+[08:05:50] *** Quits: Tomsworld (tom@2a02:a03f:2698:3700:da:ccb4:a54e:8148) (Ping timeout: 65 seconds)
+[08:05:51] *** Joins: kooljarigd (koolaid@2a02:a212:280:1c00:458e:7f1f:e201:3290)
+[08:18:23] *** Joins: WvdL (uid21241@id-21241.ealing.irccloud.com)
+[08:18:46] *** Quits: Steff (quassel@trinity.msrv.nl) (Ping timeout: 60 seconds)
+[08:19:00] *** Joins: Steff (quassel@trinity.msrv.nl)
+[08:24:03] * Fermata deelt koffie uit
+[08:24:06] <Fermata> Stelletje slackers
+[08:29:18] <WvdL> Morguhh
+[08:29:28] <rawplayer> kooljarigd: o/
+[08:29:31] <rawplayer> Fermata: o/
+[08:29:33] <rawplayer> WvdL: o/
+[08:29:38] <kooljarigd> SHIT :(
+[08:29:39] *** kooljarigd is now known as koolaid
+[08:29:45] <koolaid> back to normality :(
+[08:30:16] <koolaid> ns die IO keynote gluren
+[08:30:33] <rawplayer> koolaid: !!!!!
+[08:31:23] <rawplayer> 50 push jerks (50kg), 40 push jerks (40kg), 30 strict press (30kg), 20 hand release push ups, 10x bw dips 
+[08:31:26] <rawplayer> dat was gister
+[08:31:31] <rawplayer> nu neem ik 2 rust
+[08:31:37] <koolaid> wij gingen
+[08:31:46] <rawplayer> en zaterdag wat squatten en 300 reps 24kg american swing
+[08:31:54] <koolaid> 10 burpies, 2x atlas steen over de nek smijten, 9 burpies ... t/m 1
+[08:31:57] <WvdL> oi rawplayer 
+[08:32:04] <rawplayer> nice
+[08:32:09] <rawplayer> hoeveel kg steen?
+[08:32:13] <koolaid> daarna met 15 kilo schijf 500m wandelen met gestrekte armen boven hoofd
+[08:32:15] <koolaid> 43
+[08:32:20] <rawplayer> chill
+[08:32:27] <koolaid> fucking burpies :(
+[08:32:29] <rawplayer> ja
+[08:32:34] <rawplayer> iedereen haat ze
+[08:32:36] <rawplayer> echt IEDEREEN
+[08:32:39] <koolaid> en daarna nog wat buikspiershit met die schjf
+[08:32:58] <rawplayer> soort van situps met gestrekte armen?
+[08:33:17] <rawplayer> lekker man
+[08:33:41] <koolaid> nou die schijf naast je aantikken
+[08:33:43] <koolaid> en dan andere kant
+[08:33:45] <koolaid> 100x
+[08:33:55] <koolaid> en liggen, schijf omhoog houden en dan 100x benen in en uit trekken
+[08:34:15] <rawplayer> haha
+[08:34:17] <rawplayer> :/
+[08:34:18] <koolaid> en nog een bult halve burpies
+[08:34:24] <rawplayer> fikt he
+[08:34:27] <rawplayer> in je pens
+[08:34:28] <rawplayer> :p
+[08:34:38] <koolaid> 'hoe oud ben je geworden? dan doen we zoveel halve burpies'
+[08:34:47] <rawplayer> lol
+[08:34:48] <rawplayer> xD
+[08:35:01] <koolaid> maar hij schatte me dan wel weer 8 jaar jonger in o/
+[08:36:57] <justaguy> Ik werd net wakker
+[08:37:04] <bReChThOu> hi nerds
+[08:37:07] <justaguy> schoolbel ging al 7 minuten geleden
+[08:37:08] <rawplayer> koolaid: jij cheater
+[08:37:16] <justaguy> wat kut.
+[08:37:24] <koolaid> nee ik was natuurlijk Eerlijk ™
+[08:37:53] <rawplayer> uiteraard
+[08:39:46] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[08:53:23] <soeverein103> mogs
+[08:54:27] * bReChThOu paast de 103 een tasje koffie
+[08:55:21] <soeverein103> dank u dank
+[08:55:24] <soeverein103> hartelijk dank
+[08:55:31] <soeverein103> appreciated
+[08:55:34] <bReChThOu> de nada
+[08:55:34] <soeverein103> thank you
+[08:55:38] <bReChThOu> i get it
+[08:55:47] <soeverein103> 1000x dank!
+[08:55:58] <soeverein103> je weet niet half hoe blij ik hiermee ben
+[08:56:08] * bReChThOu neemt de koffie af
+[08:56:13] <soeverein103> pech
+[08:56:14] <soeverein103> al op
+[08:56:16] <bReChThOu> :(
+[08:56:16] <soeverein103> MUAHAHAHAH
+[08:56:34] <bReChThOu> snoodaard103
+[08:58:26] <soeverein103> justaguy: fap ze: https://rms.sexy/img/
+[08:58:28] <digiweed> Title: Index of /img/ (at rms.sexy)
+[09:10:15] <surrounder> mogguh
+[09:12:09] <rawplayer> fapfap
+[09:12:17] <rawplayer> het gaat over fappen en surrounder is er weer
+[09:12:29] <surrounder> ow
+[09:13:03] *** Quits: koolaid (koolaid@2a02:a212:280:1c00:458e:7f1f:e201:3290) (Client exited)
+[09:13:53] *** Joins: koolaid (koolaid@2a02:a212:280:1c00:e895:f3d1:fe66:f13e)
+[09:15:31] <rawplayer> koolaid: “The Wallball” 20/14#
+[09:15:31] <rawplayer> Compare to 3-11-14
+[09:15:31] <rawplayer> 5 Wallball Box jumps 24/20′
+[09:15:31] <rawplayer> 7 Wallball Squat Clean
+[09:15:31] <rawplayer> 9 Wallball Sit Up
+[09:15:33] <rawplayer> 11 Wallball
+[09:15:36] <rawplayer> Competition Group: Same
+[09:15:38] <rawplayer> die is vandaag
+[09:15:41] <rawplayer> maar haal ik niet
+[09:15:43] <surrounder> gelukkig heb je rust
+[09:15:45] <rawplayer> ja
+[09:15:47] <rawplayer> 2 dagen!!!
+[09:15:58] <rawplayer> tempel herstellen
+[09:16:31] <koolaid> wallball?
+[09:16:38] <koolaid> koffie
+[09:16:40] <rawplayer> ja
+[09:16:40] <koolaid> ja, goed idee
+[09:16:47] <rawplayer> 20lbs medicijn bal
+[09:16:47] <surrounder> !koffie++
+[09:16:51] <surrounder> mooi spul is het
+[09:16:51] <digiweed> surrounder: Karma for koffie is now: 1811
+[09:18:22] <rawplayer> ja
+[09:18:26] <rawplayer> ik kan er ook uren naar kijken
+[09:18:29] <rawplayer> ingelijst
+[09:18:35] <rawplayer> onder het genot van een kopje thee
+[09:19:13] * bReChThOu paast de surrounder een lekker tasje koffie
+[09:19:21] <rawplayer> och jonges
+[09:19:29] <rawplayer> niks is lekkerder dan koffie drinken uit een jumbo tasje
+[09:20:11] <surrounder> bReChThOu: thanks maat!
+[09:22:39] <bReChThOu> o_O
+[09:23:00] * bReChThOu schenkt  koffie in een uitgeholde paardenschedel voor rawplayer
+[09:23:04] <bReChThOu> hier jongen, een kop koffie
+[09:24:14] <SJ> mogge
+[09:24:21] <surrounder> SJ! o//
+[09:24:24] * surrounder paast de SJ een mok koffie
+[09:24:30] <SJ> surrounder: o//
+[09:24:33] <SJ> lekkah
+[09:29:22] <WvdL> TIMO!
+[09:29:26] <WvdL> surrounder:  *brofist*  
+[09:29:37] <surrounder> WILLEM!
+[09:29:40] <surrounder> WvdL: *brohoof*
+[09:31:50] <SJ> ola WvdL 
+[09:32:01] <WvdL> oj SJ
+[09:55:13] <rawplayer> !ei++
+[09:55:15] <digiweed> rawplayer: Karma for ei is now: 248
+[09:57:48] *** Quits: int3nz0r (int3nz0r@541A8E1B.cm-5-3c.dynamic.ziggo.nl) (Exit)
+[10:03:27] <syf_> o/
+[10:05:51] *** Joins: int3nz0r (int3nz0r@ip5653bc1b.direct-adsl.nl)
+[10:15:20] *** Quits: int3nz0r (int3nz0r@ip5653bc1b.direct-adsl.nl) (Exit)
+[10:17:17] *** Joins: TNO (TNO@52D9D0A2.cm-11-1d.dynamic.ziggo.nl)
+[10:19:46] <surrounder> http://www.nu.nl/wetenschap/4263820/vrouwelijke-wolfspin-eet-mannetje-niet-als-hij-cadeau-meebrengt-.html - hehe
+[10:19:49] <surrounder> syfje! \\o
+[10:21:43] <AlBundy> http://img.izismile.com/img/img9/20160518/1000/daily_gifdump_1065_22.gif
+[10:26:54] <surrounder> "Jammer genoeg ben ik niet opzoek naar een kleine telefoon." - over een ding van 5" 
+[10:26:58] <surrounder> /o\
+[10:28:15] <Fermata> Size matters
+[10:28:27] <surrounder> Fermatatatatata o//
+[10:28:31] * surrounder paast de Fermata een mok koffie
+[10:28:36] <Fermata> WAT
+[10:28:38] <Fermata> Oh koffie.
+[10:28:38] <Fermata> Dank
+[10:28:39] <Fermata> <3
+[10:29:45] * bReChThOu paast de Fermata een watermeloen
+[10:29:57] <bReChThOu> om in z'n geheel ergens in te brengen.
+[10:30:09] <AlBundy> dealextreme altijd begroet mij in e-mails met: Beste 4053905,
+[10:30:25] <Escovan> Wat een aparte voornaam heb jij
+[10:30:29] <AlBundy> shit dat was wel erg slecht nederlands
+[10:30:58] <AlBundy> op 1 of andere manier maakte ik de zin in het Engels en schreef dat in het Nederlands uit
+[10:31:25] <Escovan> Happens to me mij alle tijd
+[10:31:25] <AlBundy> anyway, escape room overleefd gisteren
+[10:31:30] <AlBundy> het was minder erg dan ik dacht
+[10:31:55] <Fermata> bReChThOu: challenge accepted.
+[10:32:05] <Fermata> Maar hij past met gemak in de kofferbak.
+[10:32:07] <Fermata> Van m'n auto.
+[10:32:12] <Fermata> inb4 o noem je je reet zo
+[10:32:18] <AlBundy> haha 
+[10:32:29] <bReChThOu> :D
+[10:32:41] <AlBundy> noem je je moeder zo?
+[10:32:56] <surrounder> :(
+[10:33:28] <Fermata> Even niet, AlBundy.
+[10:34:17] <AlBundy> http://tweakers.net/ext/f/WOJmlhAyWpujX1KEUaFGak86/full.jpg
+[10:34:39] <Fermata> http://www.nu.nl/wetenschap/4263820/vrouwelijke-wolfspin-eet-mannetje-niet-als-hij-cadeau-meebrengt-.html -- typisch vrouwen
+[10:34:47] <surrounder> Fermata: hoi Dubbeldrank 
+[10:35:05] <Fermata> "De vrouwtjesspinnen raken waarschijnlijk afgeleid door het cadeautje en 'vergeten' daarom het mannetje te verorberen." -- net zoals de vrouw vergeet te schelden over de omhoogstaande toiletbril als je een bos bloemen meebrengt
+[10:35:09] <Fermata> surrounder: oh
+[10:35:10] <Fermata> oh sorry
+[10:35:19] <surrounder> het is je vergeven
+[10:35:39] <Fermata> Gelukkig
+[10:35:48] <Fermata> Anders had ik mijzelf ritueel moeten ophangen.
+[10:38:50] <surrounder> hmmtaart
+[10:39:06] <Fermata> noem je je moeder zo?
+[10:39:11] <Fermata> ^ AlBundy 
+[10:39:21] <surrounder> mgiiiiiiiiiihiiiiiiiiiiiiii
+[10:41:06] <AlBundy> http://www.comicsy.co.uk/andrewscaife/wp-content/blogs.dir/140/files/2016/04/Promo.jpg
+[10:49:15] <syf_> een 5" foon is klein?
+[10:49:18] <syf_> ok dan
+[10:49:28] <surrounder> bizar he
+[10:49:33] <Fermata> Ja, is ook
+[10:49:36] <Fermata> Ik wil niet meer terug naar 5"
+[10:49:42] <Fermata> Het went snel, althans, voor mij
+[10:49:52] <bReChThOu> 5" ftw
+[10:49:55] <surrounder> ik zou 't liever iets kleiner hebben
+[10:49:59] <bReChThOu> groter is te groot en kleiner is te klein
+[10:51:48] <syf_> 4" is echt ideaal imo voor een foon, anders pak ik wel een laptop of een tablet
+[10:52:14] <syf_> VOOR MIJ DAN
+[10:52:39] <surrounder> syf_: aye, same
+[10:52:43] <surrounder> tussen 4" en 5"
+[10:53:05] <syf_> yup
+[10:53:11] <bReChThOu> haha ja of je stopt een 55" tv in je broekzak
+[10:55:24] <syf_> hahaja
+[10:55:28] <WvdL> 5" voor mij
+[10:55:31] <surrounder> :D;d;d;D:d;;xDxDddxD;l:D
+[10:55:36] <WvdL> vind mijn hudige 5.5"net iets te groot
+[10:55:37] <AlBundy> ja ik vind 5" al te groot
+[10:55:44] * bReChThOu unzips
+[10:55:45] <WvdL> kan 80% bereiken ofzo met mijn duim
+[10:55:47] <AlBundy> maar er zijn geen fatsoenlijke 4,5 inch toestellen
+[10:56:09] <AlBundy> al die flagshipmodellen zijn 5,5
+[10:56:11] <WvdL> bReChThOu heeft een fatsoenlijke 4.5"zo te zien
+[10:56:16] <bReChThOu> :')
+[10:56:17] <syf_> AlBundy: iphone se
+[10:56:25] <syf_> maar danz it je idd met een iphone
+[10:56:26] <AlBundy> ik had het over fatsoenlijk spul
+[10:56:28] <AlBundy> geen crapple
+[10:56:33] <AlBundy> of cripple
+[10:56:34] <surrounder> haha hij zegt crapple :D:D:D:D
+[10:56:40] <surrounder> even grappig als M$
+[10:56:41] <Fermata> haha :卐 
+[10:56:44] <surrounder> :D:D:D;;;D::D;x;x;D
+[10:56:46] <AlBundy> cripple crapple cruisje
+[10:56:46] <bReChThOu> :')
+[10:57:06] <Fermata> We knabbelt er aan je luisje?
+[10:57:08] <AlBundy> maak kennis met m'n vuisje
+[10:57:15] <surrounder> haha kom dan
+[10:57:37] <SJ> !apple++
+[10:57:40] <digiweed> SJ: Karma for apple is now: -11
+[10:57:41] <SJ> !iphone++
+[10:57:43] <Fermata> !apple++
+[10:57:44] <digiweed> SJ: Karma for iphone is now: -1
+[10:57:45] <Fermata> !iphone++
+[10:57:46] <digiweed> Fermata: Karma for apple is now: -10
+[10:57:48] <digiweed> Fermata: Karma for iphone is now: 0
+[10:57:57] <AlBundy> !apple--
+[10:57:58] <digiweed> AlBundy: Karma for apple is now: -11
+[10:58:31] <SJ> AlBundy: 1,5 maand geleden wilde je m'n macbook nog overnemen, hoe zit dat? :>
+[10:58:34] <syf_> al die foons zijn toch allemaal hetzelfde uiteindelijk, net andere omgeving
+[10:58:38] <syf_> so what
+[10:58:41] <syf_> SJ: lol
+[10:58:41] <AlBundy> omdat macbooks best goed zijn
+[10:58:46] <surrounder> !w10m++
+[10:58:47] <AlBundy> mag ik nog wel een hekel aan apple hebben
+[10:58:50] <digiweed> surrounder: Karma for w10m is now: 4
+[10:58:51] <AlBundy> ik zal nooit een cent aan ze uitgeven
+[10:59:04] <syf_> wat maakt apple zo slecht tov samsung oid?
+[10:59:12] <WvdL> geen idee
+[10:59:12] <AlBundy> zijn 1 van de belangrijkste spelers in het uitroeien van general purpose computing
+[10:59:13] <SJ> nee, want google is heel veel beter!
+[10:59:21] <surrounder> GOOGLE!
+[10:59:24] <surrounder> DON'T BE EVIL! :D:D:D;d;d;:
+[10:59:27] <AlBundy> het gaat niet om wat beter is
+[10:59:28] <WvdL> ik kan alleen niet met apple omgaan
+[10:59:29] <AlBundy> google is ook kut
+[10:59:36] <syf_> surrounder: quote uit 2000 ofzo? :P
+[10:59:38] <WvdL> en ik vind de prijs/kwaliteit ahrdware beetje spaak
+[10:59:52] <surrounder> syf_: geen idee, zoiets
+[10:59:53] <SJ> AlBundy: veel plezier dan met je nokia 3310 :>
+[11:00:22] <SJ> WvdL: mwah, niet mee eens 
+[11:00:39] <WvdL> hoef je ook niet mee eens te zijn :+
+[11:00:47] <SJ> WvdL: koop eens een Sony Vaio, zelfde verhaal 
+[11:00:58] <syf_> of een X of T series thinkpad
+[11:01:02] <AlBundy> lol nee ik heb een oneplus x met cyanogenmod
+[11:01:04] <WvdL> ik heb nu ook een 'overprized' dell xps :P
+[11:01:08] <syf_> kost ook duur in valuta gezien
+[11:01:28] <AlBundy> toestel met open bootloader, vrijheid om erop te zetten wat ik wil
+[11:01:36] <SJ> het is cutting edge hardware, in een ontzettend kleine, lichte en dunne vorm 
+[11:01:37] <surrounder> windows 10?
+[11:01:38] <surrounder> haha nee
+[11:01:47] <WvdL> 4k 15" scherm.. beetje overkill imo
+[11:01:56] <WvdL> en touch screen :')
+[11:01:59] <SJ> WvdL: lol
+[11:02:11] <AlBundy> mijn dell xps kostte 1100 euro
+[11:02:16] <AlBundy> vond ik verre van overpriced voor wat erin zat
+[11:02:33] <WvdL> mjah ik wou klein, robuust en snel
+[11:02:41] <AlBundy> voor een mac met similar specs betaalde ik ruim het dubbele
+[11:02:47] <WvdL> mac air formaat..
+[11:02:50] <AlBundy> nou ja, ik zelf niet, mijn werkgever dan :p
+[11:03:05] <SJ> AlBundy: appels en peren 
+[11:03:12] <syf_> AlBundy: een dell xps is dan ook niet vergelijkbaar met een macbook pro
+[11:03:17] <WvdL> opg ereedschap meot je niet bezuinigen
+[11:03:52] <WvdL> waarom niet trouwens? :D
+[11:04:03] <WvdL> als je nieuwe laptop zoekt ga je toch 'vergelijken' 
+[11:04:05] <AlBundy> mijn Dell XPS is de enige laptop die goed te vergelijken was met mijn MBP
+[11:04:19] <AlBundy> hij was beter in bijna elk opzicht behalve dat er Windows op stond
+[11:04:38] <SJ> AlBundy: en hoe oud was die MBP toen je je XPS kocht ? 
+[11:04:50] <AlBundy> de XPS kocht ik voor de mbp
+[11:04:56] <AlBundy> 2 jaar daarvoor ofzo
+[11:05:09] <WvdL> http://www.itpro.co.uk/laptops/21797/macbook-pro-15in-v-dell-xps-15-head-to-head-review-4
+[11:05:10] <SJ> hmm, dat kan ik me bijna niet voorstellen 
+[11:05:12] <AlBundy> oh nee, niet eens
+[11:05:20] <AlBundy> 1 jaar verschil max
+[11:05:27] <bReChThOu> verstappen?
+[11:05:39] <AlBundy> want ik kocht hem bij de werkgever die ik verliet voor Snow
+[11:06:00] <WvdL> die review vind ze gelijkwaardig.. alleen dan komt het op designkeuze uit
+[11:06:22] <WvdL> "WINNER: Draw - Apple and Dell have created beautiful machines with superb build quality. The MacBook is the more recognisable of the two machines, but the XPS is thinner and lighter." 
+[11:07:01] <Fermata> Je moet nog wel even door de rest van de negen pagina's heen he
+[11:07:28] * bReChThOu aait Fermata met een korg
+[11:07:36] <AlBundy> dat is pagina 1, WvdL 
+[11:07:54] <Fermata> "So which machine is best for business?
+[11:07:55] <Fermata> The downside of the MacBook is the high price and lack of serviceability so it’s best suited to small businesses, sole traders or firms with BYOD policies. Maybe when the prices drop even further, it’ll become more attractive, but by then the MacBook 2016 iteration will offer even more goodies for everyone.
+[11:08:00] <Fermata> The XPS is available in cheaper configurations, is more customisable and upgradable so is better suited to large deployments.
+[11:08:02] <Fermata> But if we had to pick one of these machines we’d opt for the MacBook.
+[11:08:50] <WvdL> mjah krijg je ook zulek redenen  " Apple’s OS has better apps, tighter security and works better on high-end hardware. And the MacBook can also run Windows if you need its enterprise features. "
+[11:09:09] <WvdL> is voor mij niet echt relevant
+[11:09:14] <AlBundy> de 2 redenen die ik heb om eem macbook te verkiezen boven een normale laptop is niet de extra 1000 euro waard
+[11:09:21] <Fermata> tl;dr Neem mee wat je kunt gebruiken en negeer de rest.
+[11:09:21] <WvdL> en neigt naar subjective
+[11:09:37] <WvdL> daarom
+[11:09:56] <WvdL> ze zijn vrij gelijkwaardig, alleen persoonlijke vorokeuren doen wssnlijk 1 van de 2 wel doorslaan naar jouw vorokeur
+[11:10:06] <AlBundy> maar misschien moet ik naar een hackintosh-compatible machine op zoek
+[11:10:14] <syf_> Fermata: grappig dat ze zeggen dat de serviceability slecht is van een macbook en dus een downside voor businesses..
+[11:10:18] <Fermata> Smeerlapperij.
+[11:10:20] <Fermata> syf_: ja, as if hè
+[11:10:27] <syf_> want je kan a) een business contract hebben met apple voor onderhoud
+[11:10:38] <AlBundy> het geluid van die XPS is trouwens echt subliem
+[11:10:40] <syf_> en dan krijg je zelfs een vervangende laptop
+[11:10:44] <AlBundy> hij kan superhard en heeft een vol geluid
+[11:10:44] <syf_> of b) gewoon even langslopen bij de applestore
+[11:10:49] <syf_> probeer dat maar eens met dell
+[11:10:51] <AlBundy> iedereen is er altijd verbaasd over als ze het horen
+[11:10:53] <surrounder> !dell++
+[11:10:56] <digiweed> surrounder: Karma for dell is now: 18
+[11:10:59] <Fermata> AlBundy: mja
+[11:11:07] <Fermata> Echt geluid haal ik niet uit laptopspeakers.
+[11:11:21] <AlBundy> mja, deze was destidjs prima vervanging voor soundsystem
+[11:11:29] <Fermata> Dan had je een crappy soundsystem
+[11:11:34] <AlBundy> ik wilde geen tv of versterkers en speakersin huis
+[11:11:40] <AlBundy> dus dit moest mijn complete entertainmentsystem zijn
+[11:11:44] <WvdL> en dat wat Fermata zegt, voor geluid ehb ik gene laptop :P
+[11:11:54] <syf_> ^
+[11:11:57] <AlBundy> ik luisterde hier muziek op, keek films, en iedereen keek ervan op hoe goed het klinkt
+[11:11:58] <syf_> geluid is sowieso kut uit laptops
+[11:12:03] <Fermata> Daar heb ik monitors voor.
+[11:12:04] <AlBundy> behalve dus die XPS 
+[11:12:08] <AlBundy> supergeluid
+[11:12:12] <WvdL> heb daarvoor een bluetooth box, AlBundy  :P
+[11:12:14] <syf_> zelfs met goede headphones heb je nog iets als een schiit stack nodig voor goed geluid
+[11:12:14] <Fermata> Hoe goed het klinkt relatief aan andere laptops.
+[11:12:40] <Fermata> Maar voor zakelijke laptops is de verstaanbaarheid van Skypecalls oid het belangrijkste geluid
+[11:12:43] <syf_> AlBundy: je kan geen "supergeluid" hebben uit zulke speakers
+[11:12:44] <AlBundy> ok het feit dat als je het op een feestje gebruikt als main speakers
+[11:12:46] <Fermata> * Doorgaans
+[11:12:50] <AlBundy> in de huiskamer bijv
+[11:12:50] <syf_> Fermata: idd
+[11:12:55] <AlBundy> dat niemand het als vervelend ervaart
+[11:12:58] <syf_> dat is fysiek onmogelijk namelijk
+[11:13:26] <WvdL> ben geen audiofiel.. maar boxen in laptop zijn geen succes ;[
+[11:13:32] <bReChThOu> speakers in laptops & monitors zouden ze moeten verbieden
+[11:13:33] <AlBundy> mja, behalve dus die in de xps
+[11:13:38] <Fermata> Ik ben ook geen audiofiel, maar ik heb wel goede oren.
+[11:13:38] <AlBundy> die speakers zijn echt awesome
+[11:13:42] <bReChThOu> ga toch fietsen
+[11:13:50] <AlBundy> ik stond er zelf van te kijken omdat ik er net zoveel van geloofde als jullie
+[11:13:51] <WvdL> ikheb dus een XPS.. maar nee, nog steeds niet AlBundy  :SD
+[11:13:53] <WvdL> :D
+[11:13:57] <bReChThOu> ik ben ook geen homofiel, maar ik hou wel van goede audio
+[11:14:04] <syf_> lees: <AlBundy> ik kan een huiskamer vullen met geluid uit mijn XPS, zo luid!
+[11:14:05] <Fermata> bReChThOu: ik ben wel homofiel en ik houd van je.
+[11:14:08] <bReChThOu> <3
+[11:14:15] <syf_> dat iets hard kan wil niet zeggen dat t goed geluid is he
+[11:14:20] <AlBundy> mja, was de L502x
+[11:14:25] <AlBundy> syf_: vol, hard geluid
+[11:14:28] <AlBundy> met een bas enzo
+[11:14:37] <Fermata> Ik zou wel eens een frequentieresponsgrafiekje willen zien.
+[11:14:44] <surrounder> in bundyville is dat de enige geluidsbron
+[11:14:47] <AlBundy> lekker belangrijk
+[11:14:56] <Fermata> surrounder: gedeeld!
+[11:14:58] <AlBundy> een grafiekje kan je niet horen
+[11:14:59] <surrounder> want wat moet je ook met feiten
+[11:15:00] <Fermata> Hele kamer gevuld voor iedereen.
+[11:15:12] <Fermata> AlBundy: een grafiekje is nauwkeuriger dan ieder oor.
+[11:15:16] <Fermata> Ook dat van alle audiofielen
+[11:15:16] <WvdL> iets met kinderhandjes snel gevuld..Fermata 
+[11:15:17] <AlBundy> ja dus waardeloos
+[11:15:20] <WvdL> allemaal subjectief :+
+[11:15:21] <surrounder> hahaha
+[11:15:28] <surrounder> Fermata: WAARDELOOS HOOR JE!
+[11:15:32] <surrounder> wat weet die Fermata nou van muziek
+[11:15:34] <Fermata> Nee ik hoor het niet!
+[11:15:34] <AlBundy> het gaat erom hoe je het ervaart als je erbji bent
+[11:15:38] <Fermata> Want die speakers zijn zo kut!
+[11:15:40] <AlBundy> niet wat het grafiekje zegt
+[11:15:54] <Fermata> Ik ervaar het waarschijnlijk als drie keer kut, maar ik heb andere eisen
+[11:15:59] <WvdL> de eerste keer dat ik trompetten hoorde uit een pc box.. ipv midi deutnejs
+[11:16:03] <WvdL> wat een beleving :+
+[11:16:07] <Fermata> :D
+[11:16:12] <WvdL> en dat op 4wat speakertjes..
+[11:16:17] <AlBundy> :D
+[11:16:40] <WvdL> gewoon settlers 2 niet verder doorklikken dan menu
+[11:16:46] <WvdL> want anders stopte dat muziek
+[11:16:51] <WvdL> subliem toen..  
+[11:16:57] <AlBundy> :D
+[11:17:06] <AlBundy> settlers 2 heeft awesome muziekje
+[11:17:22] <AlBundy> sample van nog geen minuut volgens mij, eindeloos repeterend, nooit vervelend
+[11:17:34] <Fermata> Super Mario Galaxy heeft ook mooie muziek
+[11:17:39] <AlBundy> nooit gespeeld
+[11:17:51] <Fermata> Je hebt wat gemist.
+[11:18:11] *** Joins: grid (grid@dhcp-089-099-194-232.chello.nl)
+[11:20:11] <syf_> "het gaat erom hoe je het ervaart als je erbji bent" <-- waar heb ik dat vaker gezien...
+[11:20:19] <syf_> oh met, Bose, die doen ook niet aan grafiekjes.
+[11:20:23] <syf_> want het gaat om de ervaring
+[11:20:28] <AlBundy> ja zo is het ook
+[11:20:48] <AlBundy> Als je het prima vindt klinken, is het toch goed? 
+[11:21:22] <AlBundy> ik snap dat nooit, van dat gezeik, koopt men speakers, men is tevreden, dan leest men ineens reviews over hoe slecht het is, of 'vrienden' roepen dat het een kutmerk is
+[11:21:29] <Fermata> Hoe kan je persoonlijke ervaring meten met feiten?
+[11:21:35] <AlBundy> en dan is het ineens huilen geblazen
+[11:21:56] <AlBundy> "Oh ik heb troep gekocht, maar ik had het nooit geweten/gehoord als niemand het verteld had"
+[11:22:35] <bReChThOu> als mensen mij dat zeggen sla ik ze gewoon op hun gezicht
+[11:22:38] <bReChThOu> bakkes houden lul
+[11:22:44] <AlBundy> mijn ouders hebben een Bose 321, iedereen die het niet gehoord had had zijn mening al klaar
+[11:22:55] <AlBundy> maar als ik bij mijn ouders film kijk, klinkt het meer dan prima voor mij
+[11:23:16] <AlBundy> en voor hen is het ook voldoende
+[11:23:21] <syf_> AlBundy: maar zo kun je ook een beats by dre op je kop zetten en zeggen klinkt goed!
+[11:23:25] <syf_> want veel bass enzo
+[11:23:33] <AlBundy> wie daarvan houdt, moet dat lekker doen
+[11:23:49] <Fermata> En degene die kritisch is, moet dát lekker doen.
+[11:23:51] <syf_> moeten ze zeker doen, maar wil niet zeggen dat het goed geluid is.
+[11:23:57] <Fermata> Zonder gezegd te krijgen dat de ervaring alles is wat telt.
+[11:23:57] <surrounder> :D:D
+[11:24:03] <AlBundy> ik zou nooit een merk kopen dat bouwt op de naam van een bekendheid
+[11:24:05] <Fermata> Goddorie zeg
+[11:24:14] <AlBundy> goed is relatief
+[11:25:20] <AlBundy> als iemand op een feestje ofzo gaat zeiken dat-ie wat kleine details mist die hij op zijn eigen speakers wel hoort, mag die lekker thuis gaan luisteren, meer bier voor de rest
+[11:25:35] <bReChThOu> ^ wat een kutfeestjes
+[11:25:41] <surrounder> geen commentaar op de audio in bundyville
+[11:25:51] <AlBundy> gelukkig heb ik niet zulke vrienden \o/
+[11:26:00] <bReChThOu> uberhaupt geen zeker
+[11:26:03] <syf_> surrounder: lol
+[11:26:03] <surrounder> s/niet zulke/geen/
+[11:26:11] <surrounder> bReChThOu: ^5
+[11:26:20] <bReChThOu> :D
+[11:26:22] <AlBundy> :')
+[11:26:24] <bReChThOu> v5
+[11:26:31] <AlBundy> een paar
+[11:26:33] <AlBundy> meer dan genoeg iig
+[11:27:21] <AlBundy> ben ook behoorlijk goede vrienden met mezelf
+[11:27:45] <syf_> ik ook
+[11:27:55] <syf_> je kan immers alleen op jezelf bouwen in het leven
+[11:27:57] <bReChThOu> vieze fappers
+[11:27:57] <AlBundy> da's belangrijker dan de rest
+[11:28:08] <AlBundy> als je geen vrienden met jezelf kan zijn, kan je met niemand vrienden zijn
+[11:28:17] <surrounder> wat een fucking gelul weer
+[11:28:22] <Fermata> !surrounder++
+[11:28:26] <digiweed> Fermata: Karma for surrounder is now: 1138
+[11:28:43] <Fermata> Straks krijgen we weer dat IRC geen echt sociaal contact is.
+[11:28:44] <surrounder> tegeltjeswijsheid geemmer
+[11:28:47] <surrounder> kan die kerel niet uit?
+[11:28:48] <syf_> :D :D
+[11:28:49] <syf_> !surrounder++
+[11:28:52] <digiweed> syf_: Karma for surrounder is now: 1139
+[11:29:03] <syf_> net of je de libelle aan het lezen bent
+[11:29:06] <AlBundy> beetje grijs gebied, Fermata 
+[11:29:06] <syf_> goddamn
+[11:29:09] <surrounder> lol
+[11:29:11] <surrounder> !syf++
+[11:29:14] <digiweed> surrounder: Karma for syf is now: 382
+[11:29:15] <Fermata> Minus de Tena Lada-advertorials
+[11:29:30] <Fermata> Tena Lada.  Russische maandverbandjes
+[11:29:30] <surrounder> brb, even mediteren
+[11:29:54] <syf_> :D
+[11:30:06] <Fermata> surrounder: vergeet je yogamatje niet
+[11:30:11] <AlBundy> het is wel opmerkelijk, dat we communiceren met levende wezens dmv dode apparaten
+[11:30:22] <Fermata> Het is prachtig.
+[11:30:23] <AlBundy> het creeert een afstand
+[11:30:24] <Fermata> !irc++
+[11:30:28] <digiweed> Fermata: Karma for irc is now: 13
+[11:30:28] <Fermata> Veel vrienden mee gemaakt
+[11:30:32] <syf_> AlBundy: dat werkt ook gewoon met signalen, net als wij
+[11:30:36] <surrounder> ow nee niet dit weer
+[11:30:37] <syf_> weinig verschil!
+[11:30:43] <AlBundy> syf_: een hele hopo verschil
+[11:30:44] <surrounder> was 't de vorige keer ook AlBundy of ohm ofzo?
+[11:30:48] <AlBundy> het feit dat als je meti emand in gesprek bent
+[11:30:55] <AlBundy> letterlijk, tegenover elkaar staand
+[11:30:55] <syf_> en maar volhouden dat hij geen linkse rakker is he
+[11:30:56] <Fermata> Ohm, of polichism?
+[11:30:58] <Fermata> Of een andere knakker
+[11:31:52] <AlBundy> dan heb je een uitwisseling van woorden, van energie, je kan elkaar in de ogen kijken
+[11:32:06] <AlBundy> je lichaam en geest reageren daarop
+[11:32:12] <Fermata> Ik zie nu surrounders hoofd en gezichtsuitdrukkingen bij de tekst
+[11:32:16] <AlBundy> anders dan via dode apparaten
+[11:32:19] <Fermata> Same met appy, Nox, Aim
+[11:34:26] * SJ facepalms 
+[11:34:38] <surrounder> ahahahaha
+[11:35:12] <WvdL> begint ie weer met dode apparaten en afstand
+[11:35:20] <syf_> vroeger was het veel beter allemaal
+[11:35:21] <AlBundy> ja
+[11:35:24] <AlBundy> aanraking is belangrijk man
+[11:35:26] <WvdL> #1 zijn geen dode apapraten.. ze hebben nooit geleefd
+[11:35:27] <syf_> voordat er telefoons waren
+[11:35:29] <AlBundy> en elkaar in de ogen kunnen kijken
+[11:35:34] <AlBundy> levenloos dan, semantics
+[11:35:39] <surrounder> want het is of/of natuurlijk
+[11:35:43] <Fermata> Ik heb surrounder innig gestreeld de laatste keer.
+[11:35:46] <Fermata> Hij weet het alleen niet.
+[11:35:49] <Fermata> Nou ja, nu wel.
+[11:35:51] <WvdL> afstand is wat je zelf 'toevoegd' 
+[11:35:57] <syf_> samen gaan crossfitten... dat is belangrijk
+[11:36:04] <surrounder> syf_: wat is je wod?
+[11:36:09] <SJ> 1. 'goed geluid uit een laptop', voor 'een laptop misschien'. 2. sinds de fucking holbewoners communiceren we op afstand
+[11:36:25] <surrounder> !SJ++
+[11:36:27] <AlBundy> een deel van de communicatie, ja
+[11:36:29] <digiweed> surrounder: Karma for SJ is now: 155
+[11:36:30] <syf_> voornamelijk zitten surrounder, 10 uur lang ofzo
+[11:36:36] <syf_> krijg je een goede ass van
+[11:36:38] <Fermata> Klinkt topteks
+[11:36:42] <AlBundy> maar meeste vindt/vond nog altijd plaats tussen mensen die bij elkaar zitten of staan
+[11:36:44] <surrounder> syf_: shake that moneymaker!
+[11:36:48] <syf_> SJ: lolol
+[11:37:00] <syf_> idd
+[11:37:06] <SJ> AlBundy: want, je irc-t nu met je collega's over wie er koffie gaat halen? 
+[11:37:23] <SJ> het is een toevoeging op, geen vervanging van 
+[11:37:25] <AlBundy> ik praat altijd direct met mijn collega's
+[11:37:28] <AlBundy> dan loop ik er effe heen
+[11:37:33] <SJ> juist!
+[11:37:39] <surrounder> wat is ie ook sociaal he
+[11:37:39] <AlBundy> en ik haal mijn eigen koffie
+[11:37:50] <Fermata> AlBundy: klinkt als moeite
+[11:37:50] <SJ> surrounder: ^^ toch niet 
+[11:37:53] <surrounder> hehehe
+[11:37:53] <SJ> :>
+[11:37:55] <AlBundy> moeite is cool
+[11:37:58] <AlBundy> moeite is rewarding
+[11:38:03] <syf_> ik vind dat best vervelend als mensen langslopen
+[11:38:03] <AlBundy> beter gezegd
+[11:38:08] <syf_> ipv mailen of chatten
+[11:38:27] <AlBundy> heb ik andersom
+[11:38:42] <SJ> Heel #nerds word met goud overladen en krijgt 72 maagden in het hiernamaals, de moeite van het luisteren is immers rewarding!
+[11:38:45] <surrounder> AlBundy is dan ook een speciaal uniek sneeuwvlokje
+[11:38:59] <AlBundy> als iemand op kantoor een IM stuurt vraag ik ze altijd of ze effe langs kunnen lopen
+[11:39:14] <AlBundy> tenzij er log files ofzo uitgewisseld moeten worden :p
+[11:39:17] <syf_> door langs te lopen vraag je direct op dat moment aandacht van die persoon
+[11:39:21] <AlBundy> juisat
+[11:39:22] <surrounder> die logs printen ze dan maar uit
+[11:39:22] <Fermata> SJ: wel luisteren via je laptopspeakers he
+[11:39:23] <AlBundy> zo hoort dat
+[11:39:24] <syf_> dat is irritant
+[11:39:26] <Aim> mogguh 
+[11:39:30] <AlBundy> nietm ijn zorg
+[11:39:41] <AlBundy> ik loop alleen langs als hetn odig is
+[11:39:42] <surrounder> het belang van AlBundy boven alles
+[11:39:46] <SJ> Fermata: uiteraard, want da's goed!
+[11:39:49] <syf_> surrounder: dat is wel anders dan in bundyville
+[11:39:59] <syf_> daar is het hippie gebeuren, hier is het albundy eerst
+[11:40:05] <surrounder> eigen bundy eerst!
+[11:40:07] <AlBundy> ?
+[11:40:14] <surrounder> iedereen gelijk maar bundy wat gelijker
+[11:40:15] <SJ> dat is niet mijn bundy, vriend 
+[11:40:19] <surrounder> lol
+[11:40:37] <SJ> :>
+[11:40:37] <syf_> lol
+[11:41:19] <SJ> AlBundy: je hebt jezelf weer aardig vastgeluld. Stop er nou gewoon mee man :) 
+[11:41:30] <syf_> AlBundy gaat liever ook fysiek langs een server als ie iets moet doen, dat is persoonlijker, geen remote admin voor deze gast
+[11:41:33] <AlBundy> ik zie niet in hoe ik me zou kunnen vastlullen
+[11:41:35] <AlBundy> ik leg gewoon uit wat ik vind
+[11:41:39] <AlBundy> en heo ik dingen ervaar
+[11:41:49] <bReChThOu> piemel tussen de deur = vastgeluld
+[11:41:50] <surrounder> !syf++
+[11:41:50] <AlBundy> het is geen discussie, iig niet van mijn kant
+[11:41:53] <digiweed> surrounder: Karma for syf is now: 383
+[11:42:11] <SJ> ja, maar je doet dat door jezelf tegen te spreken 
+[11:42:16] <Fermata> Nee, eerder een monoloog zonder einde
+[11:42:19] <Fermata> Of lijn
+[11:42:19] <Fermata> Of punt.
+[11:42:22] <Fermata> (Zie, punt.)
+[11:42:28] <AlBundy> dat jij het ziet als tegenspreken betekent dat je het niet begrjipt
+[11:42:34] <surrounder> lol
+[11:42:35] <AlBundy> mogelijk doordati k het niet goed heb uitgelegd
+[11:42:35] <SJ> aha!
+[11:42:40] <SJ> DAT IS HET! :>
+[11:43:30] <SJ> IM: "Hoi, kun jij ff kijken naar ticket xyz, staat al best lang open" "Loop even langs" 
+[11:43:32] <syf_> mooi dan kunnen we nu verder
+[11:43:37] <SJ> .... ?
+[11:43:44] <Sling> "Ja ik bel je even want ik heb je net gemailed"
+[11:43:53] <SJ> Sling: argh 
+[11:43:55] <syf_> ^
+[11:43:58] <surrounder> haha
+[11:44:00] <SJ> Sling: ik had ooit zo'n figuur
+[11:44:04] <AlBundy> SJ: je snapt zelf ook wel dat ik bij zo'n vraag gewoon effe naar het ticket kijk :p
+[11:44:06] <syf_> ik loop gewoon langs want fuck jou focus!
+[11:44:15] <surrounder> syf_: niet jouw zorg, immers
+[11:44:22] <WvdL> focus is overrated
+[11:44:26] <AlBundy> idfd
+[11:44:32] <SJ> AlBundy: nouja, weet je, je zei 'altijd' 
+[11:44:38] <AlBundy> ik stoor nooit iemand in z'n focus
+[11:44:39] <Sling> "Ja ik bel je even want ik liep langs en je collega's zeiden dat je thuis aan t werken was"
+[11:44:41] <WvdL> als jij het niet kan zonder diepe focus, dan maak je het te ingewikkeld
+[11:44:42] <Sling> !mensen--
+[11:44:46] <WvdL> je moet meer agile werken man
+[11:44:46] <digiweed> Sling: Karma for mensen is now: -242
+[11:44:48] <AlBundy> ja utizonderingen bevestigen de regel
+[11:44:51] <WvdL> aldus een manager
+[11:44:52] <WvdL> :+
+[11:44:59] <syf_> WvdL: lol
+[11:45:02] <Sling> agile ontslaan zou ik zeggen
+[11:45:14] <WvdL> agile was voor hem.. iedereen moet gelijk springenw anneer er gesprongen moet worden
+[11:46:02] <NoxiousPluK> http://imgur.com/gallery/Cl0bk
+[11:46:04] <digiweed> Title: Useful spongebob pics - Album on Imgur (at imgur.com)
+[11:46:59] <NoxiousPluK> of meer: http://imgur.com/gallery/zjtwv
+[11:47:02] <digiweed> Title: Someone thought we wanted SpongeBob title cards... - Album on Imgur (at imgur.com)
+[11:47:26] <surrounder> jongens, ik voel echt een afstand nu we zo communiceren via dode media
+[11:48:01] <syf_> ik ook
+[11:48:08] <syf_> misschien hebben we allemaal een hug nodig
+[11:48:18] <AlBundy> "Load remaining 103 images"
+[11:48:28] <NoxiousPluK> howaboutno.jpg
+[11:48:29] <AlBundy> ja, 7 knuffels per dag voor een gelukkig leven
+[11:48:37] <appy> 12
+[11:48:41] <AlBundy> 12 zelfs?
+[11:48:41] <appy> 5
+[11:48:46] <appy> iedereen zegt wat anders :P
+[11:48:52] <appy> maar
+[11:48:53] <appy> !knuffels++
+[11:48:56] <AlBundy> mja, gewoon zorgen dat je er een paar per dag krijgt \o/
+[11:48:57] <digiweed> appy: Karma for knuffels is now: 23
+[11:49:01] <appy> uhuh
+[11:49:13] <AlBundy> !bonding++
+[11:49:15] <digiweed> AlBundy: Karma for bonding is now: 1
+[11:49:15] <NoxiousPluK> haha knuffels
+[11:49:18] <NoxiousPluK> :p
+[11:49:24] <NoxiousPluK> !bondage++
+[11:49:26] <NoxiousPluK> idd AlBundy 
+[11:49:27] <digiweed> NoxiousPluK: Karma for bondage is now: 1
+[11:49:28] * NoxiousPluK rent
+[11:49:30] <AlBundy> ik mis mijn Spaanse collega 
+[11:49:43] <appy> xD
+[11:49:50] <AlBundy> als hij naar mijn bureau kwam, legdeh ij altijd zijn handen op mijn schouders
+[11:49:51] <AlBundy> masseerde lichtjes
+[11:50:04] <AlBundy> in Spanje is dat normaal
+[11:50:16] <AlBundy> lopen bevriende mannen ook gewoon hand in hand soms
+[11:50:26] <AlBundy> daar snappen ze het \o/
+[11:50:35] <NoxiousPluK> ik doe dat ook altijd met surrounder hoor
+[11:50:42] <surrounder> okdoei
+[11:50:52] <bReChThOu> ey JAPY
+[11:51:02] <AlBundy> goed, effe roken
+[11:51:03] <surrounder> NoxiousPluK: mja da's gewoon bruut erotisch
+[11:51:12] <bReChThOu> haha ja of elkaar ff pijpen #noohmo
+[11:51:19] <bReChThOu> #typo
+[11:51:25] <surrounder> mgiihiii
+[11:51:26] <bReChThOu> sorry voor de HL Ohm
+[11:51:32] <surrounder> lol
+[11:51:34] <surrounder> !bReChThOu++
+[11:51:36] <digiweed> surrounder: Karma for bReChThOu is now: 434
+[11:53:17] <Fermata> Nou ja, kijk, eerst was de afstand zo: |-------|
+[11:53:33] <Fermata> En toen legde NoxiousPluK z'n handen op m'n schouders en was het meer zo: |-----------------------------|
+[11:53:53] <Fermata> Dat IRC is ook maar raar
+[11:53:59] <Sling> |/\/\/\/\/\/\/\/\/\/\/| is langer
+[11:54:07] <Fermata> You should know
+[11:54:21] <NoxiousPluK> oi breggie
+[11:54:29] <syf_> "als hij naar mijn bureau kwam, legdeh ij altijd zijn handen op mijn schouders"
+[11:54:45] <NoxiousPluK> hoi Fermattie :3
+[11:54:49] <NoxiousPluK> trouwen?
+[11:54:52] <Fermata> Ongewenste intimiteiten, minimaal.
+[11:54:55] <Fermata> NoxiousPluK: nog liever met appy dan
+[11:54:56] <surrounder> syf_: soms handen, soms z'n pielemuis
+[11:54:59] <NoxiousPluK> ow ok
+[11:55:02] <NoxiousPluK> ow
+[11:55:03] <NoxiousPluK> ok
+[11:55:05] <NoxiousPluK> ok Fermata 
+[11:55:07] <NoxiousPluK> ok
+[11:56:07] <NoxiousPluK> nice: https://i.imgur.com/eZYIWF5.jpg
+[11:56:30] <surrounder> nee
+[11:57:18] <NoxiousPluK> ow
+[11:57:52] <Fermata> Baas van vader aan de telefoon: "Ha, Harry! Zeg, kan jij..."'
+[11:58:03] <Fermata> 'Ik ben Stefan, z'n zoon, kan ik iets doorgeven?'
+[11:58:12] <Fermata> "Naaaaah, je bent precies je vader aan de telefoon!"
+[11:58:14] <Fermata> Fuck's sakes
+[11:58:17] <surrounder> hehe
+[11:58:18] <Fermata> !telefoon--
+[11:58:20] <digiweed> Fermata: Karma for telefoon is now: -18
+[11:58:24] <Fermata> !bellen--
+[11:58:28] <digiweed> Fermata: Karma for bellen is now: -29
+[11:58:28] <surrounder> Fermata: ja, is zo onpersoonlijk
+[11:58:38] <Fermata> Beter raak je elkaar aan he
+[11:59:15] <NoxiousPluK> :D
+[11:59:37] <Fermata> Voor de gespreksdynamiek
+[11:59:39] <surrounder> ik zit het liefst bij m'n klanten op schoot
+[11:59:43] <Fermata> Maar dat snappen jullie niet.
+[11:59:47] <Fermata> surrounder: same
+[12:00:00] <Fermata> Heb jij bij je klanten niet de introductory blowjob?
+[12:00:10] <Fermata> Of is dat weer "te gay", jij onpersoonlijk homofoob?
+[12:00:11] <Fermata> Hm?
+[12:00:13] <Fermata> HM?
+[12:00:15] <Fermata> NOU SURROUNDER?
+[12:00:18] <Fermata> HÈ?!
+[12:00:20] <surrounder> het spijt me :(
+[12:00:40] <surrounder> hangt eigenlijk voornamelijk van de SLA af
+[12:00:42] <Fermata> NoxiousPluK: dat is toch bedroevend
+[12:00:44] <Fermata> :D
+[12:00:56] <NoxiousPluK> hm wat wie wat wie waar wat
+[12:01:06] <NoxiousPluK> Fermata: ik zou het even aan justaguy vragen
+[12:01:10] <Fermata> 99,9% uptime or <strike>gtfo</strike> blowjob
+[12:01:22] <NoxiousPluK> nice
+[12:01:33] * NoxiousPluK zet z'n servers uit
+[12:01:34] <NoxiousPluK> waneer?
+[12:01:42] <Fermata> bReChThOu, neem dit even over
+[12:01:47] <justaguy> NoxiousPluK: wat?
+[12:01:50] <NoxiousPluK> wat?
+[12:02:04] <surrounder> watwatwat
+[12:02:10] <appy> !wat de dat++
+[12:02:14] <digiweed> appy: Karma for wat de dat is now: 1
+[12:02:52] <justaguy> !wat
+[12:02:55] <digiweed> justaguy: "wat" : http://i.imgur.com/Bdh4kIu.jpg
+[12:04:57] <AlBundy> http://img-9gag-fun.9cache.com/photo/ab0NyoE_460s_v1.jpg
+[12:05:28] <t4rt4rus> lol
+[12:05:58] *** the_Ye-Ti changes topic to 'welkom | 2016-07-16 bĂ»rrel103'
+[12:06:26] <NoxiousPluK> wat
+[12:06:40] <surrounder> yeti!
+[12:06:56] <the_Ye-Ti> \o rounder
+[12:07:03] <the_Ye-Ti> is Sling al bijna jarig?
+[12:07:42] <surrounder> al geweest toch
+[12:08:13] <the_Ye-Ti> uhm ow
+[12:09:51] <the_Ye-Ti> danmaar even koffiezetten
+[12:13:14] <syf_> :D
+[12:17:49] <NoxiousPluK> https://www.youtube.com/watch?v=j5qkHj8GE1k
+[12:17:52] <digiweed> Title: Deadmau5 - Somewhere Up Here (1080p) || HD - YouTube (at www.youtube.com)
+[12:18:02] <NoxiousPluK> dat is echt zo'n fucking fijn nummer
+[12:18:05] <NoxiousPluK> !Deadmau5++
+[12:18:07] <digiweed> NoxiousPluK: Karma for Deadmau5 is now: 8
+[12:18:11] <surrounder> !Deadmau5++
+[12:18:16] <digiweed> surrounder: Karma for Deadmau5 is now: 9
+[12:18:17] <surrounder> np Karnivool - Sewn and Silent 
+[12:18:20] <surrounder> !karnivool++
+[12:18:23] <digiweed> surrounder: Karma for karnivool is now: 20
+[12:18:44] <Fermata> !meer dan één scherm hebben++
+[12:18:47] <digiweed> Fermata: Karma for meer dan één scherm hebben is now: 1
+[12:19:38] <NoxiousPluK> dit lijkt mij wat voor jou surrounder: http://store.steampowered.com/app/289090/?snr=1_7_7_ut2_150_1
+[12:19:42] <digiweed> Title: Save 90% on Ampu-Tea on Steam (at store.steampowered.com)
+[12:20:16] <surrounder> lolwat
+[12:22:26] <bReChThOu> çwat
+[12:22:29] <bReChThOu> !wat
+[12:22:29] <digiweed> bReChThOu: "wat" : http://i.imgur.com/Bdh4kIu.jpg
+[12:22:49] <surrounder> EGEENZINMEER
+[12:25:08] *** Quits: t4rt4rus (t4rt4rus@s559686af.adsl.online.nl) (Client exited)
+[12:27:33] *** Joins: t4rt4rus (t4rt4rus@s559686af.adsl.online.nl)
+[12:30:31] <Fermata> surrounder: op naar huis!
+[12:30:33] <Fermata> Of lunch
+[12:30:57] <surrounder> lunch zo
+[12:31:00] <surrounder> hmmmlunch
+[12:32:15] <Fermata> Ik moet eigenlijk nog een setje speakers hebben
+[12:32:27] <Fermata> Maar dat bewaar ik tot morgen wel, dit discussiepunt :+
+[12:33:25] <surrounder> mac inruilen voor een dell!
+[12:33:31] <surrounder> superspeakers!
+[12:34:49] <surrounder> jaa lunchtijd
+[12:36:20] <NoxiousPluK> uh
+[12:36:33] <NoxiousPluK> Microsoft beweerd dat ik een enterprise license heb van visual studio 2015
+[12:36:35] <NoxiousPluK> nou
+[12:36:37] <NoxiousPluK> da's fijn :3
+[12:36:40] <NoxiousPluK> dat wist ik zelf nog niet
+[12:49:02] <the_Ye-Ti> vs++
+[12:49:23] <NoxiousPluK> ja ik gebruik alweer jaren de community editie
+[12:49:37] <NoxiousPluK> en nu zegt ie ineens dat ik een enterprice licentie heb en click to upgrade
+[12:49:39] <NoxiousPluK> !wat
+[12:49:43] <digiweed> NoxiousPluK: "wat" : http://i.imgur.com/Bdh4kIu.jpg
+[12:49:58] <NoxiousPluK> mogelijk omdat ik in insider programma zit, of de licentie die ik ooit bij Xella had was gekoppeld aan mn prive mailadres en die hebben ze geupgrade?
+[12:50:03] <NoxiousPluK> ik heb geen flauw idee
+[12:50:04] <the_Ye-Ti> enterprize
+[12:50:32] <bReChThOu> yeti o/
+[12:50:47] <the_Ye-Ti> \o Brecht-Hou
+[12:52:37] <nomadz> misschien heb je wel perongeluk op crack.exe geduwd
+[12:52:40] <the_Ye-Ti> NoxiousPluK: heb je dan nu ook msdn?
+[12:56:05] <NoxiousPluK> goeie vraag
+[12:56:17] <NoxiousPluK> ff zien 
+[12:57:11] <AlBundy> https://i.imgur.com/n2D3sKe.jpg
+[12:58:26] <NoxiousPluK> the_Ye-Ti: nope
+[12:58:35] <NoxiousPluK> lol AlBundy 
+[12:59:01] <NoxiousPluK> wel als ik inlog met de account van een oud-collega :+
+[12:59:38] <NoxiousPluK> die z'n all lowercase 6-letter password wat bij vrijwel iedere dictionary attack zou falen nog nooit heeft veranderd in de 10 jaar sinds ik daar gewerkt heb
+[13:01:53] <WvdL> welkom    ?
+[13:02:04] <NoxiousPluK> zoiets
+[13:02:11] <WvdL> geheim  !
+[13:02:24] <arvid> zoiets
+[13:02:42] <NoxiousPluK> maar het multi-domain-wide administrator password was 2fast4u dusja :p
+[13:03:01] <NoxiousPluK> en dat bij een fortune 500 bedrijf met 20k medewerkers worldwide
+[13:03:11] <NoxiousPluK> oh en gewoon op 'administrator' he
+[13:03:11] <bReChThOu> :''''''''''''''''''''')
+[13:03:18] <bReChThOu> :''''''''''''''''''''')
+[13:03:58] *** Quits: grid (grid@dhcp-089-099-194-232.chello.nl) (Ping timeout: 61 seconds)
+[13:09:41] <NoxiousPluK> the_Ye-Ti: oh
+[13:09:43] <NoxiousPluK> heb wel MSDN
+[13:10:28] * surrounder boert bReChThOu zachtjes in z'n oog
+[13:10:34] <syf_> zo jij werkte voor een fortune 500?
+[13:10:36] <bReChThOu> hmmmmmmmmmmm
+[13:10:51] <bReChThOu> bedoel je niet MSN japy ?
+[13:11:03] <Sling> ik werk bij een fortune 100 bedrijf!
+[13:11:18] <surrounder> ik werk bij een bedrijf!
+[13:11:20] <bReChThOu> ^^ N o X i O u S @ P l u K ^^ zegt: hoe ist het?
+[13:11:22] <bReChThOu> lekker met japy msn'en
+[13:11:24] <surrounder> lol
+[13:11:26] <surrounder> !bReChThOu++
+[13:11:29] <digiweed> surrounder: Karma for bReChThOu is now: 435
+[13:11:33] <Sling> oh fortune 50 zelfs
+[13:11:41] <Sling> doet ING goed
+[13:11:53] <SJ> banken zijn evil 
+[13:11:54] <syf_> centerpoint? atrium?
+[13:12:32] <syf_> !msn--
+[13:12:36] <digiweed> syf_: Karma for msn is now: 1
+[13:12:37] <syf_> !icq++
+[13:12:40] <digiweed> syf_: Karma for icq is now: 3
+[13:12:56] <rawplayer> !ms lync++
+[13:13:01] <digiweed> rawplayer: Karma for ms lync is now: 1
+[13:13:10] <surrounder> syf_: accepteer je m'n superdudes invite nog?
+[13:13:17] <syf_> lol
+[13:13:30] <Sling> onee, 91 in 2015
+[13:15:14] <surrounder> Sling: ben za. helaasch niet v/d partij
+[13:15:32] <Sling> noo
+[13:15:57] <surrounder> /o\
+[13:17:28] <rawplayer> wat is er zaterdag?
+[13:18:40] <surrounder> van die dingen
+[13:18:45] <syf_> woop woop
+[13:18:49] <syf_> !dingen++
+[13:18:53] <digiweed> syf_: Karma for dingen is now: 37
+[13:19:31] <the_Ye-Ti> on a need-to-know basis
+[13:19:55] <rawplayer> ah, incrowd antinerdsmeeting i guess
+[13:20:23] <surrounder> ja, 't is een complot
+[13:20:44] <surrounder> http://arstechnica.com/cars/2016/05/turbulent-times-for-formula-1-engines-result-in-unprecedented-efficiency-gains/ - :)
+[13:20:46] <digiweed> Title: Turbulent times for Formula 1 engines result in unprecedented efficiency gains | Ars Technica (at arstechnica.com)
+[13:24:25] <rawplayer> surrounder: daar ga ik ook vanuit
+[13:24:38] <surrounder> wijs
+[13:31:57] <syf_> WOOT WOOT
+[13:32:03] <syf_> waar is die fissa dan
+[13:32:35] <surrounder> ernm!
+[13:42:13] *** Quits: wirky (werken@ip503c7f23.speed.planet.nl) (Ping timeout: 60 seconds)
+[13:46:27] <AlBundy> https://youtu.be/AVXY8OEZAEQ
+[13:46:29] <digiweed> Title: The story behind the wallpaper well never forget - YouTube (at youtu.be)
+[13:49:01] <Fermata> https://scontent-ams3-1.xx.fbcdn.net/v/t1.0-9/13237648_1717927771758612_2412841585125757990_n.jpg?oh=417358faf664384659df2a7f03ee1502&oe=57D7F871 -- misschien nsfw
+[13:50:35] *** Joins: mexxus (martinvd@217.67.252.69)
+[13:51:54] <surrounder> !gaar--
+[13:51:56] <digiweed> surrounder: Karma for gaar is now: -38
+[13:54:39] *** Quits: mexxus (martinvd@217.67.252.69) (Exit)
+[14:05:39] <AlBundy> http://i.imgur.com/Zb2s5Fi.gifv
+[14:08:26] <AlBundy> http://imgur.com/BaGsqtm
+[14:08:28] <digiweed> Title: Happy Ending - Imgur (at imgur.com)
+[14:16:25] <surrounder> allemaal gefeliciteerd met theo he!
+[14:16:30] <surrounder> !theo++
+[14:16:32] <digiweed> surrounder: Karma for theo is now: 37
+[14:16:46] <AlBundy> https://i.imgur.com/IUqgcbr.webm
+[14:24:28] <syf_> surrounder: jij ook he
+[14:24:31] <syf_> gefeliciteerd met theo
+[14:24:35] <surrounder> dank je!
+[14:25:40] <surrounder> !theo++
+[14:25:42] <digiweed> surrounder: Karma for theo is now: 38
+[14:27:38] *** Quits: koolaid (koolaid@2a02:a212:280:1c00:e895:f3d1:fe66:f13e) (Client exited)
+[14:32:11] <mimic> http://i.imgur.com/sCs7jph.jpg
+[14:32:37] <surrounder> hrhr
+[14:35:08] <mimic> http://i.imgur.com/meswwyF.jpg\
+[14:36:31] *** Joins: grid (grid@dhcp-089-099-194-232.chello.nl)
+[14:43:00] <syf_> huehuehuehue
+[14:44:42] <nomadz> is theo jarig
+[14:44:43] <nomadz> of dood?
+[14:45:10] <surrounder> jarig
+[14:45:19] <syf_> welke theo :(
+[14:45:19] <Sling> https://www.youtube.com/watch?v=IbCJsNjMbmM
+[14:45:22] <digiweed> Title: Jiskefet - Theo legt het nog één keer uit. - YouTube (at www.youtube.com)
+[14:45:37] <surrounder> syf_: de raadt natuurlijk
+[14:45:45] <syf_> ow
+[14:45:47] <syf_> dat is wel een baas
+[14:46:16] <Dubbeldrank> karma voor Theo
+[14:46:26] <Dubbeldrank> RIP
+[14:46:36] <surrounder> Dubbeldraak!
+[14:46:40] <Dubbeldrank> sup?
+[14:46:43] * surrounder paast de Dubbeldrank een mok koffie
+[14:46:45] <surrounder> mutt
+[14:46:46] <Dubbeldrank> lekker
+[14:46:51] <Dubbeldrank> was ik wel aan toe
+[14:47:02] <surrounder> rook ik al ja
+[14:47:53] <Dubbeldrank> jonge jonge, wat heeft Noiseblocker mij toch weer een mooie 120mm fan geleverd!
+[14:48:04] <syf_> openbsd logos worden wel steeds lelijker
+[14:48:09] <syf_> "jij ook"
+[14:48:13] <syf_> dd o/
+[14:48:13] <SJ> Dubbeldrank heeft wel hele kleine fans 
+[14:48:15] <nomadz> surrounder ook
+[14:48:21] <surrounder> correct
+[14:48:22] <syf_> Dubbeldrank: moet je niet aan de noctua fans
+[14:48:25] <surrounder> Dubbeldrank: ja? heb je een fan?
+[14:48:35] <SJ> van 120mm zegt-ie toch 
+[14:48:51] <SJ> Meet je dat met of zonder puntmuts?
+[14:49:04] <surrounder> witte puntmuts
+[14:49:06] <surrounder> wit laken om
+[14:49:19] <Dubbeldrank> vind jij vleeskleurige lingerie mooi syf_?
+[14:49:58] <SJ> hmmm
+[14:50:01] <SJ> vleesch 
+[14:50:29] <syf_> nee maar wel fans :P
+[14:50:38] <Dubbeldrank> :D
+[14:50:46] <Dubbeldrank> Noctua is leuk, maar dit is leuker
+[14:51:12] <Dubbeldrank> https://www.dropbox.com/s/6crulnq9sxgtwgd/2016-05-19%2014.48.38.jpg?dl=0
+[14:51:16] <surrounder> is het een dijenkletser?
+[14:51:16] <digiweed> Title: Dropbox - 2016-05-19 14.48.38.jpg (at www.dropbox.com)
+[14:51:20] <nomadz> http://www.openbsd.org/images/puffy59.gif
+[14:51:20] <nomadz> wtf
+[14:51:22] <Dubbeldrank> ja ja
+[14:51:28] <Dubbeldrank> en stil, erg stil
+[14:51:51] <surrounder> nomadz: puffy heeft een beetje te lang aan de meth gezeten
+[14:52:06] <Dubbeldrank> OpenGaySD
+[14:52:26] <surrounder> nee Dubbeldrank 
+[14:52:28] <surrounder> nee
+[14:52:30] <Dubbeldrank> oh
+[14:52:41] <Dubbeldrank> is er al iemand boos?
+[14:52:49] <surrounder> <-
+[14:53:00] <Dubbeldrank> gelukkig maar, anders was die opmerking voor niets
+[14:53:04] <Dubbeldrank> \o/
+[14:53:09] <surrounder> stel je voor
+[14:53:15] <SJ> "Stagiair bij Snow: Hee! HET VISJE UIT FINDING NEMO!" "Ehm, nee, dat is de OpenBSD mascotte" :>
+[14:53:23] <nomadz> maargoed, als je je plaatjes met opensource zut moet maken krijg je idd zulke lelijke logo's
+[14:53:24] <surrounder> SJ: per direct ontslagen
+[14:53:33] <Dubbeldrank> ja, probeer je iemand boos te maken, vinden ze het leuk!
+[14:53:40] <SJ> surrounder: in ieder geval hard uitgelachen 
+[14:53:49] <surrounder> en terecht
+[14:53:56] <SJ> :>
+[14:53:57] <Dubbeldrank> karma nomadz :D
+[14:53:59] <syf_> SJ: ahahahahah
+[14:54:08] <AlBundy> lol SJ
+[14:54:10] <SJ> syf_: :>
+[14:54:12] <surrounder> !openbsd++
+[14:54:15] <digiweed> surrounder: Karma for openbsd is now: 150
+[14:54:29] <syf_> Dubbeldrank: dat ziet er wel slick uit
+[14:54:42] <Dubbeldrank> ja, en 6 jaar garantie
+[14:54:51] <Dubbeldrank> dat vind ik best veel op een fan
+[14:55:03] <SJ> ik draai alleen maar rondjes 
+[14:55:04] <Dubbeldrank> Duitse makelij
+[14:55:06] <SJ> de hele dag rondjes 
+[14:55:11] <Dubbeldrank> elk rondje is anders
+[14:55:12] <SJ> en ja 
+[14:55:15] <AlBundy> lol
+[14:55:17] <SJ> ik draai rondjes 
+[14:55:26] <SJ> :>
+[14:55:30] <AlBundy> je hebt alvast 1 fan erbij
+[14:55:34] <Dubbeldrank> je praat ook een hoop SJ
+[14:55:35] <NoxiousPluK> zeg surrounder heb jij de developer tools op je telefoon aan staan?
+[14:55:42] <surrounder> 9 9 9
+[14:55:47] <SJ> Dubbeldrank: is dat zo?
+[14:55:53] <Dubbeldrank> zeg NoxiousPluK, even op je beurt wachten he
+[14:55:57] <NoxiousPluK> noumoe
+[14:55:59] <Dubbeldrank> :D
+[14:56:04] <surrounder> NoxiousPluK: wieseu?
+[14:56:09] <NoxiousPluK> surrounder: die shit is awesome
+[14:56:16] <Dubbeldrank> ik heb surrounder geboekt tot 15:00
+[14:56:18] <NoxiousPluK> je kan met je browser naar een webserver toe die in je telefoon draait
+[14:56:24] <NoxiousPluK> en daar heb je een complete task manager en meer :D
+[14:56:28] <NoxiousPluK> ik zal even screenshotten ja
+[14:56:32] <surrounder> doe es!
+[14:56:53] <Dubbeldrank> omg, dan kan je zeggen: "deze pagina werd gehost toen ik zat te schijten!"
+[14:57:07] <syf_> haha
+[14:57:18] <surrounder> haha poep
+[14:57:30] <syf_> die duitsers zijn wel goed in het maken van dingen ja
+[14:58:11] <surrounder> ja
+[14:58:14] <surrounder> krieg bijvoorbeeld
+[14:58:18] <Dubbeldrank> ja, die fan is gemaakt van Makrolon
+[14:58:27] <Dubbeldrank> dat is ontwikkeld door Bayer
+[14:58:31] <Dubbeldrank> en die zijn goed
+[14:58:33] <surrounder> s/akro/ocro/
+[14:58:37] <surrounder> jeweettochzelluf
+[14:58:41] <Dubbeldrank> Zyklon B was ook erg effectief
+[14:58:50] <Dubbeldrank> dus goed spul maken kunnen ze wel
+[14:59:08] <surrounder> haha ja en snorrenpr0n
+[14:59:17] <Dubbeldrank> :D
+[14:59:43] <surrounder> NoxiousPluK: jezus duurt lang
+[14:59:58] <nomadz> jezus is overal
+[15:00:12] <surrounder> hallelujah nomadz 
+[15:00:42] <NoxiousPluK> jazeg
+[15:00:47] <NoxiousPluK> wel even 6 screenshots en uploaden
+[15:00:58] <surrounder> 1 groot screenshotfestijn!
+[15:01:10] <NoxiousPluK> ik heb net ook even gepoept ja
+[15:01:13] <NoxiousPluK> terwijl deze pagina open stond
+[15:01:15] <NoxiousPluK> dus het is wel waar
+[15:01:32] <surrounder> :(
+[15:01:54] <NoxiousPluK> surrounder: http://imgur.com/a/xAMMA
+[15:02:00] <digiweed> Title: Windows Phone 10 Developer Mode - Album on Imgur (at imgur.com)
+[15:02:18] <NoxiousPluK> imgur zet ze ofc weer in een random volgorge :p
+[15:02:20] <NoxiousPluK> euh
+[15:02:23] <NoxiousPluK> volgorde
+[15:02:25] <NoxiousPluK> maar je snapt het idee
+[15:02:29] <surrounder> MET FIEKJES!
+[15:02:52] <NoxiousPluK> uhuh
+[15:03:02] <NoxiousPluK> dat is stiekum de grootste coolheid
+[15:03:21] <surrounder> begrijp dat je nu wel een stijfje hebt
+[15:03:34] <NoxiousPluK> behoorlijk
+[15:05:28] <NoxiousPluK> oh en de preview versie van dotnet core 1.0.0 is uit \o/
+[15:05:30] <NoxiousPluK> whoopeedoo
+[15:05:45] <NoxiousPluK> dan kun je je .net mobiele apps een stuk kleiner maken
+[15:05:54] <surrounder> klinkt goed
+[15:05:57] <NoxiousPluK> hij include alleen de libs die je nodig hebt ipv de hele .net library
+[15:06:08] <NoxiousPluK> https://www.dotnetfoundation.org/netcore
+[15:06:11] <NoxiousPluK> dezem
+[15:06:12] <digiweed> Title: .NET Foundation (at www.dotnetfoundation.org)
+[15:06:33] <NoxiousPluK> en cross-platform from the base up
+[15:06:38] <NoxiousPluK> dus geen mono meer hiervoor
+[15:06:53] <surrounder> ja, dat rockt
+[15:07:12] <NoxiousPluK> http://dotnet.github.io/about/
+[15:07:14] <NoxiousPluK> of dat
+[15:07:15] <digiweed> Title: About .NET Core (at dotnet.github.io)
+[15:07:19] <NoxiousPluK> uhuh
+[15:07:23] <NoxiousPluK> dem future is hier
+[15:07:34] <bReChThOu> JAPY JAPY JAPY
+[15:07:44] <surrounder> hey kijk, een relbelg!
+[15:07:52] <NoxiousPluK> oeh
+[15:07:52] <bReChThOu> RELLEUH
+[15:07:54] <NoxiousPluK> een breggie
+[15:08:08] <bReChThOu> een jaapheid van de ogen
+[15:08:12] * surrounder voert bReChThOu een mongolenboterham
+[15:08:21] * bReChThOu hapt grati
+[15:08:21] <bReChThOu> g
+[15:08:22] <bReChThOu> gretig
+[15:08:22] <bReChThOu> fak
+[15:08:24] <NoxiousPluK> jwz
+[15:08:33] <NoxiousPluK> typen op zn belgs
+[15:08:35] <bReChThOu> kwtz
+[15:08:36] * NoxiousPluK doet even een faceroll
+[15:08:39] <NoxiousPluK> SDcvgh dfsewdfnhjkjhgtfdsatsfgyfgydtr
+[15:08:43] <NoxiousPluK> nog vragen?
+[15:08:48] <nomadz> ja
+[15:09:40] <surrounder> ja
+[15:10:33] <NoxiousPluK> ow
+[15:11:18] <surrounder> !karnivool++
+[15:11:20] <digiweed> surrounder: Karma for karnivool is now: 21
+[15:13:04] <NoxiousPluK> zellug karnival
+[15:13:18] <NoxiousPluK> jou baard is wel een beetje karneval trouwens
+[15:13:28] <NoxiousPluK> met een k
+[15:13:49] <NoxiousPluK> surrounder: doe eens Dungeon of Slyn installen op je telefuen
+[15:13:59] <syf_> wtf
+[15:14:04] <surrounder> NoxiousPluK: dat maak ik pjd zelf wel uit
+[15:14:06] <syf_> wat is dieze
+[15:14:07] <surrounder> is 't leuk?
+[15:14:30] <surrounder> ow fuck dat
+[15:14:35] <surrounder> EN fantasy en roguelike
+[15:14:36] <surrounder> nee dank
+[15:14:45] <syf_> !roguelike++
+[15:14:48] <digiweed> syf_: Karma for roguelike is now: 1
+[15:14:50] <Fermata> surrounder haat fantasie.
+[15:15:05] <syf_> installeer eens nethack op je telefuen
+[15:15:08] <surrounder> ben paardjes en schildjes en zwaardjes redelijk beuh
+[15:15:21] <syf_> surrounder: ben je ww1 ook beuh?
+[15:15:39] <syf_> zo niet, dan is battlefield 1 wel wat voor je
+[15:15:43] <surrounder> ken geen rpg's met die setting
+[15:15:55] <syf_> ik haat rpgs
+[15:15:56] <syf_> !!
+[15:16:08] <surrounder> !haat++
+[15:16:10] <digiweed> surrounder: Karma for haat is now: 27
+[15:17:08] <syf_> oh jee glibc upgrade, zou mijn arch linux systeem nog wel booten?
+[15:17:10] <syf_> vast niet
+[15:17:17] <surrounder> booten is highly overrated
+[15:17:20] *** Quits: grid (grid@dhcp-089-099-194-232.chello.nl) (Ping timeout: 66 seconds)
+[15:17:27] <syf_> gwn niet doen
+[15:17:27] <NoxiousPluK> lol surrounder 
+[15:17:31] *** Joins: grid (grid@dhcp-089-099-194-232.chello.nl)
+[15:17:35] <NoxiousPluK> mja het is dnd based qua systeem
+[15:17:49] <surrounder> boeiend
+[15:17:53] <NoxiousPluK> het is vergelijkbaar met nethack idd :p
+[15:17:58] <surrounder> ja
+[15:18:01] <surrounder> fuck dat
+[15:18:05] <NoxiousPluK> lol :D
+[15:18:34] <bReChThOu> grid: s/gr/h
+[15:19:43] * Fermata grid es
+[15:19:59] <surrounder> :s
+[15:20:01] <bReChThOu> :>
+[15:20:08] * bReChThOu aait Fermata over z'n bolleke
+[15:20:18] <surrounder> guitig mannetje die Fermatatatata
+[15:21:10] <bReChThOu> iets te guitig als je het mij vraagt
+[15:21:11] <syf_> gurps > ad&d
+[15:21:23] <Fermata> Ik geef de voorkeur aan "angstaanjagend".
+[15:21:30] <Fermata> Maar guitig mag ook wel, w/e
+[15:21:50] <surrounder> whateffuh!
+[15:22:04] <surrounder> talk to da duck, cause the duck doesn't give a fuck!
+[15:22:58] <surrounder> !gaar--
+[15:23:01] <digiweed> surrounder: Karma for gaar is now: -39
+[15:23:11] <syf_> :d
+[15:23:33] * rawplayer is niet gaar
+[15:23:37] * rawplayer heeft net een avocado op
+[15:23:46] <surrounder> och meid
+[15:23:56] <bReChThOu> lol
+[15:24:13] <syf_> jeetje
+[15:24:18] <syf_> zou je dat wel doen zoveel cals?
+[15:24:34] <syf_> strax heb je een muffintop door al die vetten
+[15:26:58] <surrounder> !muffintop++
+[15:27:00] <digiweed> surrounder: Karma for muffintop is now: 1
+[15:27:02] <surrounder> die kende ik nog niet]
+[15:29:27] <syf_> [=
+[15:30:23] <t4rt4rus> goede middag mensen :D:D:D:D:D
+[15:30:34] <surrounder> hoi
+[15:30:38] <t4rt4rus> hallo surrounder :0
+[15:30:41] <t4rt4rus> :)
+[15:39:01] <t4rt4rus> Fermata jij hebt toch ook een bril?
+[15:39:59] <syf_> een nike bril
+[15:40:01] <syf_> want nike
+[15:40:05] <t4rt4rus> wat?
+[15:40:07] <syf_> swoosh
+[15:40:22] <soeverein103> jullie lullen maar wat
+[15:40:31] <t4rt4rus> !lullen++
+[15:40:34] <digiweed> t4rt4rus: Karma for lullen is now: 8
+[15:40:59] <soeverein103> smeerkees
+[15:42:36] <surrounder> HONDERDDRIE!
+[15:42:37] <surrounder> LUL!
+[15:42:40] <surrounder> VLIEFT?
+[15:42:50] <t4rt4rus> vlieft?
+[15:43:03] <surrounder> t4rt4rus kan lezen
+[15:43:07] <Fermata> t4rt4rus: ja, ik heb een bril
+[15:44:06] <t4rt4rus> Fermata mannen vinnen bril beter bij mij staan, ben weer over gegaan naar de bril :D
+[15:44:25] <surrounder> goed verhaal
+[15:44:28] <mimic> dan heb je een kutkop
+[15:44:34] <t4rt4rus> bedankt mimic :)
+[15:44:39] <mimic> yw
+[15:44:46] <t4rt4rus> mimimimimimic :D
+[15:44:54] <surrounder> :D:D:d;d;D:D;xDxDxxDd
+[15:45:25] <t4rt4rus> http://9gag.com/gag/axjLWpD
+[15:45:29] <digiweed> Title: Me and mini me - 9GAG (at 9gag.com)
+[15:45:30] <t4rt4rus> voor mimimiimic
+[15:46:05] <bReChThOu> tartaartje :D
+[15:46:08] <t4rt4rus> bReChThOu :D
+[15:46:16] *** Joins: wirky (werken@ip503c7f23.speed.planet.nl)
+[15:47:18] <syf_> tl;dr t4rt4rus doet iets omdat anderen het mooi vinden?
+[15:47:26] <t4rt4rus> nope 
+[15:47:43] <t4rt4rus> had bril gekocht en toen zei vriend dat het beter stond :)
+[15:48:24] <Fermata> t4rt4rus: pics
+[15:49:02] <mimic> idd, pics
+[15:49:20] <t4rt4rus> hm
+[15:49:42] <bReChThOu> PIK
+[15:49:47] <mimic> s
+[15:49:48] <t4rt4rus> !pik++
+[15:49:51] <digiweed> t4rt4rus: Karma for pik is now: 3
+[15:50:05] <bReChThOu> inb4 t4rt4rus met wc-bril rond z'n nek
+[15:50:11] <t4rt4rus> lol
+[15:50:19] <t4rt4rus> goei
+[15:50:19] <t4rt4rus> e
+[15:50:24] <Fermata> t4rt4rus: PICS
+[15:51:26] *** Quits: jk-5 (jk-5@D549D0E1.cm-10-1b.dynamic.ziggo.nl) (Ping timeout: 66 seconds)
+[15:52:09] <surrounder> da's eng
+[15:52:37] *** Joins: jk-5 (jk-5@D549D0E1.cm-10-1b.dynamic.ziggo.nl)
+[15:52:44] <t4rt4rus> klopt surrounder 
+[15:53:06] <surrounder> nee
+[15:53:30] <syf_> dus
+[15:53:41] <Fermata> t4rt4rus: dus wat was dan het punt?
+[15:56:23] <Fermata> Ik weet niet hoe je eruit ziet, zonder of met bril
+[15:56:48] <t4rt4rus> weet ik eigenlijk niet :P
+[15:56:57] <surrounder> *slow clap*
+[15:56:59] <surrounder> topverhaal
+[15:57:03] <t4rt4rus> volgens mij stond bril jou ook goed :P
+[15:57:42] <syf_> een parelketting ook
+[15:57:50] <surrounder> lol
+[15:57:55] <Dubbeldrank> en een helm zeker
+[15:57:56] <t4rt4rus> lolo syf_ 
+[15:57:57] <syf_> huehuehue
+[15:58:03] <Fermata> Dat zouden jullie geheim houden ja
+[15:58:58] <WvdL> http://img-9gag-fun.9cache.com/photo/arKQb3V_460s.jpg
+[15:59:12] <surrounder> :(
+[15:59:20] <mimic> https://www.youtube.com/watch?v=QLJSdNYcdpk
+[15:59:23] <digiweed> Title: Meet the little-known "Soundblaster" Keyboards - YouTube (at www.youtube.com)
+[15:59:30] <mimic> cc Fermata 
+[16:00:36] <WvdL> meost aan jou denken... surrounder 
+[16:00:41] <WvdL> en bij deze aan rawplayer 
+[16:00:44] <WvdL> onze pimp
+[16:00:44] <WvdL> http://img-9gag-fun.9cache.com/photo/a4YOXOQ_460s_v3.jpg
+[16:00:49] <Fermata> mimic: ja, mooie
+[16:01:15] <mimic> ja
+[16:01:19] <surrounder> ja
+[16:02:13] <Fermata> Die Casio-meuk is best fijn
+[16:02:58] *** Quits: jk-5 (jk-5@D549D0E1.cm-10-1b.dynamic.ziggo.nl) (Ping timeout: 60 seconds)
+[16:03:48] <bReChThOu> lol
+[16:04:18] <mimic> http://www.ebay.com/itm/YAMAHA-PORTASOUND-PSS-470-WITH-MANUAL-VINTAGE-/111998727876?hash=item1a13a4f6c4:g:YzsAAOSw~oFXOM~s
+[16:04:20] <mimic> kek
+[16:04:22] <digiweed> Title: Yamaha Portasound PSS 470 with Manual Vintage | eBay (at www.ebay.com)
+[16:04:30] <Fermata> https://www.youtube.com/watch?v=TE_ttzWwgUg -- geluid is hard aan het einde
+[16:04:33] <digiweed> Title: Cameron Carpenter Jingle Bells on toy Casio keyboards organ 720P - YouTube (at www.youtube.com)
+[16:05:50] <mimic> hehe, tovenaar
+[16:06:33] <mimic> Fermata gelijk verliefd natuurlijk
+[16:07:10] <mimic> https://www.youtube.com/watch?list=RDTE_ttzWwgUg
+[16:07:12] <mimic> haha
+[16:07:14] <digiweed> Title: YouTube (at www.youtube.com)
+[16:07:17] <syf_> je kan ook kekke muziek maken met een gameboy
+[16:07:24] <mimic> joh :+
+[16:07:42] <mimic> https://www.youtube.com/watch?v=hyfHGW2qoZc voor de syf_ 
+[16:07:45] <digiweed> Title: xyce - mosaik ft. radix - YouTube (at www.youtube.com)
+[16:08:06] <Fermata> mimic: https://www.youtube.com/watch?v=XvaJAJOi2ug -- nee, maar hierom wel
+[16:08:09] <digiweed> Title: Cameron Carpenter - Sleigh Ride - Virtuoso - Christmas - Pipe Organ 1080P - YouTube (at www.youtube.com)
+[16:08:23] <mimic> ja die linkte ik
+[16:08:23] <Fermata> Dat orgel heeft-ie zelf ontworpen.  Bizar apparaat.
+[16:08:26] <mimic> maar dat ging niet echt goed
+[16:08:41] <mimic> hij moet wel ff andere schoenen
+[16:08:47] <mimic> misschien nike air maxjes of zo
+[16:09:00] <Fermata> Dan heb ik verder nul bezwaren tegen 'm
+[16:09:08] <syf_> :)
+[16:09:11] <mimic> ik wist t
+[16:09:16] <syf_> ja infrareds
+[16:09:19] <Fermata> Maar van eigen ervaring weet ik dat met AirMax orgelen klote is.
+[16:09:20] <syf_> anders is het niet OG
+[16:09:25] <syf_> of nike cortez bam
+[16:09:29] <Fermata> syf_: ^5
+[16:09:32] <surrounder> s/org/gorg/
+[16:09:33] <mimic> dan ben je niet skilled genoeg
+[16:09:36] <syf_> ^5
+[16:10:30] <mimic> die delay is ook wel awesome
+[16:10:33] <mimic> je ziet m toetsen
+[16:10:38] <mimic> en 500ms later pas geluid
+[16:10:40] <mimic> :+
+[16:10:43] <Fermata> Leuke carnaval op 2:03
+[16:10:47] <surrounder> weet je wat ook awesome is?
+[16:10:50] <mimic> ik
+[16:10:53] <bReChThOu> ik
+[16:10:53] <Fermata> mimic
+[16:10:57] <bReChThOu> :D
+[16:10:57] <Fermata> bReChThOu: haha nee
+[16:10:59] <surrounder> nee, een tiling wm
+[16:11:08] <bReChThOu> bakkes vieze homofiele fooraap
+[16:11:08] <Fermata> surrounder: jij nerd
+[16:11:12] <bReChThOu> en Fermata jij ook
+[16:11:14] <surrounder> :D:D:D:D
+[16:11:15] <mimic> :D
+[16:11:16] <mimic> :D
+[16:11:17] <bReChThOu> :+
+[16:11:21] <mimic> dat roltrapte snel
+[16:11:26] <surrounder> bReChThOu: ik haat ook van jou <3
+[16:11:26] <bReChThOu> :')
+[16:11:34] <surrounder> mimic: en lol
+[16:11:35] <surrounder> !mimic++
+[16:11:38] <digiweed> surrounder: Karma for mimic is now: 777
+[16:11:46] <surrounder> boeing mimic
+[16:11:51] <bReChThOu> idd
+[16:11:57] <bReChThOu> tripple
+[16:11:57] <bReChThOu> 7
+[16:11:57] <mimic> haha ik ben MH17 en ik stort HIER neer
+[16:12:02] <Fermata> BAM
+[16:12:02] <mimic> boem
+[16:12:10] * surrounder zoekt een onderste steen
+[16:12:16] <mimic> trouwens
+[16:12:20] <mimic> weer een vliegtuig weg he
+[16:12:24] * Fermata schiet mimic met zijn BUK-raket neer
+[16:12:37] <mimic> met jouw raket schiet je nog niet eens de maan
+[16:12:40] <mimic> :D:D:D:Dd;dd;dD:D:D
+[16:12:47] <mimic> wacht
+[16:12:58] <surrounder> eerst BUKken, dan knallen met je raketje
+[16:13:03] <Fermata> Wacht maar tot je het in je oog krijgt
+[16:13:04] <mimic> http://www.nu.nl/buitenland/4263922/vlucht-egyptair-van-parijs-cairo-neergestort-in-middellandse-zee.html
+[16:13:06] <Fermata> surrounder: tiiihiiii
+[16:13:28] <surrounder> zou hitler erachter zitten?
+[16:13:36] <mimic> ik weet het zeker denk ik
+[16:13:37] <Fermata> Hopelijk wel.
+[16:14:09] <surrounder> ik heb zin om een flinke baap te roken
+[16:14:14] <surrounder> en in slaap te lazeren
+[16:14:26] <mimic> wat let je?
+[16:14:41] <surrounder> nog een uur en een kwartier werk
+[16:14:44] <surrounder> minimaal
+[16:14:54] <bReChThOu> noob
+[16:15:12] <surrounder> bReChThOu: KOM DAN!?
+[16:15:36] <mimic> surrounder, geen bootycalls meer op je werk
+[16:15:39] <mimic> is besproken in je werkoverleg
+[16:15:41] <mimic> graag aabn houden
+[16:15:45] <surrounder> lol
+[16:15:48] <surrounder> !mimic++
+[16:15:51] <digiweed> surrounder: Karma for mimic is now: 778
+[16:16:16] <bReChThOu> surrounder:  i came
+[16:16:27] <bReChThOu> I SAW I CONQUERED I CAME - Pitbull
+[16:16:30] <Fermata> Dat gaat vlug
+[16:17:43] <surrounder> rappe knul die brecht
+[16:18:18] *** Joins: jk-5 (jk-5@D549D0E1.cm-10-1b.dynamic.ziggo.nl)
+[16:18:43] <Fermata> That'll be the day
+[16:19:10] <surrounder> :D:D
+[16:19:20] <bReChThOu> surrounder:
+[16:19:24] <bReChThOu> wanneer kom je op de koffie? er is parking voor de deur http://i.imgur.com/uf6HoPk.jpg
+[16:19:24] <surrounder> bReChThOu: 
+[16:19:38] <surrounder> hehehe
+[16:20:14] <Fermata> Parking in rear?
+[16:20:36] <Fermata> https://www.youtube.com/watch?v=3FbDsTSneJ0 -- <3
+[16:20:39] <digiweed> Title: Cameron Carpenter – If You Could Read My Mind - YouTube (at www.youtube.com)
+[16:24:27] <surrounder> wie verteld er een verhaaltje?
+[16:24:59] <bReChThOu> er was eens een d/t fout
+[16:25:33] <surrounder> thanks bReChDhOu 
+[16:25:40] <SJ> de tyus 
+[16:25:46] <SJ> *tyfus 
+[16:25:58] <surrounder> SJ: wat up pookie
+[16:26:06] <SJ> d/t
+[16:26:10] <SJ> de tyfus 
+[16:27:19] <surrounder> bluh
+[16:27:22] <surrounder> shit wil niet lukken
+[16:29:14] <mimic> https://www.youtube.com/watch?v=xgbp7yxKR0k&feature=player_embedded
+[16:29:17] <mimic> boor bReChThOu 
+[16:29:17] <digiweed> Title: Mama Appelsap: Ik kom klaar, zet die hoer op uw site? - YouTube (at www.youtube.com)
+[16:29:19] <mimic> v
+[16:29:27] <surrounder> hehehe die's nice ja
+[16:32:25] <mimic> https://www.youtube.com/watch?v=B2XkzZR4R0U
+[16:32:27] <mimic> hier het origineel
+[16:32:29] <digiweed> Title: Magic Mantra-reverse negative to positive - Ek Ong Kar Satgur Pras (Lightness of Being) - YouTube (at www.youtube.com)
+[16:32:30] <mimic> lekker genieten
+[16:32:55] <surrounder> lijkt me wel wat voor AlBundy 
+[16:33:43] <AlBundy> http://www.huffingtonpost.co.uk/entry/queens-speech-2016-state-opening-of-parliament-jokes_uk_573c4a00e4b03f08843ddc40
+[16:33:47] <digiweed> Title: Woman In £1,000,000 Hat Tells Britain To 'Live Within Its Means' (at www.huffingtonpost.co.uk)
+[16:33:47] <AlBundy> lol mooie post
+[16:34:13] <surrounder> hilarisch
+[16:34:29] <bReChThOu> haal dat bier maar uit de kluis, want bReChThOu gaat naar huis
+[16:34:36] <surrounder> lol
+[16:34:39] <surrounder> bReChThOu: later man o//
+[16:34:54] <Boots> s/naar huis/aan de kuis
+[16:34:59] <Boots>  /
+[16:35:01] <surrounder> Boots! \o/
+[16:35:03] <surrounder> !Boots++
+[16:35:06] <digiweed> surrounder: Karma for Boots is now: 437
+[16:35:06] <Boots> hoi
+[16:35:10] <Boots> suo
+[16:35:11] <Boots> sup
+[16:36:11] <AlBundy>  https://youtu.be/WTGF0ZyrAjs?t=3m22s
+[16:36:14] <digiweed> Title: Voiture de police brûlée, la contre-manifestation dégénère - Paris 18.05.2016 - YouTube (at youtu.be)
+[16:39:50] <surrounder> veel te inappropriate !
+[16:39:59] <syf_> nogal ja
+[16:40:30] <syf_> AlBundy: maar eh die huffpo article he, willen ze zeggen dat zij niet "within her means" leeft?
+[16:40:46] <syf_> volgens mij is een hoed van 1mn wel in haar means namelijk
+[16:45:52] <AlBundy> het is satirisch he
+[16:47:01] <AlBundy> het artikel wil de hypocrisie weergeven
+[16:56:32] <mimic> ok
+[16:58:51] <mimic> https://www.youtube.com/watch?v=bLVbSjDq0DE
+[16:58:54] <digiweed> Title: How IBM ended up using MS-DOS rather than CP/M (1995) [Computer Chronicles] - YouTube (at www.youtube.com)

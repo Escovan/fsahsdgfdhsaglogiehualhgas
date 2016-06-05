@@ -1,0 +1,83 @@
+[00:00:12] <grape> but I want to run it at user level... not as root
+[00:00:38] <lowkey> https://github.com/jupyterhub/jupyterhub/issues/317  couple examples here but they specify root
+[00:00:58] <lowkey> that just seems wrong to need to specify it
+[00:02:10] <lowkey> https://amitksaha.wordpress.com/2013/09/22/managing-ipython-notebook-server-via-systemd-part-i/  here's an example of creating systemd files for another service that uses the User and Group tags
+[00:03:02] <grape> great! thanks
+[00:03:13] <lowkey> all the services I've created seem to run as root.  I may need to change that
+[00:03:45] <grape> well.. it is not a good idea I think... specially as the program got access to the file system ... although it is a virtual machine... 
+[00:04:02] <lowkey> thats probably a good point.
+[00:04:15] <grape> ipython seems to be what I am using as well
+[00:04:24] <lowkey> I may need to reduce the accounts used for some of these
+[00:04:28] <grape> given it will be used by students.... ;-)
+[00:05:42] <lowkey> they never find ways to abuse systems.  run everything as root.  use root as their default passwordless account!
+[00:06:23] <grape> you think so?
+[00:06:47] <lowkey> of course, there is the option to run a systemd service as a '--user' option.  that allows it to be run by each user that needs it
+[00:07:15] <lowkey> grape: its what Microsoft has taught us.
+[00:07:49] <lowkey> grape: and its what Qubes OS does..... although that's a single user OS really.  so less risk.
+[00:07:57] <grape> I think I need to learn more about systemd
+[00:08:32] <lowkey> systemd is powerful.  I always seem to discover new tricks that work well.
+[00:09:51] <lowkey> for example, on my system I use an LCDd service to pipe output to a LCD screen that runs as root for hardware access.  Then as a user I run a service that outputs current email status to the LCDd service.  
+[00:11:00] <grape> time! that is the key to all of that... I don't really have time to look into that in the depth I want to...
+[00:11:27] <lowkey> thats the common problem.
+[00:11:46] <lowkey> so many options to all the linux stuff that its hard to stay on top of it all
+[00:12:48] <grape> true
+[00:13:06] <grape> and if you don't know about them it is difficult to search the internet for them
+[00:13:39] <lowkey> yep.  known unknowns are much easier to search for the unknown unknowns.
+[00:14:42] <grape> hence I prefer to talk to people... ;-)
+[00:15:50] <lowkey> its an issue that NSA GCHQ have run into.  hard to get the intelligence you need when you don't know what to look for
+[00:16:47] <lowkey> partially blamed on their focus on technological methods rather than good old fashion human intel
+[00:17:17] <grape> neuronal networks?
+[00:17:26] <grape> this is what I am good at... my gutt feeling...
+[00:17:39] <grape> right now it tells me: stop chatting to nice lowkey and go to bed
+[00:17:45] <lowkey> lol
+[00:17:52] <lowkey> it is bed time there
+[00:18:41] <lowkey> sleep well grape!
+[00:19:45] <grape> thanks lowkey ... and no offence... I really need some sleep..
+[00:19:49] <grape> thanks for your help
+[00:19:50] <grape> ttfn
+[00:20:11] <lowkey> no worries.  I just got up from a nap  :-)
+[00:20:22] <lowkey> g'nite grape 
+[00:22:13] <grape> ttfn
+[00:22:15] *** Quits: grape (~grape@CJ-3k1.8q0.194.90.IP) (Quit: Verlassend)
+[00:29:10] *** Joins: Bonkers (~bonkers@CJ-v64.4g4.251.162.IP)
+[00:29:10] *** *.chatjunkies.org sets mode: +y Bonkers
+[00:29:23] *** Bonkers is now known as Bonq
+[01:20:12] *** Quits: lowkey (~lowkey@CJ-5rs.7m7.42.192.IP) (Quit: leaving)
+[04:55:35] *** Quits: chalcedony (~llhull@CJ-f7i.cvs.152.72.IP) (Ping timeout: 121 seconds)
+[04:55:58] *** Joins: chalcedony (~llhull@CJ-f7i.cvs.152.72.IP)
+[05:11:41] *** Quits: chalcedony (~llhull@CJ-f7i.cvs.152.72.IP) (Ping timeout: 121 seconds)
+[05:12:25] *** Joins: chalcedony (~llhull@CJ-73ggem.asm.bellsouth.net)
+[06:20:55] *** Quits: chalcedony (~llhull@CJ-73ggem.asm.bellsouth.net) (Connection closed)
+[06:20:55] *** Quits: ChanServ (ChanServ@services.chatjunkies.org) (at2.chatjunkies.org nl2.chatjunkies.org)
+[06:20:55] *** Quits: all (~andre_000@dhcp-3c-97-e-da-44-c.cpe.sourcecable.net) (at2.chatjunkies.org nl2.chatjunkies.org)
+[06:20:55] *** Quits: banshee (~ban@CJ-d4n.9vj.15.70.IP) (at2.chatjunkies.org nl2.chatjunkies.org)
+[06:20:55] *** Quits: zach (~zach@CJ-g1q.i94.32.45.IP) (at2.chatjunkies.org nl2.chatjunkies.org)
+[06:20:55] *** Quits: nas (~nas@CJ-t5n.tp4.183.173.IP) (at2.chatjunkies.org nl2.chatjunkies.org)
+[06:20:55] *** Quits: Emmanuel_Chanel (~emmanuel@CJ-o0h.dup.10.222.IP) (at2.chatjunkies.org nl2.chatjunkies.org)
+[06:20:55] *** Quits: synic (~squish@CJ-3gc.v3q.207.74.IP) (at2.chatjunkies.org nl2.chatjunkies.org)
+[06:20:55] *** Quits: Bonq (~bonkers@CJ-v64.4g4.251.162.IP) (at2.chatjunkies.org nl2.chatjunkies.org)
+[06:20:55] *** Parts: Escovan (~Escovan@CJ-ut4mpn.prutsplek.nl) ()
+[06:20:55] *** Joins: Escovan (~Escovan@CJ-ut4mpn.prutsplek.nl)
+[06:20:55] *** Escovan sets mode: +s 
+[06:21:26] -at2.chatjunkies.org- TS for #linuxhelp changed from 1463113255 to 1373918139
+[06:21:26] *** *.chatjunkies.org sets mode: -nost Escovan
+[06:21:26] *** *.chatjunkies.org sets mode: +nt 
+[06:21:26] *** Joins: ChanServ (ChanServ@services.chatjunkies.org)
+[06:21:26] *** Joins: Emmanuel_Chanel (~emmanuel@CJ-o0h.dup.10.222.IP)
+[06:21:26] *** Joins: all (~andre_000@dhcp-3c-97-e-da-44-c.cpe.sourcecable.net)
+[06:21:26] *** Joins: banshee (~ban@CJ-d4n.9vj.15.70.IP)
+[06:21:26] *** Joins: zach (~zach@CJ-g1q.i94.32.45.IP)
+[06:21:26] *** Joins: synic (~squish@CJ-3gc.v3q.207.74.IP)
+[06:21:26] *** Joins: nas (~nas@CJ-t5n.tp4.183.173.IP)
+[06:21:26] *** Joins: Bonq (~bonkers@CJ-v64.4g4.251.162.IP)
+[06:21:26] *** Joins: chalcedony (~llhull@adsl-72-152-76-192.asm.bellsouth.net)
+[06:21:26] *** *.chatjunkies.org sets mode: +oy ChanServ Bonq
+[06:21:26] *** *.chatjunkies.org sets mode: +bbb Ipil!*@* *!*@CJ-4i5hth.ipredator.se *!*@CJ-l81d0u.tor.morphium.info
+[06:21:26] *** *.chatjunkies.org changes topic to 'That topic made no sense.'
+[09:41:04] *** Quits: nas (~nas@CJ-t5n.tp4.183.173.IP) (Ping timeout: 121 seconds)
+[09:53:26] *** Joins: nas (~nas@CJ-3maefo.abhsia.telus.net)
+[15:33:47] *** all is now known as AcidJell0
+[23:10:07] *** Joins: grape (~grape@CJ-3k1.8q0.194.90.IP)
+[23:10:27] <grape> hi all
+[23:38:42] <grape> ttfn
+[23:38:44] *** Quits: grape (~grape@CJ-3k1.8q0.194.90.IP) (Quit: Verlassend)
